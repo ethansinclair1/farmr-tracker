@@ -22454,6 +22454,138 @@
    "detail": null,
    "shot": "g_602d18691e.jpg",
    "firstSeen": 1793056604161
+  },
+  "Arena|10/26/2026, 7:42 PM|Azir|22m 40s": {
+   "id": "Arena|10/26/2026, 7:42 PM|Azir|22m 40s",
+   "queue": "Arena",
+   "date": "10/26/2026, 7:42 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Azir",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Azir.png"
+   },
+   "level": 16,
+   "duration": "22m 40s",
+   "minutes": 22.666666666666668,
+   "k": 17,
+   "d": 5,
+   "a": 8,
+   "kda": "5.00",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Berserker's Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223006.png"
+    },
+    {
+     "n": "Demonic Embrace",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/444637.png"
+    },
+    {
+     "n": "Nashor's Tooth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223115.png"
+    },
+    {
+     "n": "Detonation Orb",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447113.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224645.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "blkchaos",
+     "h": "/lol/summoners/na/blkchaos-NA1",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png"
+    },
+    {
+     "n": "celticlight",
+     "h": "/lol/summoners/na/celticlight-NA1",
+     "c": "Renata Glasc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renata.png"
+    },
+    {
+     "n": "Hamster Gangster",
+     "h": "/lol/summoners/na/Hamster%20Gangster-NA1",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png"
+    },
+    {
+     "n": "Emzeeshady",
+     "h": "/lol/summoners/na/Emzeeshady-NA1",
+     "c": "Renata Glasc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renata.png"
+    },
+    {
+     "n": "deeekayy",
+     "h": "/lol/summoners/na/deeekayy-NA1",
+     "c": "Nidalee",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nidalee.png"
+    },
+    {
+     "n": "ECRA",
+     "h": "/lol/summoners/na/ECRA-jsn",
+     "c": "Shyvana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Taric",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taric.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Azir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Azir.png"
+    },
+    {
+     "n": "Piczel",
+     "h": "/lol/summoners/na/Piczel-Picz",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png"
+    },
+    {
+     "n": "Smith And Weasel",
+     "h": "/lol/summoners/na/Smith%20And%20Weasel-SAW",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png"
+    },
+    {
+     "n": "Xi Jinping",
+     "h": "/lol/summoners/na/Xi%20Jinping-tank",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793058120000,
+   "detail": null,
+   "firstSeen": 1793058791956,
+   "shot": "g_830da71b59.jpg"
   }
  },
  "tz": "America/Toronto"
