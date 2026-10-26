@@ -21229,6 +21229,290 @@
    "roast": "11/2/22 on Jarvan IV, 89% KP. Fine. That was actually good. Don't let it go to your head.",
    "shot": "g_94217ed334.jpg",
    "firstSeen": 1793050921123
+  },
+  "Ranked Solo/Duo|10/26/2026, 6:22 PM|Sylas|27m 35s": {
+   "id": "Ranked Solo/Duo|10/26/2026, 6:22 PM|Sylas|27m 35s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/26/2026, 6:22 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+   },
+   "level": 14,
+   "duration": "27m 35s",
+   "minutes": 27.583333333333332,
+   "k": 5,
+   "d": 10,
+   "a": 8,
+   "kda": "1.30",
+   "kp": 54,
+   "cs": 160,
+   "csm": 5.8,
+   "laning": [
+    26,
+    74
+   ],
+   "avgTier": "Master 754",
+   "lp": -29,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Hextech Gunblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3146.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1058.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1082.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1058.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Jfwarriors",
+     "h": "/lol/summoners/na/Jfwarriors-NA1",
+     "c": "Illaoi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Illaoi.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Fartdog2010",
+     "h": "/lol/summoners/na/Fartdog2010-Bull",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png"
+    },
+    {
+     "n": "big daddy",
+     "h": "/lol/summoners/na/big%20daddy-ed1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "JayCole",
+     "h": "/lol/summoners/na/JayCole-JC1",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png"
+    },
+    {
+     "n": "Khami",
+     "h": "/lol/summoners/na/Khami-NA1",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zaahen.png"
+    },
+    {
+     "n": "ASTA LA VISTA BB",
+     "h": "/lol/summoners/na/ASTA%20LA%20VISTA%20BB-NA1",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png"
+    },
+    {
+     "n": "dnb",
+     "h": "/lol/summoners/na/dnb-ps1",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+    },
+    {
+     "n": "Saeriel",
+     "h": "/lol/summoners/na/Saeriel-Ender",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png"
+    },
+    {
+     "n": "0310",
+     "h": "/lol/summoners/na/0310-%EB%B0%B1%EC%98%88%EB%A6%B0",
+     "c": "Renata Glasc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renata.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793053320000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Jfwarriors",
+        "h": "/lol/summoners/na/Jfwarriors-NA1",
+        "op": 3.3,
+        "opr": "10th",
+        "dmg": 27513,
+        "taken": 32679,
+        "cw": 1,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "op": 3.9,
+        "opr": "8th",
+        "dmg": 19257,
+        "taken": 34469,
+        "cw": 0,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "Fartdog2010",
+        "h": "/lol/summoners/na/Fartdog2010-Bull",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 25028,
+        "taken": 25114,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "big daddy",
+        "h": "/lol/summoners/na/big%20daddy-ed1",
+        "op": 5.5,
+        "opr": "ACE",
+        "dmg": 29060,
+        "taken": 22412,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "JayCole",
+        "h": "/lol/summoners/na/JayCole-JC1",
+        "op": 4.5,
+        "opr": "6th",
+        "dmg": 9250,
+        "taken": 25998,
+        "cw": 12,
+        "wards": "35 / 7"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Khami",
+        "h": "/lol/summoners/na/Khami-NA1",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 19748,
+        "taken": 38351,
+        "cw": 2,
+        "wards": "13 / 1"
+       },
+       {
+        "n": "ASTA LA VISTA BB",
+        "h": "/lol/summoners/na/ASTA%20LA%20VISTA%20BB-NA1",
+        "op": 9.9,
+        "opr": "2nd",
+        "dmg": 28979,
+        "taken": 35888,
+        "cw": 0,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "dnb",
+        "h": "/lol/summoners/na/dnb-ps1",
+        "op": 6.5,
+        "opr": "4th",
+        "dmg": 29484,
+        "taken": 27294,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Saeriel",
+        "h": "/lol/summoners/na/Saeriel-Ender",
+        "op": 7,
+        "opr": "3rd",
+        "dmg": 33487,
+        "taken": 27727,
+        "cw": 0,
+        "wards": "7 / 6"
+       },
+       {
+        "n": "0310",
+        "h": "/lol/summoners/na/0310-%EB%B0%B1%EC%98%88%EB%A6%B0",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 15408,
+        "taken": 21470,
+        "cw": 13,
+        "wards": "41 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793053555563,
+   "shot": "g_931337dcbf.jpg",
+   "lpCalc": true,
+   "roast": "10 deaths. The enemy team should be paying 10 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"

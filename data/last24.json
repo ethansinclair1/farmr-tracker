@@ -1,24 +1,24 @@
 {
- "sig": "82541a7cab",
+ "sig": "7084e96266",
  "report": {
-  "roast": "2W 1L, +2 LP. Decent - don't let it go to your head.",
+  "roast": "Inted a 5/10/8 Sylas. Embarrassing. 2W 2L, +4 LP.",
   "fixes": [
+   "Stop dying - 5.5 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.3 a game is nothing.",
-   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 2,
-  "losses": 1,
-  "k": 14,
-  "d": 4,
-  "a": 19,
-  "kda": 8.25,
-  "csm": 7.828427853553483,
-  "kp": 81,
-  "lpNet": 2,
-  "ints": 0,
-  "games": 3
+  "losses": 2,
+  "k": 11.75,
+  "d": 5.5,
+  "a": 16.25,
+  "kda": 5.090909090909091,
+  "csm": 7.364051473640515,
+  "kp": 74.25,
+  "lpNet": 4,
+  "ints": 1,
+  "games": 4
  },
  "v": 3
 }
