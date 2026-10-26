@@ -4,7 +4,7 @@
  "region": "na",
  "timezone": "America/Toronto",
  "trackQueue": "Ranked Solo/Duo",
- "showMoreClicks": 1,
+ "showMoreClicks": 3,
  "aiModel": "claude-haiku-5-5",
  "pageUrl": ""
 }

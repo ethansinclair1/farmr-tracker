@@ -5,9 +5,11 @@ Every 10 minutes a GitHub Action opens his op.gg page (presses **Update** first)
 - **Discord:** posts every new **Ranked Solo/Duo** game: an op.gg-style card (result, champion, K/D/A, KDA, CS & CS/min,
   kill participation, length, LP gained/lost, rank, build), the op.gg screenshot of that game, and an AI verdict
   that roasts him when it's bad.
-- **GitHub Pages site:** the date (Toronto time) at the top, rank & LP, and for the **last 24 hours**: wins/losses,
-  average K/D/A, KDA, CS, CS/min, kill participation, champions, an AI overview that roasts him (hard when he ints) with
-  what he needs to fix, and the games laid out like op.gg. Previous days' reports are listed underneath.
+- **GitHub Pages site ("Chenny LoL Tracker"):** a big flashing LIVE banner when he's in a game (champions, both teams,
+  bans, live timer), LP gained/lost today, last-24h stats and champions, a short brutal AI overview with tips, and every
+  ranked game from the last 14 days laid out like op.gg - each with an Analysis button (OP Score, objectives, damage,
+  vision, kill participation, deaths, farm, laning) and player names that open their op.gg. Background music with a
+  volume slider. Open tabs refresh themselves when new data lands.
 
 ## Setup (one time)
 
