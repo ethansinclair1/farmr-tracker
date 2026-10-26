@@ -98,7 +98,7 @@ const todayKey = dayOf(nowTs);
 const solo24 = soloAll.filter(g => g.ts && dayOf(g.ts) === todayKey);
 const recent = stats(solo24);
 const todayRanked = all.filter(g => isRanked(g) && g.ts && dayOf(g.ts) === todayKey);
-const callouts = guestCallouts(todayRanked);
+const callouts = guestCallouts(todayRanked.filter(g => g.queue === cfg.trackQueue));   // the overview is Solo/Duo only
 // op.gg tier lists (kept in data/tiers.json, refreshed twice a day)
 const tierFile = load(`${DATA}/tiers.json`, {});
 if (raw.tiers && Object.values(raw.tiers).some(l => l && l.length)) { tierFile.at = new Date().toISOString(); tierFile.lists = raw.tiers; save(`${DATA}/tiers.json`, tierFile); }
@@ -154,7 +154,7 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 18;   // bump when the page layout changes so the site rebuilds
+const TEMPLATE = 19;   // bump when the page layout changes so the site rebuilds
 const sig = hash(JSON.stringify([TEMPLATE, matchups.map(m => m.text), ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
