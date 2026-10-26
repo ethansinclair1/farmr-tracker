@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700">
+  <defs>
+    <radialGradient id="bg" cx="55%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#6a6a6a"/><stop offset=".5" stop-color="#232323"/><stop offset="1" stop-color="#040404"/>
+    </radialGradient>
+    <!-- light from the right, like a dramatic studio portrait -->
+    <linearGradient id="torso" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e0e0e"/><stop offset=".35" stop-color="#5a5a5a"/><stop offset=".62" stop-color="#cfcfcf"/><stop offset=".85" stop-color="#e9e9e9"/><stop offset="1" stop-color="#7a7a7a"/>
+    </linearGradient>
+    <radialGradient id="pecL" cx="70%" cy="30%" r="80%"><stop offset="0" stop-color="#9a9a9a"/><stop offset=".6" stop-color="#4a4a4a"/><stop offset="1" stop-color="#121212"/></radialGradient>
+    <radialGradient id="pecR" cx="55%" cy="28%" r="80%"><stop offset="0" stop-color="#f4f4f4"/><stop offset=".55" stop-color="#bdbdbd"/><stop offset="1" stop-color="#3a3a3a"/></radialGradient>
+    <radialGradient id="armL" cx="70%" cy="35%" r="80%"><stop offset="0" stop-color="#6a6a6a"/><stop offset="1" stop-color="#0a0a0a"/></radialGradient>
+    <radialGradient id="armR" cx="35%" cy="35%" r="80%"><stop offset="0" stop-color="#f0f0f0"/><stop offset=".6" stop-color="#9a9a9a"/><stop offset="1" stop-color="#2a2a2a"/></radialGradient>
+    <radialGradient id="abL" cx="60%" cy="35%" r="75%"><stop offset="0" stop-color="#9c9c9c"/><stop offset="1" stop-color="#3a3a3a"/></radialGradient>
+    <radialGradient id="abR" cx="45%" cy="35%" r="75%"><stop offset="0" stop-color="#f2f2f2"/><stop offset="1" stop-color="#8a8a8a"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="2"/></filter>
+    <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2"/><feColorMatrix type="saturate" values="0"/></filter>
+  </defs>
+  <rect width="600" height="700" fill="url(#bg)"/>
+
+  <g filter="url(#blur)">
+    <!-- arms -->
+    <path d="M118 300C64 330 44 420 52 520c6 80 24 150 40 180h86c-10-70-14-150-4-240 6-60 4-120-20-160z" fill="url(#armL)"/>
+    <path d="M482 300c54 30 74 120 66 220-6 80-24 150-40 180h-86c10-70 14-150 4-240-6-60-4-120 20-160z" fill="url(#armR)"/>
+    <!-- torso with a V taper -->
+    <path d="M128 296C112 420 150 560 196 700h208c46-140 84-280 68-404z" fill="url(#torso)"/>
+    <!-- traps sloping into a thick neck -->
+    <path d="M118 302C160 250 214 236 246 214h108c32 22 86 36 128 88-60-6-120-4-182 6-62-10-122-12-182-6z" fill="url(#torso)"/>
+    <path d="M244 160c-4 30-4 60 2 90 18 18 36 26 54 26s36-8 54-26c6-30 6-60 2-90z" fill="url(#torso)"/>
+    <path d="M250 236c16 22 34 32 50 32s34-10 50-32" fill="none" stroke="#1a1a1a" stroke-width="5" opacity=".7"/>
+    <!-- deltoids -->
+    <ellipse cx="128" cy="336" rx="70" ry="64" fill="url(#armL)"/>
+    <ellipse cx="472" cy="336" rx="70" ry="64" fill="url(#armR)"/>
+    <!-- pecs -->
+    <path d="M300 318c-40-22-110-24-150-4-14 40-8 90 26 118 40 22 96 14 124-14z" fill="url(#pecL)"/>
+    <path d="M300 318c40-22 110-24 150-4 14 40 8 90-26 118-40 22-96 14-124-14z" fill="url(#pecR)"/>
+    <!-- abs: soft blocks with shadow seams -->
+    <g>
+      <ellipse cx="272" cy="474" rx="27" ry="30" fill="url(#abL)"/><ellipse cx="330" cy="474" rx="27" ry="30" fill="url(#abR)"/>
+      <ellipse cx="270" cy="538" rx="28" ry="31" fill="url(#abL)"/><ellipse cx="332" cy="538" rx="28" ry="31" fill="url(#abR)"/>
+      <ellipse cx="272" cy="602" rx="26" ry="32" fill="url(#abL)"/><ellipse cx="330" cy="602" rx="26" ry="32" fill="url(#abR)"/>
+    </g>
+    <path d="M301 440V660" stroke="#141414" stroke-width="6"/>
+    <path d="M214 450c16 60 22 130 22 220M388 450c-16 60-22 130-22 220" fill="none" stroke="#151515" stroke-width="7" opacity=".8"/>
+    <path d="M222 486l22 8M220 526l24 8M222 566l22 8M380 486l-22 8M382 526l-24 8M380 566l-22 8" stroke="#222" stroke-width="5" opacity=".7"/>
+    <!-- bicep peaks -->
+    <ellipse cx="96" cy="430" rx="34" ry="62" fill="url(#armL)"/>
+    <ellipse cx="506" cy="430" rx="34" ry="62" fill="url(#armR)"/>
+  </g>
+  <!-- right-side rim light -->
+  <path d="M532 330c26 60 30 150 16 240" fill="none" stroke="#fff" stroke-width="4" opacity=".55" filter="url(#blur)"/>
+  <path d="M458 300c10 120 -6 260-40 390" fill="none" stroke="#fff" stroke-width="3" opacity=".25" filter="url(#blur)"/>
+  <rect width="600" height="700" filter="url(#grain)" opacity=".12"/>
+</svg>
