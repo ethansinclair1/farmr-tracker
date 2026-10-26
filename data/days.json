@@ -1,0 +1,90 @@
+{
+ "2026-10-26": {
+  "roast": "1W 1L, +2 LP. A whole day of queueing to end up roughly where he started. Inspiring. Averaged 11.5/5.5/13.5 (4.5 KDA) with 7.6 CS/min and 56% kill participation. Low point: 6/6/4 on Hecarim. Delete the replay. Best game: 17/5/23 on Hecarim - proof he CAN play when he wants to.",
+  "fixes": [
+   "Stop dying: 5.5 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
+   "Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.",
+   "Keep doing what works - his wins came from playing around his team, not from solo heroics."
+  ],
+  "ai": false,
+  "wins": 1,
+  "losses": 1,
+  "k": 11.5,
+  "d": 5.5,
+  "a": 13.5,
+  "kda": 4.545454545454546,
+  "csm": 7.563996696944674,
+  "kp": 56,
+  "lpNet": 2,
+  "ints": 0,
+  "games": 2,
+  "label": "Monday 26 October",
+  "at": "2026-10-26T20:44:10.487Z"
+ },
+ "2026-10-25": {
+  "roast": "3W 1L, +64 LP. A winning day - write it down, it might not happen again. Averaged 4.8/3.8/8.8 (3.6 KDA) with 8.3 CS/min and 54% kill participation. Low point: 1/3/2 on Hecarim. Delete the replay. Best game: 6/3/10 on Hecarim - proof he CAN play when he wants to.",
+  "fixes": [
+   "Join the fights: 54% kill participation - path towards the side of the map that's actually playing and be there for objectives.",
+   "Win the early game: losing laning phase on average (43:57) - plan the first clear and look for an early gank on the winning lane.",
+   "Keep doing what works - his wins came from playing around his team, not from solo heroics."
+  ],
+  "ai": false,
+  "wins": 3,
+  "losses": 1,
+  "k": 4.75,
+  "d": 3.75,
+  "a": 8.75,
+  "kda": 3.6,
+  "csm": 8.3039916332578,
+  "kp": 54.25,
+  "lpNet": 64,
+  "ints": 0,
+  "games": 4,
+  "label": "Sunday 25 October",
+  "at": "2026-10-26T20:44:10.488Z"
+ },
+ "2026-10-24": {
+  "roast": "2W 4L and -56 LP. That's not a ranked session, that's a charity drive for the enemy team. Averaged 7.5/6.2/8.2 (2.5 KDA) with 7.3 CS/min and 58% kill participation. 6.2 deaths a game. Not technically inting, but the grey screen is getting more screen time than the champion. Low point: 7/9/4 on Hecarim. Delete the replay. Best game: 8/2/10 on Hecarim - proof he CAN play when he wants to.",
+  "fixes": [
+   "Stop dying: 6.2 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
+   "Win the early game: losing laning phase on average (48:52) - plan the first clear and look for an early gank on the winning lane.",
+   "Pick a lane - and a champion: 4 different champions in 6 games. Stick to 2-3 picks and actually master them."
+  ],
+  "ai": false,
+  "wins": 2,
+  "losses": 4,
+  "k": 7.5,
+  "d": 6.166666666666667,
+  "a": 8.166666666666666,
+  "kda": 2.5405405405405403,
+  "csm": 7.309015829318651,
+  "kp": 58.166666666666664,
+  "lpNet": -56,
+  "ints": 0,
+  "games": 6,
+  "label": "Saturday 24 October",
+  "at": "2026-10-26T20:44:10.488Z"
+ },
+ "2026-10-23": {
+  "roast": "1W 0L, +31 LP. A winning day - write it down, it might not happen again. Averaged 6.0/3.0/13.0 (6.3 KDA) with 1.3 CS/min and 50% kill participation. Best game: 6/3/13 on Sylas - proof he CAN play when he wants to.",
+  "fixes": [
+   "Farm more: 1.3 CS/min - clear camps between fights instead of hovering lanes that aren't going to give anything.",
+   "Join the fights: 50% kill participation - path towards the side of the map that's actually playing and be there for objectives.",
+   "Keep doing what works - his wins came from playing around his team, not from solo heroics."
+  ],
+  "ai": false,
+  "wins": 1,
+  "losses": 0,
+  "k": 6,
+  "d": 3,
+  "a": 13,
+  "kda": 6.333333333333333,
+  "csm": 1.2752391073326248,
+  "kp": 50,
+  "lpNet": 31,
+  "ints": 0,
+  "games": 1,
+  "label": "Friday 23 October",
+  "at": "2026-10-26T20:44:10.488Z"
+ }
+}
