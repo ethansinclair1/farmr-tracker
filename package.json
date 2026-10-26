@@ -1,0 +1,8 @@
+{
+  "name": "farmr-tracker",
+  "private": true,
+  "type": "module",
+  "description": "Tracks a League of Legends account's ranked solo/duo games from op.gg: GitHub Pages site + Discord posts with an AI roast.",
+  "scripts": { "check": "node run.mjs", "test": "node run.mjs --fixture test/fixture.json" },
+  "dependencies": { "playwright": "1.48.2" }
+}

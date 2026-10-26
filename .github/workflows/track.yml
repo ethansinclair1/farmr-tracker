@@ -1,0 +1,42 @@
+name: Track op.gg
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes (GitHub sometimes runs these a few minutes late)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: track
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Cache browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-1.48.2
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - name: Check op.gg, post new games, rebuild the page
+        run: node run.mjs
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+      - name: Save new games and the page
+        run: |
+          git config user.name "op.gg tracker"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          if git diff --cached --quiet; then echo "nothing new"; else git commit -m "New games $(date -u +%Y-%m-%dT%H:%MZ)" && git push; fi
