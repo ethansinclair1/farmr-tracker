@@ -1,24 +1,24 @@
 {
- "sig": "e2b0a1936e",
+ "sig": "82541a7cab",
  "report": {
-  "roast": "1W 1L, +2 LP. Hours of queueing to go nowhere.",
+  "roast": "2W 1L, +2 LP. Decent - don't let it go to your head.",
   "fixes": [
-   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.0 a game is nothing.",
+   "Buy control wards - 0.3 a game is nothing.",
+   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "k": 15.5,
-  "d": 5,
-  "a": 17.5,
-  "kda": 6.6,
-  "csm": 7.6366358871974045,
-  "kp": 77,
+  "k": 14,
+  "d": 4,
+  "a": 19,
+  "kda": 8.25,
+  "csm": 7.828427853553483,
+  "kp": 81,
   "lpNet": 2,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }

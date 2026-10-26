@@ -20946,6 +20946,289 @@
    },
    "roast": "A 11/6/3 loss on Talon. Not the worst, but the LP doesn't care about effort.",
    "firstSeen": 1793049288102
+  },
+  "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s": {
+   "id": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/26/2026, 5:32 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 17,
+   "duration": "26m 05s",
+   "minutes": 26.083333333333332,
+   "k": 11,
+   "d": 2,
+   "a": 22,
+   "kda": "16.50",
+   "kp": 89,
+   "cs": 217,
+   "csm": 8.3,
+   "laning": [
+    76,
+    24
+   ],
+   "avgTier": "Master 620",
+   "lp": null,
+   "items": [
+    {
+     "n": "Axiom Arc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6696.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Guardian Angel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3026.png"
+    },
+    {
+     "n": "Imperial Mandate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4005.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Aivina",
+     "h": "/lol/summoners/na/Aivina-Buzz",
+     "c": "Anivia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Anivia.png"
+    },
+    {
+     "n": "Popeng",
+     "h": "/lol/summoners/na/Popeng-NA1",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zaahen.png"
+    },
+    {
+     "n": "Mich",
+     "h": "/lol/summoners/na/Mich-003",
+     "c": "Kassadin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kassadin.png"
+    },
+    {
+     "n": "Xan1924",
+     "h": "/lol/summoners/na/Xan1924-NA1",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png"
+    },
+    {
+     "n": "HTK777",
+     "h": "/lol/summoners/na/HTK777-Fiora",
+     "c": "Milio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Milio.png"
+    },
+    {
+     "n": "emupine",
+     "h": "/lol/summoners/na/emupine-8632",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ornn.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "RichClan",
+     "h": "/lol/summoners/na/RichClan-2007",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taliyah.png"
+    },
+    {
+     "n": "Enrique4pe",
+     "h": "/lol/summoners/na/Enrique4pe-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "jalen brunson",
+     "h": "/lol/summoners/na/jalen%20brunson-nynyk",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793050320000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Aivina",
+        "h": "/lol/summoners/na/Aivina-Buzz",
+        "op": 4.4,
+        "opr": "ACE",
+        "dmg": 20700,
+        "taken": 29570,
+        "cw": 1,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "Popeng",
+        "h": "/lol/summoners/na/Popeng-NA1",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 16457,
+        "taken": 37902,
+        "cw": 4,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Mich",
+        "h": "/lol/summoners/na/Mich-003",
+        "op": 3.1,
+        "opr": "9th",
+        "dmg": 9772,
+        "taken": 24937,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "Xan1924",
+        "h": "/lol/summoners/na/Xan1924-NA1",
+        "op": 2,
+        "opr": "10th",
+        "dmg": 13098,
+        "taken": 23202,
+        "cw": 0,
+        "wards": "5 / 3"
+       },
+       {
+        "n": "HTK777",
+        "h": "/lol/summoners/na/HTK777-Fiora",
+        "op": 3.7,
+        "opr": "8th",
+        "dmg": 5887,
+        "taken": 19825,
+        "cw": 8,
+        "wards": "28 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "emupine",
+        "h": "/lol/summoners/na/emupine-8632",
+        "op": 5.6,
+        "opr": "5th",
+        "dmg": 12432,
+        "taken": 23139,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 28728,
+        "taken": 20642,
+        "cw": 1,
+        "wards": "3 / 5"
+       },
+       {
+        "n": "RichClan",
+        "h": "/lol/summoners/na/RichClan-2007",
+        "op": 7.1,
+        "opr": "4th",
+        "dmg": 27643,
+        "taken": 11480,
+        "cw": 2,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Enrique4pe",
+        "h": "/lol/summoners/na/Enrique4pe-NA1",
+        "op": 9.5,
+        "opr": "2nd",
+        "dmg": 33940,
+        "taken": 17881,
+        "cw": 0,
+        "wards": "8 / 7"
+       },
+       {
+        "n": "jalen brunson",
+        "h": "/lol/summoners/na/jalen%20brunson-nynyk",
+        "op": 8.8,
+        "opr": "3rd",
+        "dmg": 16686,
+        "taken": 14779,
+        "cw": 6,
+        "wards": "22 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 10,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1793050921123,
+   "shot": "g_94217ed334.jpg",
+   "roast": "11/2/22 on Jarvan IV, 89% KP. Fine. That was actually good. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"

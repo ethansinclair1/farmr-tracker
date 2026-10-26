@@ -1,5 +1,22 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "863a63ff11"
+ "sig": "64e2d902ad",
+ "rank": {
+  "solo": {
+   "tier": "Master",
+   "lp": 747,
+   "wins": 171,
+   "losses": 133
+  },
+  "flex": {
+   "tier": "Platinum 2",
+   "lp": 37,
+   "wins": 27,
+   "losses": 19
+  }
+ },
+ "pendingLp": {
+  "solo": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s"
+ }
 }
