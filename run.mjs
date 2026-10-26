@@ -154,7 +154,7 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 15;   // bump when the page layout changes so the site rebuilds
+const TEMPLATE = 16;   // bump when the page layout changes so the site rebuilds
 const sig = hash(JSON.stringify([TEMPLATE, matchups.map(m => m.text), ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
