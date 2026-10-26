@@ -4,7 +4,7 @@
 import fs from 'fs';
 import crypto from 'crypto';
 import { parseGame } from './lib/extract.mjs';
-import { stats, roast, dayReport } from './lib/report.mjs';
+import { stats, roast, dayReport, guestCallouts } from './lib/report.mjs';
 import { buildPage } from './lib/page.mjs';
 import { postGame, postText } from './lib/discord.mjs';
 import { opDateToTs, tsToOpDate } from './lib/time.mjs';
@@ -94,6 +94,8 @@ const dayOf = t => new Intl.DateTimeFormat('en-CA', { timeZone: cfg.timezone, ye
 const todayKey = dayOf(nowTs);
 const solo24 = soloAll.filter(g => g.ts && dayOf(g.ts) === todayKey);
 const recent = stats(solo24);
+const todayRanked = all.filter(g => isRanked(g) && g.ts && dayOf(g.ts) === todayKey);
+const callouts = guestCallouts(todayRanked);
 const ranked14 = all.filter(g => isRanked(g) && nowTs - g.ts < 14 * DAY);
 const solo = raw.profile.solo;
 const rank = solo ? `${solo.tier} ${solo.lp} LP` : '';
@@ -145,7 +147,7 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 12;   // bump when the page layout changes so the site rebuilds
+const TEMPLATE = 13;   // bump when the page layout changes so the site rebuilds
 const sig = hash(JSON.stringify([TEMPLATE, ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
@@ -156,5 +158,5 @@ save(`${DATA}/state.json`, state);
 save(`${DATA}/profile.json`, { ...raw.profile, scrapedAt: raw.scrapedAt || new Date().toISOString() });
 
 const games = ranked14.map(g => history.games[g.id]);
-fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
+fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, callouts, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
 console.log(`Done: ${parsed.length} games read, ${newOnes.length} new. ${ranked14.length} ranked games in the last 14 days. ${recent.wins}W ${recent.losses}L (${recent.lpNet} LP) today in solo/duo.${live ? ' LIVE NOW.' : ''}`);
