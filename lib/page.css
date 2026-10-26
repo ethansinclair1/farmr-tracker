@@ -1,5 +1,5 @@
 
-:root{--bg:#1c1c1f;--card:#31313c;--card2:#282830;--line:#424254;--txt:#e3e3ea;--mut:#9e9eb1;--blue:#5383e8;--red:#e84057;--winbg:#28344e;--winb:#2f436e;--lossbg:#59343b;--lossb:#703c47;--gold:#ff8200;--teal:#00bba3}
+:root{--gain:#00a891;--bg:#1c1c1f;--card:#31313c;--card2:#282830;--line:#424254;--txt:#e3e3ea;--mut:#9e9eb1;--blue:#5383e8;--red:#e84057;--winbg:#28344e;--winb:#2f436e;--lossbg:#59343b;--lossb:#703c47;--gold:#ff8200;--teal:#00bba3}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:13px/1.35 "Segoe UI",Roboto,Helvetica,Arial,sans-serif}
 img{color:transparent;font-size:0}a{color:inherit}.wrap{max-width:1080px;margin:0 auto;padding:16px}
 .card{background:var(--card);border-radius:6px;padding:16px;margin-bottom:10px}
@@ -82,3 +82,8 @@ footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
 .htxt{text-align:center;padding-bottom:22px;align-self:center}.htxt .logo{font-size:42px}.htxt .who{margin:8px 0 0}
 .pn{height:160px;width:auto;display:block;filter:drop-shadow(0 6px 14px rgba(0,0,0,.45))}.pn1{justify-self:start;margin-left:6%}.pn2{justify-self:end;margin-right:6%}
 @media(max-width:700px){.hero{grid-template-columns:auto 1fr auto;min-height:0;padding:46px 6px 0;gap:4px}.pn{height:84px}.pn1,.pn2{margin:0}.htxt .logo{font-size:22px;letter-spacing:-.5px}.htxt{padding-bottom:10px}.htxt .who{font-size:11px}.date b{font-size:13px}.date span{font-size:11px}.vol input{width:70px}}
+
+.lpsum{display:flex;align-items:baseline;gap:10px;margin:-4px 0 6px}.lpsum b{font-size:22px;font-weight:800}.lpsum b.up{color:var(--teal)}.lpsum b.down{color:var(--red)}.lpsum span{color:var(--mut)}
+.lpwrap{position:relative}.lpwrap svg{width:100%;height:auto;display:block;overflow:visible}.lpwrap .ax text{fill:var(--mut);font-size:10px}
+.lpwrap .lb.on rect{fill:rgba(255,255,255,.06)}.lptip{position:absolute;top:-6px;transform:translate(-50%,-100%);background:#111118;color:var(--txt);border:1px solid var(--line);border-radius:6px;padding:4px 8px;font-size:12px;white-space:nowrap;pointer-events:none}
+.lpnote{color:var(--mut);font-size:11px;margin-top:4px}
