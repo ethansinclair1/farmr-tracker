@@ -6,5 +6,6 @@
  "trackQueue": "Ranked Solo/Duo",
  "showMoreClicks": 3,
  "aiModel": "claude-haiku-5-5",
- "pageUrl": ""
+ "pageUrl": "",
+ "discordAppId": "1564394777770987520"
 }
