@@ -1,15 +1,12 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>FullClearDeluxe Tracker</title>
-<meta property="og:title" content="FullClearDeluxe#FarmR - Master 745 LP">
-<meta property="og:description" content="1W 1L, +2 LP. A whole day of queueing to end up roughly where he started. Inspiring. Averaged 11.5/5.5/13.5 (4.5 KDA) with 7.6 CS/min and 56% kill participation. Low point: 6/6/4 o">
+<title>Chenny LoL Tracker</title>
+<meta property="og:title" content="Chenny LoL Tracker - Master 745 LP">
+<meta property="og:description" content="2W 1L, +33 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 11.0/5.3/13.0 (4.5 KDA), 7.8 CS/min and 61% kill participation. 5.3 deaths a game. N">
 <style>
 :root{--bg:#1c1c1f;--card:#31313c;--card2:#282830;--line:#424254;--txt:#e3e3ea;--mut:#9e9eb1;--blue:#5383e8;--red:#e84057;--winbg:#28344e;--winb:#2f436e;--lossbg:#59343b;--lossb:#703c47;--gold:#ff8200;--teal:#00bba3}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--txt);font:13px/1.35 "Segoe UI",Roboto,Helvetica,Arial,sans-serif}
 img{color:transparent;font-size:0}a{color:inherit}.wrap{max-width:1080px;margin:0 auto;padding:16px}
-.top{display:flex;align-items:center;justify-content:space-between;gap:12px;background:#5383e8;margin:-16px -16px 16px;padding:12px 16px}
-.logo{font-weight:900;font-size:20px;letter-spacing:-.5px;color:#fff}.logo small{font-weight:600;opacity:.8;font-size:12px;margin-left:6px}
-.date{color:#fff;text-align:right}.date b{display:block;font-size:18px}.date span{font-size:12px;opacity:.85}
 .card{background:var(--card);border-radius:6px;padding:16px;margin-bottom:10px}
 .prof{display:flex;gap:16px;align-items:center;flex-wrap:wrap}.prof .icon{position:relative}.prof .icon img{width:84px;height:84px;border-radius:18px}
 .prof .icon em{position:absolute;left:50%;bottom:-8px;transform:translateX(-50%);background:#202d37;border-radius:10px;padding:1px 8px;font-style:normal;font-size:12px}
@@ -25,7 +22,6 @@ h2{font-size:14px;margin:0 0 12px;color:var(--txt)}
 .champs{list-style:none;margin:0;padding:0}.champs li{display:flex;align-items:center;gap:10px;padding:6px 0;border-top:1px solid var(--line)}.champs li:first-child{border:0}
 .champs img{width:32px;height:32px;border-radius:50%}.champs div{display:flex;flex-direction:column}.champs span{color:var(--mut);font-size:12px}.champs .cr{margin-left:auto;text-align:right}.red{color:var(--red)}
 .ai{border-left:4px solid var(--gold);background:linear-gradient(90deg,#3a2f22,var(--card) 40%)}.ai h2{color:var(--gold)}.ai p{margin:0;font-size:14px;line-height:1.55}
-.shots{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}.shots a{flex:0 0 auto}.shots img{height:220px;border-radius:6px;border:1px solid var(--line);display:block}
 .tabs{display:flex;gap:6px;margin:4px 0 8px}.tabs button{background:var(--card);color:var(--mut);border:0;border-radius:4px;padding:8px 14px;font-weight:600;cursor:pointer}.tabs button.on{background:var(--blue);color:#fff}
 .game{display:flex;position:relative;border-left:6px solid var(--c);background:var(--bg2);border-radius:4px;margin-bottom:8px;padding:8px 12px;gap:14px;align-items:center}
 .game.win{--c:var(--blue);--bg2:var(--winbg);--c2:var(--winb)}.game.loss{--c:var(--red);--bg2:var(--lossbg);--c2:var(--lossb)}.game.remake{--c:#7b7a8e;--bg2:#282830;--c2:#515163}
@@ -48,13 +44,70 @@ h2{font-size:14px;margin:0 0 12px;color:var(--txt)}
 .day summary{cursor:pointer;display:flex;gap:14px;flex-wrap:wrap;align-items:center;padding:9px 12px;color:var(--mut)}.day summary b{color:var(--txt);min-width:170px}.day .dwl{color:var(--txt)}
 .day.up .dlp{color:var(--teal)}.day.down .dlp{color:var(--red)}.int{background:var(--red);color:#fff;border-radius:10px;padding:0 8px;font-size:11px}.day i{font-style:normal}.day p,.day .fix{margin:0 12px 12px}
 footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
+
+.hero{display:flex;align-items:center;gap:16px;background:linear-gradient(120deg,#3e63c9,#5383e8 55%,#7c5ce8);margin:-16px -16px 16px;padding:14px 18px;flex-wrap:wrap}
+.toon{width:150px;height:127px;flex:0 0 auto;filter:drop-shadow(0 4px 10px rgba(0,0,0,.35))}.toon svg{width:100%;height:100%;display:block}
+.logo{font-weight:900;font-size:34px;letter-spacing:-1px;color:#fff;line-height:1;text-shadow:0 2px 0 rgba(0,0,0,.25)}.who{color:#e4ebff;margin-top:6px;font-size:13px}
+.date{color:#fff;text-align:right;margin-left:auto}.date b{display:block;font-size:18px}.date span{font-size:12px;opacity:.9}
+@media(max-width:640px){.toon{width:110px;height:93px}.logo{font-size:26px}.date{text-align:left;margin-left:0}}
+.mut{color:var(--mut)!important;margin-top:12px!important}.none{background:var(--card);border-radius:6px;padding:18px;color:var(--mut);text-align:center}
 </style></head><body><div class="wrap">
-<div class="top"><div class="logo">OP.GG <small>tracker</small></div><div class="date"><b id="today"></b><span>Updated <span class="ago" data-iso="2026-10-26T20:44:04.324Z"></span> · checks every 10 min</span></div></div>
+<header class="hero"><div class="toon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 220" role="img" aria-label="Cartoon of Chenny yelling into his headset">
+  <defs>
+    <path id="heart" d="M0 3C-1-1-7-1-7 4c0 4 7 8 7 8s7-4 7-8c0-5-6-5-7-1z"/>
+  </defs>
+  <!-- gaming chair -->
+  <path d="M55 92q0-56 75-56t75 56v128H55z" fill="#1d1f2b" stroke="#0b0c12" stroke-width="3"/>
+  <!-- body / black tee -->
+  <path d="M38 220q4-52 52-60l40 10 40-10q48 8 52 60z" fill="#15161c" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M108 163q22 16 44 0" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- neck -->
+  <path d="M112 146h36v20q-18 10-36 0z" fill="#e9b59a" stroke="#000" stroke-width="3"/>
+  <!-- head -->
+  <path d="M82 96q-2-46 48-48t50 48q2 34-14 50-14 14-36 14t-36-14q-14-16-12-50z" fill="#f2c2a6" stroke="#000" stroke-width="3.5"/>
+  <!-- ears -->
+  <ellipse cx="80" cy="104" rx="8" ry="12" fill="#eab398" stroke="#000" stroke-width="3"/>
+  <ellipse cx="180" cy="104" rx="8" ry="12" fill="#eab398" stroke="#000" stroke-width="3"/>
+  <!-- messy hair -->
+  <path d="M80 92q-6-34 22-46q-6-10 8-14q2 8 10 6q4-12 18-8q-2 8 6 10q12-8 22 2q-8 4-4 10q16 6 18 40q-10-14-22-18q2 8-6 12q-4-10-16-12q0 8-10 8q-2-8-12-10q-4 8-14 6q4-6 0-10q-12 6-20 24z" fill="#a7814f" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <!-- angry brows -->
+  <path d="M96 92l26 8M164 92l-26 8" stroke="#5c4026" stroke-width="6" stroke-linecap="round"/>
+  <!-- squinting eyes -->
+  <path d="M100 106q10 6 20 1M140 107q10 5 20-1" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+  <!-- nose -->
+  <path d="M130 108q-6 14 2 18" fill="none" stroke="#000" stroke-width="3" stroke-linecap="round"/>
+  <!-- yelling mouth -->
+  <path d="M110 129q20-7 40 0q2 28-20 30q-22-2-20-30z" fill="#5a1414" stroke="#000" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M113 133q17-5 34 0v4q-17-3-34 0z" fill="#fff"/>
+  <path d="M119 150q11-8 22 0q-11 7-22 0z" fill="#e2626b"/>
+  <!-- headset -->
+  <path d="M76 100q-2-66 54-66t54 66" fill="none" stroke="#111" stroke-width="9" stroke-linecap="round"/>
+  <path d="M76 100q-2-66 54-66t54 66" fill="none" stroke="#3a6cf4" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
+  <rect x="62" y="88" width="20" height="34" rx="9" fill="#111" stroke="#000" stroke-width="3"/>
+  <rect x="178" y="88" width="20" height="34" rx="9" fill="#111" stroke="#000" stroke-width="3"/>
+  <rect x="66" y="96" width="5" height="18" rx="2.5" fill="#5383e8"/>
+  <rect x="189" y="96" width="5" height="18" rx="2.5" fill="#5383e8"/>
+  <path d="M74 118q8 22 34 20" fill="none" stroke="#111" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="108" cy="138" r="4" fill="#111"/>
+  <!-- yell lines -->
+  <path d="M188 136l14 6M190 148l14 12M184 158l8 14" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+  <!-- floating hearts -->
+  <g fill="#ff6b9a" stroke="#000" stroke-width="1.2">
+    <use href="#heart" transform="translate(28 40) scale(1.5)"/>
+    <use href="#heart" transform="translate(232 60) scale(1.3)"/>
+    <use href="#heart" transform="translate(30 140) scale(1.1)"/>
+    <use href="#heart" transform="translate(222 170) scale(1.6)"/>
+    <use href="#heart" transform="translate(58 182) scale(.9)"/>
+    <use href="#heart" transform="translate(206 22) scale(.9)"/>
+  </g>
+</svg>
+</div><div><div class="logo">Chenny LoL Tracker</div><div class="who">FullClearDeluxe#FarmR · NA · <a href="https://op.gg/lol/summoners/na/FullClearDeluxe-FarmR" target="_blank">op.gg ↗</a></div></div>
+<div class="date"><b id="today"></b><span>Toronto time · updated <span class="ago" data-iso="2026-10-26T20:49:49.736Z"></span> · checks every 10 min</span></div></header>
 
 <div class="card prof">
   <div class="icon"><img src="https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon2076.jpg" alt=""><em>70</em></div>
   <div><h1>FullClearDeluxe <span>#FarmR</span></h1>
-  <div class="sub">NA · Ladder Rank <b>2,641</b> (0.1634% of top) · <a href="https://op.gg/lol/summoners/na/FullClearDeluxe-FarmR" target="_blank">view on op.gg ↗</a></div></div>
+  <div class="sub">NA · Ladder Rank <b>2,642</b> (0.1634% of top)</div></div>
 </div>
 
 <div class="grid">
@@ -63,49 +116,33 @@ footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
       <div class="rank"><img src="https://opgg-static.akamaized.net/images/medals_new/master.png" alt=""><div><div class="t">Master</div><div class="lp">745 LP</div></div>
       <div class="wl">170W 132L<br>Win rate 56%</div></div>
     </div>
-    <div class="card"><h2>Recent Solo/Duo champions</h2><ul class="champs">
-    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><div><b>Hecarim</b><span>7.6 / 4.9 / 9.0</span></div>
-    <div class="cr"><b class="">57%</b><span>7G · 7.9 CS/m</span></div></li>
-    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><div><b>Sylas</b><span>7.7 / 4.3 / 10.3</span></div>
-    <div class="cr"><b class="red">67%</b><span>3G · 5.8 CS/m</span></div></li>
-    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png" alt=""><div><b>Malphite</b><span>2.0 / 4.0 / 11.0</span></div>
-    <div class="cr"><b class="red">100%</b><span>1G · 8.0 CS/m</span></div></li>
-    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt=""><div><b>Jarvan IV</b><span>10.0 / 8.0 / 12.0</span></div>
-    <div class="cr"><b class="">0%</b><span>1G · 6.5 CS/m</span></div></li>
-    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png" alt=""><div><b>Aatrox</b><span>5.0 / 7.0 / 7.0</span></div>
-    <div class="cr"><b class="">0%</b><span>1G · 6.5 CS/m</span></div></li></ul></div>
+    <div class="card"><h2>Champions · last 24 hours</h2><ul class="champs">
+    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><div><b>Hecarim</b><span>11.5 / 5.5 / 13.5</span></div>
+    <div class="cr"><b class="">50%</b><span>2G · 7.6 CS/m</span></div></li>
+    <li><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><div><b>Sylas</b><span>10.0 / 5.0 / 12.0</span></div>
+    <div class="cr"><b class="red">100%</b><span>1G · 8.3 CS/m</span></div></li></ul></div>
   </div>
   <div>
-    <div class="card"><h2>Last 13 Ranked Solo/Duo games</h2>
+    <div class="card"><h2>Ranked Solo/Duo · last 24 hours</h2>
       <div class="summ">
-        <div class="donut" style="--p:54"><b>54%</b></div>
-        <div><div class="s2">13G 7W 6L</div>
-          <div class="big">7.2 <i>/</i> <span class="dd">5.1</span> <i>/</i> 9.5</div>
-          <div class="s2"><b>3.3:1</b> KDA · P/Kill 56%</div></div>
-        <div class="stat"><div>Avg CS<b>195</b></div><div>CS/min<b>7.1</b></div><div>Avg length<b>27m</b></div><div>LP (tracked)<b class="">+41</b></div></div>
+        <div class="donut" style="--p:67"><b>67%</b></div>
+        <div><div class="s2">3G 2W 1L</div>
+          <div class="big">11.0 <i>/</i> <span class="dd">5.3</span> <i>/</i> 13.0</div>
+          <div class="s2"><b>4.5:1</b> KDA · P/Kill 61%</div></div>
+        <div class="stat"><div>Avg CS<b>247</b></div><div>CS/min<b>7.8</b></div><div>Avg length<b>32m</b></div><div>LP<b class="">+33</b></div></div>
       </div>
     </div>
-    <div class="card ai" id="ai"><h2>🤖 AI overview · <span id="dayname">today</span></h2><div id="dayrep"><p>1W 1L, +2 LP. A whole day of queueing to end up roughly where he started. Inspiring. Averaged 11.5/5.5/13.5 (4.5 KDA) with 7.6 CS/min and 56% kill participation. Low point: 6/6/4 on Hecarim. Delete the replay. Best game: 17/5/23 on Hecarim - proof he CAN play when he wants to.</p></div></div>
+    <div class="card ai" id="ai"><h2>🤖 AI overview · last 24 hours</h2><div id="dayrep"><div class="dstats"><span><b>2W 1L</b></span><span><b>11.0 / 5.3 / 13.0</b> avg</span><span><b>7.8</b> CS/min</span><span><b>61%</b> KP</span><span><b>+33</b> LP</span></div>
+  <p>2W 1L, +33 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 11.0/5.3/13.0 (4.5 KDA), 7.8 CS/min and 61% kill participation. 5.3 deaths a game. Not inting by definition, inting by vibes. Low point: 6/6/4 on Hecarim. Delete the replay. Delete the account. Start again. Best game: 17/5/23 on Hecarim - proof he CAN play, which makes the rest of it even worse.</p><div class="fix"><b>What he needs to fix</b><ol><li>Stop dying: 5.3 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.</li><li>Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.</li><li>Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer.</li></ol></div></div></div>
   </div>
 </div>
 
-<div class="card"><h2>Daily reports</h2><div class="days">
-  <details class="day up"><summary><b>Monday 26 October</b><span class="dwl">1W 1L</span><span>11.5 / <i class="red">5.5</i> / 13.5</span><span>7.6 CS/m</span><span class="dlp">+2 LP</span></summary>
-  <p>1W 1L, +2 LP. A whole day of queueing to end up roughly where he started. Inspiring. Averaged 11.5/5.5/13.5 (4.5 KDA) with 7.6 CS/min and 56% kill participation. Low point: 6/6/4 on Hecarim. Delete the replay. Best game: 17/5/23 on Hecarim - proof he CAN play when he wants to.</p><div class="fix"><b>What to fix</b><ol><li>Stop dying: 5.5 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.</li><li>Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.</li><li>Keep doing what works - his wins came from playing around his team, not from solo heroics.</li></ol></div></details>
-  <details class="day up"><summary><b>Sunday 25 October</b><span class="dwl">3W 1L</span><span>4.8 / <i class="red">3.8</i> / 8.8</span><span>8.3 CS/m</span><span class="dlp">+64 LP</span></summary>
-  <p>3W 1L, +64 LP. A winning day - write it down, it might not happen again. Averaged 4.8/3.8/8.8 (3.6 KDA) with 8.3 CS/min and 54% kill participation. Low point: 1/3/2 on Hecarim. Delete the replay. Best game: 6/3/10 on Hecarim - proof he CAN play when he wants to.</p><div class="fix"><b>What to fix</b><ol><li>Join the fights: 54% kill participation - path towards the side of the map that's actually playing and be there for objectives.</li><li>Win the early game: losing laning phase on average (43:57) - plan the first clear and look for an early gank on the winning lane.</li><li>Keep doing what works - his wins came from playing around his team, not from solo heroics.</li></ol></div></details>
-  <details class="day down"><summary><b>Saturday 24 October</b><span class="dwl">2W 4L</span><span>7.5 / <i class="red">6.2</i> / 8.2</span><span>7.3 CS/m</span><span class="dlp">-56 LP</span></summary>
-  <p>2W 4L and -56 LP. That's not a ranked session, that's a charity drive for the enemy team. Averaged 7.5/6.2/8.2 (2.5 KDA) with 7.3 CS/min and 58% kill participation. 6.2 deaths a game. Not technically inting, but the grey screen is getting more screen time than the champion. Low point: 7/9/4 on Hecarim. Delete the replay. Best game: 8/2/10 on Hecarim - proof he CAN play when he wants to.</p><div class="fix"><b>What to fix</b><ol><li>Stop dying: 6.2 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.</li><li>Win the early game: losing laning phase on average (48:52) - plan the first clear and look for an early gank on the winning lane.</li><li>Pick a lane - and a champion: 4 different champions in 6 games. Stick to 2-3 picks and actually master them.</li></ol></div></details>
-  <details class="day up"><summary><b>Friday 23 October</b><span class="dwl">1W 0L</span><span>6.0 / <i class="red">3.0</i> / 13.0</span><span>1.3 CS/m</span><span class="dlp">+31 LP</span></summary>
-  <p>1W 0L, +31 LP. A winning day - write it down, it might not happen again. Averaged 6.0/3.0/13.0 (6.3 KDA) with 1.3 CS/min and 50% kill participation. Best game: 6/3/13 on Sylas - proof he CAN play when he wants to.</p><div class="fix"><b>What to fix</b><ol><li>Farm more: 1.3 CS/min - clear camps between fights instead of hovering lanes that aren't going to give anything.</li><li>Join the fights: 50% kill participation - path towards the side of the map that's actually playing and be there for objectives.</li><li>Keep doing what works - his wins came from playing around his team, not from solo heroics.</li></ol></div></details></div></div>
-<div class="card"><h2>Browsing op.gg</h2><div class="shots"><a href="shots/profile.jpg" target="_blank"><img src="shots/profile.jpg" alt="op.gg screenshot" loading="lazy"></a><a href="shots/games.jpg" target="_blank"><img src="shots/games.jpg" alt="op.gg screenshot" loading="lazy"></a></div></div>
-
-<div class="tabs"><button class="on" data-f="Ranked Solo/Duo">Ranked Solo/Duo</button><button data-f="">All games</button></div>
+<div class="tabs"><button class="on" data-f="Ranked Solo/Duo">Ranked Solo/Duo</button><button data-f="">All games</button><span style="margin-left:auto;color:var(--mut);align-self:center">Last 24 hours</span></div>
 <div id="list">
-  <div class="game win" data-queue="Ranked Solo/Duo">
+  <div class="game win" data-queue="Ranked Solo/Duo" data-ts="1793045460000">
     <div class="g-meta">
       <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/26/2026, 8:11 PM">10/26/2026, 8:11 PM</span>
+      <span class="ago" data-ts="1793045460000">10/26/2026, 4:11 PM</span>
       <i class="bar"></i>
       <b class="res">Victory</b>
       <span>34m 32s</span>
@@ -130,10 +167,10 @@ footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
     <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sett.png" alt=""><span>SETT GODLIKE</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>Zalooh</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Veigar.png" alt=""><span>TTVbigserori</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png" alt=""><span>FUTANARI ZERI</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taric.png" alt=""><span>Kuhzie</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gragas.png" alt=""><span>eliozie</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png" alt=""><span>Raptor</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png" alt=""><span>Yohari</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png" alt=""><span>Be there</span></li></ul></div>
     <a class="shot" href="shots/g_2fc54e70a9.jpg" target="_blank" title="op.gg screenshot">📸</a>
   </div>
-  <div class="game loss" data-queue="Ranked Flex">
+  <div class="game loss" data-queue="Ranked Flex" data-ts="1793042040000">
     <div class="g-meta">
       <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/26/2026, 7:14 PM">10/26/2026, 7:14 PM</span>
+      <span class="ago" data-ts="1793042040000">10/26/2026, 3:14 PM</span>
       <i class="bar"></i>
       <b class="res">Defeat</b>
       <span>21m 37s</span>
@@ -158,10 +195,10 @@ footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
     <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Urgot.png" alt=""><span>BossDontCare</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rengar.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png" alt=""><span>Illegal Toys</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ryze.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png" alt=""><span>SnakeMakesMeHard</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png" alt=""><span>IiI uzi burt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>unspreadbread</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malzahar.png" alt=""><span>Weshizzle</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png" alt=""><span>我要验牌</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png" alt=""><span>TickleMySaq</span></li></ul></div>
     <a class="shot" href="shots/g_fb2bf0dd2e.jpg" target="_blank" title="op.gg screenshot">📸</a>
   </div>
-  <div class="game loss" data-queue="Ranked Solo/Duo">
+  <div class="game loss" data-queue="Ranked Solo/Duo" data-ts="1792973880000">
     <div class="g-meta">
       <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/26/2026, 12:18 AM">10/26/2026, 12:18 AM</span>
+      <span class="ago" data-ts="1792973880000">10/25/2026, 8:18 PM</span>
       <i class="bar"></i>
       <b class="res">Defeat</b>
       <span>26m 01s</span>
@@ -186,10 +223,10 @@ footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
     <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png" alt=""><span>skiltee</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png" alt=""><span>FestimouneDeGat</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ashe.png" alt=""><span>IAxia</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png" alt=""><span>Save Bees</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiora.png" alt=""><span>lesyeuxden1n1</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kindred.png" alt=""><span>谁言天地宽</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png" alt=""><span>Lanon</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png" alt=""><span>kaydz</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png" alt=""><span>1293293492834981</span></li></ul></div>
     <a class="shot" href="shots/g_e142db1d45.jpg" target="_blank" title="op.gg screenshot">📸</a>
   </div>
-  <div class="game win" data-queue="Ranked Solo/Duo">
+  <div class="game win" data-queue="Ranked Solo/Duo" data-ts="1792970460000">
     <div class="g-meta">
       <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/25/2026, 11:21 PM">10/25/2026, 11:21 PM</span>
+      <span class="ago" data-ts="1792970460000">10/25/2026, 7:21 PM</span>
       <i class="bar"></i>
       <b class="res">Victory</b>
       <span>34m 11s</span>
@@ -213,1034 +250,26 @@ footer{color:var(--mut);text-align:center;font-size:12px;margin:22px 0 8px}
     </div>
     <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Trundle.png" alt=""><span>SSazuri</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Orianna.png" alt=""><span>Can1ne</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png" alt=""><span>No Fancy</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>The Hooker</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gragas.png" alt=""><span>ITS SUS</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Naafiri.png" alt=""><span>H0WER</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png" alt=""><span>Goodras Hips</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png" alt=""><span>MooMooMooCow</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Braum.png" alt=""><span>Harbing3r</span></li></ul></div>
     <a class="shot" href="shots/g_de64932b70.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/25/2026, 8:27 PM">10/25/2026, 8:27 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>23m 32s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt="Hecarim" title="Hecarim" loading="lazy"><em>15</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png" alt="Ghost" title="Ghost" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png" alt="Stormraider's Surge" title="Stormraider's Surge" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">6 <i>/</i> <span class="dd">3</span> <i>/</i> 10</div><div class="ratio gold">5.33:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 67%</div>
-          <div>CS 209 (8.9)</div>
-          <div class="tier">Master 756</div>
-          <div class="lp up">+31 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1001.png" alt="Boots" title="Boots" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png" alt="Black Cleaver" title="Black Cleaver" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png" alt="Maw of Malmortius" title="Maw of Malmortius" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3123.png" alt="Executioner's Calling" title="Executioner's Calling" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 45 : 55</span></div>
-      <div class="g-roast">6/3/10 win on Hecarim. LP is LP, even when it's ugly.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png" alt=""><span>bear</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>DudePolo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png" alt=""><span>Tim Long</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>DanínLØL</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png" alt=""><span>Yøurs TruIy</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png" alt=""><span>skiltee</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Orianna.png" alt=""><span>IAxia</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/KogMaw.png" alt=""><span>Xtreme</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rakan.png" alt=""><span>P
-2026sup1</span></li></ul></div>
-    <a class="shot" href="shots/g_835352ecf5.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/25/2026, 6:35 PM">10/25/2026, 6:35 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>22m 33s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png" alt="Malphite" title="Malphite" loading="lazy"><em>14</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerTeleport.png" alt="Teleport" title="Teleport" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8229.png" alt="Arcane Comet" title="Arcane Comet" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8400.png" alt="Resolve" title="Resolve" loading="lazy"></div>
-        <div class="kda"><div class="k">2 <i>/</i> <span class="dd">4</span> <i>/</i> 11</div><div class="ratio blue">3.25:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 46%</div>
-          <div>CS 180 (8)</div>
-          <div class="tier">Master 626</div>
-          <div class="lp up">+31 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1056.png" alt="Doran's Ring" title="Doran's Ring" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3068.png" alt="Sunfire Aegis" title="Sunfire Aegis" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3174.png" alt="Armored Advance" title="Armored Advance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3050.png" alt="Zeke's Convergence" title="Zeke's Convergence" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1028.png" alt="Ruby Crystal" title="Ruby Crystal" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3082.png" alt="Warden's Mail" title="Warden's Mail" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1206.png" alt="Mid Lane Quest Reward" title="Mid Lane Quest Reward" loading="lazy">
-        <span class="laning">Laning 43 : 57</span></div>
-      <div class="g-roast">Win on Malphite (2/4/11). Carried or carried? The 8 CS/min says &quot;a bit of both&quot;.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gragas.png" alt=""><span>ITS SUS</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viego.png" alt=""><span>Hulzerr</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png" alt=""><span>Earling Haaland</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png" alt=""><span>Rainie</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png" alt=""><span>2865137352197863</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayn.png" alt=""><span>Cactus</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>flow state only</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png" alt=""><span>Potosan</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png" alt=""><span>hide on psy</span></li></ul></div>
-    <a class="shot" href="shots/g_934e73750f.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/25/2026, 6:07 PM">10/25/2026, 6:07 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>15m 21s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt="Hecarim" title="Hecarim" loading="lazy"><em>10</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png" alt="Ghost" title="Ghost" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png" alt="Stormraider's Surge" title="Stormraider's Surge" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">1 <i>/</i> <span class="dd">3</span> <i>/</i> 2</div><div class="ratio ">1.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 33%</div>
-          <div>CS 121 (7.9)</div>
-          <div class="tier">Master 724</div>
-          <div class="lp down">-29 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1037.png" alt="Pickaxe" title="Pickaxe" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png" alt="Black Cleaver" title="Black Cleaver" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1001.png" alt="Boots" title="Boots" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1029.png" alt="Cloth Armor" title="Cloth Armor" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png" alt="Long Sword" title="Long Sword" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 32 : 68</span></div>
-      <div class="g-roast">33% kill participation. Was Hecarim in this game or just watching it?</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renekton.png" alt=""><span>Billposter</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png" alt=""><span>Neswoud</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png" alt=""><span>Cholula Sauce</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>ui89</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jax.png" alt=""><span>Jango</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Graves.png" alt=""><span>flow state only</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png" alt=""><span>Gomiehomie</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png" alt=""><span>mit</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taliyah.png" alt=""><span>Mindful2</span></li></ul></div>
-    <a class="shot" href="shots/g_45895ee6b7.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 7:21 AM">10/25/2026, 7:21 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>32m 34s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt="Jarvan IV" title="Jarvan IV" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">15 <i>/</i> <span class="dd">7</span> <i>/</i> 14</div><div class="ratio blue">4.14:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 56%</div>
-          <div>CS 272 (8.4)</div>
-          <div class="tier">Emerald 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png" alt="Profane Hydra" title="Profane Hydra" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6694.png" alt="Serylda's Grudge" title="Serylda's Grudge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png" alt="Voltaic Cyclosword" title="Voltaic Cyclosword" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 74 : 26</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jax.png" alt=""><span>토마스와친구들</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Graves.png" alt=""><span>Alt Tab Husband</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiddlesticks.png" alt=""><span>너도어차피못할거잖아</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sivir.png" alt=""><span>organic adc</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zyra.png" alt=""><span>MOONUNGA</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png" alt=""><span>Holds up spork</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png" alt=""><span>bija</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Samira.png" alt=""><span>BlameItOnJungle</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png" alt=""><span>strubert</span></li></ul></div>
-    <a class="shot" href="shots/g_e499d1dadd.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 6:39 AM">10/25/2026, 6:39 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>31m 25s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt="Sylas" title="Sylas" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">8 <i>/</i> <span class="dd">8</span> <i>/</i> 11</div><div class="ratio ">2.38:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 43%</div>
-          <div>CS 199 (6.3)</div>
-          <div class="tier">Diamond 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4645.png" alt="Shadowflame" title="Shadowflame" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2421.png" alt="Shattered Armguard" title="Shattered Armguard" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3111.png" alt="Mercury's Treads" title="Mercury's Treads" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3100.png" alt="Lich Bane" title="Lich Bane" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 53 : 47</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taric.png" alt=""><span>Mr Video Games</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png" alt=""><span>Phernn</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Locke.png" alt=""><span>Kai</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png" alt=""><span>喵喵喵喵</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png" alt=""><span>Weplays</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png" alt=""><span>Holds up spork</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png" alt=""><span>bija</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png" alt=""><span>BlameItOnJungle</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png" alt=""><span>strubert</span></li></ul></div>
-    <a class="shot" href="shots/g_f3fee24dc1.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 4:32 AM">10/25/2026, 4:32 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>28m 04s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt="Neeko" title="Neeko" loading="lazy"><em>13</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerDot.png" alt="Ignite" title="Ignite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8229.png" alt="Arcane Comet" title="Arcane Comet" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">1 <i>/</i> <span class="dd">5</span> <i>/</i> 4</div><div class="ratio ">1.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 42%</div>
-          <div>CS 21 (0.7)</div>
-          <div class="tier">Platinum 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3869.png" alt="Celestial Opposition" title="Celestial Opposition" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2421.png" alt="Shattered Armguard" title="Shattered Armguard" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3916.png" alt="Oblivion Orb" title="Oblivion Orb" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2055.png" alt="Control Ward" title="Control Ward" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy">
-        <span class="laning">Laning 50 : 50</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Olaf.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png" alt=""><span>period account ッ</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>Im Jinxed</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt=""><span>FullClearDeluxe</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Trundle.png" alt=""><span>A Shady Llama</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png" alt=""><span>xGuilty</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png" alt=""><span>uncoolsquash</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Twitch.png" alt=""><span>RainingWolves</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Soraka.png" alt=""><span>CrokMeSideways</span></li></ul></div>
-    <a class="shot" href="shots/g_37983c17df.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 3:55 AM">10/25/2026, 3:55 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>23m 37s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png" alt="Sona" title="Sona" loading="lazy"><em>11</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHeal.png" alt="Heal" title="Heal" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8214.png" alt="Summon Aery" title="Summon Aery" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">2 <i>/</i> <span class="dd">9</span> <i>/</i> 8</div><div class="ratio ">1.11:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 77%</div>
-          <div>CS 31 (1.3)</div>
-          <div class="tier">Emerald 3</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3869.png" alt="Celestial Opposition" title="Celestial Opposition" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3040.png" alt="Seraph's Embrace" title="Seraph's Embrace" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6617.png" alt="Moonstone Renewer" title="Moonstone Renewer" loading="lazy"><span class="it empty"></span><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1208.png" alt="Support Quest Reward" title="Support Quest Reward" loading="lazy">
-        <span class="laning">Laning 35 : 65</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MonkeyKing.png" alt=""><span>period account ッ</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>Im Jinxed</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png" alt=""><span>FullClearDeluxe</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png" alt=""><span>Kwell</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png" alt=""><span>Aliman567</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png" alt=""><span>let me cook</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png" alt=""><span>Never Story</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png" alt=""><span>aji wo kutta</span></li></ul></div>
-    <a class="shot" href="shots/g_2777bd6227.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 3:22 AM">10/25/2026, 3:22 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>15m 48s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png" alt="Alistar" title="Alistar" loading="lazy"><em>7</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerDot.png" alt="Ignite" title="Ignite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8439.png" alt="Aftershock" title="Aftershock" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">1 <i>/</i> <span class="dd">2</span> <i>/</i> 11</div><div class="ratio gold">6.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 75%</div>
-          <div>CS 13 (0.8)</div>
-          <div class="tier">Platinum 3</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3876.png" alt="Solstice Sleigh" title="Solstice Sleigh" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2524.png" alt="Bandlepipes" title="Bandlepipes" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3009.png" alt="Boots of Swiftness" title="Boots of Swiftness" loading="lazy"><span class="it empty"></span><span class="it empty"></span><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1208.png" alt="Support Quest Reward" title="Support Quest Reward" loading="lazy">
-        <span class="laning">Laning 68 : 32</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Heimerdinger.png" alt=""><span>BiZaM</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kindred.png" alt=""><span>MrTakeThatRisk</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png" alt=""><span>bast</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png" alt=""><span>Unforgiven</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Braum.png" alt=""><span>Try QSS</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png" alt=""><span>period account ッ</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viktor.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>Im Jinxed</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png" alt=""><span>FullClearDeluxe</span></li></ul></div>
-    <a class="shot" href="shots/g_bd647a535b.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 2:42 AM">10/25/2026, 2:42 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>28m 52s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/LeeSin.png" alt="Lee Sin" title="Lee Sin" loading="lazy"><em>14</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8128.png" alt="Dark Harvest" title="Dark Harvest" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">3 <i>/</i> <span class="dd">8</span> <i>/</i> 2</div><div class="ratio ">0.63:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 19%</div>
-          <div>CS 178 (6.2)</div>
-          <div class="tier">Platinum 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png" alt="Voltaic Cyclosword" title="Voltaic Cyclosword" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png" alt="Profane Hydra" title="Profane Hydra" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1001.png" alt="Boots" title="Boots" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3814.png" alt="Edge of Night" title="Edge of Night" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png" alt="Long Sword" title="Long Sword" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 45 : 55</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Olaf.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/LeeSin.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Veigar.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png" alt=""><span>Lord LongRod</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png" alt=""><span>69PapiChulo</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png" alt=""><span>Flocci</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png" alt=""><span>Kevzys</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Azir.png" alt=""><span>JA JA SCHNITZEL</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ashe.png" alt=""><span>tfwzukwung</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png" alt=""><span>Toxic James</span></li></ul></div>
-    <a class="shot" href="shots/g_fa24f98359.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 2:03 AM">10/25/2026, 2:03 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>32m 47s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png" alt="Zeri" title="Zeri" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8021.png" alt="Fleet Footwork" title="Fleet Footwork" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">16 <i>/</i> <span class="dd">7</span> <i>/</i> 9</div><div class="ratio blue">3.57:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 64%</div>
-          <div>CS 285 (8.7)</div>
-          <div class="tier">Platinum 1</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3085.png" alt="Runaan's Hurricane" title="Runaan's Hurricane" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3095.png" alt="Stormrazor" title="Stormrazor" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3031.png" alt="Infinity Edge" title="Infinity Edge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3006.png" alt="Berserker's Greaves" title="Berserker's Greaves" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6673.png" alt="Immortal Shieldbow" title="Immortal Shieldbow" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3026.png" alt="Guardian Angel" title="Guardian Angel" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 46 : 54</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png" alt=""><span>Walliford</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nocturne.png" alt=""><span>Keepitschwifty</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lissandra.png" alt=""><span>clt2244</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>x lolcats</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>Skizzy Barns</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Heimerdinger.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png" alt=""><span>Lord LongRod</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png" alt=""><span>69PapiChulo</span></li></ul></div>
-    <a class="shot" href="shots/g_d741850e3b.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 1:19 AM">10/25/2026, 1:19 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>36m 53s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png" alt="Qiyana" title="Qiyana" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8369.png" alt="First Strike" title="First Strike" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8100.png" alt="Domination" title="Domination" loading="lazy"></div>
-        <div class="kda"><div class="k">9 <i>/</i> <span class="dd">10</span> <i>/</i> 9</div><div class="ratio ">1.80:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 67%</div>
-          <div>CS 240 (6.5)</div>
-          <div class="tier">Platinum 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6694.png" alt="Serylda's Grudge" title="Serylda's Grudge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6697.png" alt="Hubris" title="Hubris" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png" alt="Voltaic Cyclosword" title="Voltaic Cyclosword" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6695.png" alt="Serpent's Fang" title="Serpent's Fang" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3814.png" alt="Edge of Night" title="Edge of Night" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 50 : 50</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Mordekaiser.png" alt=""><span>Vapurtrail</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Skarner.png" alt=""><span>Piccolojack</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png" alt=""><span>The Timber Wolf</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png" alt=""><span>CORGSY</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png" alt=""><span>CanuckleHead</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png" alt=""><span>Lord LongRod</span></li></ul></div>
-    <a class="shot" href="shots/g_e90990c235.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 1:31 AM">10/25/2026, 1:31 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>29m 51s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png" alt="Diana" title="Diana" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">15 <i>/</i> <span class="dd">3</span> <i>/</i> 8</div><div class="ratio gold">7.67:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 57%</div>
-          <div>CS 249 (8.3)</div>
-          <div class="tier">Platinum 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6653.png" alt="Liandry's Torment" title="Liandry's Torment" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3115.png" alt="Nashor's Tooth" title="Nashor's Tooth" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png" alt="Riftmaker" title="Riftmaker" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3089.png" alt="Rabadon's Deathcap" title="Rabadon's Deathcap" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1052.png" alt="Amplifying Tome" title="Amplifying Tome" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 61 : 39</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Darius.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sejuani.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png" alt=""><span>Lord LongRod</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png" alt=""><span>Johnny02648</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png" alt=""><span>Bear</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Locke.png" alt=""><span>KSIvsLOGAN</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kled.png" alt=""><span>jwtevez</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Maokai.png" alt=""><span>Yo Boi Pizza</span></li></ul></div>
-    <a class="shot" href="shots/g_909274c2e0.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 12:51 AM">10/25/2026, 12:51 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>30m 08s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png" alt="Vi" title="Vi" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/9923.png" alt="Hail of Blades" title="Hail of Blades" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">8 <i>/</i> <span class="dd">3</span> <i>/</i> 5</div><div class="ratio blue">4.33:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 65%</div>
-          <div>CS 229 (7.6)</div>
-          <div class="tier">Platinum 1</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png" alt="Black Cleaver" title="Black Cleaver" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3078.png" alt="Trinity Force" title="Trinity Force" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3026.png" alt="Guardian Angel" title="Guardian Angel" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2019.png" alt="Steel Sigil" title="Steel Sigil" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png" alt="Long Sword" title="Long Sword" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 65 : 35</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yorick.png" alt=""><span>EpicVerity</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MonkeyKing.png" alt=""><span>Embold</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malzahar.png" alt=""><span>Alex</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Varus.png" alt=""><span>GOVA THE HUT</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png" alt=""><span>Napalm</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leona.png" alt=""><span>Lord LongRod</span></li></ul></div>
-    <a class="shot" href="shots/g_4e2faf08e0.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/25/2026, 12:05 AM">10/25/2026, 12:05 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>33m 48s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png" alt="Cho'Gath" title="Cho'Gath" loading="lazy"><em>17</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/9923.png" alt="Hail of Blades" title="Hail of Blades" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">8 <i>/</i> <span class="dd">8</span> <i>/</i> 11</div><div class="ratio ">2.38:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 49%</div>
-          <div>CS 221 (6.5)</div>
-          <div class="tier">Emerald 4</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3076.png" alt="Bramble Vest" title="Bramble Vest" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6665.png" alt="Jak'Sho, The Protean" title="Jak'Sho, The Protean" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3009.png" alt="Boots of Swiftness" title="Boots of Swiftness" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3084.png" alt="Heartsteel" title="Heartsteel" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3110.png" alt="Frozen Heart" title="Frozen Heart" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 48 : 52</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kled.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/KogMaw.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rell.png" alt=""><span>Lord LongRod</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png" alt=""><span>SurpriseDuck</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Warwick.png" alt=""><span>Adek</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png" alt=""><span>ypxsom</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png" alt=""><span>Hi its david</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png" alt=""><span>Leosenna</span></li></ul></div>
-    <a class="shot" href="shots/g_41fe7ae858.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked 5s">
-    <div class="g-meta">
-      <b class="q">Ranked 5s</b>
-      <span class="ago" data-date="10/24/2026, 11:11 PM">10/24/2026, 11:11 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>27m 07s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt="Jarvan IV" title="Jarvan IV" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">15 <i>/</i> <span class="dd">1</span> <i>/</i> 9</div><div class="ratio gold">24.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 83%</div>
-          <div>CS 252 (9.3)</div>
-          <div class="tier">Platinum 3</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png" alt="Voltaic Cyclosword" title="Voltaic Cyclosword" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png" alt="Profane Hydra" title="Profane Hydra" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png" alt="Maw of Malmortius" title="Maw of Malmortius" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 64 : 36</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png" alt=""><span>69PapiChulo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leona.png" alt=""><span>Lord LongRod</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png" alt=""><span>La Bobayoga</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viego.png" alt=""><span>Jhim Carrey</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Locke.png" alt=""><span>Not2Shoddy</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Mel.png" alt=""><span>KevinChills</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png" alt=""><span>magbean</span></li></ul></div>
-    <a class="shot" href="shots/g_495458aa14.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked Flex">
-    <div class="g-meta">
-      <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/24/2026, 9:40 PM">10/24/2026, 9:40 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>29m 09s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png" alt="Volibear" title="Volibear" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8005.png" alt="Press the Attack" title="Press the Attack" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">6 <i>/</i> <span class="dd">10</span> <i>/</i> 7</div><div class="ratio ">1.30:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 48%</div>
-          <div>CS 221 (7.6)</div>
-          <div class="tier">Platinum 1</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3087.png" alt="Statikk Shiv" title="Statikk Shiv" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3146.png" alt="Hextech Gunblade" title="Hextech Gunblade" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4646.png" alt="Stormsurge" title="Stormsurge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3020.png" alt="Sorcerer's Shoes" title="Sorcerer's Shoes" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1052.png" alt="Amplifying Tome" title="Amplifying Tome" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 51 : 49</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tryndamere.png" alt=""><span>FUTUREBILLIONARE</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nidalee.png" alt=""><span>Uberdriver228</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png" alt=""><span>white male</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ziggs.png" alt=""><span>CCauldron 2</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png" alt=""><span>LoLDraftingAid</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jax.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png" alt=""><span>Artemis</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Milio.png" alt=""><span>Siri886</span></li></ul></div>
-    <a class="shot" href="shots/g_d7e953bdc8.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked Flex">
-    <div class="g-meta">
-      <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/24/2026, 9:05 PM">10/24/2026, 9:05 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>31m 33s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rengar.png" alt="Rengar" title="Rengar" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8100.png" alt="Domination" title="Domination" loading="lazy"></div>
-        <div class="kda"><div class="k">14 <i>/</i> <span class="dd">9</span> <i>/</i> 8</div><div class="ratio ">2.44:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 71%</div>
-          <div>CS 256 (8.1)</div>
-          <div class="tier">Platinum 1</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6697.png" alt="Hubris" title="Hubris" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png" alt="Profane Hydra" title="Profane Hydra" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3814.png" alt="Edge of Night" title="Edge of Night" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3009.png" alt="Boots of Swiftness" title="Boots of Swiftness" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png" alt="Voltaic Cyclosword" title="Voltaic Cyclosword" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3036.png" alt="Lord Dominik's Regards" title="Lord Dominik's Regards" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 44 : 56</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Trundle.png" alt=""><span>BALLZ360</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png" alt=""><span>purplemunchkin</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png" alt=""><span>Siri886</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>Andrew3017</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>Artemis</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Darius.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rengar.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png" alt=""><span>No Summoner Name</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Janna.png" alt=""><span>help me ward</span></li></ul></div>
-    <a class="shot" href="shots/g_bcaaf3ffb6.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/24/2026, 8:24 PM">10/24/2026, 8:24 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>25m 18s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png" alt="Pantheon" title="Pantheon" loading="lazy"><em>18</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">12 <i>/</i> <span class="dd">12</span> <i>/</i> 14</div><div class="ratio ">2.17:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223031.png" alt="Infinity Edge" title="Infinity Edge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226693.png" alt="Prowler's Claw" title="Prowler's Claw" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223095.png" alt="Stormrazor" title="Stormrazor" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226676.png" alt="The Collector" title="The Collector" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446691.png" alt="Duskblade of Draktharr" title="Duskblade of Draktharr" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223033.png" alt="Mortal Reminder" title="Mortal Reminder" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jax.png" alt=""><span>Juju</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>Shialzen</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png" alt=""><span>STEVENSOLOKILL</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>EmeraldFinalBoss</span></li></ul><ul><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>DFlats78</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png" alt=""><span>Vesperus</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ryze.png" alt=""><span>ZhanMuShi</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ashe.png" alt=""><span>Jorekk</span></li></ul></div>
-    <a class="shot" href="shots/g_2cde704acf.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/24/2026, 8:05 PM">10/24/2026, 8:05 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>26m 01s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png" alt="Volibear" title="Volibear" loading="lazy"><em>15</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">4 <i>/</i> <span class="dd">7</span> <i>/</i> 5</div><div class="ratio ">1.29:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223065.png" alt="Spirit Visage" title="Spirit Visage" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447109.png" alt="Cruelty" title="Cruelty" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447119.png" alt="Lightning Rod" title="Lightning Rod" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223084.png" alt="Heartsteel" title="Heartsteel" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447111.png" alt="Overlord's Bloodmail" title="Overlord's Bloodmail" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222502.png" alt="Unending Despair" title="Unending Despair" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Darius.png" alt=""><span>Iexistwithout</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>Giratina</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Amumu.png" alt=""><span>WaffleBunneh</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sett.png" alt=""><span>thickest wang NA</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png" alt=""><span>Red</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png" alt=""><span>Panda</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>傑弗裡</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rumble.png" alt=""><span>Vel Cosby</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Warwick.png" alt=""><span>Gragussy 十</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zilean.png" alt=""><span>Semi Croquant</span></li></ul></div>
-    <a class="shot" href="shots/g_4fa14e19dc.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked Flex">
-    <div class="g-meta">
-      <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/24/2026, 7:35 PM">10/24/2026, 7:35 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>32m 46s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png" alt="Udyr" title="Udyr" loading="lazy"><em>17</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">12 <i>/</i> <span class="dd">9</span> <i>/</i> 14</div><div class="ratio ">2.89:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 60%</div>
-          <div>CS 210 (6.4)</div>
-          <div class="tier">Platinum 3</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png" alt="Spear of Shojin" title="Spear of Shojin" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3009.png" alt="Boots of Swiftness" title="Boots of Swiftness" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png" alt="Maw of Malmortius" title="Maw of Malmortius" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3742.png" alt="Dead Man's Plate" title="Dead Man's Plate" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3044.png" alt="Phage" title="Phage" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png" alt="Stealth Ward" title="Stealth Ward" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 72 : 28</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png" alt=""><span>naughty tee</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/XinZhao.png" alt=""><span>Cheeky But Fair</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png" alt=""><span>Tenshiiii</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png" alt=""><span>Frost</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png" alt=""><span>Eternal Soul</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png" alt=""><span>wyatt</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png" alt=""><span>Brainiac18</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png" alt=""><span>Tracklete</span></li></ul></div>
-    <a class="shot" href="shots/g_f8b7e84625.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game win" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/24/2026, 6:43 PM">10/24/2026, 6:43 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>29m 35s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt="Hecarim" title="Hecarim" loading="lazy"><em>17</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png" alt="Ghost" title="Ghost" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png" alt="Stormraider's Surge" title="Stormraider's Surge" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">8 <i>/</i> <span class="dd">6</span> <i>/</i> 10</div><div class="ratio blue">3.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 49%</div>
-          <div>CS 217 (7.3)</div>
-          <div class="tier">Master 826</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6697.png" alt="Hubris" title="Hubris" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3036.png" alt="Lord Dominik's Regards" title="Lord Dominik's Regards" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3134.png" alt="Serrated Dirk" title="Serrated Dirk" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 43 : 57</span></div>
-      <div class="g-roast">Win on Hecarim (8/6/10). Carried or carried? The 7.3 CS/min says &quot;a bit of both&quot;.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png" alt=""><span>h0rnyteemo LF GF</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png" alt=""><span>Vow</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png" alt=""><span>bleeu</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zilean.png" alt=""><span>workthecorner843</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png" alt=""><span>Zhao Yu Liang</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png" alt=""><span>marcopolo656</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>I GEOFFREY I</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png" alt=""><span>Sabin</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png" alt=""><span>Bitter</span></li></ul></div>
-    <a class="shot" href="shots/g_3ab7f40393.jpg" target="_blank" title="op.gg screenshot">📸</a>
-  </div>
-  <div class="game loss" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/24/2026, 6:09 PM">10/24/2026, 6:09 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>23m 41s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt="Hecarim" title="Hecarim" loading="lazy"><em>13</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png" alt="Ghost" title="Ghost" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png" alt="Stormraider's Surge" title="Stormraider's Surge" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">7 <i>/</i> <span class="dd">9</span> <i>/</i> 4</div><div class="ratio ">1.22:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 55%</div>
-          <div>CS 166 (7)</div>
-          <div class="tier">Master 872</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png" alt="Spear of Shojin" title="Spear of Shojin" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3133.png" alt="Caulfield's Warhammer" title="Caulfield's Warhammer" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1037.png" alt="Pickaxe" title="Pickaxe" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png" alt="Long Sword" title="Long Sword" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 44 : 56</span></div>
-      <div class="g-roast">7/9/4 on Hecarim. That's not a KDA, that's a donation receipt.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Karthus.png" alt=""><span>KITE</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png" alt=""><span>Sammyajit</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xayah.png" alt=""><span>Durango</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png" alt=""><span>Loyal Cygnaran</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aurora.png" alt=""><span>UtopianSoldier</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt=""><span>JuckFackson</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zed.png" alt=""><span>nicholas gamer</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png" alt=""><span>P
-123321</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>Ouinerrinech</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/24/2026, 5:43 AM">10/24/2026, 5:43 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>28m 27s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt="Jarvan IV" title="Jarvan IV" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">10 <i>/</i> <span class="dd">8</span> <i>/</i> 12</div><div class="ratio ">2.75:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 71%</div>
-          <div>CS 185 (6.5)</div>
-          <div class="tier">Master 634</div>
-          <div class="lp down">-29 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png" alt="Voltaic Cyclosword" title="Voltaic Cyclosword" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png" alt="Profane Hydra" title="Profane Hydra" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3155.png" alt="Hexdrinker" title="Hexdrinker" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3133.png" alt="Caulfield's Warhammer" title="Caulfield's Warhammer" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 46 : 54</span></div>
-      <div class="g-roast">10/8/12 on Jarvan IV. That's not a KDA, that's a donation receipt.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gwen.png" alt=""><span>최고가될꺼야</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Graves.png" alt=""><span>U30 Táo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png" alt=""><span>Samy Maney</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Heimerdinger.png" alt=""><span>ptangy 2</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png" alt=""><span>BradleyHATESNoon</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png" alt=""><span>SPORTY</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png" alt=""><span>Drey Gasai</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Varus.png" alt=""><span>Inferno</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png" alt=""><span>SYDMO</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/24/2026, 5:09 AM">10/24/2026, 5:09 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>31m 43s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt="Sylas" title="Sylas" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">7 <i>/</i> <span class="dd">5</span> <i>/</i> 6</div><div class="ratio ">2.60:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 52%</div>
-          <div>CS 236 (7.4)</div>
-          <div class="tier">Master 601</div>
-          <div class="lp down">-29 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4645.png" alt="Shadowflame" title="Shadowflame" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png" alt="Zhonya's Hourglass" title="Zhonya's Hourglass" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3135.png" alt="Void Staff" title="Void Staff" loading="lazy"><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 49 : 51</span></div>
-      <div class="g-roast">A 7/5/6 loss on Sylas. Not the worst, but the LP doesn't care about effort.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png" alt=""><span>Tsyrac</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Graves.png" alt=""><span>N1ceJoB</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png" alt=""><span>KoopThingz</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png" alt=""><span>not flawless</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png" alt=""><span>拾月猫</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kassadin.png" alt=""><span>HighGhost</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png" alt=""><span>Zeuzu</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png" alt=""><span>calm down fatty</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png" alt=""><span>gamefreak2g</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/24/2026, 4:24 AM">10/24/2026, 4:24 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>24m 47s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt="Hecarim" title="Hecarim" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png" alt="Ghost" title="Ghost" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png" alt="Stormraider's Surge" title="Stormraider's Surge" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png" alt="Precision" title="Precision" loading="lazy"></div>
-        <div class="kda"><div class="k">8 <i>/</i> <span class="dd">2</span> <i>/</i> 10</div><div class="ratio gold">9.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 62%</div>
-          <div>CS 233 (9.4)</div>
-          <div class="tier">Master 848</div>
-          <div class="lp up">+31 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png" alt="Spear of Shojin" title="Spear of Shojin" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><span class="it empty"></span><span class="it empty"></span><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 59 : 41</span></div>
-      <div class="g-roast">8/2/10 win on Hecarim. LP is LP, even when it's ugly.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Mordekaiser.png" alt=""><span>Dwye</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png" alt=""><span>Better Top</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png" alt=""><span>TimelessStruggle</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Bard.png" alt=""><span>ARRT1</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aurora.png" alt=""><span>P
-asdzxcvqwe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viego.png" alt=""><span>Elekktro</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kassadin.png" alt=""><span>Pixel</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png" alt=""><span>Noton</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png" alt=""><span>Grape</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/24/2026, 3:54 AM">10/24/2026, 3:54 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>31m 18s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png" alt="Aatrox" title="Aatrox" loading="lazy"><em>16</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png" alt="Smite" title="Smite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png" alt="Conqueror" title="Conqueror" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">5 <i>/</i> <span class="dd">7</span> <i>/</i> 7</div><div class="ratio ">1.71:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 60%</div>
-          <div>CS 202 (6.5)</div>
-          <div class="tier">Master 723</div>
-          <div class="lp down">-29 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6697.png" alt="Hubris" title="Hubris" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png" alt="Spear of Shojin" title="Spear of Shojin" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png" alt="Plated Steelcaps" title="Plated Steelcaps" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2021.png" alt="Tunneler" title="Tunneler" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png" alt="Long Sword" title="Long Sword" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png" alt="Jungle Quest Reward" title="Jungle Quest Reward" loading="lazy">
-        <span class="laning">Laning 46 : 54</span></div>
-      <div class="g-roast">A 5/7/7 loss on Aatrox. Not the worst, but the LP doesn't care about effort.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png" alt=""><span>Choomp</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Khazix.png" alt=""><span>WARLORD MALIK</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png" alt=""><span>PurpleTruffl3</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Corki.png" alt=""><span>Xtreme</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png" alt=""><span>Brett</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Heimerdinger.png" alt=""><span>enripsa</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png" alt=""><span>ballion</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png" alt=""><span>Enen</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png" alt=""><span>刺客 伍六七</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Ranked Solo/Duo">
-    <div class="g-meta">
-      <b class="q">Ranked Solo/Duo</b>
-      <span class="ago" data-date="10/23/2026, 3:46 AM">10/23/2026, 3:46 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>31m 22s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt="Sylas" title="Sylas" loading="lazy"><em>15</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerDot.png" alt="Ignite" title="Ignite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8112.png" alt="Electrocute" title="Electrocute" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8200.png" alt="Sorcery" title="Sorcery" loading="lazy"></div>
-        <div class="kda"><div class="k">6 <i>/</i> <span class="dd">3</span> <i>/</i> 13</div><div class="ratio gold">6.33:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 50%</div>
-          <div>CS 40 (1.3)</div>
-          <div class="tier">Master 726</div>
-          <div class="lp up">+31 LP</div>
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3869.png" alt="Celestial Opposition" title="Celestial Opposition" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png" alt="Zhonya's Hourglass" title="Zhonya's Hourglass" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1082.png" alt="Dark Seal" title="Dark Seal" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3020.png" alt="Sorcerer's Shoes" title="Sorcerer's Shoes" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3113.png" alt="Aether Wisp" title="Aether Wisp" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1208.png" alt="Support Quest Reward" title="Support Quest Reward" loading="lazy">
-        <span class="laning">Laning 57 : 43</span></div>
-      <div class="g-roast">Win on Sylas (6/3/13). Carried or carried? The 1.3 CS/min says &quot;a bit of both&quot;.</div>
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ambessa.png" alt=""><span>Starcadian</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/RekSai.png" alt=""><span>Let try again</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png" alt=""><span>ASTROGOD</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png" alt=""><span>siren eyes</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png" alt=""><span>BarbaricDictator</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renekton.png" alt=""><span>Saru</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lillia.png" alt=""><span>chercher duo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png" alt=""><span>champagnepapl</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png" alt=""><span>Darth Goonius</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>FullClearDeluxe</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Ranked Flex">
-    <div class="g-meta">
-      <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/23/2026, 2:45 AM">10/23/2026, 2:45 AM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>46m 05s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png" alt="Lulu" title="Lulu" loading="lazy"><em>18</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHeal.png" alt="Heal" title="Heal" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8214.png" alt="Summon Aery" title="Summon Aery" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8400.png" alt="Resolve" title="Resolve" loading="lazy"></div>
-        <div class="kda"><div class="k">2 <i>/</i> <span class="dd">10</span> <i>/</i> 28</div><div class="ratio blue">3.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 64%</div>
-          <div>CS 49 (1.1)</div>
-          <div class="tier">Platinum 3</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3871.png" alt="Zaz'Zak's Realmspike" title="Zaz'Zak's Realmspike" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2065.png" alt="Shurelya's Battlesong" title="Shurelya's Battlesong" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3107.png" alt="Redemption" title="Redemption" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3089.png" alt="Rabadon's Deathcap" title="Rabadon's Deathcap" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3504.png" alt="Ardent Censer" title="Ardent Censer" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1208.png" alt="Support Quest Reward" title="Support Quest Reward" loading="lazy">
-        <span class="laning">Laning 52 : 48</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png" alt=""><span>Darkcake99</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shaco.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Corki.png" alt=""><span>69PapiChulo</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png" alt=""><span>FullClearDeluxe</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png" alt=""><span>Red</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>Icy</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png" alt=""><span>Shirokuma</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png" alt=""><span>Mitsu</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png" alt=""><span>miynt</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Ranked Flex">
-    <div class="g-meta">
-      <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/23/2026, 1:53 AM">10/23/2026, 1:53 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>27m 49s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt="Neeko" title="Neeko" loading="lazy"><em>14</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerDot.png" alt="Ignite" title="Ignite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8229.png" alt="Arcane Comet" title="Arcane Comet" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">4 <i>/</i> <span class="dd">4</span> <i>/</i> 19</div><div class="ratio gold">5.75:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 62%</div>
-          <div>CS 44 (1.6)</div>
-          <div class="tier">Platinum 2</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3869.png" alt="Celestial Opposition" title="Celestial Opposition" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3041.png" alt="Mejai's Soulstealer" title="Mejai's Soulstealer" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4005.png" alt="Imperial Mandate" title="Imperial Mandate" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3916.png" alt="Oblivion Orb" title="Oblivion Orb" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy">
-        <span class="laning">Laning 65 : 35</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TahmKench.png" alt=""><span>BigMoistPhrogg</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>aDeathtrap</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png" alt=""><span>Supasorcerer</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jayce.png" alt=""><span>Kengy</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png" alt=""><span>Saber</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png" alt=""><span>Darkcake99</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiddlesticks.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png" alt=""><span>69PapiChulo</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt=""><span>FullClearDeluxe</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Ranked Flex">
-    <div class="g-meta">
-      <b class="q">Ranked Flex</b>
-      <span class="ago" data-date="10/23/2026, 12:39 AM">10/23/2026, 12:39 AM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>27m 57s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt="Neeko" title="Neeko" loading="lazy"><em>14</em></div>
-        <div class="col2"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerDot.png" alt="Ignite" title="Ignite" loading="lazy"><img class="sq" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png" alt="Flash" title="Flash" loading="lazy"></div>
-        <div class="col2"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8229.png" alt="Arcane Comet" title="Arcane Comet" loading="lazy"><img class="rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png" alt="Inspiration" title="Inspiration" loading="lazy"></div>
-        <div class="kda"><div class="k">10 <i>/</i> <span class="dd">6</span> <i>/</i> 13</div><div class="ratio blue">3.83:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 64%</div>
-          <div>CS 56 (2)</div>
-          <div class="tier">Gold 1</div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3869.png" alt="Celestial Opposition" title="Celestial Opposition" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png" alt="Hextech Rocketbelt" title="Hextech Rocketbelt" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2421.png" alt="Shattered Armguard" title="Shattered Armguard" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4005.png" alt="Imperial Mandate" title="Imperial Mandate" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1058.png" alt="Needlessly Large Rod" title="Needlessly Large Rod" loading="lazy"><img class="it rd" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png" alt="Oracle Lens" title="Oracle Lens" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1208.png" alt="Support Quest Reward" title="Support Quest Reward" loading="lazy">
-        <span class="laning">Laning 67 : 33</span></div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png" alt=""><span>Mephistos</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>Wutong</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png" alt=""><span>Aleyy</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png" alt=""><span>ClownLord</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png" alt=""><span>Joujou58</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png" alt=""><span>Darkcake99</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png" alt=""><span>EmeraldFinalBoss</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/KogMaw.png" alt=""><span>69PapiChulo</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt=""><span>FullClearDeluxe</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/22/2026, 11:42 PM">10/22/2026, 11:42 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>24m 01s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png" alt="Shyvana" title="Shyvana" loading="lazy"><em>18</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">13 <i>/</i> <span class="dd">4</span> <i>/</i> 9</div><div class="ratio gold">5.50:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224633.png" alt="Riftmaker" title="Riftmaker" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447122.png" alt="Black Hole Gauntlet" title="Black Hole Gauntlet" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223073.png" alt="Experimental Hexplate" title="Experimental Hexplate" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223084.png" alt="Heartsteel" title="Heartsteel" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447111.png" alt="Overlord's Bloodmail" title="Overlord's Bloodmail" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222502.png" alt="Unending Despair" title="Unending Despair" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Milio.png" alt=""><span>De Lion King</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png" alt=""><span>PRETTY4U</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png" alt=""><span>DOIT4ME</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jax.png" alt=""><span>SoonEnough</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>Weasel Brain</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ashe.png" alt=""><span>Zero</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Annie.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png" alt=""><span>EmeraldFinalBoss</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shen.png" alt=""><span>Oleander</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/22/2026, 11:16 PM">10/22/2026, 11:16 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>28m 35s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png" alt="Master Yi" title="Master Yi" loading="lazy"><em>18</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">24 <i>/</i> <span class="dd">14</span> <i>/</i> 3</div><div class="ratio ">1.93:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223008.png" alt="Gluttonous Greaves" title="Gluttonous Greaves" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443081.png" alt="Hexbolt Companion" title="Hexbolt Companion" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223153.png" alt="Blade of The Ruined King" title="Blade of The Ruined King" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443060.png" alt="Sword of the Divine" title="Sword of the Divine" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223124.png" alt="Guinsoo's Rageblade" title="Guinsoo's Rageblade" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png" alt=""><span>Young Squire</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Janna.png" alt=""><span>Kythera</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Morgana.png" alt=""><span>MEEKb</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TahmKench.png" alt=""><span>cheezball</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png" alt=""><span>HinHin420</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png" alt=""><span>SilverGng</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taric.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png" alt=""><span>EmeraldFinalBoss</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png" alt=""><span>jg no mechanics</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/22/2026, 10:49 PM">10/22/2026, 10:49 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>24m 59s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Graves.png" alt="Graves" title="Graves" loading="lazy"><em>18</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">4 <i>/</i> <span class="dd">7</span> <i>/</i> 14</div><div class="ratio ">2.57:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223008.png" alt="Gluttonous Greaves" title="Gluttonous Greaves" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446671.png" alt="Galeforce" title="Galeforce" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446691.png" alt="Duskblade of Draktharr" title="Duskblade of Draktharr" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226676.png" alt="The Collector" title="The Collector" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223031.png" alt="Infinity Edge" title="Infinity Edge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226673.png" alt="Immortal Shieldbow" title="Immortal Shieldbow" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png" alt=""><span>Doctor Sax</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png" alt=""><span>Rolorius</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vladimir.png" alt=""><span>The Ultimez</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/AurelionSol.png" alt=""><span>HighCourtCassius</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ziggs.png" alt=""><span>Fiesta Online</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png" alt=""><span>虎逼大冲冲</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gangplank.png" alt=""><span>NebaNeba</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Braum.png" alt=""><span>Zacsquatch</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png" alt=""><span>Milk In Nose</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png" alt=""><span>wyatt</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/22/2026, 10:22 PM">10/22/2026, 10:22 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>25m 12s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png" alt="Jarvan IV" title="Jarvan IV" loading="lazy"><em>16</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">2 <i>/</i> <span class="dd">7</span> <i>/</i> 12</div><div class="ratio ">2.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223158.png" alt="Ionian Boots of Lucidity" title="Ionian Boots of Lucidity" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447122.png" alt="Black Hole Gauntlet" title="Black Hole Gauntlet" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447107.png" alt="Decapitator" title="Decapitator" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223068.png" alt="Sunfire Aegis" title="Sunfire Aegis" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222502.png" alt="Unending Despair" title="Unending Despair" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222504.png" alt="Kaenic Rookern" title="Kaenic Rookern" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ornn.png" alt=""><span>PoopDave420</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png" alt=""><span>DoctorBoof</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png" alt=""><span>PoopMason420</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png" alt=""><span>HugeBrother</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Veigar.png" alt=""><span>xXCRABITOxX</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png" alt=""><span>DrillxMexpower</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Illaoi.png" alt=""><span>Mohaa07</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Veigar.png" alt=""><span>Vi are u running</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png" alt=""><span>Kniffy Kittie</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png" alt=""><span>Volpi</span></li></ul></div>
-    
-  </div>
-  <div class="game win" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/22/2026, 9:51 PM">10/22/2026, 9:51 PM</span>
-      <i class="bar"></i>
-      <b class="res">Victory</b>
-      <span>20m 49s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Riven.png" alt="Riven" title="Riven" loading="lazy"><em>17</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">14 <i>/</i> <span class="dd">1</span> <i>/</i> 14</div><div class="ratio gold">28.00:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223008.png" alt="Gluttonous Greaves" title="Gluttonous Greaves" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226693.png" alt="Prowler's Claw" title="Prowler's Claw" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226692.png" alt="Eclipse" title="Eclipse" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222517.png" alt="Endless Hunger" title="Endless Hunger" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226610.png" alt="Sundered Sky" title="Sundered Sky" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226333.png" alt="Death's Dance" title="Death's Dance" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rengar.png" alt=""><span>wyatt</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nocturne.png" alt=""><span>EmeraldFinalBoss</span></li><li class="me"><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Riven.png" alt=""><span>FullClearDeluxe</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png" alt=""><span>Garlic Sr</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png" alt=""><span>coopdaddycoop</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png" alt=""><span>Geped</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png" alt=""><span>sushi cat 555</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Darius.png" alt=""><span>geonbu</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png" alt=""><span>Neeru</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Katarina.png" alt=""><span>Wenyanl67</span></li></ul></div>
-    
-  </div>
-  <div class="game loss" data-queue="Arena">
-    <div class="g-meta">
-      <b class="q">Arena</b>
-      <span class="ago" data-date="10/22/2026, 9:31 PM">10/22/2026, 9:31 PM</span>
-      <i class="bar"></i>
-      <b class="res">Defeat</b>
-      <span>26m 33s</span>
-    </div>
-    <div class="g-main">
-      <div class="g-top">
-        <div class="champ"><img class="cimg" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sivir.png" alt="Sivir" title="Sivir" loading="lazy"><em>16</em></div>
-        <div class="col2"><span class="sq empty"></span><span class="sq empty"></span></div>
-        <div class="col2"><span class="rd empty"></span><span class="rd empty"></span></div>
-        <div class="kda"><div class="k">7 <i>/</i> <span class="dd">5</span> <i>/</i> 10</div><div class="ratio blue">3.40:1 KDA</div></div>
-        <div class="extra">
-          <div class="kp">P/Kill 0%</div>
-          <div>CS 0 (0)</div>
-          <div class="tier"></div>
-          
-        </div>
-      </div>
-      <div class="items"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223072.png" alt="Bloodthirster" title="Bloodthirster" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446671.png" alt="Galeforce" title="Galeforce" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223190.png" alt="Locket of the Iron Solari" title="Locket of the Iron Solari" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223031.png" alt="Infinity Edge" title="Infinity Edge" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226673.png" alt="Immortal Shieldbow" title="Immortal Shieldbow" loading="lazy"><img class="it" src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446691.png" alt="Duskblade of Draktharr" title="Duskblade of Draktharr" loading="lazy"><span class="it rd empty"></span>
-        </div>
-      
-    </div>
-    <div class="teams"><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiddlesticks.png" alt=""><span>VInnyMacc</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ambessa.png" alt=""><span>Rookie Dee</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png" alt=""><span>Top10AnimeKills</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png" alt=""><span>Sloth</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aphelios.png" alt=""><span>Bearmangler</span></li></ul><ul><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/XinZhao.png" alt=""><span>jardmcdanny</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png" alt=""><span>Nordg</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Naafiri.png" alt=""><span>MrBanobo</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nilah.png" alt=""><span>Skuba Skuba</span></li><li class=""><img src="https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png" alt=""><span>The Codysseus</span></li></ul></div>
-    
   </div></div>
-<footer>Data from op.gg. Not endorsed by Riot Games or OP.GG.</footer>
+<div class="none" id="none" hidden>No games in the last 24 hours.</div>
+
+<div class="card" style="margin-top:14px"><h2>Previous days</h2><div class="days">
+  <details class="day up"><summary><b>Sunday 25 October</b><span class="dwl">3W 2L</span><span>5.0 / <i class="red">4.2</i> / 7.8</span><span>8.0 CS/m</span><span class="dlp">+35 LP</span></summary>
+  <p>3W 2L, +35 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 5.0/4.2/7.8 (3.0 KDA), 8.0 CS/min and 51% kill participation. Low point: 6/6/4 on Hecarim. The enemy team is still laughing about it in their Discord. Best game: 6/3/10 on Hecarim - proof he CAN play, which makes the rest of it even worse.</p><div class="fix"><b>What to fix</b><ol><li>Join the fights: 51% kill participation - path towards the side of the map that's actually playing and be there for objectives.</li><li>Win the early game: losing laning phase on average (42:58) - plan the first clear and look for an early gank on the winning lane.</li><li>Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer.</li></ol></div></details>
+  <details class="day down"><summary><b>Saturday 24 October</b><span class="dwl">1W 3L</span><span>8.0 / <i class="red">7.0</i> / 8.0</span><span>7.1 CS/m</span><span class="dlp">-58 LP</span></summary>
+  <p>1W 3L, -58 LP. His LP graph looks like a ski slope and he isn't even wearing skis. Averaged 8.0/7.0/8.0 (2.3 KDA), 7.1 CS/min and 57% kill participation. 7.0 deaths a game - the grey screen gets more playtime than his champion. The death timer knows him by first name. Low point: 7/9/4 on Hecarim. Delete the replay. Delete the account. Start again.</p><div class="fix"><b>What to fix</b><ol><li>Stop dying: 7.0 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.</li><li>Win the early game: losing laning phase on average (46:54) - plan the first clear and look for an early gank on the winning lane.</li><li>Know when to stop: 3 losses in a day - two losses in a row means log off, not &quot;one more&quot;.</li></ol></div></details>
+  <details class="day up"><summary><b>Friday 23 October</b><span class="dwl">1W 1L</span><span>6.5 / <i class="red">4.5</i> / 8.5</span><span>7.8 CS/m</span><span class="dlp">+2 LP</span></summary>
+  <p>1W 1L, +2 LP. Hours of queueing to go absolutely nowhere. A hamster wheel with a ranked emblem. Averaged 6.5/4.5/8.5 (3.3 KDA), 7.8 CS/min and 61% kill participation. Low point: 5/7/7 on Aatrox. Delete the replay. Delete the account. Start again. Best game: 8/2/10 on Hecarim - proof he CAN play, which makes the rest of it even worse.</p><div class="fix"><b>What to fix</b><ol><li>Review one loss a day - find the single fight that lost the game and what he should have done instead.</li><li>Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.</li><li>Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer.</li></ol></div></details>
+  <details class="day up"><summary><b>Thursday 22 October</b><span class="dwl">1W 0L</span><span>6.0 / <i class="red">3.0</i> / 13.0</span><span>1.3 CS/m</span><span class="dlp">+31 LP</span></summary>
+  <p>1W 0L, +31 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 6.0/3.0/13.0 (6.3 KDA), 1.3 CS/min and 50% kill participation. 1.3 CS/min - the camps are respawning out of pity. Best game: 6/3/13 on Sylas - proof he CAN play, which makes the rest of it even worse.</p><div class="fix"><b>What to fix</b><ol><li>Farm more: 1.3 CS/min - clear camps between fights instead of hovering lanes that aren't going to give anything.</li><li>Join the fights: 50% kill participation - path towards the side of the map that's actually playing and be there for objectives.</li><li>Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer.</li></ol></div></details></div></div>
+<footer>Data from op.gg. Times in Toronto (Eastern) time. Not endorsed by Riot Games or OP.GG.</footer>
 </div>
 <script>
-const now=new Date();
-document.getElementById('today').textContent=now.toLocaleDateString(undefined,{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+const TZ="America/Toronto";const now=new Date();
+document.getElementById('today').textContent=now.toLocaleDateString('en-US',{timeZone:TZ,weekday:'long',day:'numeric',month:'long',year:'numeric'})+' · '+now.toLocaleTimeString('en-US',{timeZone:TZ,hour:'numeric',minute:'2-digit'});
 function ago(d){const s=(Date.now()-d)/1000;if(s<60)return'just now';const m=s/60;if(m<60)return Math.round(m)+' minute'+(Math.round(m)==1?'':'s')+' ago';const h=m/60;if(h<24)return Math.round(h)+' hour'+(Math.round(h)==1?'':'s')+' ago';const dd=Math.round(h/24);return dd+' day'+(dd==1?'':'s')+' ago';}
-function parse(s){const m=(s||'').match(/(\d+)\/(\d+)\/(\d+),\s*(\d+):(\d+)\s*(AM|PM)/);if(!m)return null;let h=+m[4]%12;if(m[6]=='PM')h+=12;return new Date(+m[3],+m[1]-1,+m[2],h,+m[5]);}
-document.querySelectorAll('.ago').forEach(e=>{const d=e.dataset.iso?new Date(e.dataset.iso):parse(e.dataset.date);if(d&&!isNaN(d)){e.title=d.toLocaleString();e.textContent=ago(d);}});
-const DAYS=[{"key":"2026-10-26","label":"Monday 26 October","roast":"1W 1L, +2 LP. A whole day of queueing to end up roughly where he started. Inspiring. Averaged 11.5/5.5/13.5 (4.5 KDA) with 7.6 CS/min and 56% kill participation. Low point: 6/6/4 on Hecarim. Delete the replay. Best game: 17/5/23 on Hecarim - proof he CAN play when he wants to.","fixes":["Stop dying: 5.5 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.","Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.","Keep doing what works - his wins came from playing around his team, not from solo heroics."],"wins":1,"losses":1,"k":11.5,"d":5.5,"a":13.5,"csm":7.563996696944674,"kp":56,"lpNet":2,"ints":0},{"key":"2026-10-25","label":"Sunday 25 October","roast":"3W 1L, +64 LP. A winning day - write it down, it might not happen again. Averaged 4.8/3.8/8.8 (3.6 KDA) with 8.3 CS/min and 54% kill participation. Low point: 1/3/2 on Hecarim. Delete the replay. Best game: 6/3/10 on Hecarim - proof he CAN play when he wants to.","fixes":["Join the fights: 54% kill participation - path towards the side of the map that's actually playing and be there for objectives.","Win the early game: losing laning phase on average (43:57) - plan the first clear and look for an early gank on the winning lane.","Keep doing what works - his wins came from playing around his team, not from solo heroics."],"wins":3,"losses":1,"k":4.75,"d":3.75,"a":8.75,"csm":8.3039916332578,"kp":54.25,"lpNet":64,"ints":0},{"key":"2026-10-24","label":"Saturday 24 October","roast":"2W 4L and -56 LP. That's not a ranked session, that's a charity drive for the enemy team. Averaged 7.5/6.2/8.2 (2.5 KDA) with 7.3 CS/min and 58% kill participation. 6.2 deaths a game. Not technically inting, but the grey screen is getting more screen time than the champion. Low point: 7/9/4 on Hecarim. Delete the replay. Best game: 8/2/10 on Hecarim - proof he CAN play when he wants to.","fixes":["Stop dying: 6.2 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.","Win the early game: losing laning phase on average (48:52) - plan the first clear and look for an early gank on the winning lane.","Pick a lane - and a champion: 4 different champions in 6 games. Stick to 2-3 picks and actually master them."],"wins":2,"losses":4,"k":7.5,"d":6.166666666666667,"a":8.166666666666666,"csm":7.309015829318651,"kp":58.166666666666664,"lpNet":-56,"ints":0},{"key":"2026-10-23","label":"Friday 23 October","roast":"1W 0L, +31 LP. A winning day - write it down, it might not happen again. Averaged 6.0/3.0/13.0 (6.3 KDA) with 1.3 CS/min and 50% kill participation. Best game: 6/3/13 on Sylas - proof he CAN play when he wants to.","fixes":["Farm more: 1.3 CS/min - clear camps between fights instead of hovering lanes that aren't going to give anything.","Join the fights: 50% kill participation - path towards the side of the map that's actually playing and be there for objectives.","Keep doing what works - his wins came from playing around his team, not from solo heroics."],"wins":1,"losses":0,"k":6,"d":3,"a":13,"csm":1.2752391073326248,"kp":50,"lpNet":31,"ints":0}];
-(function(){const pad=n=>String(n).padStart(2,'0');const tk=now.getFullYear()+'-'+pad(now.getMonth()+1)+'-'+pad(now.getDate());
-const e=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));const f=v=>(Math.round(v*10)/10).toFixed(1);
-let d=DAYS.find(x=>x.key===tk),note='';if(!d&&DAYS.length){d=DAYS[0];note='<p style="color:var(--mut)">No ranked solo/duo games yet today - here's '+e(d.label)+'.</p>';}
-const dn=document.getElementById('dayname');if(!d){dn.textContent=now.toLocaleDateString(undefined,{weekday:'long',day:'numeric',month:'long'});return;}
-dn.textContent=d.key===tk?'today, '+now.toLocaleDateString(undefined,{weekday:'long',day:'numeric',month:'long'}):d.label;
-document.getElementById('dayrep').innerHTML=note+'<div class="dstats"><span><b>'+d.wins+'W '+d.losses+'L</b></span><span><b>'+f(d.k)+' / '+f(d.d)+' / '+f(d.a)+'</b> avg</span><span><b>'+f(d.csm)+'</b> CS/min</span><span><b>'+Math.round(d.kp)+'%</b> KP</span><span><b>'+(d.lpNet>=0?'+':'')+d.lpNet+'</b> LP</span>'+(d.ints?'<span class="int">'+d.ints+' int'+(d.ints>1?'s':'')+'</span>':'')+'</div><p>'+e(d.roast)+'</p><div class="fix"><b>What he needs to fix</b><ol>'+(d.fixes||[]).map(x=>'<li>'+e(x)+'</li>').join('')+'</ol></div>';})();
+document.querySelectorAll('.ago').forEach(e=>{const d=e.dataset.iso?new Date(e.dataset.iso):(+e.dataset.ts?new Date(+e.dataset.ts):null);if(d&&!isNaN(d)){e.title=d.toLocaleString('en-US',{timeZone:TZ})+' Toronto';e.textContent=ago(d);}});
 const btns=document.querySelectorAll('.tabs button');
-function show(f){btns.forEach(b=>b.classList.toggle('on',b.dataset.f===f));document.querySelectorAll('.game').forEach(g=>g.style.display=!f||g.dataset.queue===f?'':'none');}
+function show(f){btns.forEach(b=>b.classList.toggle('on',b.dataset.f===f));let n=0;document.querySelectorAll('.game').forEach(g=>{const ok=(!f||g.dataset.queue===f)&&Date.now()-(+g.dataset.ts)<864e5;g.style.display=ok?'':'none';if(ok)n++;});document.getElementById('none').hidden=n>0;}
 btns.forEach(b=>b.onclick=()=>show(b.dataset.f));show("Ranked Solo/Duo");
 </script></body></html>

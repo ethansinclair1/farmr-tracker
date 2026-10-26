@@ -1,76 +1,98 @@
 {
  "2026-10-26": {
-  "roast": "1W 1L, +2 LP. A whole day of queueing to end up roughly where he started. Inspiring. Averaged 11.5/5.5/13.5 (4.5 KDA) with 7.6 CS/min and 56% kill participation. Low point: 6/6/4 on Hecarim. Delete the replay. Best game: 17/5/23 on Hecarim - proof he CAN play when he wants to.",
+  "roast": "1W 0L, +31 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 17.0/5.0/23.0 (8.0 KDA), 8.1 CS/min and 75% kill participation. 5.0 deaths a game. Not inting by definition, inting by vibes. Best game: 17/5/23 on Hecarim - proof he CAN play, which makes the rest of it even worse.",
   "fixes": [
-   "Stop dying: 5.5 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
+   "Stop dying: 5.0 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
    "Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.",
-   "Keep doing what works - his wins came from playing around his team, not from solo heroics."
+   "Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer."
+  ],
+  "ai": false,
+  "wins": 1,
+  "losses": 0,
+  "k": 17,
+  "d": 5,
+  "a": 23,
+  "kda": 8,
+  "csm": 8.07915057915058,
+  "kp": 75,
+  "lpNet": 31,
+  "ints": 0,
+  "games": 1,
+  "label": "Monday 26 October",
+  "at": "2026-10-26T20:49:55.949Z"
+ },
+ "2026-10-25": {
+  "roast": "3W 2L, +35 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 5.0/4.2/7.8 (3.0 KDA), 8.0 CS/min and 51% kill participation. Low point: 6/6/4 on Hecarim. The enemy team is still laughing about it in their Discord. Best game: 6/3/10 on Hecarim - proof he CAN play, which makes the rest of it even worse.",
+  "fixes": [
+   "Join the fights: 51% kill participation - path towards the side of the map that's actually playing and be there for objectives.",
+   "Win the early game: losing laning phase on average (42:58) - plan the first clear and look for an early gank on the winning lane.",
+   "Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer."
+  ],
+  "ai": false,
+  "wins": 3,
+  "losses": 2,
+  "k": 5,
+  "d": 4.2,
+  "a": 7.8,
+  "kda": 3.0476190476190474,
+  "csm": 7.999451904631405,
+  "kp": 50.8,
+  "lpNet": 35,
+  "ints": 0,
+  "games": 5,
+  "label": "Sunday 25 October",
+  "at": "2026-10-26T20:49:55.950Z"
+ },
+ "2026-10-24": {
+  "roast": "1W 3L, -58 LP. His LP graph looks like a ski slope and he isn't even wearing skis. Averaged 8.0/7.0/8.0 (2.3 KDA), 7.1 CS/min and 57% kill participation. 7.0 deaths a game - the grey screen gets more playtime than his champion. The death timer knows him by first name. Low point: 7/9/4 on Hecarim. Delete the replay. Delete the account. Start again.",
+  "fixes": [
+   "Stop dying: 7.0 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
+   "Win the early game: losing laning phase on average (46:54) - plan the first clear and look for an early gank on the winning lane.",
+   "Know when to stop: 3 losses in a day - two losses in a row means log off, not \"one more\"."
+  ],
+  "ai": false,
+  "wins": 1,
+  "losses": 3,
+  "k": 8,
+  "d": 7,
+  "a": 8,
+  "kda": 2.2857142857142856,
+  "csm": 7.087863649720835,
+  "kp": 56.75,
+  "lpNet": -58,
+  "ints": 0,
+  "games": 4,
+  "label": "Saturday 24 October",
+  "at": "2026-10-26T20:49:55.950Z"
+ },
+ "2026-10-23": {
+  "roast": "1W 1L, +2 LP. Hours of queueing to go absolutely nowhere. A hamster wheel with a ranked emblem. Averaged 6.5/4.5/8.5 (3.3 KDA), 7.8 CS/min and 61% kill participation. Low point: 5/7/7 on Aatrox. Delete the replay. Delete the account. Start again. Best game: 8/2/10 on Hecarim - proof he CAN play, which makes the rest of it even worse.",
+  "fixes": [
+   "Review one loss a day - find the single fight that lost the game and what he should have done instead.",
+   "Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.",
+   "Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer."
   ],
   "ai": false,
   "wins": 1,
   "losses": 1,
-  "k": 11.5,
-  "d": 5.5,
-  "a": 13.5,
-  "kda": 4.545454545454546,
-  "csm": 7.563996696944674,
-  "kp": 56,
+  "k": 6.5,
+  "d": 4.5,
+  "a": 8.5,
+  "kda": 3.3333333333333335,
+  "csm": 7.7563150074294205,
+  "kp": 61,
   "lpNet": 2,
   "ints": 0,
   "games": 2,
-  "label": "Monday 26 October",
-  "at": "2026-10-26T20:44:10.487Z"
+  "label": "Friday 23 October",
+  "at": "2026-10-26T20:49:55.951Z"
  },
- "2026-10-25": {
-  "roast": "3W 1L, +64 LP. A winning day - write it down, it might not happen again. Averaged 4.8/3.8/8.8 (3.6 KDA) with 8.3 CS/min and 54% kill participation. Low point: 1/3/2 on Hecarim. Delete the replay. Best game: 6/3/10 on Hecarim - proof he CAN play when he wants to.",
-  "fixes": [
-   "Join the fights: 54% kill participation - path towards the side of the map that's actually playing and be there for objectives.",
-   "Win the early game: losing laning phase on average (43:57) - plan the first clear and look for an early gank on the winning lane.",
-   "Keep doing what works - his wins came from playing around his team, not from solo heroics."
-  ],
-  "ai": false,
-  "wins": 3,
-  "losses": 1,
-  "k": 4.75,
-  "d": 3.75,
-  "a": 8.75,
-  "kda": 3.6,
-  "csm": 8.3039916332578,
-  "kp": 54.25,
-  "lpNet": 64,
-  "ints": 0,
-  "games": 4,
-  "label": "Sunday 25 October",
-  "at": "2026-10-26T20:44:10.488Z"
- },
- "2026-10-24": {
-  "roast": "2W 4L and -56 LP. That's not a ranked session, that's a charity drive for the enemy team. Averaged 7.5/6.2/8.2 (2.5 KDA) with 7.3 CS/min and 58% kill participation. 6.2 deaths a game. Not technically inting, but the grey screen is getting more screen time than the champion. Low point: 7/9/4 on Hecarim. Delete the replay. Best game: 8/2/10 on Hecarim - proof he CAN play when he wants to.",
-  "fixes": [
-   "Stop dying: 6.2 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
-   "Win the early game: losing laning phase on average (48:52) - plan the first clear and look for an early gank on the winning lane.",
-   "Pick a lane - and a champion: 4 different champions in 6 games. Stick to 2-3 picks and actually master them."
-  ],
-  "ai": false,
-  "wins": 2,
-  "losses": 4,
-  "k": 7.5,
-  "d": 6.166666666666667,
-  "a": 8.166666666666666,
-  "kda": 2.5405405405405403,
-  "csm": 7.309015829318651,
-  "kp": 58.166666666666664,
-  "lpNet": -56,
-  "ints": 0,
-  "games": 6,
-  "label": "Saturday 24 October",
-  "at": "2026-10-26T20:44:10.488Z"
- },
- "2026-10-23": {
-  "roast": "1W 0L, +31 LP. A winning day - write it down, it might not happen again. Averaged 6.0/3.0/13.0 (6.3 KDA) with 1.3 CS/min and 50% kill participation. Best game: 6/3/13 on Sylas - proof he CAN play when he wants to.",
+ "2026-10-22": {
+  "roast": "1W 0L, +31 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 6.0/3.0/13.0 (6.3 KDA), 1.3 CS/min and 50% kill participation. 1.3 CS/min - the camps are respawning out of pity. Best game: 6/3/13 on Sylas - proof he CAN play, which makes the rest of it even worse.",
   "fixes": [
    "Farm more: 1.3 CS/min - clear camps between fights instead of hovering lanes that aren't going to give anything.",
    "Join the fights: 50% kill participation - path towards the side of the map that's actually playing and be there for objectives.",
-   "Keep doing what works - his wins came from playing around his team, not from solo heroics."
+   "Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer."
   ],
   "ai": false,
   "wins": 1,
@@ -84,7 +106,7 @@
   "lpNet": 31,
   "ints": 0,
   "games": 1,
-  "label": "Friday 23 October",
-  "at": "2026-10-26T20:44:10.488Z"
+  "label": "Thursday 22 October",
+  "at": "2026-10-26T20:49:55.951Z"
  }
 }

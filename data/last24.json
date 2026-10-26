@@ -1,0 +1,23 @@
+{
+ "sig": "8d76a8fc81",
+ "report": {
+  "roast": "2W 1L, +33 LP. A winning stretch - screenshot it, frame it, it is not happening again. Averaged 11.0/5.3/13.0 (4.5 KDA), 7.8 CS/min and 61% kill participation. 5.3 deaths a game. Not inting by definition, inting by vibes. Low point: 6/6/4 on Hecarim. Delete the replay. Delete the account. Start again. Best game: 17/5/23 on Hecarim - proof he CAN play, which makes the rest of it even worse.",
+  "fixes": [
+   "Stop dying: 5.3 deaths a game is too many - ward before face-checking, track the enemy jungler, and back off when your summoners are down.",
+   "Track objective timers - set up vision 1 minute before dragon/herald/baron spawn instead of arriving as it dies.",
+   "Stop coin-flipping fights - his wins came from playing with his team, his losses from trying to 1v9 like he's a streamer."
+  ],
+  "ai": false,
+  "wins": 2,
+  "losses": 1,
+  "k": 11,
+  "d": 5.333333333333333,
+  "a": 13,
+  "kda": 4.5,
+  "csm": 7.832512315270937,
+  "kp": 61,
+  "lpNet": 33,
+  "ints": 0,
+  "games": 3
+ }
+}

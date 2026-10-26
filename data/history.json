@@ -1,9 +1,9 @@
 {
  "games": {
-  "Ranked Solo/Duo|10/26/2026, 8:11 PM|Hecarim|34m 32s": {
-   "id": "Ranked Solo/Duo|10/26/2026, 8:11 PM|Hecarim|34m 32s",
+  "Ranked Solo/Duo|10/26/2026, 4:11 PM|Hecarim|34m 32s": {
+   "id": "Ranked Solo/Duo|10/26/2026, 4:11 PM|Hecarim|34m 32s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/26/2026, 8:11 PM",
+   "date": "10/26/2026, 4:11 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -134,14 +134,15 @@
     }
    ],
    "team": 1,
+   "ts": 1793045460000,
    "_idx": 0,
    "roast": "17/5/23 on Hecarim, 75% KP. Fine. That was actually good. Don't let it go to your head.",
    "shot": "g_2fc54e70a9.jpg"
   },
-  "Ranked Flex|10/26/2026, 7:14 PM|Rengar|21m 37s": {
-   "id": "Ranked Flex|10/26/2026, 7:14 PM|Rengar|21m 37s",
+  "Ranked Flex|10/26/2026, 3:14 PM|Rengar|21m 37s": {
+   "id": "Ranked Flex|10/26/2026, 3:14 PM|Rengar|21m 37s",
    "queue": "Ranked Flex",
-   "date": "10/26/2026, 7:14 PM",
+   "date": "10/26/2026, 3:14 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -268,13 +269,14 @@
     }
    ],
    "team": 0,
+   "ts": 1793042040000,
    "_idx": 1,
    "shot": "g_fb2bf0dd2e.jpg"
   },
-  "Ranked Solo/Duo|10/26/2026, 12:18 AM|Hecarim|26m 01s": {
-   "id": "Ranked Solo/Duo|10/26/2026, 12:18 AM|Hecarim|26m 01s",
+  "Ranked Solo/Duo|10/25/2026, 8:18 PM|Hecarim|26m 01s": {
+   "id": "Ranked Solo/Duo|10/25/2026, 8:18 PM|Hecarim|26m 01s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/26/2026, 12:18 AM",
+   "date": "10/25/2026, 8:18 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -401,14 +403,15 @@
     }
    ],
    "team": 0,
+   "ts": 1792973880000,
    "_idx": 2,
    "roast": "37% kill participation. Was Hecarim in this game or just watching it?",
    "shot": "g_e142db1d45.jpg"
   },
-  "Ranked Solo/Duo|10/25/2026, 11:21 PM|Sylas|34m 11s": {
-   "id": "Ranked Solo/Duo|10/25/2026, 11:21 PM|Sylas|34m 11s",
+  "Ranked Solo/Duo|10/25/2026, 7:21 PM|Sylas|34m 11s": {
+   "id": "Ranked Solo/Duo|10/25/2026, 7:21 PM|Sylas|34m 11s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/25/2026, 11:21 PM",
+   "date": "10/25/2026, 7:21 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -539,14 +542,15 @@
     }
    ],
    "team": 0,
+   "ts": 1792970460000,
    "_idx": 3,
    "roast": "10/5/12 on Sylas, 71% KP. Fine. That was actually good. Don't let it go to your head.",
    "shot": "g_de64932b70.jpg"
   },
-  "Ranked Solo/Duo|10/25/2026, 8:27 PM|Hecarim|23m 32s": {
-   "id": "Ranked Solo/Duo|10/25/2026, 8:27 PM|Hecarim|23m 32s",
+  "Ranked Solo/Duo|10/25/2026, 4:27 PM|Hecarim|23m 32s": {
+   "id": "Ranked Solo/Duo|10/25/2026, 4:27 PM|Hecarim|23m 32s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/25/2026, 8:27 PM",
+   "date": "10/25/2026, 4:27 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -673,14 +677,15 @@
     }
    ],
    "team": 1,
+   "ts": 1792960020000,
    "_idx": 4,
    "roast": "6/3/10 win on Hecarim. LP is LP, even when it's ugly.",
    "shot": "g_835352ecf5.jpg"
   },
-  "Ranked Solo/Duo|10/25/2026, 6:35 PM|Malphite|22m 33s": {
-   "id": "Ranked Solo/Duo|10/25/2026, 6:35 PM|Malphite|22m 33s",
+  "Ranked Solo/Duo|10/25/2026, 2:35 PM|Malphite|22m 33s": {
+   "id": "Ranked Solo/Duo|10/25/2026, 2:35 PM|Malphite|22m 33s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/25/2026, 6:35 PM",
+   "date": "10/25/2026, 2:35 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -811,14 +816,15 @@
     }
    ],
    "team": 0,
+   "ts": 1792953300000,
    "_idx": 5,
    "roast": "Win on Malphite (2/4/11). Carried or carried? The 8 CS/min says \"a bit of both\".",
    "shot": "g_934e73750f.jpg"
   },
-  "Ranked Solo/Duo|10/25/2026, 6:07 PM|Hecarim|15m 21s": {
-   "id": "Ranked Solo/Duo|10/25/2026, 6:07 PM|Hecarim|15m 21s",
+  "Ranked Solo/Duo|10/25/2026, 2:07 PM|Hecarim|15m 21s": {
+   "id": "Ranked Solo/Duo|10/25/2026, 2:07 PM|Hecarim|15m 21s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/25/2026, 6:07 PM",
+   "date": "10/25/2026, 2:07 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -945,14 +951,15 @@
     }
    ],
    "team": 0,
+   "ts": 1792951620000,
    "_idx": 6,
    "roast": "33% kill participation. Was Hecarim in this game or just watching it?",
    "shot": "g_45895ee6b7.jpg"
   },
-  "Ranked 5s|10/25/2026, 7:21 AM|Jarvan IV|32m 34s": {
-   "id": "Ranked 5s|10/25/2026, 7:21 AM|Jarvan IV|32m 34s",
+  "Ranked 5s|10/25/2026, 3:21 AM|Jarvan IV|32m 34s": {
+   "id": "Ranked 5s|10/25/2026, 3:21 AM|Jarvan IV|32m 34s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 7:21 AM",
+   "date": "10/25/2026, 3:21 AM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -1083,13 +1090,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792912860000,
    "_idx": 7,
    "shot": "g_e499d1dadd.jpg"
   },
-  "Ranked 5s|10/25/2026, 6:39 AM|Sylas|31m 25s": {
-   "id": "Ranked 5s|10/25/2026, 6:39 AM|Sylas|31m 25s",
+  "Ranked 5s|10/25/2026, 2:39 AM|Sylas|31m 25s": {
+   "id": "Ranked 5s|10/25/2026, 2:39 AM|Sylas|31m 25s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 6:39 AM",
+   "date": "10/25/2026, 2:39 AM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -1216,13 +1224,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792910340000,
    "_idx": 8,
    "shot": "g_f3fee24dc1.jpg"
   },
-  "Ranked 5s|10/25/2026, 4:32 AM|Neeko|28m 04s": {
-   "id": "Ranked 5s|10/25/2026, 4:32 AM|Neeko|28m 04s",
+  "Ranked 5s|10/25/2026, 12:32 AM|Neeko|28m 04s": {
+   "id": "Ranked 5s|10/25/2026, 12:32 AM|Neeko|28m 04s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 4:32 AM",
+   "date": "10/25/2026, 12:32 AM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -1349,13 +1358,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792902720000,
    "_idx": 9,
    "shot": "g_37983c17df.jpg"
   },
-  "Ranked 5s|10/25/2026, 3:55 AM|Sona|23m 37s": {
-   "id": "Ranked 5s|10/25/2026, 3:55 AM|Sona|23m 37s",
+  "Ranked 5s|10/24/2026, 11:55 PM|Sona|23m 37s": {
+   "id": "Ranked 5s|10/24/2026, 11:55 PM|Sona|23m 37s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 3:55 AM",
+   "date": "10/24/2026, 11:55 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -1478,13 +1488,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792900500000,
    "_idx": 10,
    "shot": "g_2777bd6227.jpg"
   },
-  "Ranked 5s|10/25/2026, 3:22 AM|Alistar|15m 48s": {
-   "id": "Ranked 5s|10/25/2026, 3:22 AM|Alistar|15m 48s",
+  "Ranked 5s|10/24/2026, 11:22 PM|Alistar|15m 48s": {
+   "id": "Ranked 5s|10/24/2026, 11:22 PM|Alistar|15m 48s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 3:22 AM",
+   "date": "10/24/2026, 11:22 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -1603,13 +1614,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792898520000,
    "_idx": 11,
    "shot": "g_bd647a535b.jpg"
   },
-  "Ranked 5s|10/25/2026, 2:42 AM|Lee Sin|28m 52s": {
-   "id": "Ranked 5s|10/25/2026, 2:42 AM|Lee Sin|28m 52s",
+  "Ranked 5s|10/24/2026, 10:42 PM|Lee Sin|28m 52s": {
+   "id": "Ranked 5s|10/24/2026, 10:42 PM|Lee Sin|28m 52s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 2:42 AM",
+   "date": "10/24/2026, 10:42 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -1736,13 +1748,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792896120000,
    "_idx": 12,
    "shot": "g_fa24f98359.jpg"
   },
-  "Ranked 5s|10/25/2026, 2:03 AM|Zeri|32m 47s": {
-   "id": "Ranked 5s|10/25/2026, 2:03 AM|Zeri|32m 47s",
+  "Ranked 5s|10/24/2026, 10:03 PM|Zeri|32m 47s": {
+   "id": "Ranked 5s|10/24/2026, 10:03 PM|Zeri|32m 47s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 2:03 AM",
+   "date": "10/24/2026, 10:03 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -1873,13 +1886,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792893780000,
    "_idx": 13,
    "shot": "g_d741850e3b.jpg"
   },
-  "Ranked 5s|10/25/2026, 1:19 AM|Qiyana|36m 53s": {
-   "id": "Ranked 5s|10/25/2026, 1:19 AM|Qiyana|36m 53s",
+  "Ranked 5s|10/24/2026, 9:19 PM|Qiyana|36m 53s": {
+   "id": "Ranked 5s|10/24/2026, 9:19 PM|Qiyana|36m 53s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 1:19 AM",
+   "date": "10/24/2026, 9:19 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -2010,13 +2024,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792891140000,
    "_idx": 14,
    "shot": "g_e90990c235.jpg"
   },
-  "Ranked 5s|10/25/2026, 1:31 AM|Diana|29m 51s": {
-   "id": "Ranked 5s|10/25/2026, 1:31 AM|Diana|29m 51s",
+  "Ranked 5s|10/24/2026, 9:31 PM|Diana|29m 51s": {
+   "id": "Ranked 5s|10/24/2026, 9:31 PM|Diana|29m 51s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 1:31 AM",
+   "date": "10/24/2026, 9:31 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -2148,12 +2163,13 @@
    ],
    "team": 0,
    "_idx": 15,
-   "shot": "g_909274c2e0.jpg"
+   "shot": "g_909274c2e0.jpg",
+   "ts": 1792891860000
   },
-  "Ranked 5s|10/25/2026, 12:51 AM|Vi|30m 08s": {
-   "id": "Ranked 5s|10/25/2026, 12:51 AM|Vi|30m 08s",
+  "Ranked 5s|10/24/2026, 7:51 PM|Vi|30m 08s": {
+   "id": "Ranked 5s|10/24/2026, 7:51 PM|Vi|30m 08s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 12:51 AM",
+   "date": "10/24/2026, 7:51 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -2284,13 +2300,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792885860000,
    "_idx": 16,
    "shot": "g_4e2faf08e0.jpg"
   },
-  "Ranked 5s|10/25/2026, 12:05 AM|Cho'Gath|33m 48s": {
-   "id": "Ranked 5s|10/25/2026, 12:05 AM|Cho'Gath|33m 48s",
+  "Ranked 5s|10/24/2026, 7:05 PM|Cho'Gath|33m 48s": {
+   "id": "Ranked 5s|10/24/2026, 7:05 PM|Cho'Gath|33m 48s",
    "queue": "Ranked 5s",
-   "date": "10/25/2026, 12:05 AM",
+   "date": "10/24/2026, 7:05 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -2421,13 +2438,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792883100000,
    "_idx": 17,
    "shot": "g_41fe7ae858.jpg"
   },
-  "Ranked 5s|10/24/2026, 11:11 PM|Jarvan IV|27m 07s": {
-   "id": "Ranked 5s|10/24/2026, 11:11 PM|Jarvan IV|27m 07s",
+  "Ranked 5s|10/24/2026, 6:11 PM|Jarvan IV|27m 07s": {
+   "id": "Ranked 5s|10/24/2026, 6:11 PM|Jarvan IV|27m 07s",
    "queue": "Ranked 5s",
-   "date": "10/24/2026, 11:11 PM",
+   "date": "10/24/2026, 6:11 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -2554,13 +2572,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792879860000,
    "_idx": 18,
    "shot": "g_495458aa14.jpg"
   },
-  "Ranked Flex|10/24/2026, 9:40 PM|Volibear|29m 09s": {
-   "id": "Ranked Flex|10/24/2026, 9:40 PM|Volibear|29m 09s",
+  "Ranked Flex|10/24/2026, 4:40 PM|Volibear|29m 09s": {
+   "id": "Ranked Flex|10/24/2026, 4:40 PM|Volibear|29m 09s",
    "queue": "Ranked Flex",
-   "date": "10/24/2026, 9:40 PM",
+   "date": "10/24/2026, 4:40 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -2687,13 +2706,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792874400000,
    "_idx": 19,
    "shot": "g_d7e953bdc8.jpg"
   },
-  "Ranked Flex|10/24/2026, 9:05 PM|Rengar|31m 33s": {
-   "id": "Ranked Flex|10/24/2026, 9:05 PM|Rengar|31m 33s",
+  "Ranked Flex|10/24/2026, 4:05 PM|Rengar|31m 33s": {
+   "id": "Ranked Flex|10/24/2026, 4:05 PM|Rengar|31m 33s",
    "queue": "Ranked Flex",
-   "date": "10/24/2026, 9:05 PM",
+   "date": "10/24/2026, 4:05 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -2824,13 +2844,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792872300000,
    "_idx": 20,
    "shot": "g_bcaaf3ffb6.jpg"
   },
-  "Arena|10/24/2026, 8:24 PM|Pantheon|25m 18s": {
-   "id": "Arena|10/24/2026, 8:24 PM|Pantheon|25m 18s",
+  "Arena|10/24/2026, 3:24 PM|Pantheon|25m 18s": {
+   "id": "Arena|10/24/2026, 3:24 PM|Pantheon|25m 18s",
    "queue": "Arena",
-   "date": "10/24/2026, 8:24 PM",
+   "date": "10/24/2026, 3:24 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -2946,13 +2967,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792869840000,
    "_idx": 21,
    "shot": "g_2cde704acf.jpg"
   },
-  "Arena|10/24/2026, 8:05 PM|Volibear|26m 01s": {
-   "id": "Arena|10/24/2026, 8:05 PM|Volibear|26m 01s",
+  "Arena|10/24/2026, 3:05 PM|Volibear|26m 01s": {
+   "id": "Arena|10/24/2026, 3:05 PM|Volibear|26m 01s",
    "queue": "Arena",
-   "date": "10/24/2026, 8:05 PM",
+   "date": "10/24/2026, 3:05 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -3068,13 +3090,14 @@
     }
    ],
    "team": -1,
+   "ts": 1792868700000,
    "_idx": 22,
    "shot": "g_4fa14e19dc.jpg"
   },
-  "Ranked Flex|10/24/2026, 7:35 PM|Udyr|32m 46s": {
-   "id": "Ranked Flex|10/24/2026, 7:35 PM|Udyr|32m 46s",
+  "Ranked Flex|10/24/2026, 2:35 PM|Udyr|32m 46s": {
+   "id": "Ranked Flex|10/24/2026, 2:35 PM|Udyr|32m 46s",
    "queue": "Ranked Flex",
-   "date": "10/24/2026, 7:35 PM",
+   "date": "10/24/2026, 2:35 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -3205,13 +3228,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792866900000,
    "_idx": 23,
    "shot": "g_f8b7e84625.jpg"
   },
-  "Ranked Solo/Duo|10/24/2026, 6:43 PM|Hecarim|29m 35s": {
-   "id": "Ranked Solo/Duo|10/24/2026, 6:43 PM|Hecarim|29m 35s",
+  "Ranked Solo/Duo|10/24/2026, 1:43 PM|Hecarim|29m 35s": {
+   "id": "Ranked Solo/Duo|10/24/2026, 1:43 PM|Hecarim|29m 35s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/24/2026, 6:43 PM",
+   "date": "10/24/2026, 1:43 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -3338,14 +3362,15 @@
     }
    ],
    "team": 0,
+   "ts": 1792863780000,
    "_idx": 24,
    "roast": "Win on Hecarim (8/6/10). Carried or carried? The 7.3 CS/min says \"a bit of both\".",
    "shot": "g_3ab7f40393.jpg"
   },
-  "Ranked Solo/Duo|10/24/2026, 6:09 PM|Hecarim|23m 41s": {
-   "id": "Ranked Solo/Duo|10/24/2026, 6:09 PM|Hecarim|23m 41s",
+  "Ranked Solo/Duo|10/24/2026, 1:09 PM|Hecarim|23m 41s": {
+   "id": "Ranked Solo/Duo|10/24/2026, 1:09 PM|Hecarim|23m 41s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/24/2026, 6:09 PM",
+   "date": "10/24/2026, 1:09 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -3476,13 +3501,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792861740000,
    "_idx": 25,
    "roast": "7/9/4 on Hecarim. That's not a KDA, that's a donation receipt."
   },
-  "Ranked Solo/Duo|10/24/2026, 5:43 AM|Jarvan IV|28m 27s": {
-   "id": "Ranked Solo/Duo|10/24/2026, 5:43 AM|Jarvan IV|28m 27s",
+  "Ranked Solo/Duo|10/24/2026, 12:43 AM|Jarvan IV|28m 27s": {
+   "id": "Ranked Solo/Duo|10/24/2026, 12:43 AM|Jarvan IV|28m 27s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/24/2026, 5:43 AM",
+   "date": "10/24/2026, 12:43 AM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -3613,13 +3639,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792816980000,
    "_idx": 26,
    "roast": "10/8/12 on Jarvan IV. That's not a KDA, that's a donation receipt."
   },
-  "Ranked Solo/Duo|10/24/2026, 5:09 AM|Sylas|31m 43s": {
-   "id": "Ranked Solo/Duo|10/24/2026, 5:09 AM|Sylas|31m 43s",
+  "Ranked Solo/Duo|10/24/2026, 12:09 AM|Sylas|31m 43s": {
+   "id": "Ranked Solo/Duo|10/24/2026, 12:09 AM|Sylas|31m 43s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/24/2026, 5:09 AM",
+   "date": "10/24/2026, 12:09 AM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -3746,13 +3773,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792814940000,
    "_idx": 27,
    "roast": "A 7/5/6 loss on Sylas. Not the worst, but the LP doesn't care about effort."
   },
-  "Ranked Solo/Duo|10/24/2026, 4:24 AM|Hecarim|24m 47s": {
-   "id": "Ranked Solo/Duo|10/24/2026, 4:24 AM|Hecarim|24m 47s",
+  "Ranked Solo/Duo|10/23/2026, 11:24 PM|Hecarim|24m 47s": {
+   "id": "Ranked Solo/Duo|10/23/2026, 11:24 PM|Hecarim|24m 47s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/24/2026, 4:24 AM",
+   "date": "10/23/2026, 11:24 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -3875,13 +3903,14 @@
     }
    ],
    "team": 0,
+   "ts": 1792812240000,
    "_idx": 28,
    "roast": "8/2/10 win on Hecarim. LP is LP, even when it's ugly."
   },
-  "Ranked Solo/Duo|10/24/2026, 3:54 AM|Aatrox|31m 18s": {
-   "id": "Ranked Solo/Duo|10/24/2026, 3:54 AM|Aatrox|31m 18s",
+  "Ranked Solo/Duo|10/23/2026, 10:54 PM|Aatrox|31m 18s": {
+   "id": "Ranked Solo/Duo|10/23/2026, 10:54 PM|Aatrox|31m 18s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/24/2026, 3:54 AM",
+   "date": "10/23/2026, 10:54 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -4012,13 +4041,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792810440000,
    "_idx": 29,
    "roast": "A 5/7/7 loss on Aatrox. Not the worst, but the LP doesn't care about effort."
   },
-  "Ranked Solo/Duo|10/23/2026, 3:46 AM|Sylas|31m 22s": {
-   "id": "Ranked Solo/Duo|10/23/2026, 3:46 AM|Sylas|31m 22s",
+  "Ranked Solo/Duo|10/22/2026, 10:46 PM|Sylas|31m 22s": {
+   "id": "Ranked Solo/Duo|10/22/2026, 10:46 PM|Sylas|31m 22s",
    "queue": "Ranked Solo/Duo",
-   "date": "10/23/2026, 3:46 AM",
+   "date": "10/22/2026, 10:46 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -4149,13 +4179,14 @@
     }
    ],
    "team": 1,
+   "ts": 1792723560000,
    "_idx": 30,
    "roast": "Win on Sylas (6/3/13). Carried or carried? The 1.3 CS/min says \"a bit of both\"."
   },
-  "Ranked Flex|10/23/2026, 2:45 AM|Lulu|46m 05s": {
-   "id": "Ranked Flex|10/23/2026, 2:45 AM|Lulu|46m 05s",
+  "Ranked Flex|10/22/2026, 9:45 PM|Lulu|46m 05s": {
+   "id": "Ranked Flex|10/22/2026, 9:45 PM|Lulu|46m 05s",
    "queue": "Ranked Flex",
-   "date": "10/23/2026, 2:45 AM",
+   "date": "10/22/2026, 9:45 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -4286,12 +4317,13 @@
     }
    ],
    "team": 0,
+   "ts": 1792719900000,
    "_idx": 31
   },
-  "Ranked Flex|10/23/2026, 1:53 AM|Neeko|27m 49s": {
-   "id": "Ranked Flex|10/23/2026, 1:53 AM|Neeko|27m 49s",
+  "Ranked Flex|10/22/2026, 8:53 PM|Neeko|27m 49s": {
+   "id": "Ranked Flex|10/22/2026, 8:53 PM|Neeko|27m 49s",
    "queue": "Ranked Flex",
-   "date": "10/23/2026, 1:53 AM",
+   "date": "10/22/2026, 8:53 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -4422,12 +4454,13 @@
     }
    ],
    "team": 1,
+   "ts": 1792716780000,
    "_idx": 32
   },
-  "Ranked Flex|10/23/2026, 12:39 AM|Neeko|27m 57s": {
-   "id": "Ranked Flex|10/23/2026, 12:39 AM|Neeko|27m 57s",
+  "Ranked Flex|10/22/2026, 7:39 PM|Neeko|27m 57s": {
+   "id": "Ranked Flex|10/22/2026, 7:39 PM|Neeko|27m 57s",
    "queue": "Ranked Flex",
-   "date": "10/23/2026, 12:39 AM",
+   "date": "10/22/2026, 7:39 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -4558,12 +4591,13 @@
     }
    ],
    "team": 1,
+   "ts": 1792712340000,
    "_idx": 33
   },
-  "Arena|10/22/2026, 11:42 PM|Shyvana|24m 01s": {
-   "id": "Arena|10/22/2026, 11:42 PM|Shyvana|24m 01s",
+  "Arena|10/22/2026, 6:42 PM|Shyvana|24m 01s": {
+   "id": "Arena|10/22/2026, 6:42 PM|Shyvana|24m 01s",
    "queue": "Arena",
-   "date": "10/22/2026, 11:42 PM",
+   "date": "10/22/2026, 6:42 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -4679,12 +4713,13 @@
     }
    ],
    "team": 1,
+   "ts": 1792708920000,
    "_idx": 34
   },
-  "Arena|10/22/2026, 11:16 PM|Master Yi|28m 35s": {
-   "id": "Arena|10/22/2026, 11:16 PM|Master Yi|28m 35s",
+  "Arena|10/22/2026, 6:16 PM|Master Yi|28m 35s": {
+   "id": "Arena|10/22/2026, 6:16 PM|Master Yi|28m 35s",
    "queue": "Arena",
-   "date": "10/22/2026, 11:16 PM",
+   "date": "10/22/2026, 6:16 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -4800,12 +4835,13 @@
     }
    ],
    "team": 1,
+   "ts": 1792707360000,
    "_idx": 35
   },
-  "Arena|10/22/2026, 10:49 PM|Graves|24m 59s": {
-   "id": "Arena|10/22/2026, 10:49 PM|Graves|24m 59s",
+  "Arena|10/22/2026, 5:49 PM|Graves|24m 59s": {
+   "id": "Arena|10/22/2026, 5:49 PM|Graves|24m 59s",
    "queue": "Arena",
-   "date": "10/22/2026, 10:49 PM",
+   "date": "10/22/2026, 5:49 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -4921,12 +4957,13 @@
     }
    ],
    "team": 1,
+   "ts": 1792705740000,
    "_idx": 36
   },
-  "Arena|10/22/2026, 10:22 PM|Jarvan IV|25m 12s": {
-   "id": "Arena|10/22/2026, 10:22 PM|Jarvan IV|25m 12s",
+  "Arena|10/22/2026, 5:22 PM|Jarvan IV|25m 12s": {
+   "id": "Arena|10/22/2026, 5:22 PM|Jarvan IV|25m 12s",
    "queue": "Arena",
-   "date": "10/22/2026, 10:22 PM",
+   "date": "10/22/2026, 5:22 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -5042,12 +5079,13 @@
     }
    ],
    "team": -1,
+   "ts": 1792704120000,
    "_idx": 37
   },
-  "Arena|10/22/2026, 9:51 PM|Riven|20m 49s": {
-   "id": "Arena|10/22/2026, 9:51 PM|Riven|20m 49s",
+  "Arena|10/22/2026, 4:51 PM|Riven|20m 49s": {
+   "id": "Arena|10/22/2026, 4:51 PM|Riven|20m 49s",
    "queue": "Arena",
-   "date": "10/22/2026, 9:51 PM",
+   "date": "10/22/2026, 4:51 PM",
    "result": "Victory",
    "win": true,
    "remake": false,
@@ -5163,12 +5201,13 @@
     }
    ],
    "team": 0,
+   "ts": 1792702260000,
    "_idx": 38
   },
-  "Arena|10/22/2026, 9:31 PM|Sivir|26m 33s": {
-   "id": "Arena|10/22/2026, 9:31 PM|Sivir|26m 33s",
+  "Arena|10/22/2026, 4:31 PM|Sivir|26m 33s": {
+   "id": "Arena|10/22/2026, 4:31 PM|Sivir|26m 33s",
    "queue": "Arena",
-   "date": "10/22/2026, 9:31 PM",
+   "date": "10/22/2026, 4:31 PM",
    "result": "Defeat",
    "win": false,
    "remake": false,
@@ -5284,7 +5323,148 @@
     }
    ],
    "team": -1,
+   "ts": 1792701060000,
    "_idx": 39
+  },
+  "Ranked 5s|10/24/2026, 8:31 PM|Diana|29m 51s": {
+   "id": "Ranked 5s|10/24/2026, 8:31 PM|Diana|29m 51s",
+   "queue": "Ranked 5s",
+   "date": "10/24/2026, 8:31 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+   },
+   "level": 18,
+   "duration": "29m 51s",
+   "minutes": 29.85,
+   "k": 15,
+   "d": 3,
+   "a": 8,
+   "kda": "7.67",
+   "kp": 57,
+   "cs": 249,
+   "csm": 8.3,
+   "laning": [
+    61,
+    39
+   ],
+   "avgTier": "Platinum 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Liandry's Torment",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6653.png"
+    },
+    {
+     "n": "Nashor's Tooth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3115.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3089.png"
+    },
+    {
+     "n": "Amplifying Tome",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1052.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "wyatt",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Darius.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "c": "Sejuani",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sejuani.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png"
+    },
+    {
+     "n": "Lord LongRod",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png"
+    },
+    {
+     "n": "Johnny02648",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png"
+    },
+    {
+     "n": "Bear",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png"
+    },
+    {
+     "n": "KSIvsLOGAN",
+     "c": "Locke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Locke.png"
+    },
+    {
+     "n": "jwtevez",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kled.png"
+    },
+    {
+     "n": "Yo Boi Pizza",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Maokai.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1792888260000,
+   "_idx": 15,
+   "firstSeen": 1793047795946,
+   "shot": "g_7f3bd2e973.jpg"
   }
- }
+ },
+ "tz": "America/Toronto"
 }
