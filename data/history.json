@@ -21512,6 +21512,142 @@
    "roast": "10 deaths. The enemy team should be paying 10 cents in rent for living in this player's jungle.",
    "shot": "g_931337dcbf.jpg",
    "firstSeen": 1793053555563
+  },
+  "Arena|10/26/2026, 6:46 PM|Sylas|20m 48s": {
+   "id": "Arena|10/26/2026, 6:46 PM|Sylas|20m 48s",
+   "queue": "Arena",
+   "date": "10/26/2026, 6:46 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+   },
+   "level": 18,
+   "duration": "20m 48s",
+   "minutes": 20.8,
+   "k": 8,
+   "d": 6,
+   "a": 19,
+   "kda": "4.50",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Twilight's Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447121.png"
+    },
+    {
+     "n": "Hextech Gunblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223146.png"
+    },
+    {
+     "n": "Wooglet's Witchcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/228002.png"
+    },
+    {
+     "n": "Turbo Chemtank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443079.png"
+    },
+    {
+     "n": "Cosmic Drive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224629.png"
+    },
+    {
+     "n": "Cryptbloom",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223137.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Jazraa",
+     "h": "/lol/summoners/na/Jazraa%20-NA1",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png"
+    },
+    {
+     "n": "fukkew",
+     "h": "/lol/summoners/na/fukkew-NA1",
+     "c": "Udyr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png"
+    },
+    {
+     "n": "Unpatched",
+     "h": "/lol/summoners/na/Unpatched-H2J",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Avada Kedavra",
+     "h": "/lol/summoners/na/Avada%20Kedavra-3323",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png"
+    },
+    {
+     "n": "Mentally Unlucky",
+     "h": "/lol/summoners/na/Mentally%20Unlucky-4089",
+     "c": "Kindred",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kindred.png"
+    },
+    {
+     "n": "Ghan",
+     "h": "/lol/summoners/na/Ghan-5741",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    },
+    {
+     "n": "Hans the Gnome",
+     "h": "/lol/summoners/na/Hans%20the%20Gnome-NA1",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Smolder.png"
+    },
+    {
+     "n": "DeDerex",
+     "h": "/lol/summoners/na/DeDerex-NA1",
+     "c": "Corki",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Corki.png"
+    },
+    {
+     "n": "Aroxsis",
+     "h": "/lol/summoners/na/Aroxsis-TTV",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793054760000,
+   "detail": null,
+   "firstSeen": 1793055214206,
+   "shot": "g_95d946c983.jpg"
   }
  },
  "tz": "America/Toronto"
