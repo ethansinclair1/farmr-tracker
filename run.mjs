@@ -3,8 +3,8 @@
 //   node run.mjs --fixture f  (build from a saved op.gg read instead of opening op.gg - for testing)
 import fs from 'fs';
 import crypto from 'crypto';
-import { parseGame } from './lib/extract.mjs';
-import { stats, roast } from './lib/report.mjs';
+import { parseGame, parseOpDate } from './lib/extract.mjs';
+import { stats, roast, dayReport } from './lib/report.mjs';
 import { buildPage } from './lib/page.mjs';
 import { postGame, postText } from './lib/discord.mjs';
 
@@ -53,14 +53,28 @@ for (const g of soloNew) {
   history.games[g.id].roast = await roast('game', { game: lite, rank }, cfg);
 }
 
-// the page's AI overview is redone whenever something new happens (or there isn't one yet)
-const prev = load(`${DATA}/overview.json`, {});
-let overview = prev.text;
-if (!overview || soloNew.length) {
-  const lite = soloAll.slice(0, 12).map(g => ({ champ: g.champ && g.champ.n, win: g.win, k: g.k, d: g.d, a: g.a, cs: g.cs, csm: g.csm, kp: g.kp, len: g.duration, lp: g.lp }));
-  overview = await roast('overview', { season: solo, recent: { ...recent, champs: recent.champs.slice(0, 5).map(c => ({ name: c.name, games: c.games, wins: c.wins })) }, games: lite }, cfg);
-  save(`${DATA}/overview.json`, { text: overview, at: new Date().toISOString() });
+// the AI overview is a daily report: each day's ranked solo/duo games, roasted, plus what to fix.
+// A day's report is redone whenever a new game lands on that day.
+const pad = n => String(n).padStart(2, '0');
+const dayKey = g => { const d = parseOpDate(g.date); return d ? `${d.y}-${pad(d.mo)}-${pad(d.d)}` : ''; };
+const todayKey = new Intl.DateTimeFormat('en-CA', { timeZone: cfg.timezone, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+const dayLabel = k => new Date(k + 'T12:00:00Z').toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', timeZone: 'UTC' });
+const byDay = {};
+for (const g of soloAll) { const k = dayKey(g); if (k) (byDay[k] = byDay[k] || []).push(g); }
+const days = load(`${DATA}/days.json`, {});
+const changed = new Set(soloNew.map(dayKey));
+let dayRegen = 0;
+const recentDays = Object.keys(byDay).sort().reverse().slice(0, 14);
+for (const k of recentDays) {
+  if (days[k] && !changed.has(k) && days[k].games === byDay[k].filter(g => !g.remake).length) continue;
+  const games = [...byDay[k]].reverse();   // oldest first, the way the day went
+  days[k] = { ...(await dayReport(dayLabel(k), games, { rank }, cfg)), label: dayLabel(k), at: new Date().toISOString() };
+  dayRegen++;
+  console.log('Day report', k, days[k].wins + 'W', days[k].losses + 'L');
 }
+save(`${DATA}/days.json`, days);
+const latestDay = days[todayKey] ? todayKey : recentDays[0];
+const overview = latestDay && days[latestDay] ? days[latestDay].roast : 'No ranked solo/duo games tracked yet.';
 
 // Discord: one post per new solo/duo game (the very first run just records what's already there instead of spamming)
 const hook = process.env.DISCORD_WEBHOOK_URL;
@@ -83,8 +97,9 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing new on op.gg (same games, same rank): leave the files alone so the repo only changes when he plays
-const sig = hash(JSON.stringify([Object.keys(history.games).sort(), raw.profile.solo, raw.profile.flex]));
-if (!newOnes.length && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
+const TEMPLATE = 2;   // bump when the page layout changes so the site rebuilds
+const sig = hash(JSON.stringify([TEMPLATE, Object.keys(history.games).sort(), raw.profile.solo, raw.profile.flex]));
+if (!newOnes.length && !dayRegen && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
 save(`${DATA}/history.json`, history);
 save(`${DATA}/state.json`, state);
@@ -92,5 +107,6 @@ save(`${DATA}/profile.json`, { ...raw.profile, scrapedAt: raw.scrapedAt || new D
 
 const games = all.map(g => history.games[g.id]);
 const shots = ['profile.jpg', 'games.jpg'].filter(s => fs.existsSync(`${SHOTS}/${s}`));
-fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, overview, updatedAt: raw.scrapedAt || new Date().toISOString(), shots }));
+const dayList = Object.keys(days).sort().reverse().slice(0, 14).map(k => ({ key: k, ...days[k] }));
+fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, overview, days: dayList, todayKey, updatedAt: raw.scrapedAt || new Date().toISOString(), shots }));
 console.log(`Done: ${parsed.length} games read, ${newOnes.length} new (${soloNew.length} solo/duo). ${recent.wins}W ${recent.losses}L in the last ${recent.games} solo/duo.`);
