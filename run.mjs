@@ -63,6 +63,27 @@ for (const g of parsed) {
   delete history.games[g.id]._idx;
 }
 
+// op.gg doesn't always show the LP gained/lost (never for Flex, sometimes not for the newest solo/duo game) -
+// fill it in from his rank before vs after the game.
+const APEX = /^(Master|Grandmaster|Challenger)/;
+state.rank = state.rank || {}; state.pendingLp = state.pendingLp || {};
+for (const [q, key] of [['Ranked Solo/Duo', 'solo'], ['Ranked Flex', 'flex']]) {
+  const cur = raw.profile[key], prev = state.rank[key];
+  const fresh = newOnes.filter(g => g.queue === q && !g.remake);
+  if (fresh.length) state.pendingLp[key] = fresh.length === 1 && fresh[0].lp == null ? fresh[0].id : null;
+  if (!cur) continue;
+  const pid = state.pendingLp[key], pg = pid && history.games[pid];
+  if (pg && pg.lp == null && prev) {
+    const same = cur.tier === prev.tier || (APEX.test(cur.tier) && APEX.test(prev.tier));
+    const diff = cur.lp - prev.lp;
+    if (same && diff !== 0 && Math.abs(diff) <= 60 && (diff > 0) === !!pg.win) { pg.lp = diff; pg.lpCalc = true; state.pendingLp[key] = null; console.log(`LP for ${pid} worked out from rank: ${diff}`); state.rank[key] = cur; continue; }
+    if (cur.lp === prev.lp && cur.tier === prev.tier) continue;   // rank not updated yet - try again next run
+    state.pendingLp[key] = null;
+  } else if (pg && pg.lp != null) state.pendingLp[key] = null;
+  // only move the "rank before the next game" marker when a game was played (or on the first run)
+  if (fresh.length || !prev) state.rank[key] = cur;
+}
+
 // newest first
 const all = Object.values(history.games);
 for (const g of all) if (!g.ts) g.ts = opDateToTs(g.date, cfg.timezone);
@@ -124,7 +145,7 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 6;   // bump when the page layout changes so the site rebuilds
+const TEMPLATE = 7;   // bump when the page layout changes so the site rebuilds
 const sig = hash(JSON.stringify([TEMPLATE, ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
