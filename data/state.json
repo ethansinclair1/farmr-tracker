@@ -1,7 +1,7 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "3f47ee8c3a",
+ "sig": "7a123c5b1d",
  "rank": {
   "solo": {
    "tier": "Master",
@@ -17,6 +17,6 @@
   }
  },
  "pendingLp": {
-  "solo": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s"
+  "solo": null
  }
 }
