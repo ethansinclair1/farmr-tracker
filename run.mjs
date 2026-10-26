@@ -6,6 +6,7 @@ import crypto from 'crypto';
 import { parseGame, parseOpDate } from './lib/extract.mjs';
 import { stats, roast, dayReport } from './lib/report.mjs';
 import { buildPage } from './lib/page.mjs';
+import { opDateToTs, tsToOpDate } from './lib/time.mjs';
 import { postGame, postText } from './lib/discord.mjs';
 
 const cfg = JSON.parse(fs.readFileSync('config.json', 'utf8'));
@@ -24,7 +25,23 @@ if (!raw || !raw.games || !raw.games.length) { console.log('No games read from o
 
 const history = load(`${DATA}/history.json`, { games: {} });
 const state = load(`${DATA}/state.json`, { posted: [], firstRun: true });
-const parsed = raw.games.map(g => ({ ...parseGame(g, cfg.gameName), _idx: g.idx }));
+// times are stored the way op.gg shows them in cfg.timezone; if the timezone changed, convert what's stored
+const oldTz = history.tz || 'Europe/London';
+if (oldTz !== cfg.timezone) {
+  const remap = {}, moved = {};
+  for (const g of Object.values(history.games)) {
+    const ts = g.ts || opDateToTs(g.date, oldTz);
+    const date = ts ? tsToOpDate(ts, cfg.timezone) : g.date;
+    const id = [g.queue, date, g.champ && g.champ.n, g.duration].join('|');
+    remap[g.id] = id; moved[id] = { ...g, id, date, ts };
+  }
+  history.games = moved;
+  state.posted = (state.posted || []).map(i => remap[i] || i);
+  try { fs.unlinkSync(`${DATA}/days.json`); } catch {}
+  console.log(`Timezone ${oldTz} -> ${cfg.timezone}: converted ${Object.keys(moved).length} stored games`);
+}
+history.tz = cfg.timezone;
+const parsed = raw.games.map(g => ({ ...parseGame(g, cfg.gameName), ts: opDateToTs(g.date, cfg.timezone), _idx: g.idx }));
 const newOnes = [];
 for (const g of parsed) {
   if (!history.games[g.id]) { g.firstSeen = Date.now(); history.games[g.id] = g; newOnes.push(g); }
@@ -37,12 +54,15 @@ for (const g of parsed) {
 }
 for (const s of ['profile.jpg', 'games.jpg']) if (fs.existsSync(`${TMP}/${s}`)) fs.copyFileSync(`${TMP}/${s}`, `${SHOTS}/${s}`);
 
-// newest first (op.gg's own order wins for games it still shows; older stored games follow)
-const order = parsed.map(g => g.id);
+// newest first
 const all = Object.values(history.games);
-all.sort((a, b) => { const ia = order.indexOf(a.id), ib = order.indexOf(b.id); if (ia >= 0 && ib >= 0) return ia - ib; if (ia >= 0) return -1; if (ib >= 0) return 1; return (b.firstSeen || 0) - (a.firstSeen || 0); });
+for (const g of all) if (!g.ts) g.ts = opDateToTs(g.date, cfg.timezone);
+all.sort((a, b) => (b.ts || 0) - (a.ts || 0) || (a.ts ? 0 : (b.firstSeen || 0) - (a.firstSeen || 0)));
 const soloAll = all.filter(g => g.queue === cfg.trackQueue);
-const recent = stats(soloAll.slice(0, 20));
+const DAY = 864e5, nowTs = fixArg > 0 && raw.scrapedAt ? Date.parse(raw.scrapedAt) : Date.now();
+const last24 = all.filter(g => nowTs - g.ts < DAY);
+const solo24 = last24.filter(g => g.queue === cfg.trackQueue);
+const recent = stats(solo24);
 const solo = raw.profile.solo;
 const rank = solo ? `${solo.tier} ${solo.lp} LP` : '';
 
@@ -73,8 +93,17 @@ for (const k of recentDays) {
   console.log('Day report', k, days[k].wins + 'W', days[k].losses + 'L');
 }
 save(`${DATA}/days.json`, days);
-const latestDay = days[todayKey] ? todayKey : recentDays[0];
-const overview = latestDay && days[latestDay] ? days[latestDay].roast : 'No ranked solo/duo games tracked yet.';
+// the main AI overview covers the last 24 hours (redone whenever the set of games in that window changes)
+const sig24 = hash(JSON.stringify(solo24.map(g => g.id)));
+const r24 = load(`${DATA}/last24.json`, {});
+if (solo24.length && r24.sig !== sig24) {
+  r24.sig = sig24; r24.report = await dayReport('the last 24 hours', [...solo24].reverse(), { rank }, cfg); dayRegen++;
+  save(`${DATA}/last24.json`, r24); console.log('Last-24h report', r24.report.wins + 'W', r24.report.losses + 'L');
+}
+const report = solo24.length ? r24.report : null;
+const lastDayKey = recentDays[0];
+const lastDay = lastDayKey && days[lastDayKey] ? { ...days[lastDayKey], key: lastDayKey } : null;
+const overview = report ? report.roast : lastDay ? lastDay.roast : 'No ranked solo/duo games tracked yet.';
 
 // Discord: one post per new solo/duo game (the very first run just records what's already there instead of spamming)
 const hook = process.env.DISCORD_WEBHOOK_URL;
@@ -97,16 +126,15 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing new on op.gg (same games, same rank): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 2;   // bump when the page layout changes so the site rebuilds
-const sig = hash(JSON.stringify([TEMPLATE, Object.keys(history.games).sort(), raw.profile.solo, raw.profile.flex]));
+const TEMPLATE = 3;   // bump when the page layout changes so the site rebuilds
+const sig = hash(JSON.stringify([TEMPLATE, last24.map(g => g.id), Object.keys(history.games).sort(), raw.profile.solo, raw.profile.flex]));
 if (!newOnes.length && !dayRegen && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
 save(`${DATA}/history.json`, history);
 save(`${DATA}/state.json`, state);
 save(`${DATA}/profile.json`, { ...raw.profile, scrapedAt: raw.scrapedAt || new Date().toISOString() });
 
-const games = all.map(g => history.games[g.id]);
-const shots = ['profile.jpg', 'games.jpg'].filter(s => fs.existsSync(`${SHOTS}/${s}`));
-const dayList = Object.keys(days).sort().reverse().slice(0, 14).map(k => ({ key: k, ...days[k] }));
-fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, overview, days: dayList, todayKey, updatedAt: raw.scrapedAt || new Date().toISOString(), shots }));
-console.log(`Done: ${parsed.length} games read, ${newOnes.length} new (${soloNew.length} solo/duo). ${recent.wins}W ${recent.losses}L in the last ${recent.games} solo/duo.`);
+const games = last24.map(g => history.games[g.id]);
+const dayList = Object.keys(days).sort().reverse().filter(k => k !== todayKey).slice(0, 14).map(k => ({ key: k, ...days[k] }));
+fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, lastDay, days: dayList, updatedAt: raw.scrapedAt || new Date().toISOString(), cartoon: fs.readFileSync('lib/chenny.svg', 'utf8') }));
+console.log(`Done: ${parsed.length} games read, ${newOnes.length} new (${soloNew.length} solo/duo). ${recent.wins}W ${recent.losses}L in the last 24h of solo/duo.`);

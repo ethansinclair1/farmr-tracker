@@ -1,10 +1,10 @@
 {
-  "gameName": "FullClearDeluxe",
-  "tagLine": "FarmR",
-  "region": "na",
-  "timezone": "Europe/London",
-  "trackQueue": "Ranked Solo/Duo",
-  "showMoreClicks": 1,
-  "aiModel": "claude-haiku-5-5",
-  "pageUrl": ""
+ "gameName": "FullClearDeluxe",
+ "tagLine": "FarmR",
+ "region": "na",
+ "timezone": "America/Toronto",
+ "trackQueue": "Ranked Solo/Duo",
+ "showMoreClicks": 1,
+ "aiModel": "claude-haiku-5-5",
+ "pageUrl": ""
 }

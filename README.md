@@ -1,13 +1,13 @@
-# op.gg tracker - FullClearDeluxe#FarmR (NA)
+# Chenny LoL Tracker - FullClearDeluxe#FarmR (NA)
 
 Every 10 minutes a GitHub Action opens his op.gg page (presses **Update** first), reads it, and:
 
 - **Discord:** posts every new **Ranked Solo/Duo** game: an op.gg-style card (result, champion, K/D/A, KDA, CS & CS/min,
   kill participation, length, LP gained/lost, rank, build), the op.gg screenshot of that game, and an AI verdict
   that roasts him when it's bad.
-- **GitHub Pages site:** today's date at the top, season wins/losses, rank & LP, ladder rank, average K/D/A, KDA,
-  CS, CS/min and kill participation over his recent solo/duo games, champion breakdown, screenshots of op.gg, an AI
-  overview, and the full game list laid out like op.gg (Solo/Duo tab + All games tab).
+- **GitHub Pages site:** the date (Toronto time) at the top, rank & LP, and for the **last 24 hours**: wins/losses,
+  average K/D/A, KDA, CS, CS/min, kill participation, champions, an AI overview that roasts him (hard when he ints) with
+  what he needs to fix, and the games laid out like op.gg. Previous days' reports are listed underneath.
 
 ## Setup (one time)
 
