@@ -68,7 +68,10 @@ const all = Object.values(history.games);
 for (const g of all) if (!g.ts) g.ts = opDateToTs(g.date, cfg.timezone);
 all.sort((a, b) => (b.ts || 0) - (a.ts || 0));
 const soloAll = all.filter(g => g.queue === cfg.trackQueue);
-const solo24 = soloAll.filter(g => nowTs - g.ts < DAY);
+// "today" = his calendar day in cfg.timezone (Toronto)
+const dayOf = t => new Intl.DateTimeFormat('en-CA', { timeZone: cfg.timezone, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(t));
+const todayKey = dayOf(nowTs);
+const solo24 = soloAll.filter(g => g.ts && dayOf(g.ts) === todayKey);
 const recent = stats(solo24);
 const ranked14 = all.filter(g => isRanked(g) && nowTs - g.ts < 14 * DAY);
 const solo = raw.profile.solo;
@@ -80,16 +83,16 @@ for (const g of newOnes.filter(isRanked)) {
   history.games[g.id].roast = await roast('game', { game: lite, rank }, cfg);
 }
 
-// the AI overview: the last 24 hours of ranked solo/duo, roasted, plus tips (redone when that set of games changes)
+// the AI overview: today's ranked solo/duo, roasted, plus tips (redone when that set of games changes)
 let changedReport = false;
 const sig24 = hash(JSON.stringify(solo24.map(g => [g.id, !!g.detail])));
 const r24 = load(`${DATA}/last24.json`, {});
-if (solo24.length && (r24.sig !== sig24 || r24.v !== 2)) {
-  r24.sig = sig24; r24.v = 2; r24.report = await dayReport('the last 24 hours', [...solo24].reverse(), { rank }, cfg); changedReport = true;
-  save(`${DATA}/last24.json`, r24); console.log('Last-24h report', r24.report.wins + 'W', r24.report.losses + 'L');
+if (solo24.length && (r24.sig !== sig24 || r24.v !== 3)) {
+  r24.sig = sig24; r24.v = 3; r24.report = await dayReport('today', [...solo24].reverse(), { rank }, cfg); changedReport = true;
+  save(`${DATA}/last24.json`, r24); console.log('Today report', r24.report.wins + 'W', r24.report.losses + 'L');
 }
 const report = solo24.length ? r24.report : null;
-const overview = report ? report.roast : 'No ranked solo/duo games in the last 24 hours.';
+const overview = report ? report.roast : 'No ranked solo/duo games yet today.';
 
 // live game
 const live = raw.live || null;
@@ -121,8 +124,8 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 4;   // bump when the page layout changes so the site rebuilds
-const sig = hash(JSON.stringify([TEMPLATE, ranked14.map(g => [g.id, !!g.detail]), solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
+const TEMPLATE = 5;   // bump when the page layout changes so the site rebuilds
+const sig = hash(JSON.stringify([TEMPLATE, ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
 // keep the stored history to ~30 days
@@ -133,4 +136,4 @@ save(`${DATA}/profile.json`, { ...raw.profile, scrapedAt: raw.scrapedAt || new D
 
 const games = ranked14.map(g => history.games[g.id]);
 fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
-console.log(`Done: ${parsed.length} games read, ${newOnes.length} new. ${ranked14.length} ranked games in the last 14 days. ${recent.wins}W ${recent.losses}L (${recent.lpNet} LP) in the last 24h of solo/duo.${live ? ' LIVE NOW.' : ''}`);
+console.log(`Done: ${parsed.length} games read, ${newOnes.length} new. ${ranked14.length} ranked games in the last 14 days. ${recent.wins}W ${recent.losses}L (${recent.lpNet} LP) today in solo/duo.${live ? ' LIVE NOW.' : ''}`);
