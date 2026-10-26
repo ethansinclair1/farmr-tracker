@@ -1,24 +1,24 @@
 {
- "sig": "d487ac3fd3",
+ "sig": "e2b0a1936e",
  "report": {
-  "roast": "2W 2L, +33 LP. Hours of queueing to go nowhere.",
+  "roast": "1W 1L, +2 LP. Hours of queueing to go nowhere.",
   "fixes": [
-   "Stop dying - 5.3 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.8 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.0 a game is nothing.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 2,
-  "losses": 2,
-  "k": 11.75,
-  "d": 5.25,
-  "a": 12.75,
-  "kda": 4.666666666666667,
-  "csm": 7.662422890143064,
-  "kp": 65.5,
-  "lpNet": 33,
+  "wins": 1,
+  "losses": 1,
+  "k": 15.5,
+  "d": 5,
+  "a": 17.5,
+  "kda": 6.6,
+  "csm": 7.6366358871974045,
+  "kp": 77,
+  "lpNet": 2,
   "ints": 0,
-  "games": 4
+  "games": 2
  },
- "v": 2
+ "v": 3
 }
