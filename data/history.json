@@ -22586,6 +22586,292 @@
    "detail": null,
    "shot": "g_830da71b59.jpg",
    "firstSeen": 1793058791956
+  },
+  "Ranked Solo/Duo|10/26/2026, 9:11 PM|Hecarim|26m 05s": {
+   "id": "Ranked Solo/Duo|10/26/2026, 9:11 PM|Hecarim|26m 05s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/26/2026, 9:11 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 14,
+   "duration": "26m 05s",
+   "minutes": 26.083333333333332,
+   "k": 6,
+   "d": 4,
+   "a": 8,
+   "kda": "3.50",
+   "kp": 78,
+   "cs": 198,
+   "csm": 7.6,
+   "laning": [
+    56,
+    44
+   ],
+   "avgTier": "Master 860",
+   "lp": -29,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "恶魔波刚",
+     "h": "/lol/summoners/na/%E6%81%B6%E9%AD%94%E6%B3%A2%E5%88%9A-JJGod",
+     "c": "Fiora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiora.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Merry",
+     "h": "/lol/summoners/na/Merry-Hakuh",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "Juchag",
+     "h": "/lol/summoners/na/Juchag-NA11",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Frosthook",
+     "h": "/lol/summoners/na/Frosthook-NA2",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rakan.png"
+    },
+    {
+     "n": "WeTriedToRun",
+     "h": "/lol/summoners/na/WeTriedToRun-jord",
+     "c": "Riven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Riven.png"
+    },
+    {
+     "n": "PRIDE",
+     "h": "/lol/summoners/na/PRIDE-USAMA",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+    },
+    {
+     "n": "XxCadenatorxX",
+     "h": "/lol/summoners/na/XxCadenatorxX-BIRD",
+     "c": "Anivia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Anivia.png"
+    },
+    {
+     "n": "Moi",
+     "h": "/lol/summoners/na/Moi-Moi02",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png"
+    },
+    {
+     "n": "mountain dew",
+     "h": "/lol/summoners/na/mountain%20dew-hope",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793063460000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "恶魔波刚",
+        "h": "/lol/summoners/na/%E6%81%B6%E9%AD%94%E6%B3%A2%E5%88%9A-JJGod",
+        "t": "Master 841",
+        "op": 2.3,
+        "opr": "9th",
+        "dmg": 12312,
+        "taken": 20605,
+        "cw": 0,
+        "wards": "4 / 8"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 718",
+        "op": 5.5,
+        "opr": "ACE",
+        "dmg": 17138,
+        "taken": 30704,
+        "cw": 3,
+        "wards": "4 / 7"
+       },
+       {
+        "n": "Merry",
+        "h": "/lol/summoners/na/Merry-Hakuh",
+        "t": "Master 1,132",
+        "op": 1.7,
+        "opr": "10th",
+        "dmg": 13474,
+        "taken": 15934,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Juchag",
+        "h": "/lol/summoners/na/Juchag-NA11",
+        "t": "Master 1,188",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 26769,
+        "taken": 19052,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Frosthook",
+        "h": "/lol/summoners/na/Frosthook-NA2",
+        "t": "Master 909",
+        "op": 3.6,
+        "opr": "8th",
+        "dmg": 7648,
+        "taken": 25727,
+        "cw": 9,
+        "wards": "29 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "WeTriedToRun",
+        "h": "/lol/summoners/na/WeTriedToRun-jord",
+        "t": "Master 140",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 15698,
+        "taken": 18288,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "PRIDE",
+        "h": "/lol/summoners/na/PRIDE-USAMA",
+        "t": "Master 650",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 18439,
+        "taken": 32255,
+        "cw": 1,
+        "wards": "3 / 1"
+       },
+       {
+        "n": "XxCadenatorxX",
+        "h": "/lol/summoners/na/XxCadenatorxX-BIRD",
+        "t": "Master 1,057",
+        "op": 6.1,
+        "opr": "2nd",
+        "dmg": 20109,
+        "taken": 14177,
+        "cw": 2,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "Moi",
+        "h": "/lol/summoners/na/Moi-Moi02",
+        "t": "Master 1,159",
+        "op": 7.7,
+        "opr": "MVP",
+        "dmg": 28516,
+        "taken": 20045,
+        "cw": 1,
+        "wards": "11 / 4"
+       },
+       {
+        "n": "mountain dew",
+        "h": "/lol/summoners/na/mountain%20dew-hope",
+        "t": "Master 809",
+        "op": 5.5,
+        "opr": "4th",
+        "dmg": 12704,
+        "taken": 22358,
+        "cw": 11,
+        "wards": "37 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 5,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793063853654,
+   "shot": "g_31661d5363.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Hecarim (6/4/8). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"

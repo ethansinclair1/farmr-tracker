@@ -1,24 +1,24 @@
 {
- "sig": "7084e96266",
+ "sig": "2f538e95aa",
  "report": {
-  "roast": "2W 2L, +4 LP - and a 5/10/8 int in there. Uninstall.",
+  "roast": "2W 3L, -25 LP - and a 5/10/8 int in there. Uninstall.",
   "fixes": [
-   "Stop dying - 5.5 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.3 a game is nothing.",
-   "Play with the team, not for the highlight reel."
+   "Stop dying - 5.2 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.8 a game is nothing.",
+   "Two losses in a row = log off, not \"one more\"."
   ],
   "ai": false,
   "wins": 2,
-  "losses": 2,
-  "k": 11.75,
-  "d": 5.5,
-  "a": 16.25,
-  "kda": 5.090909090909091,
-  "csm": 7.364051473640515,
-  "kp": 74.25,
-  "lpNet": 4,
+  "losses": 3,
+  "k": 10.6,
+  "d": 5.2,
+  "a": 14.6,
+  "kda": 4.846153846153846,
+  "csm": 7.404458598726115,
+  "kp": 75,
+  "lpNet": -25,
   "ints": 1,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }
