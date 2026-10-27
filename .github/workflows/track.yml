@@ -1,12 +1,16 @@
 name: Track op.gg
 
+# GitHub runs 5-minute schedules very late on small repos (sometimes hours), so each run keeps checking
+# op.gg every ~4 minutes for ~50 minutes and then starts the next run itself. The hourly schedule is
+# only a backup that restarts the chain if it ever stops.
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes (GitHub sometimes runs these a few minutes late)
+    - cron: "17 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: track
@@ -15,7 +19,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -28,23 +32,22 @@ jobs:
           key: pw-1.48.2
       - run: npm install --no-audit --no-fund
       - run: npx playwright install --with-deps chromium
-      - name: Check op.gg, post new games, rebuild the page
-        run: node run.mjs
+      - name: Check op.gg every ~4 minutes for ~50 minutes
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PAGE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-      - name: Save new games and the page
         run: |
-          git config user.name "op.gg tracker"
-          git config user.email "actions@users.noreply.github.com"
-          git add data docs
-          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git commit -m "New games $(date -u +%Y-%m-%dT%H:%MZ)"
-          # someone may have pushed while this ran: rebase onto it (our data/docs win) and retry
-          for i in 1 2 3 4 5; do
-            git push && exit 0
-            git fetch origin main && git rebase -X theirs origin/main || { git rebase --abort; git pull --no-rebase -X ours origin main --no-edit; }
-            sleep 3
+          end=$(( $(date +%s) + 50*60 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            start=$(date +%s)
+            git pull -q --rebase -X theirs origin main || git rebase --abort || true
+            node run.mjs || echo "check failed - trying again next round"
+            ./scripts/save.sh || echo "save failed - trying again next round"
+            wait=$(( 240 - ($(date +%s) - start) )); [ "$wait" -gt 0 ] && sleep "$wait"
           done
-          exit 1
+      - name: Start the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run track.yml --ref main -R "${{ github.repository }}"
