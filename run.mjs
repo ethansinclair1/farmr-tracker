@@ -8,6 +8,7 @@ import { stats, roast, dayReport, guestCallouts, matchupLines } from './lib/repo
 import { buildPage } from './lib/page.mjs';
 import { postGame, postText } from './lib/discord.mjs';
 import { opDateToTs, tsToOpDate } from './lib/time.mjs';
+import { liveTips } from './lib/livetips.mjs';
 
 const cfg = JSON.parse(fs.readFileSync('config.json', 'utf8'));
 if (process.env.PAGE_URL) cfg.pageUrl = process.env.PAGE_URL;
@@ -154,7 +155,7 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 22;   // bump when the page layout changes so the site rebuilds
+const TEMPLATE = 23;   // bump when the page layout changes so the site rebuilds
 const sig = hash(JSON.stringify([TEMPLATE, matchups.map(m => m.text), ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
@@ -165,5 +166,5 @@ save(`${DATA}/state.json`, state);
 save(`${DATA}/profile.json`, { ...raw.profile, scrapedAt: raw.scrapedAt || new Date().toISOString() });
 
 const games = all.filter(g => nowTs - g.ts < 14 * DAY).map(g => history.games[g.id]);
-fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, callouts, matchups, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
+fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, tips: liveTips(live, tierFile.lists || {}), callouts, matchups, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
 console.log(`Done: ${parsed.length} games read, ${newOnes.length} new. ${ranked14.length} ranked games in the last 14 days. ${recent.wins}W ${recent.losses}L (${recent.lpNet} LP) today in solo/duo.${live ? ' LIVE NOW.' : ''}`);
