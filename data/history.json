@@ -23161,9 +23161,9 @@
      }
     ]
    },
-   "firstSeen": 1793144255344,
+   "roast": "Win on Xin Zhao (8/7/11). Got carried and the 6.8 CS/min proves it.",
    "shot": "g_8ca8cb148d.jpg",
-   "roast": "Win on Xin Zhao (8/7/11). Got carried and the 6.8 CS/min proves it."
+   "firstSeen": 1793144255344
   },
   "Ranked Flex|10/27/2026, 6:54 PM|Elise|29m 42s": {
    "id": "Ranked Flex|10/27/2026, 6:54 PM|Elise|29m 42s",
@@ -23454,9 +23454,9 @@
      }
     ]
    },
-   "firstSeen": 1793144255345,
+   "roast": "17/4/3 on Elise, 56% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_c7496c4f74.jpg",
-   "roast": "17/4/3 on Elise, 56% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "firstSeen": 1793144255345
   },
   "Arena|10/27/2026, 6:12 PM|Hecarim|21m 20s": {
    "id": "Arena|10/27/2026, 6:12 PM|Hecarim|21m 20s",
@@ -23591,8 +23591,8 @@
    "team": 1,
    "ts": 1793139120000,
    "detail": null,
-   "firstSeen": 1793144255345,
-   "shot": "g_55e5e06c8e.jpg"
+   "shot": "g_55e5e06c8e.jpg",
+   "firstSeen": 1793144255345
   },
   "Arena|10/27/2026, 5:50 PM|Jarvan IV|20m 47s": {
    "id": "Arena|10/27/2026, 5:50 PM|Jarvan IV|20m 47s",
@@ -23727,8 +23727,8 @@
    "team": 1,
    "ts": 1793137800000,
    "detail": null,
-   "firstSeen": 1793144255345,
-   "shot": "g_a31d5e0f7e.jpg"
+   "shot": "g_a31d5e0f7e.jpg",
+   "firstSeen": 1793144255345
   }
  },
  "tz": "America/Toronto"
