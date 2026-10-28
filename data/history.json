@@ -24315,6 +24315,300 @@
    "roast": "Win on Sylas (3/3/10). Got carried and the 7 CS/min proves it.",
    "shot": "g_3f5b089f51.jpg",
    "firstSeen": 1793148973573
+  },
+  "Ranked Solo/Duo|10/27/2026, 10:14 PM|Hecarim|26m 27s": {
+   "id": "Ranked Solo/Duo|10/27/2026, 10:14 PM|Hecarim|26m 27s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/27/2026, 10:14 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 15,
+   "duration": "26m 27s",
+   "minutes": 26.45,
+   "k": 13,
+   "d": 8,
+   "a": 3,
+   "kda": "2.00",
+   "kp": 73,
+   "cs": 187,
+   "csm": 7.1,
+   "laning": [
+    55,
+    45
+   ],
+   "avgTier": "Master 669",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3111.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3133.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3363.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "SICHUAN HOTPOT",
+     "h": "/lol/summoners/na/SICHUAN%20HOTPOT-CN1",
+     "c": "Elise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Elise.png"
+    },
+    {
+     "n": "LinMo",
+     "h": "/lol/summoners/na/LinMo-2025",
+     "c": "Nocturne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nocturne.png"
+    },
+    {
+     "n": "Zeal",
+     "h": "/lol/summoners/na/Zeal-5536",
+     "c": "Mel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Mel.png"
+    },
+    {
+     "n": "Tang Dynasty",
+     "h": "/lol/summoners/na/Tang%20Dynasty-xDD",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Celerity",
+     "h": "/lol/summoners/na/Celerity-NA1",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png"
+    },
+    {
+     "n": "POKERPOKER",
+     "h": "/lol/summoners/na/POKERPOKER-3726",
+     "c": "Nasus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nasus.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "反省了你全错",
+     "h": "/lol/summoners/na/%E5%8F%8D%E7%9C%81%E4%BA%86%E4%BD%A0%E5%85%A8%E9%94%99-%E7%9F%A5%E8%B1%86%E4%B8%8D",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "Undyne",
+     "h": "/lol/summoners/na/Undyne-ATH",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png"
+    },
+    {
+     "n": "AsianNinja23",
+     "h": "/lol/summoners/na/AsianNinja23-Lost",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793153640000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "SICHUAN HOTPOT",
+        "h": "/lol/summoners/na/SICHUAN%20HOTPOT-CN1",
+        "t": "Master 607",
+        "op": 9.1,
+        "opr": "MVP",
+        "dmg": 45376,
+        "taken": 31394,
+        "cw": 2,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "LinMo",
+        "h": "/lol/summoners/na/LinMo-2025",
+        "t": "Master 274",
+        "op": 7.2,
+        "opr": "2nd",
+        "dmg": 20732,
+        "taken": 33266,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Zeal",
+        "h": "/lol/summoners/na/Zeal-5536",
+        "t": "Master 150",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 29417,
+        "taken": 21162,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "Tang Dynasty",
+        "h": "/lol/summoners/na/Tang%20Dynasty-xDD",
+        "t": "Master 693",
+        "op": 5,
+        "opr": "5th",
+        "dmg": 16570,
+        "taken": 12057,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Celerity",
+        "h": "/lol/summoners/na/Celerity-NA1",
+        "t": "Master 665",
+        "op": 6,
+        "opr": "3rd",
+        "dmg": 18435,
+        "taken": 10624,
+        "cw": 5,
+        "wards": "32 / 7"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "POKERPOKER",
+        "h": "/lol/summoners/na/POKERPOKER-3726",
+        "t": "Master 769",
+        "op": 0,
+        "opr": "10th",
+        "dmg": 11653,
+        "taken": 41300,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 721",
+        "op": 5,
+        "opr": "ACE",
+        "dmg": 25748,
+        "taken": 35761,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "反省了你全错",
+        "h": "/lol/summoners/na/%E5%8F%8D%E7%9C%81%E4%BA%86%E4%BD%A0%E5%85%A8%E9%94%99-%E7%9F%A5%E8%B1%86%E4%B8%8D",
+        "t": "Grandmaster 1,322",
+        "op": 3,
+        "opr": "7th",
+        "dmg": 11082,
+        "taken": 25541,
+        "cw": 1,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Undyne",
+        "h": "/lol/summoners/na/Undyne-ATH",
+        "t": "Master 950",
+        "op": 3,
+        "opr": "8th",
+        "dmg": 19801,
+        "taken": 24200,
+        "cw": 0,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "AsianNinja23",
+        "h": "/lol/summoners/na/AsianNinja23-Lost",
+        "t": "Master 539",
+        "op": 2.8,
+        "opr": "9th",
+        "dmg": 8036,
+        "taken": 22294,
+        "cw": 10,
+        "wards": "30 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 9,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793153860172,
+   "shot": "g_e9830ba577.jpg",
+   "lpCalc": true,
+   "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"
