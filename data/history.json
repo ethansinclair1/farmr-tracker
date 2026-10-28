@@ -25320,8 +25320,142 @@
    "team": 1,
    "ts": 1793220420000,
    "detail": null,
-   "firstSeen": 1793220681818,
-   "shot": "g_a2bc9e451c.jpg"
+   "shot": "g_a2bc9e451c.jpg",
+   "firstSeen": 1793220681818
+  },
+  "Swiftplay|10/28/2026, 5:00 PM|Qiyana|10m 39s": {
+   "id": "Swiftplay|10/28/2026, 5:00 PM|Qiyana|10m 39s",
+   "queue": "Swiftplay",
+   "date": "10/28/2026, 5:00 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Qiyana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png"
+   },
+   "level": 11,
+   "duration": "10m 39s",
+   "minutes": 10.65,
+   "k": 1,
+   "d": 2,
+   "a": 3,
+   "kda": "2.00",
+   "kp": 57,
+   "cs": 73,
+   "csm": 6.9,
+   "laning": null,
+   "avgTier": "Diamond 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png"
+    },
+    {
+     "n": "Slightly Magical Footwear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2422.png"
+    },
+    {
+     "n": "The Brutalizer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2020.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Electrocute",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8112.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "akishiina",
+     "h": "/lol/summoners/na/akishiina-sho",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png"
+    },
+    {
+     "n": "Mere",
+     "h": "/lol/summoners/na/Mere-NA2",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png"
+    },
+    {
+     "n": "23 05",
+     "h": "/lol/summoners/na/23%2005-Rank1",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "VorpalBerry",
+     "h": "/lol/summoners/na/VorpalBerry-NA1",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png"
+    },
+    {
+     "n": "missfortunesfeet",
+     "h": "/lol/summoners/na/missfortunesfeet-feet",
+     "c": "Sett",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sett.png"
+    },
+    {
+     "n": "No ARAM Please",
+     "h": "/lol/summoners/na/No%20ARAM%20Please-NA1",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+    },
+    {
+     "n": "KrzyMoose",
+     "h": "/lol/summoners/na/KrzyMoose-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "MATEBA 6 UNICA",
+     "h": "/lol/summoners/na/MATEBA%206%20UNICA-777",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png"
+    },
+    {
+     "n": "Meligma",
+     "h": "/lol/summoners/na/Meligma-1111",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793221200000,
+   "detail": null,
+   "firstSeen": 1793221398330,
+   "shot": "g_60ede5107b.jpg"
   }
  },
  "tz": "America/Toronto"
