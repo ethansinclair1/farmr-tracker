@@ -25456,6 +25456,300 @@
    "detail": null,
    "shot": "g_60ede5107b.jpg",
    "firstSeen": 1793221398330
+  },
+  "Ranked Solo/Duo|10/28/2026, 5:37 PM|Sion|29m 42s": {
+   "id": "Ranked Solo/Duo|10/28/2026, 5:37 PM|Sion|29m 42s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/28/2026, 5:37 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Sion",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+   },
+   "level": 16,
+   "duration": "29m 42s",
+   "minutes": 29.7,
+   "k": 5,
+   "d": 3,
+   "a": 5,
+   "kda": "3.33",
+   "kp": 27,
+   "cs": 233,
+   "csm": 7.8,
+   "laning": [
+    40,
+    60
+   ],
+   "avgTier": "Master 393",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Doran's Helm",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1120.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3748.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3084.png"
+    },
+    {
+     "n": "Armored Advance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3174.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2501.png"
+    },
+    {
+     "n": "Cloth Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1029.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Huydeptrai",
+     "h": "/lol/summoners/na/Huydeptrai-2793",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renekton.png"
+    },
+    {
+     "n": "5AaHwtgpgIHeV9lx",
+     "h": "/lol/summoners/na/5AaHwtgpgIHeV9lx-NA1",
+     "c": "Evelynn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Evelynn.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+    },
+    {
+     "n": "LVB Speeky",
+     "h": "/lol/summoners/na/LVB%20Speeky-3126",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png"
+    },
+    {
+     "n": "Dazay",
+     "h": "/lol/summoners/na/Dazay-GCF",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png"
+    },
+    {
+     "n": "cjnglock",
+     "h": "/lol/summoners/na/cjnglock-tebys",
+     "c": "Cassiopeia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Cassiopeia.png"
+    },
+    {
+     "n": "Juega bonito",
+     "h": "/lol/summoners/na/Juega%20bonito-MEX",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jayce.png"
+    },
+    {
+     "n": "Slime",
+     "h": "/lol/summoners/na/Slime-4432",
+     "c": "Tryndamere",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tryndamere.png"
+    },
+    {
+     "n": "h8 u",
+     "h": "/lol/summoners/na/h8%20u-zzZ",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "trophee",
+     "h": "/lol/summoners/na/trophee-NA2",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793223420000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Huydeptrai",
+        "h": "/lol/summoners/na/Huydeptrai-2793",
+        "t": "Master 454",
+        "op": 4.6,
+        "opr": "8th",
+        "dmg": 14065,
+        "taken": 35771,
+        "cw": 2,
+        "wards": "13 / 0"
+       },
+       {
+        "n": "5AaHwtgpgIHeV9lx",
+        "h": "/lol/summoners/na/5AaHwtgpgIHeV9lx-NA1",
+        "t": "Master 387",
+        "op": 7.3,
+        "opr": "3rd",
+        "dmg": 19479,
+        "taken": 18689,
+        "cw": 7,
+        "wards": "22 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 661",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 21775,
+        "taken": 34482,
+        "cw": 0,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "LVB Speeky",
+        "h": "/lol/summoners/na/LVB%20Speeky-3126",
+        "t": "Master 644",
+        "op": 9.2,
+        "opr": "MVP",
+        "dmg": 36205,
+        "taken": 22613,
+        "cw": 4,
+        "wards": "16 / 3"
+       },
+       {
+        "n": "Dazay",
+        "h": "/lol/summoners/na/Dazay-GCF",
+        "t": "Master 529",
+        "op": 8.5,
+        "opr": "2nd",
+        "dmg": 11717,
+        "taken": 18619,
+        "cw": 2,
+        "wards": "31 / 10"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "cjnglock",
+        "h": "/lol/summoners/na/cjnglock-tebys",
+        "t": "Emerald 1",
+        "op": 3.2,
+        "opr": "10th",
+        "dmg": 23001,
+        "taken": 24096,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "Juega bonito",
+        "h": "/lol/summoners/na/Juega%20bonito-MEX",
+        "t": "Emerald 1",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 22290,
+        "taken": 25055,
+        "cw": 2,
+        "wards": "7 / 6"
+       },
+       {
+        "n": "Slime",
+        "h": "/lol/summoners/na/Slime-4432",
+        "t": "Master 531",
+        "op": 5,
+        "opr": "ACE",
+        "dmg": 28867,
+        "taken": 41354,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "h8 u",
+        "h": "/lol/summoners/na/h8%20u-zzZ",
+        "t": "Master 904",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 10581,
+        "taken": 18683,
+        "cw": 0,
+        "wards": "7 / 6"
+       },
+       {
+        "n": "trophee",
+        "h": "/lol/summoners/na/trophee-NA2",
+        "t": "Master 668",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 13964,
+        "taken": 25423,
+        "cw": 13,
+        "wards": "32 / 11"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 2
+     },
+     {
+      "Baron": 1,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793223600054,
+   "shot": "g_3ecdc30ded.jpg",
+   "lpCalc": true,
+   "roast": "5/3/5 win on Sion. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"

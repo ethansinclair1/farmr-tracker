@@ -1,24 +1,24 @@
 {
- "sig": "573366e593",
+ "sig": "fcd911c05d",
  "report": {
-  "roast": "1W 4L, -28 LP. The enemy team should be paying him.",
+  "roast": "1W 0L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (2.4 vs 1.6 drakes a game). Be there before they spawn.",
-   "Low kill participation (52%). Stop farming while your team fights.",
-   "Stop dying - 7.2 deaths a game. Ward before face-checking."
+   "Take objectives: losing dragons/grubs (3.0 vs 1.0 drakes a game). Be there before they spawn.",
+   "Low kill participation (27%). Stop farming while your team fights.",
+   "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 4,
-  "k": 6.2,
-  "d": 7.2,
-  "a": 8,
-  "kda": 1.972222222222222,
-  "csm": 6.988274706867671,
-  "kp": 52.2,
-  "lpNet": -28,
-  "ints": 1,
-  "games": 5
+  "losses": 0,
+  "k": 5,
+  "d": 3,
+  "a": 5,
+  "kda": 3.3333333333333335,
+  "csm": 7.845117845117845,
+  "kp": 27,
+  "lpNet": 30,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }
