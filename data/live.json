@@ -1,7 +1,7 @@
 {
  "queue": "Normal",
  "map": "Summoner's Rift",
- "elapsed": 129,
+ "elapsed": 376,
  "started": "10/28/2026, 4:49 PM",
  "teams": [
   {
@@ -345,5 +345,5 @@
    "bans": []
   }
  ],
- "at": "2026-10-28T20:50:59.099Z"
+ "at": "2026-10-28T20:55:03.272Z"
 }
