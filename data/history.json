@@ -25186,6 +25186,142 @@
    "roast": "9 deaths. The enemy team should be paying 9 cents in rent for living in this player's jungle.",
    "shot": "g_8801e80652.jpg",
    "firstSeen": 1793158202807
+  },
+  "Arena|10/28/2026, 4:47 PM|Cho'Gath|21m 55s": {
+   "id": "Arena|10/28/2026, 4:47 PM|Cho'Gath|21m 55s",
+   "queue": "Arena",
+   "date": "10/28/2026, 4:47 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Cho'Gath",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+   },
+   "level": 16,
+   "duration": "21m 55s",
+   "minutes": 21.916666666666668,
+   "k": 10,
+   "d": 5,
+   "a": 10,
+   "kda": "4.00",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223047.png"
+    },
+    {
+     "n": "Cruelty",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447109.png"
+    },
+    {
+     "n": "Cloak of Starry Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443059.png"
+    },
+    {
+     "n": "Void Immolation",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223069.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223084.png"
+    },
+    {
+     "n": "Unending Despair",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222502.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "n00blety",
+     "h": "/lol/summoners/na/n00blety-NA1",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png"
+    },
+    {
+     "n": "Grammatonn",
+     "h": "/lol/summoners/na/Grammatonn-NA1",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    },
+    {
+     "n": "Invictus 9 C Z",
+     "h": "/lol/summoners/na/Invictus%209%20C%20Z-NA1",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png"
+    },
+    {
+     "n": "DJ Vaporeon",
+     "h": "/lol/summoners/na/DJ%20Vaporeon-LoR",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vayne.png"
+    },
+    {
+     "n": "C2TomMRBUCK",
+     "h": "/lol/summoners/na/C2TomMRBUCK-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png"
+    },
+    {
+     "n": "C4TomMRBUCK",
+     "h": "/lol/summoners/na/C4TomMRBUCK-7635",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png"
+    },
+    {
+     "n": "Alderyt",
+     "h": "/lol/summoners/na/Alderyt-NA1",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png"
+    },
+    {
+     "n": "cookiemonster cm",
+     "h": "/lol/summoners/na/cookiemonster%20cm-NA1",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vayne.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "Xez",
+     "h": "/lol/summoners/na/Xez-NA1",
+     "c": "Xin Zhao",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/XinZhao.png"
+    },
+    {
+     "n": "gipsydanger22",
+     "h": "/lol/summoners/na/gipsydanger22-mecha",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/KogMaw.png"
+    },
+    {
+     "n": "easy NA server",
+     "h": "/lol/summoners/na/easy%20NA%20server-NAser",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793220420000,
+   "detail": null,
+   "firstSeen": 1793220681818,
+   "shot": "g_a2bc9e451c.jpg"
   }
  },
  "tz": "America/Toronto"
