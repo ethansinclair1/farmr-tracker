@@ -24022,6 +24022,299 @@
    "roast": "A 7/6/10 loss on Graves. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_987ba8bec7.jpg",
    "firstSeen": 1793146754296
+  },
+  "Ranked Solo/Duo|10/27/2026, 8:52 PM|Sylas|28m 56s": {
+   "id": "Ranked Solo/Duo|10/27/2026, 8:52 PM|Sylas|28m 56s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/27/2026, 8:52 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+   },
+   "level": 16,
+   "duration": "28m 56s",
+   "minutes": 28.933333333333334,
+   "k": 3,
+   "d": 3,
+   "a": 10,
+   "kda": "4.33",
+   "kp": 45,
+   "cs": 203,
+   "csm": 7,
+   "laning": [
+    51,
+    49
+   ],
+   "avgTier": "Master 728",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1082.png"
+    },
+    {
+     "n": "Amplifying Tome",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1052.png"
+    },
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "LeashMeAtScuttle",
+     "h": "/lol/summoners/na/LeashMeAtScuttle-NA1",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    },
+    {
+     "n": "ccbrians",
+     "h": "/lol/summoners/na/ccbrians-NA1",
+     "c": "Nunu & Willump",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nunu.png"
+    },
+    {
+     "n": "Legacy",
+     "h": "/lol/summoners/na/Legacy-ROB",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zed.png"
+    },
+    {
+     "n": "Hallowed Heart",
+     "h": "/lol/summoners/na/Hallowed%20Heart-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "Lazuli",
+     "h": "/lol/summoners/na/Lazuli-2516",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Bard.png"
+    },
+    {
+     "n": "mattyj",
+     "h": "/lol/summoners/na/mattyj-slatt",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Leesan",
+     "h": "/lol/summoners/na/Leesan-001",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+    },
+    {
+     "n": "Complexinq",
+     "h": "/lol/summoners/na/Complexinq-ACE",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png"
+    },
+    {
+     "n": "Zophiell",
+     "h": "/lol/summoners/na/Zophiell-NA1",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793148720000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "LeashMeAtScuttle",
+        "h": "/lol/summoners/na/LeashMeAtScuttle-NA1",
+        "t": "Master 157",
+        "op": 5.3,
+        "opr": "ACE",
+        "dmg": 36363,
+        "taken": 36592,
+        "cw": 0,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "ccbrians",
+        "h": "/lol/summoners/na/ccbrians-NA1",
+        "t": "Grandmaster 1,283",
+        "op": 4.7,
+        "opr": "7th",
+        "dmg": 14827,
+        "taken": 40658,
+        "cw": 2,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "Legacy",
+        "h": "/lol/summoners/na/Legacy-ROB",
+        "t": "Master 1,033",
+        "op": 4.3,
+        "opr": "8th",
+        "dmg": 33043,
+        "taken": 23022,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Hallowed Heart",
+        "h": "/lol/summoners/na/Hallowed%20Heart-NA1",
+        "t": "Master 640",
+        "op": 1.9,
+        "opr": "10th",
+        "dmg": 14326,
+        "taken": 20674,
+        "cw": 0,
+        "wards": "4 / 4"
+       },
+       {
+        "n": "Lazuli",
+        "h": "/lol/summoners/na/Lazuli-2516",
+        "t": "Master 229",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 10703,
+        "taken": 21619,
+        "cw": 17,
+        "wards": "47 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "mattyj",
+        "h": "/lol/summoners/na/mattyj-slatt",
+        "t": "Master 491",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 22883,
+        "taken": 29719,
+        "cw": 4,
+        "wards": "11 / 7"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 659",
+        "op": 7,
+        "opr": "3rd",
+        "dmg": 24423,
+        "taken": 39899,
+        "cw": 1,
+        "wards": "3 / 3"
+       },
+       {
+        "n": "Leesan",
+        "h": "/lol/summoners/na/Leesan-001",
+        "t": "Master 832",
+        "op": 8.9,
+        "opr": "MVP",
+        "dmg": 30229,
+        "taken": 45665,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Complexinq",
+        "h": "/lol/summoners/na/Complexinq-ACE",
+        "t": "Grandmaster 1,409",
+        "op": 8.5,
+        "opr": "2nd",
+        "dmg": 31034,
+        "taken": 16374,
+        "cw": 1,
+        "wards": "8 / 6"
+       },
+       {
+        "n": "Zophiell",
+        "h": "/lol/summoners/na/Zophiell-NA1",
+        "t": "Master 549",
+        "op": 6,
+        "opr": "4th",
+        "dmg": 6531,
+        "taken": 16750,
+        "cw": 20,
+        "wards": "36 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 10,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793148973573,
+   "shot": "g_3f5b089f51.jpg",
+   "roast": "Win on Sylas (3/3/10). Got carried and the 7 CS/min proves it."
   }
  },
  "tz": "America/Toronto"

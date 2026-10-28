@@ -1,24 +1,24 @@
 {
- "sig": "c5d40c7f58",
+ "sig": "804b060f88",
  "report": {
-  "roast": "0W 1L, -30 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "1W 1L, -30 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Low kill participation (49%). Stop farming while your team fights.",
-   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
+   "Low kill participation (47%). Stop farming while your team fights.",
+   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 0,
+  "wins": 1,
   "losses": 1,
-  "k": 7,
-  "d": 6,
+  "k": 5,
+  "d": 4.5,
   "a": 10,
-  "kda": 2.8333333333333335,
-  "csm": 8.233082706766917,
-  "kp": 49,
+  "kda": 3.3333333333333335,
+  "csm": 7.686335403726708,
+  "kp": 47,
   "lpNet": -30,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }
