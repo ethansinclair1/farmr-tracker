@@ -1,24 +1,24 @@
 {
- "sig": "fcd911c05d",
+ "sig": "1ee0c6562c",
  "report": {
-  "roast": "1W 0L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "2W 0L, +60 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (3.0 vs 1.0 drakes a game). Be there before they spawn.",
-   "Low kill participation (27%). Stop farming while your team fights.",
-   "Buy control wards - 0.0 a game is nothing."
+   "Low kill participation (50%). Stop farming while your team fights.",
+   "Buy control wards - 0.5 a game is nothing.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 0,
-  "k": 5,
+  "k": 7.5,
   "d": 3,
-  "a": 5,
-  "kda": 3.3333333333333335,
-  "csm": 7.845117845117845,
-  "kp": 27,
-  "lpNet": 30,
+  "a": 13,
+  "kda": 6.833333333333333,
+  "csm": 7.818838566268408,
+  "kp": 49.5,
+  "lpNet": 60,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }

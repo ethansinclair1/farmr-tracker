@@ -25749,6 +25749,300 @@
    "roast": "5/3/5 win on Sion. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_3ecdc30ded.jpg",
    "firstSeen": 1793223600054
+  },
+  "Ranked Solo/Duo|10/28/2026, 6:51 PM|Diana|30m 17s": {
+   "id": "Ranked Solo/Duo|10/28/2026, 6:51 PM|Diana|30m 17s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/28/2026, 6:51 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+   },
+   "level": 18,
+   "duration": "30m 17s",
+   "minutes": 30.283333333333335,
+   "k": 10,
+   "d": 3,
+   "a": 21,
+   "kda": "10.33",
+   "kp": 72,
+   "cs": 236,
+   "csm": 7.8,
+   "laning": [
+    67,
+    33
+   ],
+   "avgTier": "Master 472",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Verdant Barrier",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4632.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3089.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2510.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "ShizzyWa",
+     "h": "/lol/summoners/na/ShizzyWa-Kled",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kled.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+    },
+    {
+     "n": "TyphonI",
+     "h": "/lol/summoners/na/TyphonI-NA1",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zed.png"
+    },
+    {
+     "n": "Max",
+     "h": "/lol/summoners/na/Max-xdlol",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "FSN Gilgamesh",
+     "h": "/lol/summoners/na/FSN%20Gilgamesh-ENUMA",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    },
+    {
+     "n": "TTV TEWBONE",
+     "h": "/lol/summoners/na/TTV%20TEWBONE-SMILE",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png"
+    },
+    {
+     "n": "开开心心超超人",
+     "h": "/lol/summoners/na/%E5%BC%80%E5%BC%80%E5%BF%83%E5%BF%83%E8%B6%85%E8%B6%85%E4%BA%BA-11223",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taliyah.png"
+    },
+    {
+     "n": "Unemployed",
+     "h": "/lol/summoners/na/Unemployed-arc",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png"
+    },
+    {
+     "n": "Student",
+     "h": "/lol/summoners/na/Student-NA2",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MissFortune.png"
+    },
+    {
+     "n": "Qara Khitai",
+     "h": "/lol/summoners/na/Qara%20Khitai-Zyra",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793227860000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "ShizzyWa",
+        "h": "/lol/summoners/na/ShizzyWa-Kled",
+        "t": "Master 543",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 19939,
+        "taken": 48333,
+        "cw": 0,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 691",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 33974,
+        "taken": 36014,
+        "cw": 1,
+        "wards": "3 / 4"
+       },
+       {
+        "n": "TyphonI",
+        "h": "/lol/summoners/na/TyphonI-NA1",
+        "t": "Master 630",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 17371,
+        "taken": 21550,
+        "cw": 2,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "Max",
+        "h": "/lol/summoners/na/Max-xdlol",
+        "t": "Master 872",
+        "op": 9.7,
+        "opr": "2nd",
+        "dmg": 38887,
+        "taken": 22152,
+        "cw": 0,
+        "wards": "6 / 3"
+       },
+       {
+        "n": "FSN Gilgamesh",
+        "h": "/lol/summoners/na/FSN%20Gilgamesh-ENUMA",
+        "t": "Master 307",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 10269,
+        "taken": 26902,
+        "cw": 13,
+        "wards": "45 / 8"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "TTV TEWBONE",
+        "h": "/lol/summoners/na/TTV%20TEWBONE-SMILE",
+        "t": "Diamond 4",
+        "op": 5.3,
+        "opr": "ACE",
+        "dmg": 40207,
+        "taken": 31758,
+        "cw": 1,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "开开心心超超人",
+        "h": "/lol/summoners/na/%E5%BC%80%E5%BC%80%E5%BF%83%E5%BF%83%E8%B6%85%E8%B6%85%E4%BA%BA-11223",
+        "t": "Master 0",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 29214,
+        "taken": 25908,
+        "cw": 1,
+        "wards": "4 / 3"
+       },
+       {
+        "n": "Unemployed",
+        "h": "/lol/summoners/na/Unemployed-arc",
+        "t": "Master 986",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 34453,
+        "taken": 30666,
+        "cw": 1,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Student",
+        "h": "/lol/summoners/na/Student-NA2",
+        "t": "Master 992",
+        "op": 3.9,
+        "opr": "9th",
+        "dmg": 20713,
+        "taken": 21157,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "Qara Khitai",
+        "h": "/lol/summoners/na/Qara%20Khitai-Zyra",
+        "t": "Master 66",
+        "op": 3.8,
+        "opr": "10th",
+        "dmg": 5421,
+        "taken": 24074,
+        "cw": 11,
+        "wards": "37 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 2,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 5,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793228187923,
+   "shot": "g_ba7a48191e.jpg",
+   "lpCalc": true,
+   "roast": "10/3/21 on Diana, 72% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
