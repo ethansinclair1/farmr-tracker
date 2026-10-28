@@ -42,6 +42,7 @@ jobs:
           while [ "$(date +%s)" -lt "$end" ]; do
             start=$(date +%s)
             git pull -q --rebase -X theirs origin main || git rebase --abort || true
+            ./scripts/prep-music.sh || true
             node run.mjs || echo "check failed - trying again next round"
             ./scripts/save.sh || echo "save failed - trying again next round"
             wait=$(( 240 - ($(date +%s) - start) )); [ "$wait" -gt 0 ] && sleep "$wait"

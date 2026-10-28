@@ -156,8 +156,10 @@ if (hook) {
 } else console.log('No DISCORD_WEBHOOK_URL set - skipping Discord.');
 
 // nothing changed (same games, same rank, same live status): leave the files alone so the repo only changes when he plays
-const TEMPLATE = 25;   // bump when the page layout changes so the site rebuilds
-const sig = hash(JSON.stringify([TEMPLATE, matchups.map(m => m.text), ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
+const TEMPLATE = 26;
+// background songs: every docs/goop*.ogg (made by scripts/prep-music.sh), played one after another on repeat
+const songs = fs.readdirSync(DOCS).filter(f => /^goop.*\.ogg$/i.test(f)).map(f => f.replace(/\.ogg$/i, '')).sort((a, b) => a === 'goopa' ? -1 : b === 'goopa' ? 1 : a.localeCompare(b));   // bump when the page layout changes so the site rebuilds
+const sig = hash(JSON.stringify([TEMPLATE, songs, matchups.map(m => m.text), ranked14.map(g => [g.id, !!g.detail]), todayKey, solo24.map(g => g.id), raw.profile.solo, raw.profile.flex, live && [live.started, live.queue]]));
 if (!newOnes.length && !changedReport && state.sig === sig && fs.existsSync(`${DOCS}/index.html`) && fixArg < 0) { console.log('No change since last check.'); process.exit(0); }
 state.sig = sig;
 // keep the stored history to ~30 days
@@ -167,5 +169,5 @@ save(`${DATA}/state.json`, state);
 save(`${DATA}/profile.json`, { ...raw.profile, scrapedAt: raw.scrapedAt || new Date().toISOString() });
 
 const games = all.filter(g => nowTs - g.ts < 14 * DAY).map(g => history.games[g.id]);
-fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, tips: liveTips(live, tierFile.lists || {}), callouts, matchups, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
+fs.writeFileSync(`${DOCS}/index.html`, buildPage({ cfg, profile: raw.profile, games, recent, report, live, songs, tips: liveTips(live, tierFile.lists || {}), callouts, matchups, build: sig, updatedAt: raw.scrapedAt || new Date().toISOString() }));
 console.log(`Done: ${parsed.length} games read, ${newOnes.length} new. ${ranked14.length} ranked games in the last 14 days. ${recent.wins}W ${recent.losses}L (${recent.lpNet} LP) today in solo/duo.${live ? ' LIVE NOW.' : ''}`);
