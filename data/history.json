@@ -24635,7 +24635,7 @@
     70
    ],
    "avgTier": "Master 491",
-   "lp": null,
+   "lp": -30,
    "items": [
     {
      "n": "Riftmaker",
@@ -24897,6 +24897,296 @@
    "roast": "2/10/7 on Sylas. That's not a KDA, that's a donation receipt.",
    "shot": "g_7d8f811ef4.jpg",
    "firstSeen": 1793156019402
+  },
+  "Ranked Solo/Duo|10/27/2026, 11:24 PM|Hecarim|28m 18s": {
+   "id": "Ranked Solo/Duo|10/27/2026, 11:24 PM|Hecarim|28m 18s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/27/2026, 11:24 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 15,
+   "duration": "28m 18s",
+   "minutes": 28.3,
+   "k": 6,
+   "d": 9,
+   "a": 10,
+   "kda": "1.78",
+   "kp": 55,
+   "cs": 183,
+   "csm": 6.5,
+   "laning": [
+    50,
+    50
+   ],
+   "avgTier": "Master 1,019",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png"
+    },
+    {
+     "n": "Null-Magic Mantle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1033.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Estrella",
+     "h": "/lol/summoners/na/Estrella-SSS",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renekton.png"
+    },
+    {
+     "n": "Fartdog2010",
+     "h": "/lol/summoners/na/Fartdog2010-Bull",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+    },
+    {
+     "n": "lime melon 0022",
+     "h": "/lol/summoners/na/lime%20melon%200022-52648",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png"
+    },
+    {
+     "n": "Rias Lover",
+     "h": "/lol/summoners/na/Rias%20Lover-DXD",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xayah.png"
+    },
+    {
+     "n": "Bobby McFreeWin1",
+     "h": "/lol/summoners/na/Bobby%20McFreeWin1-NA1",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    },
+    {
+     "n": "fliptik",
+     "h": "/lol/summoners/na/fliptik-skbdi",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gnar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "L9 Stylish",
+     "h": "/lol/summoners/na/L9%20Stylish-ZED",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zed.png"
+    },
+    {
+     "n": "The Bitter Truth",
+     "h": "/lol/summoners/na/The%20Bitter%20Truth-Minji",
+     "c": "Annie",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Annie.png"
+    },
+    {
+     "n": "Lyng",
+     "h": "/lol/summoners/na/Lyng-RD1",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793157840000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Estrella",
+        "h": "/lol/summoners/na/Estrella-SSS",
+        "t": "Master 15",
+        "op": 4.6,
+        "opr": "8th",
+        "dmg": 18007,
+        "taken": 35513,
+        "cw": 3,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "Fartdog2010",
+        "h": "/lol/summoners/na/Fartdog2010-Bull",
+        "t": "Master 1,130",
+        "op": 8.3,
+        "opr": "2nd",
+        "dmg": 29387,
+        "taken": 37002,
+        "cw": 1,
+        "wards": "8 / 6"
+       },
+       {
+        "n": "lime melon 0022",
+        "h": "/lol/summoners/na/lime%20melon%200022-52648",
+        "t": "Grandmaster 1,462",
+        "op": 9,
+        "opr": "MVP",
+        "dmg": 37757,
+        "taken": 31426,
+        "cw": 1,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "Rias Lover",
+        "h": "/lol/summoners/na/Rias%20Lover-DXD",
+        "t": "Master 877",
+        "op": 6.4,
+        "opr": "3rd",
+        "dmg": 22797,
+        "taken": 21955,
+        "cw": 2,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "Bobby McFreeWin1",
+        "h": "/lol/summoners/na/Bobby%20McFreeWin1-NA1",
+        "t": "Master 1,029",
+        "op": 6.2,
+        "opr": "4th",
+        "dmg": 13961,
+        "taken": 21822,
+        "cw": 4,
+        "wards": "29 / 1"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "fliptik",
+        "h": "/lol/summoners/na/fliptik-skbdi",
+        "t": "Grandmaster 1,544",
+        "op": 4.7,
+        "opr": "7th",
+        "dmg": 27157,
+        "taken": 26938,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 691",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 18196,
+        "taken": 38301,
+        "cw": 0,
+        "wards": "1 / 2"
+       },
+       {
+        "n": "L9 Stylish",
+        "h": "/lol/summoners/na/L9%20Stylish-ZED",
+        "t": "Grandmaster 1,231",
+        "op": 4.5,
+        "opr": "9th",
+        "dmg": 32145,
+        "taken": 25992,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "The Bitter Truth",
+        "h": "/lol/summoners/na/The%20Bitter%20Truth-Minji",
+        "t": "Master 1,016",
+        "op": 4.5,
+        "opr": "10th",
+        "dmg": 23141,
+        "taken": 23454,
+        "cw": 0,
+        "wards": "1 / 5"
+       },
+       {
+        "n": "Lyng",
+        "h": "/lol/summoners/na/Lyng-RD1",
+        "t": "Grandmaster 1,195",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 21662,
+        "taken": 30398,
+        "cw": 3,
+        "wards": "26 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 6,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793158202807,
+   "shot": "g_8801e80652.jpg",
+   "lpCalc": true,
+   "roast": "9 deaths. The enemy team should be paying 9 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"
