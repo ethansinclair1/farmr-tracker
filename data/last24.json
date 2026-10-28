@@ -1,24 +1,24 @@
 {
- "sig": "1db90f0747",
+ "sig": "afe6219b7f",
  "report": {
-  "roast": "1W 2L, +2 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "1W 3L, +32 LP. The enemy team should be paying him.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (3.0 vs 1.3 drakes a game). Be there before they spawn.",
-   "Stop dying - 5.7 deaths a game. Ward before face-checking.",
-   "Buy control wards - 1.0 a game is nothing."
+   "Take objectives: losing dragons/grubs (2.5 vs 1.5 drakes a game). Be there before they spawn.",
+   "Low kill participation (52%). Stop farming while your team fights.",
+   "Stop dying - 6.8 deaths a game. Ward before face-checking."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 2,
-  "k": 7.666666666666667,
-  "d": 5.666666666666667,
-  "a": 7.666666666666667,
-  "kda": 2.7058823529411766,
-  "csm": 7.506879471656576,
-  "kp": 55.666666666666664,
-  "lpNet": 2,
-  "ints": 0,
-  "games": 3
+  "losses": 3,
+  "k": 6.25,
+  "d": 6.75,
+  "a": 7.5,
+  "kda": 2.037037037037037,
+  "csm": 7.110376188507646,
+  "kp": 51.5,
+  "lpNet": 32,
+  "ints": 1,
+  "games": 4
  },
  "v": 3
 }

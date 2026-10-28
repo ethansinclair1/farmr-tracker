@@ -24608,6 +24608,295 @@
    "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle.",
    "shot": "g_e9830ba577.jpg",
    "firstSeen": 1793153860172
+  },
+  "Ranked Solo/Duo|10/27/2026, 10:51 PM|Sylas|30m 06s": {
+   "id": "Ranked Solo/Duo|10/27/2026, 10:51 PM|Sylas|30m 06s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/27/2026, 10:51 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+   },
+   "level": 15,
+   "duration": "30m 06s",
+   "minutes": 30.1,
+   "k": 2,
+   "d": 10,
+   "a": 7,
+   "kda": "0.90",
+   "kp": 39,
+   "cs": 178,
+   "csm": 5.9,
+   "laning": [
+    30,
+    70
+   ],
+   "avgTier": "Master 491",
+   "lp": null,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png"
+    },
+    {
+     "n": "Shattered Armguard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2421.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1082.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Impact",
+     "h": "/lol/summoners/na/Impact-1000",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ambessa.png"
+    },
+    {
+     "n": "خالد",
+     "h": "/lol/summoners/na/%D8%AE%D8%A7%D9%84%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85",
+     "c": "Rek'Sai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/RekSai.png"
+    },
+    {
+     "n": "IfDadLuvMeYLeave",
+     "h": "/lol/summoners/na/IfDadLuvMeYLeave-NA1",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png"
+    },
+    {
+     "n": "Undyne",
+     "h": "/lol/summoners/na/Undyne-ATH",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png"
+    },
+    {
+     "n": "K for Kimchi",
+     "h": "/lol/summoners/na/K%20for%20Kimchi-NA1",
+     "c": "Renata Glasc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renata.png"
+    },
+    {
+     "n": "夜雨声烦",
+     "h": "/lol/summoners/na/%E5%A4%9C%E9%9B%A8%E5%A3%B0%E7%83%A6-9191",
+     "c": "Aatrox",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "T1 GoJeonPa",
+     "h": "/lol/summoners/na/T1%20GoJeonPa-NA1",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png"
+    },
+    {
+     "n": "Tang Dynasty",
+     "h": "/lol/summoners/na/Tang%20Dynasty-xDD",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "Zeph",
+     "h": "/lol/summoners/na/Zeph-0826",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793155860000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Impact",
+        "h": "/lol/summoners/na/Impact-1000",
+        "t": "Master 537",
+        "op": 3.2,
+        "opr": "7th",
+        "dmg": 15805,
+        "taken": 30646,
+        "cw": 0,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "خالد",
+        "h": "/lol/summoners/na/%D8%AE%D8%A7%D9%84%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85",
+        "t": "Platinum 1",
+        "op": 7.4,
+        "opr": "4th",
+        "dmg": 32408,
+        "taken": 54112,
+        "cw": 5,
+        "wards": "5 / 6"
+       },
+       {
+        "n": "IfDadLuvMeYLeave",
+        "h": "/lol/summoners/na/IfDadLuvMeYLeave-NA1",
+        "t": "Master 560",
+        "op": 9,
+        "opr": "MVP",
+        "dmg": 43463,
+        "taken": 23486,
+        "cw": 0,
+        "wards": "7 / 6"
+       },
+       {
+        "n": "Undyne",
+        "h": "/lol/summoners/na/Undyne-ATH",
+        "t": "Master 950",
+        "op": 7.7,
+        "opr": "3rd",
+        "dmg": 39248,
+        "taken": 19637,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "K for Kimchi",
+        "h": "/lol/summoners/na/K%20for%20Kimchi-NA1",
+        "t": "Master 864",
+        "op": 7.9,
+        "opr": "2nd",
+        "dmg": 9256,
+        "taken": 17234,
+        "cw": 18,
+        "wards": "41 / 13"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "夜雨声烦",
+        "h": "/lol/summoners/na/%E5%A4%9C%E9%9B%A8%E5%A3%B0%E7%83%A6-9191",
+        "t": "Master 274",
+        "op": 1.8,
+        "opr": "9th",
+        "dmg": 20065,
+        "taken": 36319,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 721",
+        "op": 1.8,
+        "opr": "10th",
+        "dmg": 11474,
+        "taken": 39487,
+        "cw": 1,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "T1 GoJeonPa",
+        "h": "/lol/summoners/na/T1%20GoJeonPa-NA1",
+        "t": "Master 755",
+        "op": 6.8,
+        "opr": "ACE",
+        "dmg": 50592,
+        "taken": 25791,
+        "cw": 1,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "Tang Dynasty",
+        "h": "/lol/summoners/na/Tang%20Dynasty-xDD",
+        "t": "Master 723",
+        "op": 3.2,
+        "opr": "6th",
+        "dmg": 16291,
+        "taken": 23015,
+        "cw": 0,
+        "wards": "10 / 6"
+       },
+       {
+        "n": "Zeph",
+        "h": "/lol/summoners/na/Zeph-0826",
+        "t": "Master 387",
+        "op": 2.4,
+        "opr": "8th",
+        "dmg": 6425,
+        "taken": 33259,
+        "cw": 5,
+        "wards": "33 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 2,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793156019402,
+   "shot": "g_7d8f811ef4.jpg",
+   "roast": "2/10/7 on Sylas. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
