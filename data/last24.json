@@ -1,24 +1,24 @@
 {
- "sig": "2f538e95aa",
+ "sig": "c5d40c7f58",
  "report": {
-  "roast": "2W 3L, -25 LP - and a 5/10/8 int in there. Uninstall.",
+  "roast": "0W 1L, -30 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Stop dying - 5.2 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.8 a game is nothing.",
-   "Two losses in a row = log off, not \"one more\"."
+   "Low kill participation (49%). Stop farming while your team fights.",
+   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 2,
-  "losses": 3,
-  "k": 10.6,
-  "d": 5.2,
-  "a": 14.6,
-  "kda": 4.846153846153846,
-  "csm": 7.404458598726115,
-  "kp": 75,
-  "lpNet": -25,
-  "ints": 1,
-  "games": 5
+  "wins": 0,
+  "losses": 1,
+  "k": 7,
+  "d": 6,
+  "a": 10,
+  "kda": 2.8333333333333335,
+  "csm": 8.233082706766917,
+  "kp": 49,
+  "lpNet": -30,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }
