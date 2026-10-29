@@ -26335,6 +26335,292 @@
    "roast": "8/4/16 on Hecarim, 60% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_b45bc77e60.jpg",
    "firstSeen": 1793235938767
+  },
+  "Ranked Solo/Duo|10/28/2026, 9:41 PM|Jarvan IV|26m 09s": {
+   "id": "Ranked Solo/Duo|10/28/2026, 9:41 PM|Jarvan IV|26m 09s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/28/2026, 9:41 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 16,
+   "duration": "26m 09s",
+   "minutes": 26.15,
+   "k": 4,
+   "d": 1,
+   "a": 13,
+   "kda": "17.00",
+   "kp": 65,
+   "cs": 186,
+   "csm": 7.1,
+   "laning": [
+    57,
+    43
+   ],
+   "avgTier": "Master 1,236",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "evandabank",
+     "h": "/lol/summoners/na/evandabank-NA1",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/KSante.png"
+    },
+    {
+     "n": "DonnakDkKzO",
+     "h": "/lol/summoners/na/DonnakDkKzO-NA1",
+     "c": "Kindred",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kindred.png"
+    },
+    {
+     "n": "venturing",
+     "h": "/lol/summoners/na/venturing-009",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png"
+    },
+    {
+     "n": "JablOwen",
+     "h": "/lol/summoners/na/JablOwen-BUM",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "ShIeepyHead",
+     "h": "/lol/summoners/na/ShIeepyHead-sleep",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png"
+    },
+    {
+     "n": "secret acc",
+     "h": "/lol/summoners/na/secret%20acc-112",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "scuttlecrab3",
+     "h": "/lol/summoners/na/scuttlecrab3-NA3",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png"
+    },
+    {
+     "n": "doppler",
+     "h": "/lol/summoners/na/doppler-ooes",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MissFortune.png"
+    },
+    {
+     "n": "OkiOppai",
+     "h": "/lol/summoners/na/OkiOppai-Legit",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rakan.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793238060000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "evandabank",
+        "h": "/lol/summoners/na/evandabank-NA1",
+        "t": "Grandmaster 1,695",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 19949,
+        "taken": 30177,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "DonnakDkKzO",
+        "h": "/lol/summoners/na/DonnakDkKzO-NA1",
+        "t": "Master 900",
+        "op": 5.7,
+        "opr": "ACE",
+        "dmg": 24457,
+        "taken": 25755,
+        "cw": 4,
+        "wards": "6 / 7"
+       },
+       {
+        "n": "venturing",
+        "h": "/lol/summoners/na/venturing-009",
+        "t": "Master 1,148",
+        "op": 2.4,
+        "opr": "10th",
+        "dmg": 13229,
+        "taken": 24638,
+        "cw": 1,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "JablOwen",
+        "h": "/lol/summoners/na/JablOwen-BUM",
+        "t": "Master 1,176",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 23995,
+        "taken": 21430,
+        "cw": 1,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "ShIeepyHead",
+        "h": "/lol/summoners/na/ShIeepyHead-sleep",
+        "t": "Master 824",
+        "op": 3.4,
+        "opr": "8th",
+        "dmg": 5312,
+        "taken": 19588,
+        "cw": 16,
+        "wards": "35 / 16"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "secret acc",
+        "h": "/lol/summoners/na/secret%20acc-112",
+        "t": "Master 1,274",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 20438,
+        "taken": 37055,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 751",
+        "op": 7.8,
+        "opr": "MVP",
+        "dmg": 11824,
+        "taken": 19013,
+        "cw": 2,
+        "wards": "11 / 6"
+       },
+       {
+        "n": "scuttlecrab3",
+        "h": "/lol/summoners/na/scuttlecrab3-NA3",
+        "t": "Grandmaster 1,757",
+        "op": 6.4,
+        "opr": "2nd",
+        "dmg": 35041,
+        "taken": 15153,
+        "cw": 3,
+        "wards": "11 / 4"
+       },
+       {
+        "n": "doppler",
+        "h": "/lol/summoners/na/doppler-ooes",
+        "t": "Grandmaster 1,234",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 27251,
+        "taken": 21476,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "OkiOppai",
+        "h": "/lol/summoners/na/OkiOppai-Legit",
+        "t": "Grandmaster 1,602",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 6585,
+        "taken": 16065,
+        "cw": 12,
+        "wards": "26 / 12"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 4,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793238342769,
+   "shot": "g_1c64f08127.jpg",
+   "lpCalc": true,
+   "roast": "4/1/13 win on Jarvan IV. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
