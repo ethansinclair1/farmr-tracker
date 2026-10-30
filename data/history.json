@@ -21711,7 +21711,7 @@
     },
     {
      "n": "emupine",
-     "h": "/lol/summoners/na/emupine-8632",
+     "h": "/lol/summoners/na/emupine-true",
      "c": "Ornn",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ornn.png"
     },
@@ -26620,6 +26620,299 @@
    "roast": "4/1/13 win on Jarvan IV. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_1c64f08127.jpg",
    "firstSeen": 1793238342769
+  },
+  "Ranked Flex|10/30/2026, 4:29 PM|Kayn|22m 07s": {
+   "id": "Ranked Flex|10/30/2026, 4:29 PM|Kayn|22m 07s",
+   "queue": "Ranked Flex",
+   "date": "10/30/2026, 4:29 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Kayn",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayn.png"
+   },
+   "level": 16,
+   "duration": "22m 07s",
+   "minutes": 22.116666666666667,
+   "k": 13,
+   "d": 0,
+   "a": 6,
+   "kda": "",
+   "kp": 56,
+   "cs": 215,
+   "csm": 9.7,
+   "laning": [
+    76,
+    24
+   ],
+   "avgTier": "Platinum 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6697.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1001.png"
+    },
+    {
+     "n": "Axiom Arc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6696.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6695.png"
+    },
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3814.png"
+    },
+    {
+     "n": "The Brutalizer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2020.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Dark Harvest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8128.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Curry Slayer",
+     "h": "/lol/summoners/na/Curry%20Slayer-Slay",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ornn.png"
+    },
+    {
+     "n": "Parpiss",
+     "h": "/lol/summoners/na/Parpiss-RANDY",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Naafiri.png"
+    },
+    {
+     "n": "SHA0LIN",
+     "h": "/lol/summoners/na/SHA0LIN-MONK",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aurora.png"
+    },
+    {
+     "n": "China Number One",
+     "h": "/lol/summoners/na/China%20Number%20One-ABAXY",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "NBDwu",
+     "h": "/lol/summoners/na/NBDwu-NA1",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png"
+    },
+    {
+     "n": "El Matador",
+     "h": "/lol/summoners/na/El%20Matador-1490",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kayn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayn.png"
+    },
+    {
+     "n": "Weed Grinder",
+     "h": "/lol/summoners/na/Weed%20Grinder-NA1",
+     "c": "Tahm Kench",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TahmKench.png"
+    },
+    {
+     "n": "Salionairre",
+     "h": "/lol/summoners/na/Salionairre-Sal",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "Lazyboxcat",
+     "h": "/lol/summoners/na/Lazyboxcat-Lazy",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793392140000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Curry Slayer",
+        "h": "/lol/summoners/na/Curry%20Slayer-Slay",
+        "t": "Silver 3",
+        "op": 3,
+        "opr": "9th",
+        "dmg": 17694,
+        "taken": 32687,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "Parpiss",
+        "h": "/lol/summoners/na/Parpiss-RANDY",
+        "t": "Emerald 4",
+        "op": 1.8,
+        "opr": "10th",
+        "dmg": 5546,
+        "taken": 18498,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "SHA0LIN",
+        "h": "/lol/summoners/na/SHA0LIN-MONK",
+        "t": "Emerald 1",
+        "op": 4.1,
+        "opr": "ACE",
+        "dmg": 21550,
+        "taken": 16766,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "China Number One",
+        "h": "/lol/summoners/na/China%20Number%20One-ABAXY",
+        "t": "Emerald 2",
+        "op": 3.2,
+        "opr": "8th",
+        "dmg": 6010,
+        "taken": 11896,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "NBDwu",
+        "h": "/lol/summoners/na/NBDwu-NA1",
+        "t": "Platinum 4",
+        "op": 3.2,
+        "opr": "7th",
+        "dmg": 2108,
+        "taken": 7543,
+        "cw": 0,
+        "wards": "15 / 1"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "El Matador",
+        "h": "/lol/summoners/na/El%20Matador-1490",
+        "t": "Platinum 1",
+        "op": 9.8,
+        "opr": "2nd",
+        "dmg": 27635,
+        "taken": 24996,
+        "cw": 1,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Platinum 2",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 18000,
+        "taken": 16314,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "Weed Grinder",
+        "h": "/lol/summoners/na/Weed%20Grinder-NA1",
+        "t": "",
+        "op": 7.6,
+        "opr": "3rd",
+        "dmg": 15254,
+        "taken": 23361,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "Salionairre",
+        "h": "/lol/summoners/na/Salionairre-Sal",
+        "t": "Platinum 4",
+        "op": 6,
+        "opr": "4th",
+        "dmg": 7740,
+        "taken": 7229,
+        "cw": 1,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "Lazyboxcat",
+        "h": "/lol/summoners/na/Lazyboxcat-Lazy",
+        "t": "Gold 3",
+        "op": 5.9,
+        "opr": "5th",
+        "dmg": 6420,
+        "taken": 15316,
+        "cw": 3,
+        "wards": "21 / 2"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 10,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793392333311,
+   "shot": "g_9930df35e7.jpg",
+   "roast": "13/0/6 deathless on Kayn. Annoyingly clean. Screenshot it, it won't happen again."
   }
  },
  "tz": "America/Toronto"
