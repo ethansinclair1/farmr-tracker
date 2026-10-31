@@ -28081,6 +28081,295 @@
    "roast": "4/1/8 win on Jarvan IV. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_8d01d96d61.jpg",
    "firstSeen": 1793422671999
+  },
+  "Ranked 5s|10/31/2026, 1:35 AM|Diana|31m 25s": {
+   "id": "Ranked 5s|10/31/2026, 1:35 AM|Diana|31m 25s",
+   "queue": "Ranked 5s",
+   "date": "10/31/2026, 1:35 AM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+   },
+   "level": 18,
+   "duration": "31m 25s",
+   "minutes": 31.416666666666668,
+   "k": 8,
+   "d": 5,
+   "a": 3,
+   "kda": "2.20",
+   "kp": 55,
+   "cs": 262,
+   "csm": 8.3,
+   "laning": [
+    42,
+    58
+   ],
+   "avgTier": "Platinum 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2510.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Void Staff",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3135.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3363.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "brandon",
+     "h": "/lol/summoners/na/brandon-puthy",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+    },
+    {
+     "n": "Degenerate 选手",
+     "h": "/lol/summoners/na/Degenerate%20%E9%80%89%E6%89%8B-%E7%88%B1%E8%87%AA%E5%B7%B1",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Katarina.png"
+    },
+    {
+     "n": "Salionairre",
+     "h": "/lol/summoners/na/Salionairre-Sal",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "wart warrior",
+     "h": "/lol/summoners/na/wart%20warrior-0009",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Morgana.png"
+    },
+    {
+     "n": "Smirnoff",
+     "h": "/lol/summoners/na/Smirnoff-777",
+     "c": "Nasus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nasus.png"
+    },
+    {
+     "n": "chenzo",
+     "h": "/lol/summoners/na/chenzo-729",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "byngsoo",
+     "h": "/lol/summoners/na/byngsoo-Kim",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lissandra.png"
+    },
+    {
+     "n": "yanyawns",
+     "h": "/lol/summoners/na/yanyawns-1021",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png"
+    },
+    {
+     "n": "dwompy",
+     "h": "/lol/summoners/na/dwompy-NA1",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Velkoz.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793424900000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "brandon",
+        "h": "/lol/summoners/na/brandon-puthy",
+        "t": "Diamond 4",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 35795,
+        "taken": 23605,
+        "cw": 3,
+        "wards": "11 / 4"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 22875,
+        "taken": 30427,
+        "cw": 0,
+        "wards": "2 / 4"
+       },
+       {
+        "n": "Degenerate 选手",
+        "h": "/lol/summoners/na/Degenerate%20%E9%80%89%E6%89%8B-%E7%88%B1%E8%87%AA%E5%B7%B1",
+        "t": "Platinum 3",
+        "op": 3.1,
+        "opr": "9th",
+        "dmg": 22636,
+        "taken": 30378,
+        "cw": 1,
+        "wards": "13 / 2"
+       },
+       {
+        "n": "Salionairre",
+        "h": "/lol/summoners/na/Salionairre-Sal",
+        "t": "Silver 2",
+        "op": 3.6,
+        "opr": "8th",
+        "dmg": 10733,
+        "taken": 17789,
+        "cw": 0,
+        "wards": "13 / 3"
+       },
+       {
+        "n": "wart warrior",
+        "h": "/lol/summoners/na/wart%20warrior-0009",
+        "t": "Silver 3",
+        "op": 1.3,
+        "opr": "10th",
+        "dmg": 14445,
+        "taken": 22236,
+        "cw": 2,
+        "wards": "19 / 5"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Smirnoff",
+        "h": "/lol/summoners/na/Smirnoff-777",
+        "t": "Gold 1",
+        "op": 3.8,
+        "opr": "7th",
+        "dmg": 18088,
+        "taken": 41258,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "chenzo",
+        "h": "/lol/summoners/na/chenzo-729",
+        "t": "Emerald 1",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 26714,
+        "taken": 29489,
+        "cw": 0,
+        "wards": "0 / 4"
+       },
+       {
+        "n": "byngsoo",
+        "h": "/lol/summoners/na/byngsoo-Kim",
+        "t": "Gold 2",
+        "op": 5.3,
+        "opr": "4th",
+        "dmg": 19258,
+        "taken": 24957,
+        "cw": 3,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "yanyawns",
+        "h": "/lol/summoners/na/yanyawns-1021",
+        "t": "Platinum 2",
+        "op": 7.5,
+        "opr": "2nd",
+        "dmg": 18278,
+        "taken": 21787,
+        "cw": 0,
+        "wards": "8 / 3"
+       },
+       {
+        "n": "dwompy",
+        "h": "/lol/summoners/na/dwompy-NA1",
+        "t": "",
+        "op": 6.6,
+        "opr": "3rd",
+        "dmg": 22422,
+        "taken": 19767,
+        "cw": 7,
+        "wards": "37 / 10"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 7,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 7,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793425109649,
+   "shot": "g_2c1624925e.jpg",
+   "roast": "Lost on Diana (8/5/3). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
