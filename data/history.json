@@ -27788,6 +27788,299 @@
    "roast": "Win on Maokai (2/7/25). Got carried and the 0.6 CS/min proves it.",
    "shot": "g_95f88d8653.jpg",
    "firstSeen": 1793416133470
+  },
+  "Ranked 5s|10/31/2026, 12:52 AM|Jarvan IV|22m 26s": {
+   "id": "Ranked 5s|10/31/2026, 12:52 AM|Jarvan IV|22m 26s",
+   "queue": "Ranked 5s",
+   "date": "10/31/2026, 12:52 AM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 15,
+   "duration": "22m 26s",
+   "minutes": 22.433333333333334,
+   "k": 4,
+   "d": 1,
+   "a": 8,
+   "kda": "12.00",
+   "kp": 57,
+   "cs": 199,
+   "csm": 8.9,
+   "laning": [
+    54,
+    46
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1001.png"
+    },
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2520.png"
+    },
+    {
+     "n": "Ruby Crystal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1028.png"
+    },
+    {
+     "n": "Serrated Dirk",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3134.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "brandon",
+     "h": "/lol/summoners/na/brandon-puthy",
+     "c": "Fiora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiora.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "wart warrior",
+     "h": "/lol/summoners/na/wart%20warrior-0009",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png"
+    },
+    {
+     "n": "Salionairre",
+     "h": "/lol/summoners/na/Salionairre-Sal",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "Nova China",
+     "h": "/lol/summoners/na/Nova%20China-puthy",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    },
+    {
+     "n": "Senko",
+     "h": "/lol/summoners/na/Senko-6723",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png"
+    },
+    {
+     "n": "Godz",
+     "h": "/lol/summoners/na/Godz-Ice",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png"
+    },
+    {
+     "n": "DestroyerSku11",
+     "h": "/lol/summoners/na/DestroyerSku11-NA1",
+     "c": "Anivia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Anivia.png"
+    },
+    {
+     "n": "faye webster fan",
+     "h": "/lol/summoners/na/faye%20webster%20fan-9027",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Pixel",
+     "h": "/lol/summoners/na/Pixel-1080",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rell.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793422320000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "brandon",
+        "h": "/lol/summoners/na/brandon-puthy",
+        "t": "Diamond 4",
+        "op": 6.1,
+        "opr": "4th",
+        "dmg": 23464,
+        "taken": 25631,
+        "cw": 5,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 8.6,
+        "opr": "2nd",
+        "dmg": 18319,
+        "taken": 12729,
+        "cw": 0,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "wart warrior",
+        "h": "/lol/summoners/na/wart%20warrior-0009",
+        "t": "Silver 3",
+        "op": 6.9,
+        "opr": "3rd",
+        "dmg": 19794,
+        "taken": 8510,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Salionairre",
+        "h": "/lol/summoners/na/Salionairre-Sal",
+        "t": "Silver 2",
+        "op": 5.7,
+        "opr": "5th",
+        "dmg": 9346,
+        "taken": 8308,
+        "cw": 1,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "Nova China",
+        "h": "/lol/summoners/na/Nova%20China-puthy",
+        "t": "Diamond 4",
+        "op": 9.3,
+        "opr": "MVP",
+        "dmg": 19177,
+        "taken": 11995,
+        "cw": 5,
+        "wards": "18 / 5"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Senko",
+        "h": "/lol/summoners/na/Senko-6723",
+        "t": "Emerald 3",
+        "op": 3.4,
+        "opr": "9th",
+        "dmg": 15465,
+        "taken": 20809,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Godz",
+        "h": "/lol/summoners/na/Godz-Ice",
+        "t": "Diamond 4",
+        "op": 3.9,
+        "opr": "7th",
+        "dmg": 13689,
+        "taken": 32987,
+        "cw": 1,
+        "wards": "2 / 2"
+       },
+       {
+        "n": "DestroyerSku11",
+        "h": "/lol/summoners/na/DestroyerSku11-NA1",
+        "t": "Silver 3",
+        "op": 2.5,
+        "opr": "10th",
+        "dmg": 5824,
+        "taken": 19369,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "faye webster fan",
+        "h": "/lol/summoners/na/faye%20webster%20fan-9027",
+        "t": "Gold 1",
+        "op": 4.3,
+        "opr": "ACE",
+        "dmg": 11476,
+        "taken": 14342,
+        "cw": 0,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "Pixel",
+        "h": "/lol/summoners/na/Pixel-1080",
+        "t": "Emerald 3",
+        "op": 3.6,
+        "opr": "8th",
+        "dmg": 4735,
+        "taken": 19053,
+        "cw": 6,
+        "wards": "13 / 2"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793422671999,
+   "shot": "g_8d01d96d61.jpg",
+   "roast": "4/1/8 win on Jarvan IV. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
