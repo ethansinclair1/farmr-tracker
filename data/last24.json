@@ -1,24 +1,24 @@
 {
- "sig": "5b64e2c74f",
+ "sig": "fb27f4262e",
  "report": {
-  "roast": "1W 1L, +0 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
+  "roast": "2W 1L, +60 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Low kill participation (48%). Stop farming while your team fights.",
-   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.5 a game is nothing."
+   "Low kill participation (51%). Stop farming while your team fights.",
+   "Stop dying - 5.7 deaths a game. Ward before face-checking.",
+   "Farm more: 5.1 CS/min. Clear camps between fights."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "k": 6,
-  "d": 5,
-  "a": 8.5,
-  "kda": 2.9,
-  "csm": 7.217924779941318,
-  "kp": 47.5,
-  "lpNet": 0,
+  "k": 4.666666666666667,
+  "d": 5.666666666666667,
+  "a": 14,
+  "kda": 3.2941176470588234,
+  "csm": 5.065706570657065,
+  "kp": 50.666666666666664,
+  "lpNet": 60,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }

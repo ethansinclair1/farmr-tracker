@@ -27495,6 +27495,300 @@
    "roast": "9/9/11 on Udyr. That's not a KDA, that's a donation receipt.",
    "shot": "g_e44a507c0a.jpg",
    "firstSeen": 1793413939958
+  },
+  "Ranked Solo/Duo|10/30/2026, 11:06 PM|Maokai|30m 06s": {
+   "id": "Ranked Solo/Duo|10/30/2026, 11:06 PM|Maokai|30m 06s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/30/2026, 11:06 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Maokai",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Maokai.png"
+   },
+   "level": 15,
+   "duration": "30m 06s",
+   "minutes": 30.1,
+   "k": 2,
+   "d": 7,
+   "a": 25,
+   "kda": "3.86",
+   "kp": 57,
+   "cs": 18,
+   "csm": 0.6,
+   "laning": [
+    43,
+    57
+   ],
+   "avgTier": "Master 1,139",
+   "lp": 60,
+   "items": [
+    {
+     "n": "Solstice Sleigh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3876.png"
+    },
+    {
+     "n": "Locket of the Iron Solari",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3190.png"
+    },
+    {
+     "n": "Knight's Vow",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3109.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Negatron Cloak",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1057.png"
+    },
+    {
+     "n": "Kindlegem",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3067.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Control Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2055.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Aftershock",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8439.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Kononowicz Krzys",
+     "h": "/lol/summoners/na/Kononowicz%20Krzys-SZK17",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png"
+    },
+    {
+     "n": "CLAP CLAP CITY",
+     "h": "/lol/summoners/na/CLAP%20CLAP%20CITY-TTV",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gwen.png"
+    },
+    {
+     "n": "Zzzzzy",
+     "h": "/lol/summoners/na/Zzzzzy-0328",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png"
+    },
+    {
+     "n": "TyChee",
+     "h": "/lol/summoners/na/TyChee-NA2",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png"
+    },
+    {
+     "n": "swagswagswagswag",
+     "h": "/lol/summoners/na/swagswagswagswag-3448",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    },
+    {
+     "n": "meta",
+     "h": "/lol/summoners/na/meta-lft",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    },
+    {
+     "n": "telekinesis",
+     "h": "/lol/summoners/na/telekinesis-wzq",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+    },
+    {
+     "n": "CreedTrix",
+     "h": "/lol/summoners/na/CreedTrix-POG",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aurora.png"
+    },
+    {
+     "n": "Hatsune Neeko",
+     "h": "/lol/summoners/na/Hatsune%20Neeko-NA1",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Maokai.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793415960000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Kononowicz Krzys",
+        "h": "/lol/summoners/na/Kononowicz%20Krzys-SZK17",
+        "t": "Master 1,292",
+        "op": 1.7,
+        "opr": "10th",
+        "dmg": 26470,
+        "taken": 31431,
+        "cw": 2,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "CLAP CLAP CITY",
+        "h": "/lol/summoners/na/CLAP%20CLAP%20CITY-TTV",
+        "t": "Master 105",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 17979,
+        "taken": 38276,
+        "cw": 0,
+        "wards": "3 / 5"
+       },
+       {
+        "n": "Zzzzzy",
+        "h": "/lol/summoners/na/Zzzzzy-0328",
+        "t": "Grandmaster 1,349",
+        "op": 1.9,
+        "opr": "9th",
+        "dmg": 16099,
+        "taken": 25955,
+        "cw": 3,
+        "wards": "8 / 4"
+       },
+       {
+        "n": "TyChee",
+        "h": "/lol/summoners/na/TyChee-NA2",
+        "t": "Grandmaster 1,345",
+        "op": 5.7,
+        "opr": "ACE",
+        "dmg": 37625,
+        "taken": 24350,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "swagswagswagswag",
+        "h": "/lol/summoners/na/swagswagswagswag-3448",
+        "t": "Master 1,048",
+        "op": 3.9,
+        "opr": "7th",
+        "dmg": 18047,
+        "taken": 32017,
+        "cw": 7,
+        "wards": "33 / 12"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "meta",
+        "h": "/lol/summoners/na/meta-lft",
+        "t": "Master 656",
+        "op": 4.3,
+        "opr": "6th",
+        "dmg": 24088,
+        "taken": 37022,
+        "cw": 0,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "telekinesis",
+        "h": "/lol/summoners/na/telekinesis-wzq",
+        "t": "Grandmaster 1,757",
+        "op": 7.5,
+        "opr": "MVP",
+        "dmg": 28308,
+        "taken": 35824,
+        "cw": 2,
+        "wards": "5 / 7"
+       },
+       {
+        "n": "CreedTrix",
+        "h": "/lol/summoners/na/CreedTrix-POG",
+        "t": "Grandmaster 1,378",
+        "op": 5.7,
+        "opr": "4th",
+        "dmg": 26738,
+        "taken": 18578,
+        "cw": 1,
+        "wards": "13 / 1"
+       },
+       {
+        "n": "Hatsune Neeko",
+        "h": "/lol/summoners/na/Hatsune%20Neeko-NA1",
+        "t": "Grandmaster 1,679",
+        "op": 7.3,
+        "opr": "2nd",
+        "dmg": 33635,
+        "taken": 28200,
+        "cw": 0,
+        "wards": "8 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 781",
+        "op": 6.4,
+        "opr": "3rd",
+        "dmg": 12972,
+        "taken": 30015,
+        "cw": 10,
+        "wards": "28 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 2,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1793416133470,
+   "shot": "g_95f88d8653.jpg",
+   "lpCalc": true,
+   "roast": "Win on Maokai (2/7/25). Got carried and the 0.6 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
