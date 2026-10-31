@@ -1,24 +1,24 @@
 {
- "sig": "29bca3d0d1",
+ "sig": "fd51596201",
  "report": {
-  "roast": "4W 0L, +120 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "1W 0L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
+   "Low kill participation (45%). Stop farming while your team fights.",
    "Buy control wards - 1.0 a game is nothing.",
-   "4 champions in 4 games - pick 2-3 and stick to them.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 4,
+  "wins": 1,
   "losses": 0,
-  "k": 6.75,
-  "d": 2.75,
-  "a": 13.75,
-  "kda": 7.454545454545454,
-  "csm": 7.68552743815752,
-  "kp": 56,
-  "lpNet": 120,
+  "k": 3,
+  "d": 1,
+  "a": 6,
+  "kda": 9,
+  "csm": 7.100073046018992,
+  "kp": 45,
+  "lpNet": 30,
   "ints": 0,
-  "games": 4
+  "games": 1
  },
  "v": 3
 }

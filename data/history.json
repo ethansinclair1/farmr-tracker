@@ -26913,6 +26913,295 @@
    "roast": "13/0/6 deathless on Kayn. Annoyingly clean. Screenshot it, it won't happen again.",
    "shot": "g_9930df35e7.jpg",
    "firstSeen": 1793392333311
+  },
+  "Ranked Solo/Duo|10/30/2026, 9:18 PM|Jarvan IV|22m 49s": {
+   "id": "Ranked Solo/Duo|10/30/2026, 9:18 PM|Jarvan IV|22m 49s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/30/2026, 9:18 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 14,
+   "duration": "22m 49s",
+   "minutes": 22.816666666666666,
+   "k": 3,
+   "d": 1,
+   "a": 6,
+   "kda": "9.00",
+   "kp": 45,
+   "cs": 162,
+   "csm": 7.1,
+   "laning": [
+    50,
+    50
+   ],
+   "avgTier": "Grandmaster 1,356",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Serrated Dirk",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3134.png"
+    },
+    {
+     "n": "Glowing Mote",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2022.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "rzoyvug",
+     "h": "/lol/summoners/na/rzoyvug-NA1",
+     "c": "Warwick",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Warwick.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "snKarma",
+     "h": "/lol/summoners/na/snKarma-BOMBA",
+     "c": "Gragas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gragas.png"
+    },
+    {
+     "n": "Boombibi",
+     "h": "/lol/summoners/na/Boombibi-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Zyko",
+     "h": "/lol/summoners/na/Zyko-NA1",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Bard.png"
+    },
+    {
+     "n": "Kira",
+     "h": "/lol/summoners/na/Kira-parda",
+     "c": "Nasus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nasus.png"
+    },
+    {
+     "n": "十 Z Y N J I E 十",
+     "h": "/lol/summoners/na/%E5%8D%81%20Z%20Y%20N%20J%20I%20E%20%E5%8D%81-JXIII",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viego.png"
+    },
+    {
+     "n": "Solarbacca",
+     "h": "/lol/summoners/na/Solarbacca-EUW10",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png"
+    },
+    {
+     "n": "viperfan",
+     "h": "/lol/summoners/na/viperfan-NA77",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png"
+    },
+    {
+     "n": "alvinchangrocks",
+     "h": "/lol/summoners/na/alvinchangrocks-NA1",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793409480000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "rzoyvug",
+        "h": "/lol/summoners/na/rzoyvug-NA1",
+        "t": "Master 1,026",
+        "op": 7.9,
+        "opr": "3rd",
+        "dmg": 23409,
+        "taken": 22305,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 781",
+        "op": 7.2,
+        "opr": "4th",
+        "dmg": 6600,
+        "taken": 11463,
+        "cw": 1,
+        "wards": "2 / 4"
+       },
+       {
+        "n": "snKarma",
+        "h": "/lol/summoners/na/snKarma-BOMBA",
+        "t": "Grandmaster 1,723",
+        "op": 8.9,
+        "opr": "2nd",
+        "dmg": 15241,
+        "taken": 12924,
+        "cw": 2,
+        "wards": "4 / 5"
+       },
+       {
+        "n": "Boombibi",
+        "h": "/lol/summoners/na/Boombibi-NA1",
+        "t": "Master 884",
+        "op": 3.7,
+        "opr": "7th",
+        "dmg": 8142,
+        "taken": 9020,
+        "cw": 4,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "Zyko",
+        "h": "/lol/summoners/na/Zyko-NA1",
+        "t": "Grandmaster 1,864",
+        "op": 9.2,
+        "opr": "MVP",
+        "dmg": 5783,
+        "taken": 11438,
+        "cw": 16,
+        "wards": "33 / 13"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Kira",
+        "h": "/lol/summoners/na/Kira-parda",
+        "t": "Grandmaster 1,530",
+        "op": 1.5,
+        "opr": "10th",
+        "dmg": 12335,
+        "taken": 25350,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "十 Z Y N J I E 十",
+        "h": "/lol/summoners/na/%E5%8D%81%20Z%20Y%20N%20J%20I%20E%20%E5%8D%81-JXIII",
+        "t": "Master 848",
+        "op": 2.6,
+        "opr": "8th",
+        "dmg": 4578,
+        "taken": 18386,
+        "cw": 12,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "Solarbacca",
+        "h": "/lol/summoners/na/Solarbacca-EUW10",
+        "t": "Challenger 2,416",
+        "op": 1.7,
+        "opr": "9th",
+        "dmg": 11849,
+        "taken": 15156,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "viperfan",
+        "h": "/lol/summoners/na/viperfan-NA77",
+        "t": "Master 1,063",
+        "op": 5.5,
+        "opr": "ACE",
+        "dmg": 8514,
+        "taken": 10314,
+        "cw": 3,
+        "wards": "11 / 8"
+       },
+       {
+        "n": "alvinchangrocks",
+        "h": "/lol/summoners/na/alvinchangrocks-NA1",
+        "t": "Grandmaster 1,422",
+        "op": 4.5,
+        "opr": "6th",
+        "dmg": 4982,
+        "taken": 3056,
+        "cw": 5,
+        "wards": "22 / 0"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 5,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793409808756,
+   "shot": "g_d70569dc7a.jpg",
+   "roast": "Win on Jarvan IV (3/1/6). Got carried and the 7.1 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
