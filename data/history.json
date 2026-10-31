@@ -28370,6 +28370,291 @@
    "roast": "Lost on Diana (8/5/3). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_2c1624925e.jpg",
    "firstSeen": 1793425109649
+  },
+  "Ranked 5s|10/31/2026, 2:09 AM|Naafiri|24m 13s": {
+   "id": "Ranked 5s|10/31/2026, 2:09 AM|Naafiri|24m 13s",
+   "queue": "Ranked 5s",
+   "date": "10/31/2026, 2:09 AM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Naafiri",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Naafiri.png"
+   },
+   "level": 16,
+   "duration": "24m 13s",
+   "minutes": 24.216666666666665,
+   "k": 8,
+   "d": 2,
+   "a": 12,
+   "kda": "10.00",
+   "kp": 63,
+   "cs": 215,
+   "csm": 8.9,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3111.png"
+    },
+    {
+     "n": "Eclipse",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6692.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Salionairre",
+     "h": "/lol/summoners/na/Salionairre-Sal",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Naafiri.png"
+    },
+    {
+     "n": "wart warrior",
+     "h": "/lol/summoners/na/wart%20warrior-0009",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png"
+    },
+    {
+     "n": "DamaDama",
+     "h": "/lol/summoners/na/DamaDama-rah",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "brandon",
+     "h": "/lol/summoners/na/brandon-puthy",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    },
+    {
+     "n": "WeakSideWrath",
+     "h": "/lol/summoners/na/WeakSideWrath-lefry",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+    },
+    {
+     "n": "Big Man Marc",
+     "h": "/lol/summoners/na/Big%20Man%20Marc-NA1",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lillia.png"
+    },
+    {
+     "n": "Snowvalentine",
+     "h": "/lol/summoners/na/Snowvalentine-NA1",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png"
+    },
+    {
+     "n": "SHAZZY",
+     "h": "/lol/summoners/na/SHAZZY-CALM",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "clementine",
+     "h": "/lol/summoners/na/clementine-dear",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793426940000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Salionairre",
+        "h": "/lol/summoners/na/Salionairre-Sal",
+        "t": "Silver 2",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 16925,
+        "taken": 18037,
+        "cw": 2,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 32291,
+        "taken": 25979,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "wart warrior",
+        "h": "/lol/summoners/na/wart%20warrior-0009",
+        "t": "Silver 3",
+        "op": 6.9,
+        "opr": "4th",
+        "dmg": 11740,
+        "taken": 16730,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "DamaDama",
+        "h": "/lol/summoners/na/DamaDama-rah",
+        "t": "Emerald 4",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 31056,
+        "taken": 11864,
+        "cw": 2,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "brandon",
+        "h": "/lol/summoners/na/brandon-puthy",
+        "t": "Diamond 4",
+        "op": 10,
+        "opr": "3rd",
+        "dmg": 18774,
+        "taken": 24378,
+        "cw": 7,
+        "wards": "17 / 4"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "WeakSideWrath",
+        "h": "/lol/summoners/na/WeakSideWrath-lefry",
+        "t": "Emerald 3",
+        "op": 3,
+        "opr": "8th",
+        "dmg": 16129,
+        "taken": 36636,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Big Man Marc",
+        "h": "/lol/summoners/na/Big%20Man%20Marc-NA1",
+        "t": "Diamond 4",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 27514,
+        "taken": 33465,
+        "cw": 0,
+        "wards": "8 / 4"
+       },
+       {
+        "n": "Snowvalentine",
+        "h": "/lol/summoners/na/Snowvalentine-NA1",
+        "t": "Platinum 4",
+        "op": 2.7,
+        "opr": "9th",
+        "dmg": 9575,
+        "taken": 22228,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "SHAZZY",
+        "h": "/lol/summoners/na/SHAZZY-CALM",
+        "t": "Emerald 2",
+        "op": 2.2,
+        "opr": "10th",
+        "dmg": 14803,
+        "taken": 20717,
+        "cw": 0,
+        "wards": "5 / 5"
+       },
+       {
+        "n": "clementine",
+        "h": "/lol/summoners/na/clementine-dear",
+        "t": "Gold 2",
+        "op": 3.1,
+        "opr": "7th",
+        "dmg": 6793,
+        "taken": 10043,
+        "cw": 7,
+        "wards": "15 / 0"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 9,
+      "Inhibitor": 2
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793427029388,
+   "shot": "g_d569290f36.jpg",
+   "roast": "8/2/12 on Naafiri, 63% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
