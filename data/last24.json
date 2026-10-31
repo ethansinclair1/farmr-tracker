@@ -1,24 +1,24 @@
 {
- "sig": "fb27f4262e",
+ "sig": "a531c00b22",
  "report": {
-  "roast": "2W 1L, +60 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "0W 1L, -30 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Low kill participation (51%). Stop farming while your team fights.",
-   "Stop dying - 5.7 deaths a game. Ward before face-checking.",
-   "Farm more: 5.1 CS/min. Clear camps between fights."
+   "Stop dying - 7.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 1.0 a game is nothing.",
+   "Farm more: 6.6 CS/min. Clear camps between fights."
   ],
   "ai": false,
-  "wins": 2,
+  "wins": 0,
   "losses": 1,
-  "k": 4.666666666666667,
-  "d": 5.666666666666667,
-  "a": 14,
-  "kda": 3.2941176470588234,
-  "csm": 5.065706570657065,
-  "kp": 50.666666666666664,
-  "lpNet": 60,
+  "k": 7,
+  "d": 7,
+  "a": 11,
+  "kda": 2.5714285714285716,
+  "csm": 6.556836902800659,
+  "kp": 72,
+  "lpNet": -30,
   "ints": 0,
-  "games": 3
+  "games": 1
  },
  "v": 3
 }

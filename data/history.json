@@ -28655,6 +28655,300 @@
    "roast": "8/2/12 on Naafiri, 63% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_d569290f36.jpg",
    "firstSeen": 1793427029388
+  },
+  "Ranked Solo/Duo|10/31/2026, 5:28 PM|Hecarim|30m 21s": {
+   "id": "Ranked Solo/Duo|10/31/2026, 5:28 PM|Hecarim|30m 21s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/31/2026, 5:28 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 16,
+   "duration": "30m 21s",
+   "minutes": 30.35,
+   "k": 7,
+   "d": 7,
+   "a": 11,
+   "kda": "2.57",
+   "kp": 72,
+   "cs": 199,
+   "csm": 6.6,
+   "laning": [
+    46,
+    54
+   ],
+   "avgTier": "Master 767",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3133.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1037.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "MárcoPa",
+     "h": "/lol/summoners/na/M%C3%A1rcoPa-8848",
+     "c": "Gangplank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gangplank.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Talli",
+     "h": "/lol/summoners/na/Talli-Lemon",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png"
+    },
+    {
+     "n": "ZooWeeQiyana",
+     "h": "/lol/summoners/na/ZooWeeQiyana-NA1",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Kaiser Karry",
+     "h": "/lol/summoners/na/Kaiser%20Karry-MLA",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png"
+    },
+    {
+     "n": "Lucky",
+     "h": "/lol/summoners/na/Lucky-Luck",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png"
+    },
+    {
+     "n": "LOW MASTER DOGS",
+     "h": "/lol/summoners/na/LOW%20MASTER%20DOGS-MLV",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/LeeSin.png"
+    },
+    {
+     "n": "random kid",
+     "h": "/lol/summoners/na/random%20kid-1673",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vladimir.png"
+    },
+    {
+     "n": "I only play fill",
+     "h": "/lol/summoners/na/I%20only%20play%20fill-1134",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "saiii",
+     "h": "/lol/summoners/na/saiii-meow",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793482080000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "MárcoPa",
+        "h": "/lol/summoners/na/M%C3%A1rcoPa-8848",
+        "t": "Master 596",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 32717,
+        "taken": 34669,
+        "cw": 1,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 18295,
+        "taken": 39317,
+        "cw": 1,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "Talli",
+        "h": "/lol/summoners/na/Talli-Lemon",
+        "t": "Master 1,032",
+        "op": 2.9,
+        "opr": "9th",
+        "dmg": 19498,
+        "taken": 19088,
+        "cw": 4,
+        "wards": "15 / 6"
+       },
+       {
+        "n": "ZooWeeQiyana",
+        "h": "/lol/summoners/na/ZooWeeQiyana-NA1",
+        "t": "Master 644",
+        "op": 3.6,
+        "opr": "8th",
+        "dmg": 27470,
+        "taken": 19244,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Kaiser Karry",
+        "h": "/lol/summoners/na/Kaiser%20Karry-MLA",
+        "t": "Master 689",
+        "op": 1.5,
+        "opr": "10th",
+        "dmg": 16514,
+        "taken": 33577,
+        "cw": 5,
+        "wards": "27 / 11"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Lucky",
+        "h": "/lol/summoners/na/Lucky-Luck",
+        "t": "Master 481",
+        "op": 4.3,
+        "opr": "7th",
+        "dmg": 27022,
+        "taken": 29756,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "LOW MASTER DOGS",
+        "h": "/lol/summoners/na/LOW%20MASTER%20DOGS-MLV",
+        "t": "Master 1,246",
+        "op": 6.5,
+        "opr": "2nd",
+        "dmg": 24982,
+        "taken": 32364,
+        "cw": 6,
+        "wards": "18 / 6"
+       },
+       {
+        "n": "random kid",
+        "h": "/lol/summoners/na/random%20kid-1673",
+        "t": "Master 776",
+        "op": 6.7,
+        "opr": "MVP",
+        "dmg": 36028,
+        "taken": 35628,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "I only play fill",
+        "h": "/lol/summoners/na/I%20only%20play%20fill-1134",
+        "t": "Master 408",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 29467,
+        "taken": 23054,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "saiii",
+        "h": "/lol/summoners/na/saiii-meow",
+        "t": "Master 952",
+        "op": 5.8,
+        "opr": "3rd",
+        "dmg": 9155,
+        "taken": 24742,
+        "cw": 5,
+        "wards": "30 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 10,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793482322362,
+   "shot": "g_64d9722a92.jpg",
+   "lpCalc": true,
+   "roast": "A 7/7/11 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
