@@ -27202,6 +27202,300 @@
    "roast": "Win on Jarvan IV (3/1/6). Got carried and the 7.1 CS/min proves it.",
    "shot": "g_d70569dc7a.jpg",
    "firstSeen": 1793409808756
+  },
+  "Ranked Solo/Duo|10/30/2026, 10:30 PM|Udyr|39m 40s": {
+   "id": "Ranked Solo/Duo|10/30/2026, 10:30 PM|Udyr|39m 40s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/30/2026, 10:30 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Udyr",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png"
+   },
+   "level": 18,
+   "duration": "39m 40s",
+   "minutes": 39.666666666666664,
+   "k": 9,
+   "d": 9,
+   "a": 11,
+   "kda": "2.22",
+   "kp": 50,
+   "cs": 289,
+   "csm": 7.3,
+   "laning": [
+    68,
+    32
+   ],
+   "avgTier": "Master 1,044",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Sterak's Gage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3053.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Randuin's Omen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3143.png"
+    },
+    {
+     "n": "Kaenic Rookern",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2504.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3111.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Press the Attack",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8005.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Taurus",
+     "h": "/lol/summoners/na/Taurus-0501",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Udyr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png"
+    },
+    {
+     "n": "Minh Trình Korea",
+     "h": "/lol/summoners/na/Minh%20Tr%C3%ACnh%20Korea-2704",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Rythmic",
+     "h": "/lol/summoners/na/Rythmic-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "BraveHeart38",
+     "h": "/lol/summoners/na/BraveHeart38-NA1",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    },
+    {
+     "n": "ElNumeroEs7",
+     "h": "/lol/summoners/na/ElNumeroEs7-777",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gnar.png"
+    },
+    {
+     "n": "我爱Wonyoung",
+     "h": "/lol/summoners/na/%E6%88%91%E7%88%B1Wonyoung-0011",
+     "c": "Master Yi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png"
+    },
+    {
+     "n": "metacortex",
+     "h": "/lol/summoners/na/metacortex-mtx",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lissandra.png"
+    },
+    {
+     "n": "official bubby",
+     "h": "/lol/summoners/na/official%20bubby-NA1",
+     "c": "Veigar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Veigar.png"
+    },
+    {
+     "n": "deathwalker222",
+     "h": "/lol/summoners/na/deathwalker222-NA1",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rakan.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793413800000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Taurus",
+        "h": "/lol/summoners/na/Taurus-0501",
+        "t": "Grandmaster 1,337",
+        "op": 1.7,
+        "opr": "10th",
+        "dmg": 28432,
+        "taken": 45982,
+        "cw": 1,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 4.2,
+        "opr": "8th",
+        "dmg": 25433,
+        "taken": 46288,
+        "cw": 0,
+        "wards": "11 / 6"
+       },
+       {
+        "n": "Minh Trình Korea",
+        "h": "/lol/summoners/na/Minh%20Tr%C3%ACnh%20Korea-2704",
+        "t": "Grandmaster 1,421",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 39894,
+        "taken": 55603,
+        "cw": 0,
+        "wards": "11 / 6"
+       },
+       {
+        "n": "Rythmic",
+        "h": "/lol/summoners/na/Rythmic-NA1",
+        "t": "Master 955",
+        "op": 5.9,
+        "opr": "ACE",
+        "dmg": 44778,
+        "taken": 26730,
+        "cw": 0,
+        "wards": "15 / 1"
+       },
+       {
+        "n": "BraveHeart38",
+        "h": "/lol/summoners/na/BraveHeart38-NA1",
+        "t": "Master 702",
+        "op": 3.4,
+        "opr": "9th",
+        "dmg": 16751,
+        "taken": 32308,
+        "cw": 29,
+        "wards": "71 / 26"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "ElNumeroEs7",
+        "h": "/lol/summoners/na/ElNumeroEs7-777",
+        "t": "Master 1,126",
+        "op": 6.5,
+        "opr": "2nd",
+        "dmg": 48037,
+        "taken": 53962,
+        "cw": 2,
+        "wards": "20 / 7"
+       },
+       {
+        "n": "我爱Wonyoung",
+        "h": "/lol/summoners/na/%E6%88%91%E7%88%B1Wonyoung-0011",
+        "t": "Master Yi",
+        "op": 5.4,
+        "opr": "5th",
+        "dmg": 48351,
+        "taken": 37834,
+        "cw": 0,
+        "wards": "0 / 16"
+       },
+       {
+        "n": "metacortex",
+        "h": "/lol/summoners/na/metacortex-mtx",
+        "t": "Grandmaster 1,275",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 40587,
+        "taken": 33253,
+        "cw": 1,
+        "wards": "9 / 11"
+       },
+       {
+        "n": "official bubby",
+        "h": "/lol/summoners/na/official%20bubby-NA1",
+        "t": "Master 412",
+        "op": 4.6,
+        "opr": "6th",
+        "dmg": 40575,
+        "taken": 28520,
+        "cw": 1,
+        "wards": "14 / 9"
+       },
+       {
+        "n": "deathwalker222",
+        "h": "/lol/summoners/na/deathwalker222-NA1",
+        "t": "Grandmaster 1,648",
+        "op": 6.5,
+        "opr": "MVP",
+        "dmg": 7120,
+        "taken": 34925,
+        "cw": 8,
+        "wards": "49 / 15"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 2,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1793413939958,
+   "shot": "g_e44a507c0a.jpg",
+   "lpCalc": true,
+   "roast": "9/9/11 on Udyr. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
