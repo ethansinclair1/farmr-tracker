@@ -28948,6 +28948,300 @@
    "roast": "A 7/7/11 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_64d9722a92.jpg",
    "firstSeen": 1793482322362
+  },
+  "Ranked Solo/Duo|10/31/2026, 6:13 PM|Jarvan IV|36m 56s": {
+   "id": "Ranked Solo/Duo|10/31/2026, 6:13 PM|Jarvan IV|36m 56s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/31/2026, 6:13 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 18,
+   "duration": "36m 56s",
+   "minutes": 36.93333333333333,
+   "k": 8,
+   "d": 6,
+   "a": 16,
+   "kda": "4.00",
+   "kp": 60,
+   "cs": 288,
+   "csm": 7.8,
+   "laning": [
+    54,
+    46
+   ],
+   "avgTier": "Master 640",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Guardian Angel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3026.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "very toxic mid",
+     "h": "/lol/summoners/na/very%20toxic%20mid-NA1",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jayce.png"
+    },
+    {
+     "n": "RichaTea",
+     "h": "/lol/summoners/na/RichaTea-NA6",
+     "c": "Xin Zhao",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/XinZhao.png"
+    },
+    {
+     "n": "I mute chat",
+     "h": "/lol/summoners/na/I%20mute%20chat-uxyaj",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png"
+    },
+    {
+     "n": "十 Kain 十",
+     "h": "/lol/summoners/na/%E5%8D%81%20Kain%20%E5%8D%81-ADC",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Twitch.png"
+    },
+    {
+     "n": "Kimdabs",
+     "h": "/lol/summoners/na/Kimdabs-Ape",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png"
+    },
+    {
+     "n": "一路向北",
+     "h": "/lol/summoners/na/%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97-123",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ambessa.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "MarshMalows73",
+     "h": "/lol/summoners/na/MarshMalows73-NA1",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "hayden434",
+     "h": "/lol/summoners/na/hayden434-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "yordle reroll",
+     "h": "/lol/summoners/na/yordle%20reroll-0%20rod",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793484780000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "very toxic mid",
+        "h": "/lol/summoners/na/very%20toxic%20mid-NA1",
+        "t": "Master 304",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 38068,
+        "taken": 29457,
+        "cw": 1,
+        "wards": "18 / 3"
+       },
+       {
+        "n": "RichaTea",
+        "h": "/lol/summoners/na/RichaTea-NA6",
+        "t": "Diamond 1",
+        "op": 5.4,
+        "opr": "ACE",
+        "dmg": 24774,
+        "taken": 55267,
+        "cw": 3,
+        "wards": "5 / 11"
+       },
+       {
+        "n": "I mute chat",
+        "h": "/lol/summoners/na/I%20mute%20chat-uxyaj",
+        "t": "Master 192",
+        "op": 4.6,
+        "opr": "6th",
+        "dmg": 31318,
+        "taken": 30249,
+        "cw": 1,
+        "wards": "6 / 6"
+       },
+       {
+        "n": "十 Kain 十",
+        "h": "/lol/summoners/na/%E5%8D%81%20Kain%20%E5%8D%81-ADC",
+        "t": "Master 1,060",
+        "op": 3.4,
+        "opr": "9th",
+        "dmg": 35349,
+        "taken": 27800,
+        "cw": 0,
+        "wards": "8 / 7"
+       },
+       {
+        "n": "Kimdabs",
+        "h": "/lol/summoners/na/Kimdabs-Ape",
+        "t": "Master 833",
+        "op": 2.9,
+        "opr": "10th",
+        "dmg": 7739,
+        "taken": 26266,
+        "cw": 20,
+        "wards": "65 / 15"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "一路向北",
+        "h": "/lol/summoners/na/%E4%B8%80%E8%B7%AF%E5%90%91%E5%8C%97-123",
+        "t": "Master 965",
+        "op": 4.5,
+        "opr": "8th",
+        "dmg": 29838,
+        "taken": 40009,
+        "cw": 1,
+        "wards": "13 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 6.5,
+        "opr": "2nd",
+        "dmg": 24807,
+        "taken": 35318,
+        "cw": 0,
+        "wards": "2 / 6"
+       },
+       {
+        "n": "MarshMalows73",
+        "h": "/lol/summoners/na/MarshMalows73-NA1",
+        "t": "Master 889",
+        "op": 6.4,
+        "opr": "3rd",
+        "dmg": 44789,
+        "taken": 27992,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "hayden434",
+        "h": "/lol/summoners/na/hayden434-NA1",
+        "t": "Master 798",
+        "op": 5.9,
+        "opr": "4th",
+        "dmg": 26985,
+        "taken": 26074,
+        "cw": 1,
+        "wards": "15 / 9"
+       },
+       {
+        "n": "yordle reroll",
+        "h": "/lol/summoners/na/yordle%20reroll-0%20rod",
+        "t": "Master 573",
+        "op": 6.7,
+        "opr": "MVP",
+        "dmg": 10536,
+        "taken": 27049,
+        "cw": 20,
+        "wards": "64 / 17"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 2,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1793485005548,
+   "shot": "g_74da9b8544.jpg",
+   "lpCalc": true,
+   "roast": "8/6/16 win on Jarvan IV. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
