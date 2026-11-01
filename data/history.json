@@ -30922,8 +30922,136 @@
    "team": 1,
    "ts": 1793571660000,
    "detail": null,
-   "firstSeen": 1793571970296,
-   "shot": "g_06b668f754.jpg"
+   "shot": "g_06b668f754.jpg",
+   "firstSeen": 1793571970296
+  },
+  "Arena|11/1/2026, 5:57 PM|Skarner|22m 28s": {
+   "id": "Arena|11/1/2026, 5:57 PM|Skarner|22m 28s",
+   "queue": "Arena",
+   "date": "11/1/2026, 5:57 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Skarner",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Skarner.png"
+   },
+   "level": 14,
+   "duration": "22m 28s",
+   "minutes": 22.466666666666665,
+   "k": 6,
+   "d": 7,
+   "a": 5,
+   "kda": "1.57",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223047.png"
+    },
+    {
+     "n": "Radiant Virtue",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446667.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223084.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447111.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Cûmsocks",
+     "h": "/lol/summoners/na/C%C3%BBmsocks-4592",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zaahen.png"
+    },
+    {
+     "n": "2inchButRich",
+     "h": "/lol/summoners/na/2inchButRich-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "SuppRipper",
+     "h": "/lol/summoners/na/SuppRipper-NA1",
+     "c": "Volibear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png"
+    },
+    {
+     "n": "Luo Ren Hang",
+     "h": "/lol/summoners/na/Luo%20Ren%20Hang-NA1",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png"
+    },
+    {
+     "n": "MintyToothepaste",
+     "h": "/lol/summoners/na/MintyToothepaste-NA1",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "unhooked101",
+     "h": "/lol/summoners/na/unhooked101-NA1",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png"
+    },
+    {
+     "n": "XxTooMuchBaconxX",
+     "h": "/lol/summoners/na/XxTooMuchBaconxX-NA1",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vladimir.png"
+    },
+    {
+     "n": "Temicxoch",
+     "h": "/lol/summoners/na/Temicxoch-NA1",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png"
+    },
+    {
+     "n": "JungIeCosmos",
+     "h": "/lol/summoners/na/JungIeCosmos-goat",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png"
+    },
+    {
+     "n": "Captain Cwade",
+     "h": "/lol/summoners/na/Captain%20Cwade-NA1",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aphelios.png"
+    },
+    {
+     "n": "RobbyRoob",
+     "h": "/lol/summoners/na/RobbyRoob-NA1",
+     "c": "Kayle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png"
+    },
+    {
+     "n": "Release Glizzy",
+     "h": "/lol/summoners/na/Release%20Glizzy-NA1",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viktor.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1793573820000,
+   "detail": null,
+   "firstSeen": 1793574161529,
+   "shot": "g_fe868e67ad.jpg"
   }
  },
  "tz": "America/Toronto"
