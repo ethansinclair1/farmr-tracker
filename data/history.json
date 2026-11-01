@@ -31052,6 +31052,138 @@
    "detail": null,
    "shot": "g_fe868e67ad.jpg",
    "firstSeen": 1793574161529
+  },
+  "Arena|11/1/2026, 6:27 PM|Shaco|30m 46s": {
+   "id": "Arena|11/1/2026, 6:27 PM|Shaco|30m 46s",
+   "queue": "Arena",
+   "date": "11/1/2026, 6:27 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Shaco",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shaco.png"
+   },
+   "level": 13,
+   "duration": "30m 46s",
+   "minutes": 30.766666666666666,
+   "k": 4,
+   "d": 6,
+   "a": 5,
+   "kda": "1.50",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223158.png"
+    },
+    {
+     "n": "Pyromancer's Cloak",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447118.png"
+    },
+    {
+     "n": "Gambler's Blade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447101.png"
+    },
+    {
+     "n": "Blackfire Torch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222503.png"
+    },
+    {
+     "n": "Liandry's Anguish",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226653.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "RUH R0H",
+     "h": "/lol/summoners/na/RUH%20R0H-RAGGY",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Soraka.png"
+    },
+    {
+     "n": "Sonicslushy",
+     "h": "/lol/summoners/na/Sonicslushy-NA1",
+     "c": "Fiddlesticks",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiddlesticks.png"
+    },
+    {
+     "n": "vogel im käfig",
+     "h": "/lol/summoners/na/vogel%20im%20k%C3%A4fig-1089",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rakan.png"
+    },
+    {
+     "n": "Captain Cwade",
+     "h": "/lol/summoners/na/Captain%20Cwade-NA1",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rell.png"
+    },
+    {
+     "n": "RobbyRoob",
+     "h": "/lol/summoners/na/RobbyRoob-NA1",
+     "c": "Wukong",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MonkeyKing.png"
+    },
+    {
+     "n": "Release Glizzy",
+     "h": "/lol/summoners/na/Release%20Glizzy-NA1",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png"
+    },
+    {
+     "n": "Frosttyy420",
+     "h": "/lol/summoners/na/Frosttyy420-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "EvilFemboy",
+     "h": "/lol/summoners/na/EvilFemboy-yaoi",
+     "c": "Evelynn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Evelynn.png"
+    },
+    {
+     "n": "Catboy Casanova",
+     "h": "/lol/summoners/na/Catboy%20Casanova-meow",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "DingalingSpringz",
+     "h": "/lol/summoners/na/DingalingSpringz-NA1",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png"
+    },
+    {
+     "n": "Kn0where",
+     "h": "/lol/summoners/na/Kn0where-4927",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "mariov511",
+     "h": "/lol/summoners/na/mariov511-NA1",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1793575620000,
+   "detail": null,
+   "firstSeen": 1793575838358,
+   "shot": "g_c20430a06e.jpg"
   }
  },
  "tz": "America/Toronto"
