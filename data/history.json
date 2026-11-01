@@ -30378,8 +30378,144 @@
    "team": 0,
    "ts": 1793564220000,
    "detail": null,
-   "firstSeen": 1793564450472,
-   "shot": "g_bccd4902bc.jpg"
+   "shot": "g_bccd4902bc.jpg",
+   "firstSeen": 1793564450472
+  },
+  "Arena|11/1/2026, 3:51 PM|Twitch|20m 45s": {
+   "id": "Arena|11/1/2026, 3:51 PM|Twitch|20m 45s",
+   "queue": "Arena",
+   "date": "11/1/2026, 3:51 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Twitch",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Twitch.png"
+   },
+   "level": 17,
+   "duration": "20m 45s",
+   "minutes": 20.75,
+   "k": 13,
+   "d": 7,
+   "a": 3,
+   "kda": "2.29",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Diamond-Tipped Spear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447120.png"
+    },
+    {
+     "n": "Berserker's Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223006.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223031.png"
+    },
+    {
+     "n": "Hexoptics C44",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222523.png"
+    },
+    {
+     "n": "Runaan's Hurricane",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223085.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223036.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "RATical Clowner",
+     "h": "/lol/summoners/na/RATical%20Clowner-RODNT",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Smolder.png"
+    },
+    {
+     "n": "Flower",
+     "h": "/lol/summoners/na/Flower-beeg",
+     "c": "Samira",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Samira.png"
+    },
+    {
+     "n": "The Golden Witch",
+     "h": "/lol/summoners/na/The%20Golden%20Witch-Bea",
+     "c": "Taric",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taric.png"
+    },
+    {
+     "n": "zbenja168",
+     "h": "/lol/summoners/na/zbenja168-NA1",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Seraphine.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Twitch.png"
+    },
+    {
+     "n": "ExoticToes",
+     "h": "/lol/summoners/na/ExoticToes-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "Iostra",
+     "h": "/lol/summoners/na/Iostra-2668",
+     "c": "Udyr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Udyr.png"
+    },
+    {
+     "n": "Hybrid",
+     "h": "/lol/summoners/na/Hybrid-Puff",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "Leet Nerd",
+     "h": "/lol/summoners/na/Leet%20Nerd-NA1",
+     "c": "Shyvana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png"
+    },
+    {
+     "n": "Beensuss",
+     "h": "/lol/summoners/na/Beensuss-NA1",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png"
+    },
+    {
+     "n": "Atlanta",
+     "h": "/lol/summoners/na/Atlanta-NA1",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793566260000,
+   "detail": null,
+   "firstSeen": 1793566374943,
+   "shot": "g_f06ac6b2e1.jpg"
   }
  },
  "tz": "America/Toronto"
