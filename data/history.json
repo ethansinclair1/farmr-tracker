@@ -30652,6 +30652,142 @@
    "detail": null,
    "shot": "g_a9486089d2.jpg",
    "firstSeen": 1793568330828
+  },
+  "Arena|11/1/2026, 4:54 PM|Talon|20m 40s": {
+   "id": "Arena|11/1/2026, 4:54 PM|Talon|20m 40s",
+   "queue": "Arena",
+   "date": "11/1/2026, 4:54 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Talon",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+   },
+   "level": 15,
+   "duration": "20m 40s",
+   "minutes": 20.666666666666668,
+   "k": 8,
+   "d": 10,
+   "a": 8,
+   "kda": "1.60",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Hellfire Hatchet",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4017.png"
+    },
+    {
+     "n": "Youmuu's Ghostblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223142.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226699.png"
+    },
+    {
+     "n": "Decapitator",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447107.png"
+    },
+    {
+     "n": "Sword of the Divine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443060.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223031.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Tof",
+     "h": "/lol/summoners/na/Tof-123",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vayne.png"
+    },
+    {
+     "n": "Atlanta",
+     "h": "/lol/summoners/na/Atlanta-NA1",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aphelios.png"
+    },
+    {
+     "n": "Ashdown",
+     "h": "/lol/summoners/na/Ashdown-ASH",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Orianna.png"
+    },
+    {
+     "n": "Saviorselves",
+     "h": "/lol/summoners/na/Saviorselves-NA1",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png"
+    },
+    {
+     "n": "Junebug",
+     "h": "/lol/summoners/na/Junebug-NA14",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "Rendoridan",
+     "h": "/lol/summoners/na/Rendoridan-NA1",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png"
+    },
+    {
+     "n": "DeenDeen",
+     "h": "/lol/summoners/na/DeenDeen-NA1",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Seraphine.png"
+    },
+    {
+     "n": "paww",
+     "h": "/lol/summoners/na/paww-NA1",
+     "c": "Taric",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taric.png"
+    },
+    {
+     "n": "We Get Smoked",
+     "h": "/lol/summoners/na/We%20Get%20Smoked-NA1",
+     "c": "Vex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vex.png"
+    },
+    {
+     "n": "Jaekeoli",
+     "h": "/lol/summoners/na/Jaekeoli-STINK",
+     "c": "Fiora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiora.png"
+    },
+    {
+     "n": "Edgar Allans Toe",
+     "h": "/lol/summoners/na/Edgar%20Allans%20Toe-NA1",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Khazix.png"
+    },
+    {
+     "n": "Shane Bent Tea",
+     "h": "/lol/summoners/na/Shane%20Bent%20Tea-NA1",
+     "c": "Sivir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sivir.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1793570040000,
+   "detail": null,
+   "firstSeen": 1793570290294,
+   "shot": "g_9014d74abe.jpg"
   }
  },
  "tz": "America/Toronto"
