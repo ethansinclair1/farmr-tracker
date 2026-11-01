@@ -30516,6 +30516,142 @@
    "detail": null,
    "shot": "g_f06ac6b2e1.jpg",
    "firstSeen": 1793566374943
+  },
+  "Arena|11/1/2026, 4:23 PM|Zeri|27m 14s": {
+   "id": "Arena|11/1/2026, 4:23 PM|Zeri|27m 14s",
+   "queue": "Arena",
+   "date": "11/1/2026, 4:23 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Zeri",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png"
+   },
+   "level": 18,
+   "duration": "27m 14s",
+   "minutes": 27.233333333333334,
+   "k": 14,
+   "d": 10,
+   "a": 15,
+   "kda": "2.90",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Mortal Reminder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223033.png"
+    },
+    {
+     "n": "Galeforce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446671.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223031.png"
+    },
+    {
+     "n": "Hamstringer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443069.png"
+    },
+    {
+     "n": "Runaan's Hurricane",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223085.png"
+    },
+    {
+     "n": "Dragonheart",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447106.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Whitnich",
+     "h": "/lol/summoners/na/Whitnich-001",
+     "c": "Shyvana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png"
+    },
+    {
+     "n": "ChineseKid88",
+     "h": "/lol/summoners/na/ChineseKid88-NA1",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Soraka.png"
+    },
+    {
+     "n": "Lanetto",
+     "h": "/lol/summoners/na/Lanetto-DADDY",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png"
+    },
+    {
+     "n": "ChaosDrifter",
+     "h": "/lol/summoners/na/ChaosDrifter-5283",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png"
+    },
+    {
+     "n": "Congoose",
+     "h": "/lol/summoners/na/Congoose-NA1",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lulu.png"
+    },
+    {
+     "n": "Nutt",
+     "h": "/lol/summoners/na/Nutt-Nut1",
+     "c": "Illaoi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Illaoi.png"
+    },
+    {
+     "n": "Booti",
+     "h": "/lol/summoners/na/Booti-123",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png"
+    },
+    {
+     "n": "RATical Clowner",
+     "h": "/lol/summoners/na/RATical%20Clowner-RODNT",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    },
+    {
+     "n": "Flower",
+     "h": "/lol/summoners/na/Flower-beeg",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akali.png"
+    },
+    {
+     "n": "The Golden Witch",
+     "h": "/lol/summoners/na/The%20Golden%20Witch-Bea",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793568180000,
+   "detail": null,
+   "firstSeen": 1793568330828,
+   "shot": "g_a9486089d2.jpg"
   }
  },
  "tz": "America/Toronto"
