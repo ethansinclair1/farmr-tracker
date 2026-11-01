@@ -1,24 +1,24 @@
 {
- "sig": "7a7f9ada7c",
+ "sig": "3aab5956ad",
  "report": {
-  "roast": "1W 0L, +30 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "1W 1L, +0 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
   "fixes": [
-   "Low kill participation (17%). Stop farming while your team fights.",
-   "Buy control wards - 0.0 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Take objectives: losing dragons/grubs (1.5 vs 1.0 drakes a game). Be there before they spawn.",
+   "Low kill participation (39%). Stop farming while your team fights.",
+   "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 0,
-  "k": 0,
-  "d": 3,
-  "a": 2,
-  "kda": 0.6666666666666666,
-  "csm": 7.889908256880733,
-  "kp": 17,
-  "lpNet": 30,
+  "losses": 1,
+  "k": 4.5,
+  "d": 4.5,
+  "a": 2.5,
+  "kda": 1.5555555555555556,
+  "csm": 7.091599831152385,
+  "kp": 38.5,
+  "lpNet": 0,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }

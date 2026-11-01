@@ -31182,8 +31182,302 @@
    "team": -1,
    "ts": 1793575620000,
    "detail": null,
-   "firstSeen": 1793575838358,
-   "shot": "g_c20430a06e.jpg"
+   "shot": "g_c20430a06e.jpg",
+   "firstSeen": 1793575838358
+  },
+  "Ranked Solo/Duo|11/1/2026, 6:49 PM|Hecarim|23m 08s": {
+   "id": "Ranked Solo/Duo|11/1/2026, 6:49 PM|Hecarim|23m 08s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/1/2026, 6:49 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 13,
+   "duration": "23m 08s",
+   "minutes": 23.133333333333333,
+   "k": 9,
+   "d": 6,
+   "a": 3,
+   "kda": "2.00",
+   "kp": 60,
+   "cs": 151,
+   "csm": 6.5,
+   "laning": [
+    26,
+    74
+   ],
+   "avgTier": "Master 815",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3133.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1037.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Sonin",
+     "h": "/lol/summoners/na/Sonin-PCC",
+     "c": "Aatrox",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png"
+    },
+    {
+     "n": "SineriasCoaching",
+     "h": "/lol/summoners/na/SineriasCoaching-EUW",
+     "c": "Master Yi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png"
+    },
+    {
+     "n": "Rauschenberg",
+     "h": "/lol/summoners/na/Rauschenberg-NA1",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lissandra.png"
+    },
+    {
+     "n": "spring chicken",
+     "h": "/lol/summoners/na/spring%20chicken-gibon",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Bulgur29 ttv",
+     "h": "/lol/summoners/na/Bulgur29%20ttv-3834",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Det Ret",
+     "h": "/lol/summoners/na/Det%20Ret-%EC%9C%A0%EC%A7%841",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gnar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Xaewon",
+     "h": "/lol/summoners/na/Xaewon-NA1",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    },
+    {
+     "n": "amira",
+     "h": "/lol/summoners/na/amira-NA0",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png"
+    },
+    {
+     "n": "Mach",
+     "h": "/lol/summoners/na/Mach-1234",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Karma.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793576940000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Sonin",
+        "h": "/lol/summoners/na/Sonin-PCC",
+        "t": "Master 983",
+        "op": 5.8,
+        "opr": "3rd",
+        "dmg": 16866,
+        "taken": 20588,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "SineriasCoaching",
+        "h": "/lol/summoners/na/SineriasCoaching-EUW",
+        "t": "Master Yi",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 29500,
+        "taken": 20585,
+        "cw": 3,
+        "wards": "5 / 5"
+       },
+       {
+        "n": "Rauschenberg",
+        "h": "/lol/summoners/na/Rauschenberg-NA1",
+        "t": "Master 983",
+        "op": 6.9,
+        "opr": "2nd",
+        "dmg": 21976,
+        "taken": 20668,
+        "cw": 0,
+        "wards": "6 / 3"
+       },
+       {
+        "n": "spring chicken",
+        "h": "/lol/summoners/na/spring%20chicken-gibon",
+        "t": "Master 846",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 20649,
+        "taken": 12181,
+        "cw": 1,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Bulgur29 ttv",
+        "h": "/lol/summoners/na/Bulgur29%20ttv-3834",
+        "t": "Master 1,148",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 15004,
+        "taken": 11752,
+        "cw": 4,
+        "wards": "24 / 6"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Det Ret",
+        "h": "/lol/summoners/na/Det%20Ret-%EC%9C%A0%EC%A7%841",
+        "t": "Master 755",
+        "op": 1.9,
+        "opr": "10th",
+        "dmg": 12519,
+        "taken": 24753,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 11116,
+        "taken": 27000,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "Xaewon",
+        "h": "/lol/summoners/na/Xaewon-NA1",
+        "t": "Master 758",
+        "op": 4.3,
+        "opr": "8th",
+        "dmg": 17921,
+        "taken": 25151,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "amira",
+        "h": "/lol/summoners/na/amira-NA0",
+        "t": "Master 1,052",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 11611,
+        "taken": 22282,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Mach",
+        "h": "/lol/summoners/na/Mach-1234",
+        "t": "Master 652",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 6593,
+        "taken": 16725,
+        "cw": 2,
+        "wards": "18 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793577073550,
+   "shot": "g_71cf0a30c2.jpg",
+   "lpCalc": true,
+   "roast": "A 9/6/3 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
