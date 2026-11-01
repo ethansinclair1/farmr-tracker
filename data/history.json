@@ -30108,6 +30108,142 @@
    "roast": "0/3/2 win on Sion. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_2c0c453a0e.jpg",
    "firstSeen": 1793556678061
+  },
+  "Arena|11/1/2026, 2:57 PM|Singed|25m 22s": {
+   "id": "Arena|11/1/2026, 2:57 PM|Singed|25m 22s",
+   "queue": "Arena",
+   "date": "11/1/2026, 2:57 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Singed",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png"
+   },
+   "level": 15,
+   "duration": "25m 22s",
+   "minutes": 25.366666666666667,
+   "k": 11,
+   "d": 7,
+   "a": 9,
+   "kda": "2.86",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Malignance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223118.png"
+    },
+    {
+     "n": "Pyromancer's Cloak",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447118.png"
+    },
+    {
+     "n": "Runecarver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447108.png"
+    },
+    {
+     "n": "Liandry's Anguish",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226653.png"
+    },
+    {
+     "n": "Sunfire Aegis",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223068.png"
+    },
+    {
+     "n": "Blackfire Torch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222503.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Izanagi no Okami",
+     "h": "/lol/summoners/na/Izanagi%20no%20Okami-P4R",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rell.png"
+    },
+    {
+     "n": "茉莉花",
+     "h": "/lol/summoners/na/%E8%8C%89%E8%8E%89%E8%8A%B1-aery",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zyra.png"
+    },
+    {
+     "n": "cheetoheadd",
+     "h": "/lol/summoners/na/cheetoheadd-NA1",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png"
+    },
+    {
+     "n": "Sir Weem",
+     "h": "/lol/summoners/na/Sir%20Weem-WEEM",
+     "c": "Ivern",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ivern.png"
+    },
+    {
+     "n": "Escanor",
+     "h": "/lol/summoners/na/Escanor-Son",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Lainduirm",
+     "h": "/lol/summoners/na/Lainduirm-NA1",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png"
+    },
+    {
+     "n": "ShenCobra",
+     "h": "/lol/summoners/na/ShenCobra-NA1",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    },
+    {
+     "n": "DrBreadPhD",
+     "h": "/lol/summoners/na/DrBreadPhD-Bread",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renekton.png"
+    },
+    {
+     "n": "HemaL4D",
+     "h": "/lol/summoners/na/HemaL4D-NA1",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kennen.png"
+    },
+    {
+     "n": "i am 2 high",
+     "h": "/lol/summoners/na/i%20am%202%20high-NA1",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793563020000,
+   "detail": null,
+   "firstSeen": 1793563229894,
+   "shot": "g_e39cf175c1.jpg"
   }
  },
  "tz": "America/Toronto"
