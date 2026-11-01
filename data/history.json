@@ -29530,6 +29530,296 @@
    "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle.",
    "shot": "g_efb65c8af4.jpg",
    "firstSeen": 1793503586779
+  },
+  "Ranked Solo/Duo|10/31/2026, 11:58 PM|Hecarim|28m 48s": {
+   "id": "Ranked Solo/Duo|10/31/2026, 11:58 PM|Hecarim|28m 48s",
+   "queue": "Ranked Solo/Duo",
+   "date": "10/31/2026, 11:58 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 14,
+   "duration": "28m 48s",
+   "minutes": 28.8,
+   "k": 6,
+   "d": 5,
+   "a": 0,
+   "kda": "1.20",
+   "kp": 40,
+   "cs": 177,
+   "csm": 6.1,
+   "laning": [
+    39,
+    61
+   ],
+   "avgTier": "Master 689",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Hexdrinker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3155.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3133.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Sin",
+     "h": "/lol/summoners/na/Sin-kpop",
+     "c": "Aatrox",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aatrox.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "flaw",
+     "h": "/lol/summoners/na/flaw-qvzx",
+     "c": "Fiora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiora.png"
+    },
+    {
+     "n": "Nano5555",
+     "h": "/lol/summoners/na/Nano5555-5555",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "Dawryah",
+     "h": "/lol/summoners/na/Dawryah-111",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Velkoz.png"
+    },
+    {
+     "n": "神眷之樱花",
+     "h": "/lol/summoners/na/%E7%A5%9E%E7%9C%B7%E4%B9%8B%E6%A8%B1%E8%8A%B1-Shine",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renekton.png"
+    },
+    {
+     "n": "Blazed4Days",
+     "h": "/lol/summoners/na/Blazed4Days-NA1",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png"
+    },
+    {
+     "n": "EyeYou",
+     "h": "/lol/summoners/na/EyeYou-I%20U",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    },
+    {
+     "n": "ZakMTL",
+     "h": "/lol/summoners/na/ZakMTL-JUGG",
+     "c": "Veigar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Veigar.png"
+    },
+    {
+     "n": "Seung Seoul",
+     "h": "/lol/summoners/na/Seung%20Seoul-NA1",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793505480000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Sin",
+        "h": "/lol/summoners/na/Sin-kpop",
+        "t": "Master 606",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 20574,
+        "taken": 34343,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 4.2,
+        "opr": "8th",
+        "dmg": 12350,
+        "taken": 33651,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "flaw",
+        "h": "/lol/summoners/na/flaw-qvzx",
+        "t": "Master 681",
+        "op": 1.8,
+        "opr": "10th",
+        "dmg": 16271,
+        "taken": 34233,
+        "cw": 2,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Nano5555",
+        "h": "/lol/summoners/na/Nano5555-5555",
+        "t": "Master 572",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 13294,
+        "taken": 18522,
+        "cw": 1,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "Dawryah",
+        "h": "/lol/summoners/na/Dawryah-111",
+        "t": "Master 832",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 22247,
+        "taken": 25225,
+        "cw": 10,
+        "wards": "31 / 8"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "神眷之樱花",
+        "h": "/lol/summoners/na/%E7%A5%9E%E7%9C%B7%E4%B9%8B%E6%A8%B1%E8%8A%B1-Shine",
+        "t": "Master 481",
+        "op": 7.6,
+        "opr": "3rd",
+        "dmg": 36819,
+        "taken": 38638,
+        "cw": 0,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "Blazed4Days",
+        "h": "/lol/summoners/na/Blazed4Days-NA1",
+        "t": "Master 895",
+        "op": 7.6,
+        "opr": "4th",
+        "dmg": 16860,
+        "taken": 23380,
+        "cw": 3,
+        "wards": "4 / 7"
+       },
+       {
+        "n": "EyeYou",
+        "h": "/lol/summoners/na/EyeYou-I%20U",
+        "t": "Master 708",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 46369,
+        "taken": 23260,
+        "cw": 1,
+        "wards": "3 / 4"
+       },
+       {
+        "n": "ZakMTL",
+        "h": "/lol/summoners/na/ZakMTL-JUGG",
+        "t": "Master 875",
+        "op": 4.1,
+        "opr": "9th",
+        "dmg": 14651,
+        "taken": 15032,
+        "cw": 1,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Seung Seoul",
+        "h": "/lol/summoners/na/Seung%20Seoul-NA1",
+        "t": "Master 429",
+        "op": 7.8,
+        "opr": "2nd",
+        "dmg": 10037,
+        "taken": 19693,
+        "cw": 5,
+        "wards": "32 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1793505778271,
+   "shot": "g_02a7d0ff7e.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Hecarim (6/5/0). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
