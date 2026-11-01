@@ -30786,8 +30786,144 @@
    "team": -1,
    "ts": 1793570040000,
    "detail": null,
-   "firstSeen": 1793570290294,
-   "shot": "g_9014d74abe.jpg"
+   "shot": "g_9014d74abe.jpg",
+   "firstSeen": 1793570290294
+  },
+  "Arena|11/1/2026, 5:21 PM|Hecarim|27m 07s": {
+   "id": "Arena|11/1/2026, 5:21 PM|Hecarim|27m 07s",
+   "queue": "Arena",
+   "date": "11/1/2026, 5:21 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "27m 07s",
+   "minutes": 27.116666666666667,
+   "k": 12,
+   "d": 5,
+   "a": 15,
+   "kda": "5.40",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223008.png"
+    },
+    {
+     "n": "Goredrinker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226630.png"
+    },
+    {
+     "n": "Duskblade of Draktharr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/446691.png"
+    },
+    {
+     "n": "Mortal Reminder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223033.png"
+    },
+    {
+     "n": "Muramana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223042.png"
+    },
+    {
+     "n": "Rite Of Ruin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3430.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "oliverklt",
+     "h": "/lol/summoners/na/oliverklt-1234",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    },
+    {
+     "n": "FREE ISR4EL",
+     "h": "/lol/summoners/na/FREE%20ISR4EL-1234",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zed.png"
+    },
+    {
+     "n": "AndrewCobraTate",
+     "h": "/lol/summoners/na/AndrewCobraTate-NA1",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png"
+    },
+    {
+     "n": "Exotique",
+     "h": "/lol/summoners/na/Exotique-NA1",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leona.png"
+    },
+    {
+     "n": "TheRPGP",
+     "h": "/lol/summoners/na/TheRPGP-NA1",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rakan.png"
+    },
+    {
+     "n": "Kıraı Saber",
+     "h": "/lol/summoners/na/K%C4%B1ra%C4%B1%20Saber-NA1",
+     "c": "Graves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Graves.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png"
+    },
+    {
+     "n": "WinterIsComin",
+     "h": "/lol/summoners/na/WinterIsComin-aespa",
+     "c": "Kayle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Luo Ren Hang",
+     "h": "/lol/summoners/na/Luo%20Ren%20Hang-NA1",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png"
+    },
+    {
+     "n": "S4viorS4lmon",
+     "h": "/lol/summoners/na/S4viorS4lmon-5192",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viktor.png"
+    },
+    {
+     "n": "AdrianZ",
+     "h": "/lol/summoners/na/AdrianZ-zzzzz",
+     "c": "Kindred",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kindred.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793571660000,
+   "detail": null,
+   "firstSeen": 1793571970296,
+   "shot": "g_06b668f754.jpg"
   }
  },
  "tz": "America/Toronto"
