@@ -1,13 +1,13 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "3c76b82989",
+ "sig": "3d767b29e8",
  "rank": {
   "solo": {
    "tier": "Master",
-   "lp": 841,
+   "lp": 811,
    "wins": 179,
-   "losses": 141
+   "losses": 142
   },
   "flex": {
    "tier": "Platinum 1",

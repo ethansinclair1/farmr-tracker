@@ -1,24 +1,24 @@
 {
- "sig": "ad4ae8de62",
+ "sig": "ce8139b3d6",
  "report": {
-  "roast": "1W 1L, +0 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
+  "roast": "1W 2L, -30 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.0 vs 3.5 drakes a game). Be there before they spawn.",
-   "Stop dying - 6.5 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.5 a game is nothing."
+   "Take objectives: losing dragons/grubs (0.7 vs 3.3 drakes a game). Be there before they spawn.",
+   "Stop dying - 7.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.7 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 1,
-  "k": 7.5,
-  "d": 6.5,
-  "a": 13.5,
-  "kda": 3.230769230769231,
-  "csm": 7.238048055486748,
-  "kp": 66,
-  "lpNet": 0,
+  "losses": 2,
+  "k": 5.333333333333333,
+  "d": 7,
+  "a": 12.666666666666666,
+  "kda": 2.5714285714285716,
+  "csm": 7.0620239390642,
+  "kp": 64,
+  "lpNet": -30,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
