@@ -29819,6 +29819,296 @@
    "roast": "Lost on Hecarim (6/5/0). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_02a7d0ff7e.jpg",
    "firstSeen": 1793505778271
+  },
+  "Ranked Solo/Duo|11/1/2026, 1:08 PM|Sion|16m 21s": {
+   "id": "Ranked Solo/Duo|11/1/2026, 1:08 PM|Sion|16m 21s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/1/2026, 1:08 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Sion",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+   },
+   "level": 11,
+   "duration": "16m 21s",
+   "minutes": 16.35,
+   "k": 0,
+   "d": 3,
+   "a": 2,
+   "kda": "0.67",
+   "kp": 17,
+   "cs": 129,
+   "csm": 7.9,
+   "laning": [
+    39,
+    61
+   ],
+   "avgTier": "Master 457",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Serrated Dirk",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3134.png"
+    },
+    {
+     "n": "Youmuu's Ghostblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3142.png"
+    },
+    {
+     "n": "Cull",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1083.png"
+    },
+    {
+     "n": "Swiftmarch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3170.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Arcane Comet",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8229.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Nef",
+     "h": "/lol/summoners/na/Nef-FWB",
+     "c": "Trundle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Trundle.png"
+    },
+    {
+     "n": "yv9",
+     "h": "/lol/summoners/na/yv9-NA1",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lillia.png"
+    },
+    {
+     "n": "PoopySquirt",
+     "h": "/lol/summoners/na/PoopySquirt-1975",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jayce.png"
+    },
+    {
+     "n": "Sage0fRage",
+     "h": "/lol/summoners/na/Sage0fRage-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Azul Phoenix",
+     "h": "/lol/summoners/na/Azul%20Phoenix-ZIL",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zilean.png"
+    },
+    {
+     "n": "Kaevian",
+     "h": "/lol/summoners/na/Kaevian-NA1",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png"
+    },
+    {
+     "n": "Teemo Jungle",
+     "h": "/lol/summoners/na/Teemo%20Jungle-Fill",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+    },
+    {
+     "n": "Andy",
+     "h": "/lol/summoners/na/Andy-NA04",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "destroyworldss",
+     "h": "/lol/summoners/na/destroyworldss-NA1",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793556480000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Nef",
+        "h": "/lol/summoners/na/Nef-FWB",
+        "t": "Master 120",
+        "op": 3.3,
+        "opr": "7th",
+        "dmg": 2076,
+        "taken": 11293,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "yv9",
+        "h": "/lol/summoners/na/yv9-NA1",
+        "t": "Master 167",
+        "op": 1.1,
+        "opr": "10th",
+        "dmg": 5691,
+        "taken": 16292,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "PoopySquirt",
+        "h": "/lol/summoners/na/PoopySquirt-1975",
+        "t": "Master 666",
+        "op": 6.8,
+        "opr": "ACE",
+        "dmg": 14079,
+        "taken": 7482,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "Sage0fRage",
+        "h": "/lol/summoners/na/Sage0fRage-NA1",
+        "t": "Master 546",
+        "op": 1.2,
+        "opr": "9th",
+        "dmg": 5005,
+        "taken": 5555,
+        "cw": 0,
+        "wards": "3 / 0"
+       },
+       {
+        "n": "Azul Phoenix",
+        "h": "/lol/summoners/na/Azul%20Phoenix-ZIL",
+        "t": "Master 302",
+        "op": 4,
+        "opr": "6th",
+        "dmg": 1939,
+        "taken": 6009,
+        "cw": 0,
+        "wards": "15 / 1"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Kaevian",
+        "h": "/lol/summoners/na/Kaevian-NA1",
+        "t": "Master 813",
+        "op": 6,
+        "opr": "5th",
+        "dmg": 9742,
+        "taken": 4764,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Teemo Jungle",
+        "h": "/lol/summoners/na/Teemo%20Jungle-Fill",
+        "t": "Master 190",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 7328,
+        "taken": 6509,
+        "cw": 0,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 781",
+        "op": 3,
+        "opr": "8th",
+        "dmg": 5371,
+        "taken": 13689,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "Andy",
+        "h": "/lol/summoners/na/Andy-NA04",
+        "t": "Master 600",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 8046,
+        "taken": 6725,
+        "cw": 0,
+        "wards": "2 / 0"
+       },
+       {
+        "n": "destroyworldss",
+        "h": "/lol/summoners/na/destroyworldss-NA1",
+        "t": "Master 388",
+        "op": 8.7,
+        "opr": "3rd",
+        "dmg": 5311,
+        "taken": 7731,
+        "cw": 0,
+        "wards": "9 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793556678061,
+   "shot": "g_2c0c453a0e.jpg",
+   "lpCalc": true,
+   "roast": "0/3/2 win on Sion. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"

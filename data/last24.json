@@ -1,24 +1,24 @@
 {
- "sig": "ce8139b3d6",
+ "sig": "7a7f9ada7c",
  "report": {
-  "roast": "1W 2L, -30 LP. Bleeding LP like it's a hobby.",
+  "roast": "1W 0L, +30 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (0.7 vs 3.3 drakes a game). Be there before they spawn.",
-   "Stop dying - 7.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.7 a game is nothing."
+   "Low kill participation (17%). Stop farming while your team fights.",
+   "Buy control wards - 0.0 a game is nothing.",
+   "Losing the early game - plan the first clear and gank the winning lane."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 2,
-  "k": 5.333333333333333,
-  "d": 7,
-  "a": 12.666666666666666,
-  "kda": 2.5714285714285716,
-  "csm": 7.0620239390642,
-  "kp": 64,
-  "lpNet": -30,
+  "losses": 0,
+  "k": 0,
+  "d": 3,
+  "a": 2,
+  "kda": 0.6666666666666666,
+  "csm": 7.889908256880733,
+  "kp": 17,
+  "lpNet": 30,
   "ints": 0,
-  "games": 3
+  "games": 1
  },
  "v": 3
 }
