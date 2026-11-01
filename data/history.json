@@ -22662,8 +22662,8 @@
    ],
    "players": [
     {
-     "n": "恶魔波刚",
-     "h": "/lol/summoners/na/%E6%81%B6%E9%AD%94%E6%B3%A2%E5%88%9A-JJGod",
+     "n": "没办法剑姬",
+     "h": "/lol/summoners/na/%E6%B2%A1%E5%8A%9E%E6%B3%95%E5%89%91%E5%A7%AC-%E6%9C%89%E5%8A%9E%E6%B3%95%E5%90%97",
      "c": "Fiora",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fiora.png"
     },
@@ -30650,8 +30650,8 @@
    "team": 0,
    "ts": 1793568180000,
    "detail": null,
-   "firstSeen": 1793568330828,
-   "shot": "g_a9486089d2.jpg"
+   "shot": "g_a9486089d2.jpg",
+   "firstSeen": 1793568330828
   }
  },
  "tz": "America/Toronto"
