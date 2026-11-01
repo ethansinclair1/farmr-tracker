@@ -30242,8 +30242,144 @@
    "team": 1,
    "ts": 1793563020000,
    "detail": null,
-   "firstSeen": 1793563229894,
-   "shot": "g_e39cf175c1.jpg"
+   "shot": "g_e39cf175c1.jpg",
+   "firstSeen": 1793563229894
+  },
+  "Arena|11/1/2026, 3:17 PM|Blitzcrank|25m 21s": {
+   "id": "Arena|11/1/2026, 3:17 PM|Blitzcrank|25m 21s",
+   "queue": "Arena",
+   "date": "11/1/2026, 3:17 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Blitzcrank",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png"
+   },
+   "level": 18,
+   "duration": "25m 21s",
+   "minutes": 25.35,
+   "k": 10,
+   "d": 14,
+   "a": 16,
+   "kda": "1.86",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Moonflair Spellblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447110.png"
+    },
+    {
+     "n": "Detonation Orb",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447113.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223157.png"
+    },
+    {
+     "n": "Stormsurge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224646.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223089.png"
+    },
+    {
+     "n": "Malignance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223118.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "aintgotgames",
+     "h": "/lol/summoners/na/aintgotgames-NA1",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png"
+    },
+    {
+     "n": "Vezrok",
+     "h": "/lol/summoners/na/Vezrok-NA1",
+     "c": "Sett",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sett.png"
+    },
+    {
+     "n": "RRr4ynor",
+     "h": "/lol/summoners/na/RRr4ynor-001",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "Hide on bush",
+     "h": "/lol/summoners/na/Hide%20on%20bush-VFG2",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Katarina.png"
+    },
+    {
+     "n": "Myron",
+     "h": "/lol/summoners/na/Myron-CSM",
+     "c": "Karthus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Karthus.png"
+    },
+    {
+     "n": "Lovezz",
+     "h": "/lol/summoners/na/Lovezz-NA1",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Edgar Allans Toe",
+     "h": "/lol/summoners/na/Edgar%20Allans%20Toe-NA1",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/LeeSin.png"
+    },
+    {
+     "n": "CroatianD",
+     "h": "/lol/summoners/na/CroatianD-NA1",
+     "c": "Elise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Elise.png"
+    },
+    {
+     "n": "Civtor",
+     "h": "/lol/summoners/na/Civtor-NA1",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MissFortune.png"
+    },
+    {
+     "n": "Bakwai",
+     "h": "/lol/summoners/na/Bakwai-1111",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793564220000,
+   "detail": null,
+   "firstSeen": 1793564450472,
+   "shot": "g_bccd4902bc.jpg"
   }
  },
  "tz": "America/Toronto"
