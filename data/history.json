@@ -32618,8 +32618,144 @@
    "team": -1,
    "ts": 1793647680000,
    "detail": null,
-   "firstSeen": 1793647955192,
-   "shot": "g_b2d971f984.jpg"
+   "shot": "g_b2d971f984.jpg",
+   "firstSeen": 1793647955192
+  },
+  "Arena|11/2/2026, 2:59 PM|Nunu & Willump|33m 56s": {
+   "id": "Arena|11/2/2026, 2:59 PM|Nunu & Willump|33m 56s",
+   "queue": "Arena",
+   "date": "11/2/2026, 2:59 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Nunu & Willump",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nunu.png"
+   },
+   "level": 18,
+   "duration": "33m 56s",
+   "minutes": 33.93333333333333,
+   "k": 15,
+   "d": 7,
+   "a": 25,
+   "kda": "5.71",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223047.png"
+    },
+    {
+     "n": "Cloak of Starry Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443059.png"
+    },
+    {
+     "n": "Void Immolation",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223069.png"
+    },
+    {
+     "n": "Spirit Visage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223065.png"
+    },
+    {
+     "n": "Unending Despair",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222502.png"
+    },
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224633.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Zac",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zac.png"
+    },
+    {
+     "n": "FunkyFeep",
+     "h": "/lol/summoners/na/FunkyFeep-NA1",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Morgana.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Nunu & Willump",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nunu.png"
+    },
+    {
+     "n": "Meep Pimp",
+     "h": "/lol/summoners/na/Meep%20Pimp-Doot",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Smolder.png"
+    },
+    {
+     "n": "dino",
+     "h": "/lol/summoners/na/dino-9924",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "LQWQJ",
+     "h": "/lol/summoners/na/LQWQJ-007",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Vorius",
+     "h": "/lol/summoners/na/Vorius-NA2",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shaco.png"
+    },
+    {
+     "n": "RyleiaDos",
+     "h": "/lol/summoners/na/RyleiaDos-NA1",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Morgana.png"
+    },
+    {
+     "n": "Sabo",
+     "h": "/lol/summoners/na/Sabo-op13",
+     "c": "Ashe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ashe.png"
+    },
+    {
+     "n": "BIGnose tinyHAT",
+     "h": "/lol/summoners/na/BIGnose%20tinyHAT-NHH",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shaco.png"
+    },
+    {
+     "n": "ion1",
+     "h": "/lol/summoners/na/ion1-NA1",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "ExoFarts",
+     "h": "/lol/summoners/na/ExoFarts-NA1",
+     "c": "Gangplank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gangplank.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793649540000,
+   "detail": null,
+   "firstSeen": 1793649907645,
+   "shot": "g_79692d2ed8.jpg"
   }
  },
  "tz": "America/Toronto"
