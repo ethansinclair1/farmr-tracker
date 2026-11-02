@@ -33012,6 +33012,142 @@
    "detail": null,
    "shot": "g_b39d1dbc4a.jpg",
    "firstSeen": 1793653303054
+  },
+  "Arena|11/2/2026, 4:30 PM|Neeko|27m 06s": {
+   "id": "Arena|11/2/2026, 4:30 PM|Neeko|27m 06s",
+   "queue": "Arena",
+   "date": "11/2/2026, 4:30 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Neeko",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png"
+   },
+   "level": 16,
+   "duration": "27m 06s",
+   "minutes": 27.1,
+   "k": 9,
+   "d": 10,
+   "a": 8,
+   "kda": "1.70",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223020.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223152.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223157.png"
+    },
+    {
+     "n": "Cruelty",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447109.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223089.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224645.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "How to Larp",
+     "h": "/lol/summoners/na/How%20to%20Larp-LARP",
+     "c": "Volibear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png"
+    },
+    {
+     "n": "CHEEZ",
+     "h": "/lol/summoners/na/CHEEZ-0013",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png"
+    },
+    {
+     "n": "SqueezeyMcCheezy",
+     "h": "/lol/summoners/na/SqueezeyMcCheezy-NA1",
+     "c": "Sejuani",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sejuani.png"
+    },
+    {
+     "n": "goeasyimnoob",
+     "h": "/lol/summoners/na/goeasyimnoob-NA1",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Velkoz.png"
+    },
+    {
+     "n": "winniedapoos",
+     "h": "/lol/summoners/na/winniedapoos-NA1",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Singed.png"
+    },
+    {
+     "n": "We Get Smoked",
+     "h": "/lol/summoners/na/We%20Get%20Smoked-NA1",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aphelios.png"
+    },
+    {
+     "n": "KingNigel",
+     "h": "/lol/summoners/na/KingNigel-NA69",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aurora.png"
+    },
+    {
+     "n": "KingNigel",
+     "h": "/lol/summoners/na/KingNigel-ababa",
+     "c": "Heimerdinger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Heimerdinger.png"
+    },
+    {
+     "n": "Kontsu",
+     "h": "/lol/summoners/na/Kontsu-NA1",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png"
+    },
+    {
+     "n": "Edgar Allans Toe",
+     "h": "/lol/summoners/na/Edgar%20Allans%20Toe-NA1",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zyra.png"
+    },
+    {
+     "n": "Shane Bent Tea",
+     "h": "/lol/summoners/na/Shane%20Bent%20Tea-NA1",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gnar.png"
+    },
+    {
+     "n": "Sighrus",
+     "h": "/lol/summoners/na/Sighrus-1833",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1793655000000,
+   "detail": null,
+   "firstSeen": 1793655226024,
+   "shot": "g_ec1e5378a6.jpg"
   }
  },
  "tz": "America/Toronto"
