@@ -2690,8 +2690,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Olaf.png"
     },
     {
-     "n": "period account ッ",
-     "h": "/lol/summoners/na/period%20account%20%E3%83%83-na7",
+     "n": "dont forget me",
+     "h": "/lol/summoners/na/dont%20forget%20me-na%EF%BE%82",
      "c": "Vi",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png"
     },
@@ -2973,8 +2973,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
     },
     {
-     "n": "period account ッ",
-     "h": "/lol/summoners/na/period%20account%20%E3%83%83-na7",
+     "n": "dont forget me",
+     "h": "/lol/summoners/na/dont%20forget%20me-na%EF%BE%82",
      "c": "Wukong",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MonkeyKing.png"
     },
@@ -3282,8 +3282,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png"
     },
     {
-     "n": "period account ッ",
-     "h": "/lol/summoners/na/period%20account%20%E3%83%83-na7",
+     "n": "dont forget me",
+     "h": "/lol/summoners/na/dont%20forget%20me-na%EF%BE%82",
      "c": "Diana",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
     },
@@ -32056,10 +32056,9 @@
      }
     ]
    },
-   "firstSeen": 1793582131599,
+   "roast": "5/4/21 on Jarvan IV, 72% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_4d5369d98a.jpg",
-   "lpCalc": true,
-   "roast": "5/4/21 on Jarvan IV, 72% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "firstSeen": 1793582131599
   }
  },
  "tz": "America/Toronto"
