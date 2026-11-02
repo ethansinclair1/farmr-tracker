@@ -31477,6 +31477,296 @@
    "roast": "A 9/6/3 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_71cf0a30c2.jpg",
    "firstSeen": 1793577073550
+  },
+  "Ranked Solo/Duo|11/1/2026, 7:32 PM|Jarvan IV|27m 30s": {
+   "id": "Ranked Solo/Duo|11/1/2026, 7:32 PM|Jarvan IV|27m 30s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/1/2026, 7:32 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 16,
+   "duration": "27m 30s",
+   "minutes": 27.5,
+   "k": 11,
+   "d": 5,
+   "a": 12,
+   "kda": "4.60",
+   "kp": 74,
+   "cs": 212,
+   "csm": 7.7,
+   "laning": [
+    65,
+    35
+   ],
+   "avgTier": "Master 709",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Axiom Arc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6696.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3158.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Version 11th",
+     "h": "/lol/summoners/na/Version%2011th-NA1",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jayce.png"
+    },
+    {
+     "n": "Become Water",
+     "h": "/lol/summoners/na/Become%20Water-NA1",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png"
+    },
+    {
+     "n": "te dua",
+     "h": "/lol/summoners/na/te%20dua-talon",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+    },
+    {
+     "n": "Timi",
+     "h": "/lol/summoners/na/Timi-NA2",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png"
+    },
+    {
+     "n": "CALIBRE CHALL",
+     "h": "/lol/summoners/na/CALIBRE%20CHALL-MUTED",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Janna.png"
+    },
+    {
+     "n": "CruelDuckling92",
+     "h": "/lol/summoners/na/CruelDuckling92-NA1",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Irelia.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "DontTypeToMe",
+     "h": "/lol/summoners/na/DontTypeToMe-MONKY",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png"
+    },
+    {
+     "n": "Maxandos",
+     "h": "/lol/summoners/na/Maxandos-NA2",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png"
+    },
+    {
+     "n": "twink towers",
+     "h": "/lol/summoners/na/twink%20towers-fartd",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793579520000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Version 11th",
+        "h": "/lol/summoners/na/Version%2011th-NA1",
+        "t": "Master 838",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 19597,
+        "taken": 18311,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "Become Water",
+        "h": "/lol/summoners/na/Become%20Water-NA1",
+        "t": "Master 687",
+        "op": 6.1,
+        "opr": "ACE",
+        "dmg": 22566,
+        "taken": 34138,
+        "cw": 4,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "te dua",
+        "h": "/lol/summoners/na/te%20dua-talon",
+        "t": "Master 697",
+        "op": 2.4,
+        "opr": "10th",
+        "dmg": 15859,
+        "taken": 32470,
+        "cw": 4,
+        "wards": "7 / 4"
+       },
+       {
+        "n": "Timi",
+        "h": "/lol/summoners/na/Timi-NA2",
+        "t": "Master 905",
+        "op": 4.6,
+        "opr": "6th",
+        "dmg": 17518,
+        "taken": 20651,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "CALIBRE CHALL",
+        "h": "/lol/summoners/na/CALIBRE%20CHALL-MUTED",
+        "t": "Master 498",
+        "op": 5.4,
+        "opr": "5th",
+        "dmg": 11061,
+        "taken": 17252,
+        "cw": 13,
+        "wards": "37 / 10"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "CruelDuckling92",
+        "h": "/lol/summoners/na/CruelDuckling92-NA1",
+        "t": "Master 1,084",
+        "op": 2.5,
+        "opr": "9th",
+        "dmg": 14955,
+        "taken": 25206,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 781",
+        "op": 7.9,
+        "opr": "MVP",
+        "dmg": 26847,
+        "taken": 21436,
+        "cw": 0,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "DontTypeToMe",
+        "h": "/lol/summoners/na/DontTypeToMe-MONKY",
+        "t": "Master 430",
+        "op": 6.4,
+        "opr": "2nd",
+        "dmg": 24443,
+        "taken": 18276,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Maxandos",
+        "h": "/lol/summoners/na/Maxandos-NA2",
+        "t": "Master 681",
+        "op": 2.8,
+        "opr": "8th",
+        "dmg": 25838,
+        "taken": 26474,
+        "cw": 3,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "twink towers",
+        "h": "/lol/summoners/na/twink%20towers-fartd",
+        "t": "Master 488",
+        "op": 5.8,
+        "opr": "4th",
+        "dmg": 11828,
+        "taken": 17695,
+        "cw": 6,
+        "wards": "24 / 7"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 10,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1793579733140,
+   "shot": "g_f0e02aa8b6.jpg",
+   "lpCalc": true,
+   "roast": "11/5/12 on Jarvan IV, 74% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"

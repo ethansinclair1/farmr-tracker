@@ -1,24 +1,24 @@
 {
- "sig": "3aab5956ad",
+ "sig": "c8573a3811",
  "report": {
-  "roast": "1W 1L, +0 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
+  "roast": "2W 1L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.5 vs 1.0 drakes a game). Be there before they spawn.",
-   "Low kill participation (39%). Stop farming while your team fights.",
+   "Take objectives: losing dragons/grubs (1.7 vs 1.3 drakes a game). Be there before they spawn.",
+   "Low kill participation (50%). Stop farming while your team fights.",
    "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "k": 4.5,
-  "d": 4.5,
-  "a": 2.5,
-  "kda": 1.5555555555555556,
-  "csm": 7.091599831152385,
-  "kp": 38.5,
-  "lpNet": 0,
+  "k": 6.666666666666667,
+  "d": 4.666666666666667,
+  "a": 5.666666666666667,
+  "kda": 2.642857142857143,
+  "csm": 7.345110724060712,
+  "kp": 50.333333333333336,
+  "lpNet": 30,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
