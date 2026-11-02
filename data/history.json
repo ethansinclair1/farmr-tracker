@@ -32059,6 +32059,300 @@
    "roast": "5/4/21 on Jarvan IV, 72% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_4d5369d98a.jpg",
    "firstSeen": 1793582131599
+  },
+  "Ranked Solo/Duo|11/1/2026, 8:52 PM|Diana|29m 28s": {
+   "id": "Ranked Solo/Duo|11/1/2026, 8:52 PM|Diana|29m 28s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/1/2026, 8:52 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+   },
+   "level": 17,
+   "duration": "29m 28s",
+   "minutes": 29.466666666666665,
+   "k": 13,
+   "d": 2,
+   "a": 7,
+   "kda": "10.00",
+   "kp": 67,
+   "cs": 251,
+   "csm": 8.5,
+   "laning": [
+    68,
+    32
+   ],
+   "avgTier": "Master 1,059",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2510.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1058.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1058.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FinleyFionaBabli",
+     "h": "/lol/summoners/na/FinleyFionaBabli-NA1",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+    },
+    {
+     "n": "zak",
+     "h": "/lol/summoners/na/zak-vvv",
+     "c": "Riven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Riven.png"
+    },
+    {
+     "n": "Saico",
+     "h": "/lol/summoners/na/Saico-Slide",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png"
+    },
+    {
+     "n": "CB barlo",
+     "h": "/lol/summoners/na/CB%20barlo-001",
+     "c": "Renata Glasc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Renata.png"
+    },
+    {
+     "n": "StinkyAsian",
+     "h": "/lol/summoners/na/StinkyAsian-EWW",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kled.png"
+    },
+    {
+     "n": "Shockey",
+     "h": "/lol/summoners/na/Shockey-NA1",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/LeeSin.png"
+    },
+    {
+     "n": "TeeKay",
+     "h": "/lol/summoners/na/TeeKay-CN1",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vladimir.png"
+    },
+    {
+     "n": "pyn",
+     "h": "/lol/summoners/na/pyn-apel",
+     "c": "Ziggs",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ziggs.png"
+    },
+    {
+     "n": "Gristlestick",
+     "h": "/lol/summoners/na/Gristlestick-Gstck",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Janna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793584320000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "FinleyFionaBabli",
+        "h": "/lol/summoners/na/FinleyFionaBabli-NA1",
+        "t": "Diamond 2",
+        "op": 7.5,
+        "opr": "2nd",
+        "dmg": 40286,
+        "taken": 41204,
+        "cw": 0,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 9.4,
+        "opr": "MVP",
+        "dmg": 41051,
+        "taken": 29892,
+        "cw": 1,
+        "wards": "2 / 6"
+       },
+       {
+        "n": "zak",
+        "h": "/lol/summoners/na/zak-vvv",
+        "t": "Master 783",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 23562,
+        "taken": 28199,
+        "cw": 0,
+        "wards": "4 / 5"
+       },
+       {
+        "n": "Saico",
+        "h": "/lol/summoners/na/Saico-Slide",
+        "t": "Grandmaster 1,578",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 26295,
+        "taken": 24559,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "CB barlo",
+        "h": "/lol/summoners/na/CB%20barlo-001",
+        "t": "Master 973",
+        "op": 4.6,
+        "opr": "8th",
+        "dmg": 7869,
+        "taken": 20773,
+        "cw": 8,
+        "wards": "35 / 14"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "StinkyAsian",
+        "h": "/lol/summoners/na/StinkyAsian-EWW",
+        "t": "Master 828",
+        "op": 2.6,
+        "opr": "9th",
+        "dmg": 18587,
+        "taken": 50848,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Shockey",
+        "h": "/lol/summoners/na/Shockey-NA1",
+        "t": "Grandmaster 1,581",
+        "op": 1.8,
+        "opr": "10th",
+        "dmg": 15950,
+        "taken": 37217,
+        "cw": 2,
+        "wards": "13 / 1"
+       },
+       {
+        "n": "TeeKay",
+        "h": "/lol/summoners/na/TeeKay-CN1",
+        "t": "Master 1,180",
+        "op": 5.9,
+        "opr": "ACE",
+        "dmg": 40050,
+        "taken": 25409,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "pyn",
+        "h": "/lol/summoners/na/pyn-apel",
+        "t": "Grandmaster 1,642",
+        "op": 5.5,
+        "opr": "4th",
+        "dmg": 28391,
+        "taken": 17934,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Gristlestick",
+        "h": "/lol/summoners/na/Gristlestick-Gstck",
+        "t": "Grandmaster 1,310",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 9648,
+        "taken": 22993,
+        "cw": 10,
+        "wards": "39 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 10,
+      "Inhibitor": 2
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793584565598,
+   "shot": "g_c248efa390.jpg",
+   "lpCalc": true,
+   "roast": "13/2/7 on Diana, 67% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"

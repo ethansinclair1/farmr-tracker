@@ -1,24 +1,24 @@
 {
- "sig": "555d5d12a9",
+ "sig": "903db7bf46",
  "report": {
-  "roast": "3W 1L, +60 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "4W 1L, +90 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (2.0 vs 1.3 drakes a game). Be there before they spawn.",
-   "Buy control wards - 0.0 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Buy control wards - 0.2 a game is nothing.",
+   "4 champions in 5 games - pick 2-3 and stick to them.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 3,
+  "wins": 4,
   "losses": 1,
-  "k": 6.25,
-  "d": 4.5,
-  "a": 9.5,
-  "kda": 3.5,
-  "csm": 7.510653409090908,
-  "kp": 55.75,
-  "lpNet": 60,
+  "k": 7.6,
+  "d": 4,
+  "a": 9,
+  "kda": 4.15,
+  "csm": 7.75135135135135,
+  "kp": 58,
+  "lpNet": 90,
   "ints": 0,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }
