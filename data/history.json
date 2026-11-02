@@ -32874,8 +32874,144 @@
    "team": -1,
    "ts": 1793651460000,
    "detail": null,
-   "firstSeen": 1793651591297,
-   "shot": "g_6f833cbcda.jpg"
+   "shot": "g_6f833cbcda.jpg",
+   "firstSeen": 1793651591297
+  },
+  "Arena|11/2/2026, 3:56 PM|Akshan|24m 44s": {
+   "id": "Arena|11/2/2026, 3:56 PM|Akshan|24m 44s",
+   "queue": "Arena",
+   "date": "11/2/2026, 3:56 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Akshan",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png"
+   },
+   "level": 18,
+   "duration": "24m 44s",
+   "minutes": 24.733333333333334,
+   "k": 19,
+   "d": 9,
+   "a": 14,
+   "kda": "3.67",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Kraken Slayer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226672.png"
+    },
+    {
+     "n": "Hamstringer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443069.png"
+    },
+    {
+     "n": "Hexoptics C44",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222523.png"
+    },
+    {
+     "n": "Fulmination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443055.png"
+    },
+    {
+     "n": "The Collector",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226676.png"
+    },
+    {
+     "n": "Rapid Firecannon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223094.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "winniedapoos",
+     "h": "/lol/summoners/na/winniedapoos-NA1",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Thresh.png"
+    },
+    {
+     "n": "AFlex",
+     "h": "/lol/summoners/na/AFlex-8757",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shaco.png"
+    },
+    {
+     "n": "Kssemak",
+     "h": "/lol/summoners/na/Kssemak-0101",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png"
+    },
+    {
+     "n": "落刃之前心软过吗",
+     "h": "/lol/summoners/na/%E8%90%BD%E5%88%83%E4%B9%8B%E5%89%8D%E5%BF%83%E8%BD%AF%E8%BF%87%E5%90%97-7136",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Akshan.png"
+    },
+    {
+     "n": "Gentrified",
+     "h": "/lol/summoners/na/Gentrified-1337",
+     "c": "Nidalee",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nidalee.png"
+    },
+    {
+     "n": "Dominus",
+     "h": "/lol/summoners/na/Dominus-4732",
+     "c": "Shen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shen.png"
+    },
+    {
+     "n": "UnholyCaladbolg",
+     "h": "/lol/summoners/na/UnholyCaladbolg-NA1",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Smolder.png"
+    },
+    {
+     "n": "DeenDeen",
+     "h": "/lol/summoners/na/DeenDeen-NA1",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yasuo.png"
+    },
+    {
+     "n": "littleman1",
+     "h": "/lol/summoners/na/littleman1-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jhin.png"
+    },
+    {
+     "n": "TriynnMilk123",
+     "h": "/lol/summoners/na/TriynnMilk123-2006",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793652960000,
+   "detail": null,
+   "firstSeen": 1793653303054,
+   "shot": "g_b39d1dbc4a.jpg"
   }
  },
  "tz": "America/Toronto"
