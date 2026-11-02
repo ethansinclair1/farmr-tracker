@@ -1,5 +1,5 @@
 {
- "at": "2026-11-01T16:43:03.990Z",
+ "at": "2026-11-02T04:46:18.613Z",
  "lists": {
   "top": [
    {
@@ -43,17 +43,17 @@
     "band": 2
    },
    {
-    "id": "mordekaiser",
+    "id": "sion",
     "rank": 9,
     "band": 2
    },
    {
-    "id": "sion",
+    "id": "camille",
     "rank": 10,
     "band": 2
    },
    {
-    "id": "camille",
+    "id": "mordekaiser",
     "rank": 11,
     "band": 2
    },
@@ -63,12 +63,12 @@
     "band": 2
    },
    {
-    "id": "fiora",
+    "id": "yone",
     "rank": 13,
     "band": 2
    },
    {
-    "id": "yone",
+    "id": "fiora",
     "rank": 14,
     "band": 2
    },
@@ -90,7 +90,7 @@
    {
     "id": "singed",
     "rank": 18,
-    "band": 2
+    "band": 3
    },
    {
     "id": "kayle",
@@ -118,12 +118,12 @@
     "band": 3
    },
    {
-    "id": "pantheon",
+    "id": "yasuo",
     "rank": 25,
     "band": 3
    },
    {
-    "id": "yasuo",
+    "id": "pantheon",
     "rank": 26,
     "band": 3
    },
@@ -138,7 +138,7 @@
     "band": 3
    },
    {
-    "id": "drmundo",
+    "id": "zaahen",
     "rank": 29,
     "band": 3
    },
@@ -148,7 +148,7 @@
     "band": 3
    },
    {
-    "id": "zaahen",
+    "id": "drmundo",
     "rank": 31,
     "band": 3
    },
@@ -158,14 +158,14 @@
     "band": 3
    },
    {
-    "id": "akali",
+    "id": "kled",
     "rank": 33,
-    "band": 3
+    "band": 4
    },
    {
-    "id": "kled",
+    "id": "akali",
     "rank": 34,
-    "band": 3
+    "band": 4
    },
    {
     "id": "quinn",
@@ -183,12 +183,12 @@
     "band": 4
    },
    {
-    "id": "riven",
+    "id": "gnar",
     "rank": 38,
     "band": 4
    },
    {
-    "id": "gnar",
+    "id": "riven",
     "rank": 39,
     "band": 4
    },
@@ -228,12 +228,12 @@
     "band": 4
    },
    {
-    "id": "anivia",
+    "id": "heimerdinger",
     "rank": 47,
     "band": 4
    },
    {
-    "id": "heimerdinger",
+    "id": "anivia",
     "rank": 48,
     "band": 4
    },
@@ -265,15 +265,15 @@
    {
     "id": "trundle",
     "rank": 54,
-    "band": 4
-   },
-   {
-    "id": "ksante",
-    "rank": 55,
     "band": 5
    },
    {
     "id": "vayne",
+    "rank": 55,
+    "band": 5
+   },
+   {
+    "id": "ksante",
     "rank": 56,
     "band": 5
    }
@@ -330,12 +330,12 @@
     "band": 2
    },
    {
-    "id": "sylas",
+    "id": "ekko",
     "rank": 11,
     "band": 2
    },
    {
-    "id": "ekko",
+    "id": "sylas",
     "rank": 12,
     "band": 2
    },
@@ -350,17 +350,17 @@
     "band": 2
    },
    {
-    "id": "elise",
+    "id": "belveth",
     "rank": 15,
-    "band": 2
+    "band": 3
    },
    {
     "id": "zyra",
     "rank": 16,
-    "band": 2
+    "band": 3
    },
    {
-    "id": "belveth",
+    "id": "elise",
     "rank": 17,
     "band": 3
    },
@@ -370,12 +370,12 @@
     "band": 3
    },
    {
-    "id": "leesin",
+    "id": "warwick",
     "rank": 19,
     "band": 3
    },
    {
-    "id": "warwick",
+    "id": "leesin",
     "rank": 20,
     "band": 3
    },
@@ -385,32 +385,32 @@
     "band": 3
    },
    {
-    "id": "xinzhao",
+    "id": "rammus",
     "rank": 23,
     "band": 3
    },
    {
-    "id": "taliyah",
+    "id": "xinzhao",
     "rank": 24,
     "band": 3
    },
    {
-    "id": "evelynn",
+    "id": "sejuani",
     "rank": 25,
     "band": 3
    },
    {
-    "id": "hecarim",
+    "id": "evelynn",
     "rank": 26,
     "band": 3
    },
    {
-    "id": "rammus",
+    "id": "taliyah",
     "rank": 27,
     "band": 3
    },
    {
-    "id": "sejuani",
+    "id": "hecarim",
     "rank": 28,
     "band": 3
    },
@@ -450,12 +450,12 @@
     "band": 3
    },
    {
-    "id": "darius",
+    "id": "vi",
     "rank": 36,
     "band": 3
    },
    {
-    "id": "vi",
+    "id": "darius",
     "rank": 37,
     "band": 3
    },
@@ -472,7 +472,7 @@
    {
     "id": "naafiri",
     "rank": 40,
-    "band": 3
+    "band": 4
    },
    {
     "id": "nocturne",
@@ -510,12 +510,12 @@
     "band": 4
    },
    {
-    "id": "karthus",
+    "id": "trundle",
     "rank": 48,
     "band": 4
    },
    {
-    "id": "trundle",
+    "id": "karthus",
     "rank": 49,
     "band": 4
    },
@@ -527,12 +527,12 @@
    {
     "id": "volibear",
     "rank": 51,
-    "band": 4
+    "band": 5
    },
    {
     "id": "quinn",
     "rank": 52,
-    "band": 4
+    "band": 5
    },
    {
     "id": "fizz",
@@ -545,12 +545,12 @@
     "band": 5
    },
    {
-    "id": "jayce",
+    "id": "malphite",
     "rank": 55,
     "band": 5
    },
    {
-    "id": "malphite",
+    "id": "jayce",
     "rank": 56,
     "band": 5
    }
@@ -577,12 +577,12 @@
     "band": 2
    },
    {
-    "id": "twistedfate",
+    "id": "katarina",
     "rank": 5,
     "band": 2
    },
    {
-    "id": "katarina",
+    "id": "twistedfate",
     "rank": 6,
     "band": 2
    },
@@ -597,17 +597,17 @@
     "band": 2
    },
    {
-    "id": "vladimir",
+    "id": "xerath",
     "rank": 9,
     "band": 2
    },
    {
-    "id": "xerath",
+    "id": "yone",
     "rank": 10,
     "band": 2
    },
    {
-    "id": "yone",
+    "id": "vladimir",
     "rank": 11,
     "band": 2
    },
@@ -642,22 +642,22 @@
     "band": 3
    },
    {
-    "id": "diana",
+    "id": "malzahar",
     "rank": 18,
     "band": 3
    },
    {
-    "id": "malzahar",
+    "id": "diana",
     "rank": 19,
     "band": 3
    },
    {
-    "id": "aurora",
+    "id": "akali",
     "rank": 20,
     "band": 3
    },
    {
-    "id": "akali",
+    "id": "aurora",
     "rank": 22,
     "band": 3
    },
@@ -672,12 +672,12 @@
     "band": 3
    },
    {
-    "id": "gwen",
+    "id": "zoe",
     "rank": 25,
     "band": 3
    },
    {
-    "id": "zoe",
+    "id": "gwen",
     "rank": 26,
     "band": 3
    },
@@ -727,12 +727,12 @@
     "band": 4
    },
    {
-    "id": "akshan",
+    "id": "swain",
     "rank": 36,
     "band": 4
    },
    {
-    "id": "swain",
+    "id": "akshan",
     "rank": 37,
     "band": 4
    },
@@ -772,32 +772,32 @@
     "band": 4
    },
    {
-    "id": "garen",
+    "id": "malphite",
     "rank": 45,
     "band": 4
    },
    {
-    "id": "malphite",
-    "rank": 46,
-    "band": 4
-   },
-   {
     "id": "ziggs",
-    "rank": 47,
+    "rank": 46,
     "band": 5
    },
    {
     "id": "nasus",
-    "rank": 48,
+    "rank": 47,
     "band": 5
    },
    {
     "id": "naafiri",
-    "rank": 49,
+    "rank": 48,
     "band": 5
    },
    {
     "id": "brand",
+    "rank": 49,
+    "band": 5
+   },
+   {
+    "id": "ryze",
     "rank": 50,
     "band": 5
    },
@@ -807,27 +807,27 @@
     "band": 5
    },
    {
-    "id": "ryze",
+    "id": "azir",
     "rank": 52,
     "band": 5
    },
    {
-    "id": "azir",
+    "id": "cassiopeia",
     "rank": 53,
     "band": 5
    },
    {
-    "id": "cassiopeia",
+    "id": "jayce",
     "rank": 54,
     "band": 5
    },
    {
-    "id": "jayce",
+    "id": "mel",
     "rank": 55,
     "band": 5
    },
    {
-    "id": "mel",
+    "id": "tristana",
     "rank": 56,
     "band": 5
    }
@@ -894,12 +894,12 @@
     "band": 3
    },
    {
-    "id": "zeri",
+    "id": "yunara",
     "rank": 13,
     "band": 3
    },
    {
-    "id": "yunara",
+    "id": "zeri",
     "rank": 14,
     "band": 3
    },
@@ -919,32 +919,32 @@
     "band": 3
    },
    {
-    "id": "lucian",
+    "id": "caitlyn",
     "rank": 18,
     "band": 3
    },
    {
-    "id": "caitlyn",
+    "id": "lucian",
     "rank": 19,
     "band": 3
    },
    {
-    "id": "veigar",
+    "id": "ashe",
     "rank": 20,
     "band": 3
    },
    {
-    "id": "ashe",
+    "id": "veigar",
     "rank": 22,
     "band": 3
    },
    {
-    "id": "lux",
+    "id": "nilah",
     "rank": 23,
     "band": 3
    },
    {
-    "id": "nilah",
+    "id": "lux",
     "rank": 24,
     "band": 3
    },
@@ -969,17 +969,17 @@
     "band": 4
    },
    {
-    "id": "aurelionsol",
+    "id": "xerath",
     "rank": 29,
     "band": 4
    },
    {
-    "id": "xerath",
+    "id": "varus",
     "rank": 30,
     "band": 4
    },
    {
-    "id": "varus",
+    "id": "aurelionsol",
     "rank": 31,
     "band": 4
    },
@@ -989,22 +989,22 @@
     "band": 4
    },
    {
-    "id": "vayne",
+    "id": "kalista",
     "rank": 33,
     "band": 4
    },
    {
-    "id": "kalista",
+    "id": "vayne",
     "rank": 34,
     "band": 4
    },
    {
-    "id": "viktor",
+    "id": "syndra",
     "rank": 35,
     "band": 4
    },
    {
-    "id": "syndra",
+    "id": "viktor",
     "rank": 36,
     "band": 4
    },
@@ -1071,12 +1071,12 @@
     "band": 2
    },
    {
-    "id": "janna",
+    "id": "senna",
     "rank": 9,
     "band": 2
    },
    {
-    "id": "senna",
+    "id": "janna",
     "rank": 10,
     "band": 2
    },
@@ -1091,12 +1091,12 @@
     "band": 2
    },
    {
-    "id": "rakan",
+    "id": "soraka",
     "rank": 13,
     "band": 2
    },
    {
-    "id": "soraka",
+    "id": "rakan",
     "rank": 14,
     "band": 2
    },
@@ -1163,7 +1163,7 @@
    {
     "id": "bard",
     "rank": 28,
-    "band": 3
+    "band": 4
    },
    {
     "id": "renata",
