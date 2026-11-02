@@ -33148,6 +33148,138 @@
    "detail": null,
    "shot": "g_ec1e5378a6.jpg",
    "firstSeen": 1793655226024
+  },
+  "Arena|11/2/2026, 4:59 PM|Poppy|25m 43s": {
+   "id": "Arena|11/2/2026, 4:59 PM|Poppy|25m 43s",
+   "queue": "Arena",
+   "date": "11/2/2026, 4:59 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Poppy",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png"
+   },
+   "level": 16,
+   "duration": "25m 43s",
+   "minutes": 25.716666666666665,
+   "k": 3,
+   "d": 5,
+   "a": 14,
+   "kda": "3.40",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223047.png"
+    },
+    {
+     "n": "Flesheater",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447112.png"
+    },
+    {
+     "n": "Sunfire Aegis",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223068.png"
+    },
+    {
+     "n": "Jak'Sho, The Protean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/226665.png"
+    },
+    {
+     "n": "Demon King's Crown",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443056.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "YummyAdvil",
+     "h": "/lol/summoners/na/YummyAdvil-light",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png"
+    },
+    {
+     "n": "GucciManein2006",
+     "h": "/lol/summoners/na/GucciManein2006-2006",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Briar.png"
+    },
+    {
+     "n": "Ragnarr",
+     "h": "/lol/summoners/na/Ragnarr-2800",
+     "c": "Azir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Azir.png"
+    },
+    {
+     "n": "STEEEEEEEEEEEEEL",
+     "h": "/lol/summoners/na/STEEEEEEEEEEEEEL-NA1",
+     "c": "Shen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shen.png"
+    },
+    {
+     "n": "bebefromage",
+     "h": "/lol/summoners/na/bebefromage-NA1",
+     "c": "Rumble",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rumble.png"
+    },
+    {
+     "n": "Exclusive",
+     "h": "/lol/summoners/na/Exclusive-3651",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Senna.png"
+    },
+    {
+     "n": "Roy Parsons",
+     "h": "/lol/summoners/na/Roy%20Parsons-NA1",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zilean.png"
+    },
+    {
+     "n": "dodolette",
+     "h": "/lol/summoners/na/dodolette-NA1",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Bard.png"
+    },
+    {
+     "n": "LEGACY",
+     "h": "/lol/summoners/na/LEGACY-Void",
+     "c": "Volibear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Volibear.png"
+    },
+    {
+     "n": "Forsaken11",
+     "h": "/lol/summoners/na/Forsaken11-NA1",
+     "c": "Annie",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Annie.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Poppy.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793656740000,
+   "detail": null,
+   "firstSeen": 1793656937955,
+   "shot": "g_bf80f23d97.jpg"
   }
  },
  "tz": "America/Toronto"
