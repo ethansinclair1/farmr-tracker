@@ -32486,8 +32486,140 @@
    "team": 1,
    "ts": 1793646300000,
    "detail": null,
-   "firstSeen": 1793646517753,
-   "shot": "g_637da97684.jpg"
+   "shot": "g_637da97684.jpg",
+   "firstSeen": 1793646517753
+  },
+  "Arena|11/2/2026, 2:28 PM|Gwen|23m 12s": {
+   "id": "Arena|11/2/2026, 2:28 PM|Gwen|23m 12s",
+   "queue": "Arena",
+   "date": "11/2/2026, 2:28 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Gwen",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gwen.png"
+   },
+   "level": 15,
+   "duration": "23m 12s",
+   "minutes": 23.2,
+   "k": 7,
+   "d": 8,
+   "a": 6,
+   "kda": "1.63",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Reality Fracture",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447102.png"
+    },
+    {
+     "n": "Detonation Orb",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447113.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/222510.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/224645.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223089.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Syden",
+     "h": "/lol/summoners/na/Syden-NA1",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png"
+    },
+    {
+     "n": "Doujin",
+     "h": "/lol/summoners/na/Doujin-NA1",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Aphelios.png"
+    },
+    {
+     "n": "ssteeeeeeve",
+     "h": "/lol/summoners/na/ssteeeeeeve-NA1",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gwen.png"
+    },
+    {
+     "n": "notlau18",
+     "h": "/lol/summoners/na/notlau18-NA1",
+     "c": "Braum",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Braum.png"
+    },
+    {
+     "n": "MrEngelic",
+     "h": "/lol/summoners/na/MrEngelic-NA1",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Twitch.png"
+    },
+    {
+     "n": "Mika is nickname",
+     "h": "/lol/summoners/na/Mika%20is%20nickname-NA1",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Garen.png"
+    },
+    {
+     "n": "Kendrasas",
+     "h": "/lol/summoners/na/Kendrasas-001",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png"
+    },
+    {
+     "n": "reddead",
+     "h": "/lol/summoners/na/reddead-1225",
+     "c": "Illaoi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Illaoi.png"
+    },
+    {
+     "n": "Syrup",
+     "h": "/lol/summoners/na/Syrup-NA10",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png"
+    },
+    {
+     "n": "Jokeroker",
+     "h": "/lol/summoners/na/Jokeroker-MSJay",
+     "c": "Nasus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nasus.png"
+    },
+    {
+     "n": "Nø Gi",
+     "h": "/lol/summoners/na/N%C3%B8%20Gi-BJJ",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Fizz.png"
+    },
+    {
+     "n": "Alaska",
+     "h": "/lol/summoners/na/Alaska-uwuu",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Khazix.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1793647680000,
+   "detail": null,
+   "firstSeen": 1793647955192,
+   "shot": "g_b2d971f984.jpg"
   }
  },
  "tz": "America/Toronto"
