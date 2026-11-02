@@ -25875,8 +25875,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Taliyah.png"
     },
     {
-     "n": "Unemployed",
-     "h": "/lol/summoners/na/Unemployed-arc",
+     "n": "ESPARON",
+     "h": "/lol/summoners/na/ESPARON-505",
      "c": "Qiyana",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Qiyana.png"
     },
@@ -32352,6 +32352,142 @@
    "roast": "13/2/7 on Diana, 67% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_c248efa390.jpg",
    "firstSeen": 1793584565598
+  },
+  "Arena|11/2/2026, 2:05 PM|Sett|24m 22s": {
+   "id": "Arena|11/2/2026, 2:05 PM|Sett|24m 22s",
+   "queue": "Arena",
+   "date": "11/2/2026, 2:05 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sett",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sett.png"
+   },
+   "level": 16,
+   "duration": "24m 22s",
+   "minutes": 24.366666666666667,
+   "k": 15,
+   "d": 7,
+   "a": 5,
+   "kda": "2.86",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223047.png"
+    },
+    {
+     "n": "Turbo Chemtank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/443079.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223084.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447111.png"
+    },
+    {
+     "n": "Blade of The Ruined King",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223153.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/223161.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Cothex",
+     "h": "/lol/summoners/na/Cothex-NA1",
+     "c": "Kayle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayle.png"
+    },
+    {
+     "n": "Eternal Yõuth",
+     "h": "/lol/summoners/na/Eternal%20Y%C3%B5uth-0245",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rengar.png"
+    },
+    {
+     "n": "Cassicopium",
+     "h": "/lol/summoners/na/Cassicopium-Yone",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png"
+    },
+    {
+     "n": "Beastsk1",
+     "h": "/lol/summoners/na/Beastsk1-NA1",
+     "c": "Nidalee",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nidalee.png"
+    },
+    {
+     "n": "Darkrider929",
+     "h": "/lol/summoners/na/Darkrider929-6664",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Rell.png"
+    },
+    {
+     "n": "DohFlah",
+     "h": "/lol/summoners/na/DohFlah-Mingo",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/DrMundo.png"
+    },
+    {
+     "n": "Nidaleet",
+     "h": "/lol/summoners/na/Nidaleet-NA1",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Khazix.png"
+    },
+    {
+     "n": "Tumble OP",
+     "h": "/lol/summoners/na/Tumble%20OP-NA1",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Brand.png"
+    },
+    {
+     "n": "Lord Wintizzler",
+     "h": "/lol/summoners/na/Lord%20Wintizzler-yuki",
+     "c": "Nilah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nilah.png"
+    },
+    {
+     "n": "Mika is nickname",
+     "h": "/lol/summoners/na/Mika%20is%20nickname-NA1",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yuumi.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sett",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sett.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793646300000,
+   "detail": null,
+   "firstSeen": 1793646517753,
+   "shot": "g_637da97684.jpg"
   }
  },
  "tz": "America/Toronto"
