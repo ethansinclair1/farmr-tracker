@@ -31766,6 +31766,300 @@
    "roast": "11/5/12 on Jarvan IV, 74% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_f0e02aa8b6.jpg",
    "firstSeen": 1793579733140
+  },
+  "Ranked Solo/Duo|11/1/2026, 8:11 PM|Jarvan IV|26m 53s": {
+   "id": "Ranked Solo/Duo|11/1/2026, 8:11 PM|Jarvan IV|26m 53s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/1/2026, 8:11 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 17,
+   "duration": "26m 53s",
+   "minutes": 26.883333333333333,
+   "k": 5,
+   "d": 4,
+   "a": 21,
+   "kda": "6.50",
+   "kp": 72,
+   "cs": 213,
+   "csm": 7.9,
+   "laning": [
+    61,
+    39
+   ],
+   "avgTier": "Master 747",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Axiom Arc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6696.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2019.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Flamingack",
+     "h": "/lol/summoners/na/Flamingack-5443",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "random kid",
+     "h": "/lol/summoners/na/random%20kid-1673",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vladimir.png"
+    },
+    {
+     "n": "V1gorous1",
+     "h": "/lol/summoners/na/V1gorous1-V1g",
+     "c": "Samira",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Samira.png"
+    },
+    {
+     "n": "TapRtoWin",
+     "h": "/lol/summoners/na/TapRtoWin-LoL",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Alistar.png"
+    },
+    {
+     "n": "A7kP92mX4Qz81LtB",
+     "h": "/lol/summoners/na/A7kP92mX4Qz81LtB-N4x7Q",
+     "c": "Vex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vex.png"
+    },
+    {
+     "n": "SimpleButPerfect",
+     "h": "/lol/summoners/na/SimpleButPerfect-NA1",
+     "c": "Shyvana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Shyvana.png"
+    },
+    {
+     "n": "Ellie64",
+     "h": "/lol/summoners/na/Ellie64-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yone.png"
+    },
+    {
+     "n": "deathwalker222",
+     "h": "/lol/summoners/na/deathwalker222-NA1",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kalista.png"
+    },
+    {
+     "n": "Coach DeleteRX",
+     "h": "/lol/summoners/na/Coach%20DeleteRX-120ms",
+     "c": "Elise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Elise.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793581860000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Flamingack",
+        "h": "/lol/summoners/na/Flamingack-5443",
+        "t": "Master 606",
+        "op": 2.3,
+        "opr": "9th",
+        "dmg": 17698,
+        "taken": 29421,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 8.5,
+        "opr": "2nd",
+        "dmg": 14314,
+        "taken": 19661,
+        "cw": 0,
+        "wards": "2 / 6"
+       },
+       {
+        "n": "random kid",
+        "h": "/lol/summoners/na/random%20kid-1673",
+        "t": "Master 808",
+        "op": 7.2,
+        "opr": "4th",
+        "dmg": 30764,
+        "taken": 23193,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "V1gorous1",
+        "h": "/lol/summoners/na/V1gorous1-V1g",
+        "t": "Master 276",
+        "op": 8.8,
+        "opr": "MVP",
+        "dmg": 36738,
+        "taken": 27247,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "TapRtoWin",
+        "h": "/lol/summoners/na/TapRtoWin-LoL",
+        "t": "Master 645",
+        "op": 8.3,
+        "opr": "3rd",
+        "dmg": 9913,
+        "taken": 34367,
+        "cw": 4,
+        "wards": "19 / 5"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "A7kP92mX4Qz81LtB",
+        "h": "/lol/summoners/na/A7kP92mX4Qz81LtB-N4x7Q",
+        "t": "Master 821",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 25572,
+        "taken": 24203,
+        "cw": 3,
+        "wards": "12 / 0"
+       },
+       {
+        "n": "SimpleButPerfect",
+        "h": "/lol/summoners/na/SimpleButPerfect-NA1",
+        "t": "Master 841",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 19861,
+        "taken": 30023,
+        "cw": 0,
+        "wards": "0 / 3"
+       },
+       {
+        "n": "Ellie64",
+        "h": "/lol/summoners/na/Ellie64-NA1",
+        "t": "Master 1,170",
+        "op": 1.4,
+        "opr": "10th",
+        "dmg": 17928,
+        "taken": 27183,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "deathwalker222",
+        "h": "/lol/summoners/na/deathwalker222-NA1",
+        "t": "Grandmaster 1,521",
+        "op": 4.3,
+        "opr": "8th",
+        "dmg": 22037,
+        "taken": 18984,
+        "cw": 0,
+        "wards": "5 / 2"
+       },
+       {
+        "n": "Coach DeleteRX",
+        "h": "/lol/summoners/na/Coach%20DeleteRX-120ms",
+        "t": "Diamond 1",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 19335,
+        "taken": 23095,
+        "cw": 9,
+        "wards": "30 / 11"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793582131599,
+   "shot": "g_4d5369d98a.jpg",
+   "lpCalc": true,
+   "roast": "5/4/21 on Jarvan IV, 72% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
