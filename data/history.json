@@ -32754,8 +32754,128 @@
    "team": 0,
    "ts": 1793649540000,
    "detail": null,
-   "firstSeen": 1793649907645,
-   "shot": "g_79692d2ed8.jpg"
+   "shot": "g_79692d2ed8.jpg",
+   "firstSeen": 1793649907645
+  },
+  "Arena|11/2/2026, 3:31 PM|Karthus|24m 12s": {
+   "id": "Arena|11/2/2026, 3:31 PM|Karthus|24m 12s",
+   "queue": "Arena",
+   "date": "11/2/2026, 3:31 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Karthus",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Karthus.png"
+   },
+   "level": 15,
+   "duration": "24m 12s",
+   "minutes": 24.2,
+   "k": 5,
+   "d": 10,
+   "a": 8,
+   "kda": "1.30",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Detonation Orb",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/447113.png"
+    },
+    {
+     "n": "Shardblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/220012.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Zantar",
+     "h": "/lol/summoners/na/Zantar-NA1",
+     "c": "Skarner",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Skarner.png"
+    },
+    {
+     "n": "SupremeSlab",
+     "h": "/lol/summoners/na/SupremeSlab-NA1",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png"
+    },
+    {
+     "n": "BiggSucc",
+     "h": "/lol/summoners/na/BiggSucc-5339",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MissFortune.png"
+    },
+    {
+     "n": "KingNigel",
+     "h": "/lol/summoners/na/KingNigel-NA69",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lillia.png"
+    },
+    {
+     "n": "KingNigel",
+     "h": "/lol/summoners/na/KingNigel-ababa",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Swain.png"
+    },
+    {
+     "n": "Jush",
+     "h": "/lol/summoners/na/Jush-632",
+     "c": "Master Yi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MasterYi.png"
+    },
+    {
+     "n": "FrownyBagel",
+     "h": "/lol/summoners/na/FrownyBagel-NA1",
+     "c": "Xin Zhao",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/XinZhao.png"
+    },
+    {
+     "n": "LatetotheRace",
+     "h": "/lol/summoners/na/LatetotheRace-NA1",
+     "c": "Vex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vex.png"
+    },
+    {
+     "n": "The Dirty Nasty",
+     "h": "/lol/summoners/na/The%20Dirty%20Nasty-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "JuiceTinZeGreat",
+     "h": "/lol/summoners/na/JuiceTinZeGreat-NA1",
+     "c": "Vex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vex.png"
+    },
+    {
+     "n": "DatCandle",
+     "h": "/lol/summoners/na/DatCandle-NA1",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Orianna.png"
+    },
+    {
+     "n": "scizor86",
+     "h": "/lol/summoners/na/scizor86-NA2",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1793651460000,
+   "detail": null,
+   "firstSeen": 1793651591297,
+   "shot": "g_6f833cbcda.jpg"
   }
  },
  "tz": "America/Toronto"
