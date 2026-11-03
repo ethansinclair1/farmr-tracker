@@ -35025,7 +35025,7 @@
     40
    ],
    "avgTier": "Master 585",
-   "lp": null,
+   "lp": 30,
    "items": [
     {
      "n": "Plated Steelcaps",
@@ -35288,9 +35288,10 @@
      }
     ]
    },
-   "firstSeen": 1793679246408,
+   "roast": "9/0/16 deathless on Jarvan IV. Annoyingly clean. Screenshot it, it won't happen again.",
    "shot": "g_07d8f86aee.jpg",
-   "roast": "9/0/16 deathless on Jarvan IV. Annoyingly clean. Screenshot it, it won't happen again."
+   "firstSeen": 1793679246408,
+   "lpCalc": true
   }
  },
  "tz": "America/Toronto"
