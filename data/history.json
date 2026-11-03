@@ -35291,6 +35291,296 @@
    "roast": "9/0/16 deathless on Jarvan IV. Annoyingly clean. Screenshot it, it won't happen again.",
    "shot": "g_07d8f86aee.jpg",
    "firstSeen": 1793679246408
+  },
+  "Ranked Solo/Duo|11/3/2026, 4:24 PM|Sion|27m 13s": {
+   "id": "Ranked Solo/Duo|11/3/2026, 4:24 PM|Sion|27m 13s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/3/2026, 4:24 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Sion",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+   },
+   "level": 16,
+   "duration": "27m 13s",
+   "minutes": 27.216666666666665,
+   "k": 6,
+   "d": 3,
+   "a": 7,
+   "kda": "4.33",
+   "kp": 36,
+   "cs": 187,
+   "csm": 6.9,
+   "laning": [
+    52,
+    48
+   ],
+   "avgTier": "Master 956",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Doran's Helm",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1120.png"
+    },
+    {
+     "n": "Unending Despair",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2502.png"
+    },
+    {
+     "n": "Randuin's Omen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3143.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3084.png"
+    },
+    {
+     "n": "Armored Advance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3174.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Hatsune Neeko",
+     "h": "/lol/summoners/na/Hatsune%20Neeko-NA1",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Neeko.png"
+    },
+    {
+     "n": "Khazixtynine",
+     "h": "/lol/summoners/na/Khazixtynine-SHU",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sion.png"
+    },
+    {
+     "n": "Kazi Bap",
+     "h": "/lol/summoners/na/Kazi%20Bap-Kank",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Skelpy",
+     "h": "/lol/summoners/na/Skelpy-CTP",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Bard.png"
+    },
+    {
+     "n": "WeTriedToRun",
+     "h": "/lol/summoners/na/WeTriedToRun-jord",
+     "c": "Riven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Riven.png"
+    },
+    {
+     "n": "beluga smile",
+     "h": "/lol/summoners/na/beluga%20smile-kooch",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Wind",
+     "h": "/lol/summoners/na/Wind-1214",
+     "c": "Tryndamere",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tryndamere.png"
+    },
+    {
+     "n": "youngw522",
+     "h": "/lol/summoners/na/youngw522-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Chopped Fruit",
+     "h": "/lol/summoners/na/Chopped%20Fruit-NA2",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Blitzcrank.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793741040000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Hatsune Neeko",
+        "h": "/lol/summoners/na/Hatsune%20Neeko-NA1",
+        "t": "Grandmaster 1,602",
+        "op": 7.3,
+        "opr": "MVP",
+        "dmg": 29518,
+        "taken": 23649,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "Khazixtynine",
+        "h": "/lol/summoners/na/Khazixtynine-SHU",
+        "t": "Master 1,034",
+        "op": 6.5,
+        "opr": "3rd",
+        "dmg": 23490,
+        "taken": 25589,
+        "cw": 3,
+        "wards": "5 / 7"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 20871,
+        "taken": 32702,
+        "cw": 0,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "Kazi Bap",
+        "h": "/lol/summoners/na/Kazi%20Bap-Kank",
+        "t": "Master 715",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 22851,
+        "taken": 15940,
+        "cw": 0,
+        "wards": "6 / 3"
+       },
+       {
+        "n": "Skelpy",
+        "h": "/lol/summoners/na/Skelpy-CTP",
+        "t": "Grandmaster 1,333",
+        "op": 6.9,
+        "opr": "2nd",
+        "dmg": 12656,
+        "taken": 20921,
+        "cw": 0,
+        "wards": "23 / 5"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "WeTriedToRun",
+        "h": "/lol/summoners/na/WeTriedToRun-jord",
+        "t": "Master 825",
+        "op": 1.7,
+        "opr": "10th",
+        "dmg": 12386,
+        "taken": 21081,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "beluga smile",
+        "h": "/lol/summoners/na/beluga%20smile-kooch",
+        "t": "Master 971",
+        "op": 3.7,
+        "opr": "8th",
+        "dmg": 20071,
+        "taken": 34143,
+        "cw": 3,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "Wind",
+        "h": "/lol/summoners/na/Wind-1214",
+        "t": "Master 805",
+        "op": 3.8,
+        "opr": "7th",
+        "dmg": 20838,
+        "taken": 38771,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "youngw522",
+        "h": "/lol/summoners/na/youngw522-NA1",
+        "t": "Master 775",
+        "op": 5.7,
+        "opr": "ACE",
+        "dmg": 30876,
+        "taken": 18555,
+        "cw": 2,
+        "wards": "8 / 7"
+       },
+       {
+        "n": "Chopped Fruit",
+        "h": "/lol/summoners/na/Chopped%20Fruit-NA2",
+        "t": "Master 687",
+        "op": 3.3,
+        "opr": "9th",
+        "dmg": 9225,
+        "taken": 28279,
+        "cw": 16,
+        "wards": "48 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 10,
+      "Inhibitor": 2
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 5,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793741250367,
+   "shot": "g_4c78e85233.jpg",
+   "lpCalc": true,
+   "roast": "Win on Sion (6/3/7). Got carried and the 6.9 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
