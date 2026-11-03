@@ -1,13 +1,13 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "42086a200f",
+ "sig": "17def7e715",
  "rank": {
   "solo": {
    "tier": "Master",
-   "lp": 841,
+   "lp": 811,
    "wins": 184,
-   "losses": 146
+   "losses": 147
   },
   "flex": {
    "tier": "Platinum 1",
@@ -17,7 +17,7 @@
   }
  },
  "pendingLp": {
-  "solo": "Ranked Solo/Duo|11/2/2026, 9:33 PM|Twisted Fate|41m 41s",
+  "solo": null,
   "flex": null
  }
 }

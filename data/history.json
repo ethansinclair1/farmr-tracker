@@ -34186,7 +34186,7 @@
     23
    ],
    "avgTier": "Master 775",
-   "lp": null,
+   "lp": -30,
    "items": [
     {
      "n": "Terminus",
@@ -34449,9 +34449,10 @@
      }
     ]
    },
-   "firstSeen": 1793673421572,
+   "roast": "A 15/6/5 loss on Twisted Fate. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_22ccaa6ba5.jpg",
-   "roast": "A 15/6/5 loss on Twisted Fate. Useless. The LP doesn't care about effort and neither do we."
+   "firstSeen": 1793673421572,
+   "lpCalc": true
   }
  },
  "tz": "America/Toronto"
