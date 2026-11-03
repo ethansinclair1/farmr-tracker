@@ -1,24 +1,24 @@
 {
- "sig": "1dd806e30b",
+ "sig": "065d9aefd5",
  "report": {
-  "roast": "0W 1L, -30 LP. Bleeding LP like it's a hobby.",
+  "roast": "0W 2L, -60 LP. Log off and hand the account to someone who can play.",
   "fixes": [
-   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
+   "Stop dying - 7.5 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.0 a game is nothing.",
    "Farm more: 6.9 CS/min. Clear camps between fights."
   ],
   "ai": false,
   "wins": 0,
-  "losses": 1,
-  "k": 15,
-  "d": 6,
-  "a": 16,
-  "kda": 5.166666666666667,
-  "csm": 6.889714993804213,
-  "kp": 60,
-  "lpNet": -30,
+  "losses": 2,
+  "k": 13.5,
+  "d": 7.5,
+  "a": 10,
+  "kda": 3.1333333333333333,
+  "csm": 6.934530843772158,
+  "kp": 56.5,
+  "lpNet": -60,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }

@@ -33573,6 +33573,300 @@
    "roast": "Lost on Hecarim (15/6/16). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_6624350253.jpg",
    "firstSeen": 1793664692156
+  },
+  "Ranked Solo/Duo|11/2/2026, 7:56 PM|Diana|30m 10s": {
+   "id": "Ranked Solo/Duo|11/2/2026, 7:56 PM|Diana|30m 10s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/2/2026, 7:56 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+   },
+   "level": 16,
+   "duration": "30m 10s",
+   "minutes": 30.166666666666668,
+   "k": 12,
+   "d": 9,
+   "a": 4,
+   "kda": "1.78",
+   "kp": 53,
+   "cs": 211,
+   "csm": 7,
+   "laning": [
+    45,
+    55
+   ],
+   "avgTier": "Master 738",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Liandry's Torment",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6653.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2510.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3020.png"
+    },
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Blasting Wand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1026.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "jungle magnet",
+     "h": "/lol/summoners/na/jungle%20magnet-NA2",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Diana.png"
+    },
+    {
+     "n": "迷路的鸡",
+     "h": "/lol/summoners/na/%E8%BF%B7%E8%B7%AF%E7%9A%84%E9%B8%A1-QAQ",
+     "c": "Nocturne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nocturne.png"
+    },
+    {
+     "n": "Varista",
+     "h": "/lol/summoners/na/Varista-Vero",
+     "c": "Varus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Varus.png"
+    },
+    {
+     "n": "BlkOrange",
+     "h": "/lol/summoners/na/BlkOrange-1030",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png"
+    },
+    {
+     "n": "ShizzyWa",
+     "h": "/lol/summoners/na/ShizzyWa-Kled",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kled.png"
+    },
+    {
+     "n": "N C",
+     "h": "/lol/summoners/na/N%20C-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "Kermate",
+     "h": "/lol/summoners/na/Kermate-NA1",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Orianna.png"
+    },
+    {
+     "n": "Shadula",
+     "h": "/lol/summoners/na/Shadula-Jhin",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lucian.png"
+    },
+    {
+     "n": "PYKEMIKE99",
+     "h": "/lol/summoners/na/PYKEMIKE99-000",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793667360000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "jungle magnet",
+        "h": "/lol/summoners/na/jungle%20magnet-NA2",
+        "t": "Master 1,125",
+        "op": 5.2,
+        "opr": "ACE",
+        "dmg": 41230,
+        "taken": 39277,
+        "cw": 1,
+        "wards": "14 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 36973,
+        "taken": 33684,
+        "cw": 0,
+        "wards": "1 / 3"
+       },
+       {
+        "n": "迷路的鸡",
+        "h": "/lol/summoners/na/%E8%BF%B7%E8%B7%AF%E7%9A%84%E9%B8%A1-QAQ",
+        "t": "Master 65",
+        "op": 2.7,
+        "opr": "10th",
+        "dmg": 15726,
+        "taken": 28523,
+        "cw": 1,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Varista",
+        "h": "/lol/summoners/na/Varista-Vero",
+        "t": "Master 1,263",
+        "op": 4.1,
+        "opr": "7th",
+        "dmg": 34412,
+        "taken": 25445,
+        "cw": 0,
+        "wards": "11 / 9"
+       },
+       {
+        "n": "BlkOrange",
+        "h": "/lol/summoners/na/BlkOrange-1030",
+        "t": "Master 48",
+        "op": 3.4,
+        "opr": "9th",
+        "dmg": 9714,
+        "taken": 29764,
+        "cw": 16,
+        "wards": "41 / 12"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "ShizzyWa",
+        "h": "/lol/summoners/na/ShizzyWa-Kled",
+        "t": "Master 661",
+        "op": 3.7,
+        "opr": "8th",
+        "dmg": 29614,
+        "taken": 58766,
+        "cw": 0,
+        "wards": "12 / 0"
+       },
+       {
+        "n": "N C",
+        "h": "/lol/summoners/na/N%20C-NA1",
+        "t": "Master 1,037",
+        "op": 7.4,
+        "opr": "3rd",
+        "dmg": 27508,
+        "taken": 46665,
+        "cw": 2,
+        "wards": "1 / 4"
+       },
+       {
+        "n": "Kermate",
+        "h": "/lol/summoners/na/Kermate-NA1",
+        "t": "Master 1,241",
+        "op": 7.1,
+        "opr": "4th",
+        "dmg": 28178,
+        "taken": 16373,
+        "cw": 0,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "Shadula",
+        "h": "/lol/summoners/na/Shadula-Jhin",
+        "t": "Master 965",
+        "op": 8,
+        "opr": "2nd",
+        "dmg": 38511,
+        "taken": 23915,
+        "cw": 0,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "PYKEMIKE99",
+        "h": "/lol/summoners/na/PYKEMIKE99-000",
+        "t": "Master 138",
+        "op": 8.8,
+        "opr": "MVP",
+        "dmg": 18996,
+        "taken": 24899,
+        "cw": 13,
+        "wards": "31 / 19"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 2,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793667591132,
+   "shot": "g_c28c714569.jpg",
+   "lpCalc": true,
+   "roast": "9 deaths. The enemy team should be paying 9 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"
