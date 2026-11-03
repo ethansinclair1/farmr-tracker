@@ -1,7 +1,7 @@
 {
- "sig": "f1f85f97f4",
+ "sig": "89baa786cd",
  "report": {
-  "roast": "1W 3L, -30 LP. Log off and hand the account to someone who can play.",
+  "roast": "1W 3L, -60 LP. Not doing good today. Uninstall.",
   "fixes": [
    "Stop dying - 6.8 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.0 a game is nothing.",
@@ -16,9 +16,9 @@
   "kda": 3.5185185185185186,
   "csm": 7.055242390078917,
   "kp": 55.5,
-  "lpNet": -30,
+  "lpNet": -60,
   "ints": 0,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }

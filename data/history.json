@@ -34451,8 +34451,260 @@
    },
    "roast": "A 15/6/5 loss on Twisted Fate. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_22ccaa6ba5.jpg",
-   "firstSeen": 1793673421572,
-   "lpCalc": true
+   "firstSeen": 1793673421572
+  },
+  "Ranked Solo/Duo|11/2/2026, 9:41 PM|Jarvan IV|1m 05s": {
+   "id": "Ranked Solo/Duo|11/2/2026, 9:41 PM|Jarvan IV|1m 05s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/2/2026, 9:41 PM",
+   "result": "Remake",
+   "win": false,
+   "remake": true,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 1,
+   "duration": "1m 05s",
+   "minutes": 1.0833333333333333,
+   "k": 0,
+   "d": 0,
+   "a": 0,
+   "kda": "0.00",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "Master 809",
+   "lp": null,
+   "items": [
+    {
+     "n": "Scorchclaw Pup",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1101.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1204.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "cycles",
+     "h": "/lol/summoners/na/cycles-2121",
+     "c": "Illaoi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Illaoi.png"
+    },
+    {
+     "n": "Free Nutroxus",
+     "h": "/lol/summoners/na/Free%20Nutroxus-NA1",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Natsuki Subaru",
+     "h": "/lol/summoners/na/Natsuki%20Subaru-yyy",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ekko.png"
+    },
+    {
+     "n": "小怪兽",
+     "h": "/lol/summoners/na/%E5%B0%8F%E6%80%AA%E5%85%BD-iub",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hwei.png"
+    },
+    {
+     "n": "bony whimsark",
+     "h": "/lol/summoners/na/bony%20whimsark-NA1",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leona.png"
+    },
+    {
+     "n": "Brandoinks",
+     "h": "/lol/summoners/na/Brandoinks-JOKO",
+     "c": "Gangplank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Gangplank.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "Mega098",
+     "h": "/lol/summoners/na/Mega098-NA1",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    },
+    {
+     "n": "Summoner Code",
+     "h": "/lol/summoners/na/Summoner%20Code-NA1",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/MissFortune.png"
+    },
+    {
+     "n": "BeeAyO",
+     "h": "/lol/summoners/na/BeeAyO-001",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Maokai.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793673660000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "cycles",
+        "h": "/lol/summoners/na/cycles-2121",
+        "t": "Master 825",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "Free Nutroxus",
+        "h": "/lol/summoners/na/Free%20Nutroxus-NA1",
+        "t": "Master 638",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 109,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "Natsuki Subaru",
+        "h": "/lol/summoners/na/Natsuki%20Subaru-yyy",
+        "t": "Master 1,081",
+        "op": 0,
+        "opr": "",
+        "dmg": 57,
+        "taken": 345,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "小怪兽",
+        "h": "/lol/summoners/na/%E5%B0%8F%E6%80%AA%E5%85%BD-iub",
+        "t": "Master 1,020",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "bony whimsark",
+        "h": "/lol/summoners/na/bony%20whimsark-NA1",
+        "t": "Master 396",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "1 / 0"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Brandoinks",
+        "h": "/lol/summoners/na/Brandoinks-JOKO",
+        "t": "Master 1,166",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 107,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "Mega098",
+        "h": "/lol/summoners/na/Mega098-NA1",
+        "t": "Master 690",
+        "op": 0,
+        "opr": "",
+        "dmg": 345,
+        "taken": 113,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "Summoner Code",
+        "h": "/lol/summoners/na/Summoner%20Code-NA1",
+        "t": "Master 405",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "BeeAyO",
+        "h": "/lol/summoners/na/BeeAyO-001",
+        "t": "Master 1,053",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       }
+      ]
+     }
+    ],
+    "obj": []
+   },
+   "firstSeen": 1793674135875,
+   "shot": "g_4355a2035b.jpg",
+   "roast": "Remake. Even the game gave up on this one."
   }
  },
  "tz": "America/Toronto"
