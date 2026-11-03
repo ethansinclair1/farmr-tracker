@@ -34998,6 +34998,299 @@
    "roast": "Lost on Hecarim (9/4/9). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_73e224de10.jpg",
    "firstSeen": 1793676347085
+  },
+  "Ranked Solo/Duo|11/2/2026, 11:12 PM|Jarvan IV|24m 12s": {
+   "id": "Ranked Solo/Duo|11/2/2026, 11:12 PM|Jarvan IV|24m 12s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/2/2026, 11:12 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 15,
+   "duration": "24m 12s",
+   "minutes": 24.2,
+   "k": 9,
+   "d": 0,
+   "a": 16,
+   "kda": "",
+   "kp": 61,
+   "cs": 164,
+   "csm": 6.8,
+   "laning": [
+    60,
+    40
+   ],
+   "avgTier": "Master 585",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Eclipse",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6692.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Cloth Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1029.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1036.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Neswoud",
+     "h": "/lol/summoners/na/Neswoud-NA2",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/KSante.png"
+    },
+    {
+     "n": "帥只是一個字 卻跟了我一輩子",
+     "h": "/lol/summoners/na/%E5%B8%A5%E5%8F%AA%E6%98%AF%E4%B8%80%E5%80%8B%E5%AD%97%20%E5%8D%BB%E8%B7%9F%E4%BA%86%E6%88%91%E4%B8%80%E8%BC%A9%E5%AD%90-jojo",
+     "c": "Bel'Veth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Belveth.png"
+    },
+    {
+     "n": "aquanick",
+     "h": "/lol/summoners/na/aquanick-BBCSR",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    },
+    {
+     "n": "Kali Mata",
+     "h": "/lol/summoners/na/Kali%20Mata-NA1",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zeri.png"
+    },
+    {
+     "n": "HurricaneMan",
+     "h": "/lol/summoners/na/HurricaneMan-TTV",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pyke.png"
+    },
+    {
+     "n": "Voxtrik",
+     "h": "/lol/summoners/na/Voxtrik-NA1",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ambessa.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "girlgonewild00",
+     "h": "/lol/summoners/na/girlgonewild00-NA1",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "zxczxvxzcxzv",
+     "h": "/lol/summoners/na/zxczxvxzcxzv-NA2",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Draven.png"
+    },
+    {
+     "n": "Monzy",
+     "h": "/lol/summoners/na/Monzy-NA1",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793679120000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Neswoud",
+        "h": "/lol/summoners/na/Neswoud-NA2",
+        "t": "Master 1,160",
+        "op": 4.1,
+        "opr": "7th",
+        "dmg": 11102,
+        "taken": 24079,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "帥只是一個字 卻跟了我一輩子",
+        "h": "/lol/summoners/na/%E5%B8%A5%E5%8F%AA%E6%98%AF%E4%B8%80%E5%80%8B%E5%AD%97%20%E5%8D%BB%E8%B7%9F%E4%BA%86%E6%88%91%E4%B8%80%E8%BC%A9%E5%AD%90-jojo",
+        "t": "Master 175",
+        "op": 3.3,
+        "opr": "8th",
+        "dmg": 14617,
+        "taken": 26138,
+        "cw": 0,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "aquanick",
+        "h": "/lol/summoners/na/aquanick-BBCSR",
+        "t": "Master 420",
+        "op": 5.5,
+        "opr": "ACE",
+        "dmg": 24525,
+        "taken": 23914,
+        "cw": 0,
+        "wards": "4 / 2"
+       },
+       {
+        "n": "Kali Mata",
+        "h": "/lol/summoners/na/Kali%20Mata-NA1",
+        "t": "Master 439",
+        "op": 1.3,
+        "opr": "10th",
+        "dmg": 6328,
+        "taken": 20841,
+        "cw": 0,
+        "wards": "5 / 4"
+       },
+       {
+        "n": "HurricaneMan",
+        "h": "/lol/summoners/na/HurricaneMan-TTV",
+        "t": "Master 552",
+        "op": 3,
+        "opr": "9th",
+        "dmg": 8008,
+        "taken": 20648,
+        "cw": 0,
+        "wards": "18 / 2"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Voxtrik",
+        "h": "/lol/summoners/na/Voxtrik-NA1",
+        "t": "Master 918",
+        "op": 4.6,
+        "opr": "6th",
+        "dmg": 19210,
+        "taken": 17206,
+        "cw": 2,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 781",
+        "op": 9.9,
+        "opr": "MVP",
+        "dmg": 20656,
+        "taken": 20482,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "girlgonewild00",
+        "h": "/lol/summoners/na/girlgonewild00-NA1",
+        "t": "Master 474",
+        "op": 5.4,
+        "opr": "5th",
+        "dmg": 20195,
+        "taken": 16987,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "zxczxvxzcxzv",
+        "h": "/lol/summoners/na/zxczxvxzcxzv-NA2",
+        "t": "Master 569",
+        "op": 9,
+        "opr": "2nd",
+        "dmg": 30540,
+        "taken": 12555,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Monzy",
+        "h": "/lol/summoners/na/Monzy-NA1",
+        "t": "Master 363",
+        "op": 7.2,
+        "opr": "3rd",
+        "dmg": 12131,
+        "taken": 23590,
+        "cw": 4,
+        "wards": "30 / 0"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793679246408,
+   "shot": "g_07d8f86aee.jpg",
+   "roast": "9/0/16 deathless on Jarvan IV. Annoyingly clean. Screenshot it, it won't happen again."
   }
  },
  "tz": "America/Toronto"
