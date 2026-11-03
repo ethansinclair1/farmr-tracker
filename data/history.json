@@ -33866,6 +33866,300 @@
    "roast": "9 deaths. The enemy team should be paying 9 cents in rent for living in this player's jungle.",
    "shot": "g_c28c714569.jpg",
    "firstSeen": 1793667591132
+  },
+  "Ranked Solo/Duo|11/2/2026, 8:46 PM|Hecarim|35m 38s": {
+   "id": "Ranked Solo/Duo|11/2/2026, 8:46 PM|Hecarim|35m 38s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/2/2026, 8:46 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "35m 38s",
+   "minutes": 35.63333333333333,
+   "k": 12,
+   "d": 6,
+   "a": 16,
+   "kda": "4.67",
+   "kp": 60,
+   "cs": 247,
+   "csm": 6.9,
+   "laning": [
+    51,
+    49
+   ],
+   "avgTier": "Master 842",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3008.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3161.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "westrice",
+     "h": "/lol/summoners/na/westrice-ggez",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Pantheon.png"
+    },
+    {
+     "n": "bentheblaster307",
+     "h": "/lol/summoners/na/bentheblaster307-3660",
+     "c": "Kayn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayn.png"
+    },
+    {
+     "n": "Syla",
+     "h": "/lol/summoners/na/Syla-%ED%81%B4%EB%A1%9C%EB%B2%84",
+     "c": "Ryze",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ryze.png"
+    },
+    {
+     "n": "Nayoraso",
+     "h": "/lol/summoners/na/Nayoraso-8741",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Twitch.png"
+    },
+    {
+     "n": "MantaBadger",
+     "h": "/lol/summoners/na/MantaBadger-5225",
+     "c": "Elise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Elise.png"
+    },
+    {
+     "n": "Briars Feet",
+     "h": "/lol/summoners/na/Briars%20Feet-449",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Lisan al Gaib",
+     "h": "/lol/summoners/na/Lisan%20al%20Gaib-lDUNE",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png"
+    },
+    {
+     "n": "potion icon",
+     "h": "/lol/summoners/na/potion%20icon-NA1",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png"
+    },
+    {
+     "n": "twitch duelista",
+     "h": "/lol/summoners/na/twitch%20duelista-kick",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Leblanc.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793670360000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "westrice",
+        "h": "/lol/summoners/na/westrice-ggez",
+        "t": "Master 393",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 30852,
+        "taken": 48549,
+        "cw": 3,
+        "wards": "7 / 8"
+       },
+       {
+        "n": "bentheblaster307",
+        "h": "/lol/summoners/na/bentheblaster307-3660",
+        "t": "Master 774",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 31462,
+        "taken": 32592,
+        "cw": 1,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Syla",
+        "h": "/lol/summoners/na/Syla-%ED%81%B4%EB%A1%9C%EB%B2%84",
+        "t": "Master 1,010",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 34045,
+        "taken": 38856,
+        "cw": 1,
+        "wards": "9 / 7"
+       },
+       {
+        "n": "Nayoraso",
+        "h": "/lol/summoners/na/Nayoraso-8741",
+        "t": "Master 1,170",
+        "op": 4.6,
+        "opr": "8th",
+        "dmg": 32487,
+        "taken": 33222,
+        "cw": 1,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "MantaBadger",
+        "h": "/lol/summoners/na/MantaBadger-5225",
+        "t": "Master 888",
+        "op": 5.9,
+        "opr": "ACE",
+        "dmg": 25345,
+        "taken": 25058,
+        "cw": 17,
+        "wards": "49 / 16"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Briars Feet",
+        "h": "/lol/summoners/na/Briars%20Feet-449",
+        "t": "Master 814",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 21778,
+        "taken": 39748,
+        "cw": 1,
+        "wards": "14 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 7.1,
+        "opr": "MVP",
+        "dmg": 35910,
+        "taken": 53958,
+        "cw": 0,
+        "wards": "1 / 3"
+       },
+       {
+        "n": "Lisan al Gaib",
+        "h": "/lol/summoners/na/Lisan%20al%20Gaib-lDUNE",
+        "t": "Master 1,083",
+        "op": 3.5,
+        "opr": "10th",
+        "dmg": 22037,
+        "taken": 25200,
+        "cw": 0,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "potion icon",
+        "h": "/lol/summoners/na/potion%20icon-NA1",
+        "t": "Master 1,140",
+        "op": 6.6,
+        "opr": "2nd",
+        "dmg": 45885,
+        "taken": 34213,
+        "cw": 0,
+        "wards": "14 / 1"
+       },
+       {
+        "n": "twitch duelista",
+        "h": "/lol/summoners/na/twitch%20duelista-kick",
+        "t": "Master 334",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 21799,
+        "taken": 35161,
+        "cw": 19,
+        "wards": "58 / 13"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 5,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 9,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1793670508783,
+   "shot": "g_55210ac13c.jpg",
+   "lpCalc": true,
+   "roast": "Win on Hecarim (12/6/16). Got carried and the 6.9 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
