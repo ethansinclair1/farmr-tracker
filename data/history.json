@@ -34159,6 +34159,299 @@
    "roast": "Win on Hecarim (12/6/16). Got carried and the 6.9 CS/min proves it.",
    "shot": "g_55210ac13c.jpg",
    "firstSeen": 1793670508783
+  },
+  "Ranked Solo/Duo|11/2/2026, 9:33 PM|Twisted Fate|41m 41s": {
+   "id": "Ranked Solo/Duo|11/2/2026, 9:33 PM|Twisted Fate|41m 41s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/2/2026, 9:33 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Twisted Fate",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png"
+   },
+   "level": 18,
+   "duration": "41m 41s",
+   "minutes": 41.68333333333333,
+   "k": 15,
+   "d": 6,
+   "a": 5,
+   "kda": "3.33",
+   "kp": 49,
+   "cs": 307,
+   "csm": 7.4,
+   "laning": [
+    77,
+    23
+   ],
+   "avgTier": "Master 775",
+   "lp": null,
+   "items": [
+    {
+     "n": "Terminus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3302.png"
+    },
+    {
+     "n": "Kraken Slayer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6672.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Yun Tal Wildarrows",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3032.png"
+    },
+    {
+     "n": "Rapid Firecannon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3094.png"
+    },
+    {
+     "n": "Gunmetal Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3172.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Exhaust",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerExhaust.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8008.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Chucklenorris2",
+     "h": "/lol/summoners/na/Chucklenorris2-na8",
+     "c": "Yorick",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yorick.png"
+    },
+    {
+     "n": "KarasmaiGOD",
+     "h": "/lol/summoners/na/KarasmaiGOD-171XO",
+     "c": "Kayn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Kayn.png"
+    },
+    {
+     "n": "Emad",
+     "h": "/lol/summoners/na/Emad-Turky",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png"
+    },
+    {
+     "n": "lil bro of Fizzi",
+     "h": "/lol/summoners/na/lil%20bro%20of%20Fizzi-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Fizzi",
+     "h": "/lol/summoners/na/Fizzi-NA1",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Karma.png"
+    },
+    {
+     "n": "SinningnWinning",
+     "h": "/lol/summoners/na/SinningnWinning-Salam",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Chogath.png"
+    },
+    {
+     "n": "JokerStatus",
+     "h": "/lol/summoners/na/JokerStatus-NA1",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Talon.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "PinkInkling",
+     "h": "/lol/summoners/na/PinkInkling-NA1",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Syndra.png"
+    },
+    {
+     "n": "Zero",
+     "h": "/lol/summoners/na/Zero-LoL",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793673180000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Chucklenorris2",
+        "h": "/lol/summoners/na/Chucklenorris2-na8",
+        "t": "Diamond 3",
+        "op": 1.5,
+        "opr": "10th",
+        "dmg": 29030,
+        "taken": 65700,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "KarasmaiGOD",
+        "h": "/lol/summoners/na/KarasmaiGOD-171XO",
+        "t": "Master 1,248",
+        "op": 7.2,
+        "opr": "MVP",
+        "dmg": 62101,
+        "taken": 44592,
+        "cw": 3,
+        "wards": "18 / 8"
+       },
+       {
+        "n": "Emad",
+        "h": "/lol/summoners/na/Emad-Turky",
+        "t": "Grandmaster 1,599",
+        "op": 2.4,
+        "opr": "9th",
+        "dmg": 35287,
+        "taken": 49934,
+        "cw": 1,
+        "wards": "6 / 5"
+       },
+       {
+        "n": "lil bro of Fizzi",
+        "h": "/lol/summoners/na/lil%20bro%20of%20Fizzi-NA1",
+        "t": "Master 139",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 54536,
+        "taken": 36352,
+        "cw": 1,
+        "wards": "13 / 5"
+       },
+       {
+        "n": "Fizzi",
+        "h": "/lol/summoners/na/Fizzi-NA1",
+        "t": "Master 190",
+        "op": 3.8,
+        "opr": "8th",
+        "dmg": 28030,
+        "taken": 37606,
+        "cw": 16,
+        "wards": "71 / 10"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "SinningnWinning",
+        "h": "/lol/summoners/na/SinningnWinning-Salam",
+        "t": "Master 768",
+        "op": 5.7,
+        "opr": "ACE",
+        "dmg": 51803,
+        "taken": 99503,
+        "cw": 0,
+        "wards": "16 / 6"
+       },
+       {
+        "n": "JokerStatus",
+        "h": "/lol/summoners/na/JokerStatus-NA1",
+        "t": "Master 711",
+        "op": 3.9,
+        "opr": "7th",
+        "dmg": 44022,
+        "taken": 54223,
+        "cw": 1,
+        "wards": "5 / 14"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 841",
+        "op": 5.2,
+        "opr": "4th",
+        "dmg": 41799,
+        "taken": 36780,
+        "cw": 0,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "PinkInkling",
+        "h": "/lol/summoners/na/PinkInkling-NA1",
+        "t": "Master 1,184",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 42457,
+        "taken": 29572,
+        "cw": 0,
+        "wards": "13 / 4"
+       },
+       {
+        "n": "Zero",
+        "h": "/lol/summoners/na/Zero-LoL",
+        "t": "Grandmaster 1,364",
+        "op": 5.3,
+        "opr": "3rd",
+        "dmg": 9862,
+        "taken": 36919,
+        "cw": 16,
+        "wards": "78 / 11"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 3,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 13,
+      "Inhibitor": 5
+     },
+     {
+      "Baron": 0,
+      "Dragon": 5,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 4,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793673421572,
+   "shot": "g_22ccaa6ba5.jpg",
+   "roast": "A 15/6/5 loss on Twisted Fate. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
