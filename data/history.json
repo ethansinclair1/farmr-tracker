@@ -33280,6 +33280,300 @@
    "detail": null,
    "shot": "g_bf80f23d97.jpg",
    "firstSeen": 1793656937955
+  },
+  "Ranked Solo/Duo|11/2/2026, 7:09 PM|Hecarim|40m 21s": {
+   "id": "Ranked Solo/Duo|11/2/2026, 7:09 PM|Hecarim|40m 21s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/2/2026, 7:09 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "40m 21s",
+   "minutes": 40.35,
+   "k": 15,
+   "d": 6,
+   "a": 16,
+   "kda": "5.17",
+   "kp": 60,
+   "cs": 278,
+   "csm": 6.9,
+   "laning": [
+    67,
+    33
+   ],
+   "avgTier": "Master 1,097",
+   "lp": -30,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6333.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2517.png"
+    },
+    {
+     "n": "Chempunk Chainsword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6609.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3008.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "enripsa",
+     "h": "/lol/summoners/na/enripsa-0001",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Hecarim.png"
+    },
+    {
+     "n": "ballion",
+     "h": "/lol/summoners/na/ballion-login",
+     "c": "Locke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Locke.png"
+    },
+    {
+     "n": "天賦第八究明者",
+     "h": "/lol/summoners/na/%E5%A4%A9%E8%B3%A6%E7%AC%AC%E5%85%AB%E7%A9%B6%E6%98%8E%E8%80%85-Sight",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Kila2Lumby",
+     "h": "/lol/summoners/na/Kila2Lumby-HEHE",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "Hatsune Neeko",
+     "h": "/lol/summoners/na/Hatsune%20Neeko-NA1",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ornn.png"
+    },
+    {
+     "n": "booo",
+     "h": "/lol/summoners/na/booo-oood",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Dabao",
+     "h": "/lol/summoners/na/Dabao-369",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Viktor.png"
+    },
+    {
+     "n": "mimikyu",
+     "h": "/lol/summoners/na/mimikyu-12345",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ezreal.png"
+    },
+    {
+     "n": "pokimane",
+     "h": "/lol/summoners/na/pokimane-sona",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sona.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793664540000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "enripsa",
+        "h": "/lol/summoners/na/enripsa-0001",
+        "t": "Master 439",
+        "op": 3.6,
+        "opr": "10th",
+        "dmg": 39171,
+        "taken": 38025,
+        "cw": 2,
+        "wards": "18 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 871",
+        "op": 7,
+        "opr": "ACE",
+        "dmg": 60889,
+        "taken": 79516,
+        "cw": 0,
+        "wards": "15 / 2"
+       },
+       {
+        "n": "ballion",
+        "h": "/lol/summoners/na/ballion-login",
+        "t": "Master 286",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 45850,
+        "taken": 48129,
+        "cw": 2,
+        "wards": "4 / 6"
+       },
+       {
+        "n": "天賦第八究明者",
+        "h": "/lol/summoners/na/%E5%A4%A9%E8%B3%A6%E7%AC%AC%E5%85%AB%E7%A9%B6%E6%98%8E%E8%80%85-Sight",
+        "t": "Grandmaster 1,716",
+        "op": 4.5,
+        "opr": "7th",
+        "dmg": 54097,
+        "taken": 41646,
+        "cw": 4,
+        "wards": "12 / 10"
+       },
+       {
+        "n": "Kila2Lumby",
+        "h": "/lol/summoners/na/Kila2Lumby-HEHE",
+        "t": "Grandmaster 1,130",
+        "op": 6.1,
+        "opr": "2nd",
+        "dmg": 35433,
+        "taken": 36278,
+        "cw": 17,
+        "wards": "59 / 12"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Hatsune Neeko",
+        "h": "/lol/summoners/na/Hatsune%20Neeko-NA1",
+        "t": "Grandmaster 1,543",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 30353,
+        "taken": 59521,
+        "cw": 0,
+        "wards": "17 / 4"
+       },
+       {
+        "n": "booo",
+        "h": "/lol/summoners/na/booo-oood",
+        "t": "Master 474",
+        "op": 4.5,
+        "opr": "9th",
+        "dmg": 47102,
+        "taken": 71079,
+        "cw": 0,
+        "wards": "1 / 4"
+       },
+       {
+        "n": "Dabao",
+        "h": "/lol/summoners/na/Dabao-369",
+        "t": "Grandmaster 1,489",
+        "op": 5.8,
+        "opr": "MVP",
+        "dmg": 55234,
+        "taken": 37870,
+        "cw": 0,
+        "wards": "16 / 4"
+       },
+       {
+        "n": "mimikyu",
+        "h": "/lol/summoners/na/mimikyu-12345",
+        "t": "Grandmaster 1,655",
+        "op": 4.5,
+        "opr": "8th",
+        "dmg": 58952,
+        "taken": 54210,
+        "cw": 0,
+        "wards": "14 / 5"
+       },
+       {
+        "n": "pokimane",
+        "h": "/lol/summoners/na/pokimane-sona",
+        "t": "Grandmaster 1,371",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 17034,
+        "taken": 44158,
+        "cw": 12,
+        "wards": "65 / 25"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 7,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 6,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793664692156,
+   "shot": "g_6624350253.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Hecarim (15/6/16). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"

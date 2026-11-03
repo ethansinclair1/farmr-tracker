@@ -1,24 +1,24 @@
 {
- "sig": "903db7bf46",
+ "sig": "1dd806e30b",
  "report": {
-  "roast": "4W 1L, +90 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "0W 1L, -30 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Buy control wards - 0.2 a game is nothing.",
-   "4 champions in 5 games - pick 2-3 and stick to them.",
-   "Play with the team, not for the highlight reel."
+   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.0 a game is nothing.",
+   "Farm more: 6.9 CS/min. Clear camps between fights."
   ],
   "ai": false,
-  "wins": 4,
+  "wins": 0,
   "losses": 1,
-  "k": 7.6,
-  "d": 4,
-  "a": 9,
-  "kda": 4.15,
-  "csm": 7.75135135135135,
-  "kp": 58,
-  "lpNet": 90,
+  "k": 15,
+  "d": 6,
+  "a": 16,
+  "kda": 5.166666666666667,
+  "csm": 6.889714993804213,
+  "kp": 60,
+  "lpNet": -30,
   "ints": 0,
-  "games": 5
+  "games": 1
  },
  "v": 3
 }
