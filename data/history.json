@@ -36470,7 +36470,7 @@
     36
    ],
    "avgTier": "Master 907",
-   "lp": null,
+   "lp": 30,
    "items": [
     {
      "n": "Voltaic Cyclosword",
@@ -36733,9 +36733,9 @@
      }
     ]
    },
-   "firstSeen": 1793754822238,
+   "roast": "12/4/10 on Jarvan IV, 71% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_29a8e11a3a.jpg",
-   "roast": "12/4/10 on Jarvan IV, 71% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "firstSeen": 1793754822238
   }
  },
  "tz": "America/Toronto"
