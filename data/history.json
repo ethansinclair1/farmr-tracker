@@ -36443,6 +36443,299 @@
    "roast": "Win on Diana (0/2/5). Got carried and the 8 CS/min proves it.",
    "shot": "g_191fdccb51.jpg",
    "firstSeen": 1793752388672
+  },
+  "Ranked Solo/Duo|11/3/2026, 8:10 PM|Jarvan IV|30m 45s": {
+   "id": "Ranked Solo/Duo|11/3/2026, 8:10 PM|Jarvan IV|30m 45s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/3/2026, 8:10 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+   },
+   "level": 18,
+   "duration": "30m 45s",
+   "minutes": 30.75,
+   "k": 12,
+   "d": 4,
+   "a": 10,
+   "kda": "5.50",
+   "kp": 71,
+   "cs": 224,
+   "csm": 7.3,
+   "laning": [
+    64,
+    36
+   ],
+   "avgTier": "Master 907",
+   "lp": null,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6699.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/6698.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3047.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3156.png"
+    },
+    {
+     "n": "Guardian Angel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3026.png"
+    },
+    {
+     "n": "Tunneler",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/2021.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "farts Rule",
+     "h": "/lol/summoners/na/farts%20Rule-1111",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Camille.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "TwigTheMighty",
+     "h": "/lol/summoners/na/TwigTheMighty-sTiK",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zoe.png"
+    },
+    {
+     "n": "Machiavelli",
+     "h": "/lol/summoners/na/Machiavelli-NA1",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Lux.png"
+    },
+    {
+     "n": "luxx",
+     "h": "/lol/summoners/na/luxx-moon",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Seraphine.png"
+    },
+    {
+     "n": "Antoine01234567",
+     "h": "/lol/summoners/na/Antoine01234567-Rank1",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vladimir.png"
+    },
+    {
+     "n": "Doraikon",
+     "h": "/lol/summoners/na/Doraikon-NA1",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Vi.png"
+    },
+    {
+     "n": "Qayu",
+     "h": "/lol/summoners/na/Qayu-Roche",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Tristana.png"
+    },
+    {
+     "n": "Popryling",
+     "h": "/lol/summoners/na/Popryling-NA1",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Xerath.png"
+    },
+    {
+     "n": "L9XENONKITTENXDD",
+     "h": "/lol/summoners/na/L9XENONKITTENXDD-L9JP1",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zilean.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793754600000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "farts Rule",
+        "h": "/lol/summoners/na/farts%20Rule-1111",
+        "t": "Master 943",
+        "op": 4.9,
+        "opr": "7th",
+        "dmg": 30112,
+        "taken": 35838,
+        "cw": 0,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 871",
+        "op": 9.1,
+        "opr": "MVP",
+        "dmg": 26956,
+        "taken": 22625,
+        "cw": 0,
+        "wards": "2 / 5"
+       },
+       {
+        "n": "TwigTheMighty",
+        "h": "/lol/summoners/na/TwigTheMighty-sTiK",
+        "t": "Master 668",
+        "op": 7.5,
+        "opr": "2nd",
+        "dmg": 32085,
+        "taken": 15110,
+        "cw": 3,
+        "wards": "12 / 0"
+       },
+       {
+        "n": "Machiavelli",
+        "h": "/lol/summoners/na/Machiavelli-NA1",
+        "t": "Master 1,192",
+        "op": 6.8,
+        "opr": "3rd",
+        "dmg": 20303,
+        "taken": 18157,
+        "cw": 1,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "luxx",
+        "h": "/lol/summoners/na/luxx-moon",
+        "t": "Master 765",
+        "op": 6.3,
+        "opr": "4th",
+        "dmg": 9242,
+        "taken": 16485,
+        "cw": 10,
+        "wards": "32 / 6"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Antoine01234567",
+        "h": "/lol/summoners/na/Antoine01234567-Rank1",
+        "t": "Master 1,047",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 35946,
+        "taken": 48427,
+        "cw": 1,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "Doraikon",
+        "h": "/lol/summoners/na/Doraikon-NA1",
+        "t": "Master 684",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 11969,
+        "taken": 31057,
+        "cw": 3,
+        "wards": "3 / 3"
+       },
+       {
+        "n": "Qayu",
+        "h": "/lol/summoners/na/Qayu-Roche",
+        "t": "Grandmaster 1,272",
+        "op": 4.2,
+        "opr": "9th",
+        "dmg": 13598,
+        "taken": 22733,
+        "cw": 0,
+        "wards": "11 / 6"
+       },
+       {
+        "n": "Popryling",
+        "h": "/lol/summoners/na/Popryling-NA1",
+        "t": "Master 1,141",
+        "op": 4.1,
+        "opr": "10th",
+        "dmg": 19232,
+        "taken": 20802,
+        "cw": 3,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "L9XENONKITTENXDD",
+        "h": "/lol/summoners/na/L9XENONKITTENXDD-L9JP1",
+        "t": "Master 487",
+        "op": 4.7,
+        "opr": "8th",
+        "dmg": 5370,
+        "taken": 22987,
+        "cw": 7,
+        "wards": "40 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 5,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793754822238,
+   "shot": "g_29a8e11a3a.jpg",
+   "roast": "12/4/10 on Jarvan IV, 71% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"

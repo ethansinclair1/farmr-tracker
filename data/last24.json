@@ -1,24 +1,24 @@
 {
- "sig": "95c6744e04",
+ "sig": "e0b4e64876",
  "report": {
-  "roast": "3W 1L, +60 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "4W 1L, +60 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Low kill participation (45%). Stop farming while your team fights.",
-   "Buy control wards - 0.5 a game is nothing.",
-   "4 champions in 4 games - pick 2-3 and stick to them."
+   "Low kill participation (50%). Stop farming while your team fights.",
+   "Buy control wards - 0.4 a game is nothing.",
+   "4 champions in 5 games - pick 2-3 and stick to them."
   ],
   "ai": false,
-  "wins": 3,
+  "wins": 4,
   "losses": 1,
-  "k": 4,
-  "d": 3.75,
-  "a": 9.25,
-  "kda": 3.533333333333333,
-  "csm": 7.2928694024028715,
-  "kp": 45.25,
+  "k": 5.6,
+  "d": 3.8,
+  "a": 9.4,
+  "kda": 3.947368421052632,
+  "csm": 7.2910104191906955,
+  "kp": 50.4,
   "lpNet": 60,
   "ints": 0,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }
