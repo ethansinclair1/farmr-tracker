@@ -35865,6 +35865,296 @@
    "roast": "A 5/7/9 loss on Jarvan IV. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_a706f02410.jpg",
    "firstSeen": 1793748518267
+  },
+  "Ranked Solo/Duo|11/3/2026, 7:02 PM|Sylas|29m 53s": {
+   "id": "Ranked Solo/Duo|11/3/2026, 7:02 PM|Sylas|29m 53s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/3/2026, 7:02 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+   },
+   "level": 17,
+   "duration": "29m 53s",
+   "minutes": 29.883333333333333,
+   "k": 5,
+   "d": 3,
+   "a": 16,
+   "kda": "7.00",
+   "kp": 66,
+   "cs": 225,
+   "csm": 7.5,
+   "laning": [
+    49,
+    51
+   ],
+   "avgTier": "Master 698",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/4633.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3152.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3157.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3111.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1082.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "girlgameromg",
+     "h": "/lol/summoners/na/girlgameromg-TFT",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Ahri.png"
+    },
+    {
+     "n": "Lil Tjay",
+     "h": "/lol/summoners/na/Lil%20Tjay-006",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Khazix.png"
+    },
+    {
+     "n": "Pudding Cz",
+     "h": "/lol/summoners/na/Pudding%20Cz-NA1",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Galio.png"
+    },
+    {
+     "n": "twtv xnaiiy",
+     "h": "/lol/summoners/na/twtv%20xnaiiy-cutie",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Yunara.png"
+    },
+    {
+     "n": "beabadoobee",
+     "h": "/lol/summoners/na/beabadoobee-oobee",
+     "c": "Braum",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Braum.png"
+    },
+    {
+     "n": "vortex",
+     "h": "/lol/summoners/na/vortex-3064",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Irelia.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Sylas.png"
+    },
+    {
+     "n": "Machiavelli",
+     "h": "/lol/summoners/na/Machiavelli-NA1",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Naafiri.png"
+    },
+    {
+     "n": "GEEKING",
+     "h": "/lol/summoners/na/GEEKING-GEEK",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Jinx.png"
+    },
+    {
+     "n": "L9XENONKITTENXDD",
+     "h": "/lol/summoners/na/L9XENONKITTENXDD-L9JP1",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Zilean.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793750520000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "girlgameromg",
+        "h": "/lol/summoners/na/girlgameromg-TFT",
+        "t": "Master 505",
+        "op": 2.1,
+        "opr": "7th",
+        "dmg": 18274,
+        "taken": 26391,
+        "cw": 0,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "Lil Tjay",
+        "h": "/lol/summoners/na/Lil%20Tjay-006",
+        "t": "Master 108",
+        "op": 1.2,
+        "opr": "9th",
+        "dmg": 14237,
+        "taken": 28046,
+        "cw": 0,
+        "wards": "1 / 11"
+       },
+       {
+        "n": "Pudding Cz",
+        "h": "/lol/summoners/na/Pudding%20Cz-NA1",
+        "t": "Master 334",
+        "op": 1.3,
+        "opr": "8th",
+        "dmg": 16637,
+        "taken": 30725,
+        "cw": 0,
+        "wards": "3 / 6"
+       },
+       {
+        "n": "twtv xnaiiy",
+        "h": "/lol/summoners/na/twtv%20xnaiiy-cutie",
+        "t": "Grandmaster 1,275",
+        "op": 4.7,
+        "opr": "ACE",
+        "dmg": 35042,
+        "taken": 23396,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "beabadoobee",
+        "h": "/lol/summoners/na/beabadoobee-oobee",
+        "t": "Master 780",
+        "op": 0.3,
+        "opr": "10th",
+        "dmg": 5580,
+        "taken": 26201,
+        "cw": 10,
+        "wards": "42 / 8"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "vortex",
+        "h": "/lol/summoners/na/vortex-3064",
+        "t": "Master 651",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 23218,
+        "taken": 31953,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 811",
+        "op": 7,
+        "opr": "2nd",
+        "dmg": 18438,
+        "taken": 38700,
+        "cw": 2,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "Machiavelli",
+        "h": "/lol/summoners/na/Machiavelli-NA1",
+        "t": "Master 1,163",
+        "op": 6.5,
+        "opr": "4th",
+        "dmg": 25983,
+        "taken": 20631,
+        "cw": 1,
+        "wards": "13 / 1"
+       },
+       {
+        "n": "GEEKING",
+        "h": "/lol/summoners/na/GEEKING-GEEK",
+        "t": "Master 931",
+        "op": 8.1,
+        "opr": "MVP",
+        "dmg": 39776,
+        "taken": 20039,
+        "cw": 3,
+        "wards": "8 / 6"
+       },
+       {
+        "n": "L9XENONKITTENXDD",
+        "h": "/lol/summoners/na/L9XENONKITTENXDD-L9JP1",
+        "t": "Master 425",
+        "op": 6.7,
+        "opr": "3rd",
+        "dmg": 7331,
+        "taken": 17093,
+        "cw": 7,
+        "wards": "41 / 1"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 2,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793750707257,
+   "shot": "g_eb9c3cfe3b.jpg",
+   "lpCalc": true,
+   "roast": "5/3/16 on Sylas, 66% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"

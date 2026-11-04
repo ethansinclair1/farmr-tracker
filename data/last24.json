@@ -1,24 +1,24 @@
 {
- "sig": "748045be26",
+ "sig": "bd42f6042d",
  "report": {
-  "roast": "1W 1L, +0 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
+  "roast": "2W 1L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Low kill participation (47%). Stop farming while your team fights.",
-   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.0 a game is nothing."
+   "Low kill participation (53%). Stop farming while your team fights.",
+   "Buy control wards - 0.7 a game is nothing.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "k": 5.5,
-  "d": 5,
-  "a": 8,
-  "kda": 2.7,
-  "csm": 6.863941427699817,
-  "kp": 47,
-  "lpNet": 0,
+  "k": 5.333333333333333,
+  "d": 4.333333333333333,
+  "a": 10.666666666666666,
+  "kda": 3.6923076923076925,
+  "csm": 7.099191480970223,
+  "kp": 53.333333333333336,
+  "lpNet": 30,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
