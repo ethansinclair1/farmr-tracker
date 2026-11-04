@@ -1,24 +1,24 @@
 {
- "sig": "bd42f6042d",
+ "sig": "95c6744e04",
  "report": {
-  "roast": "2W 1L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "3W 1L, +60 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Low kill participation (53%). Stop farming while your team fights.",
-   "Buy control wards - 0.7 a game is nothing.",
-   "Play with the team, not for the highlight reel."
+   "Low kill participation (45%). Stop farming while your team fights.",
+   "Buy control wards - 0.5 a game is nothing.",
+   "4 champions in 4 games - pick 2-3 and stick to them."
   ],
   "ai": false,
-  "wins": 2,
+  "wins": 3,
   "losses": 1,
-  "k": 5.333333333333333,
-  "d": 4.333333333333333,
-  "a": 10.666666666666666,
-  "kda": 3.6923076923076925,
-  "csm": 7.099191480970223,
-  "kp": 53.333333333333336,
-  "lpNet": 30,
+  "k": 4,
+  "d": 3.75,
+  "a": 9.25,
+  "kda": 3.533333333333333,
+  "csm": 7.2928694024028715,
+  "kp": 45.25,
+  "lpNet": 60,
   "ints": 0,
-  "games": 3
+  "games": 4
  },
  "v": 3
 }
