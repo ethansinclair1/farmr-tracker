@@ -1,24 +1,24 @@
 {
- "sig": "975991b7c4",
+ "sig": "a34ac9ac0d",
  "report": {
-  "roast": "1W 3L, -32 LP. The enemy team should be paying him.",
+  "roast": "1W 0L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Low kill participation (36%). Stop farming while your team fights.",
-   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.3 a game is nothing."
+   "Low kill participation (47%). Stop farming while your team fights.",
+   "Stop dying - 7.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 3,
-  "k": 3.5,
-  "d": 4.25,
-  "a": 3.5,
-  "kda": 1.6470588235294117,
-  "csm": 7.556372139635878,
-  "kp": 36,
-  "lpNet": -32,
-  "ints": 1,
-  "games": 4
+  "losses": 0,
+  "k": 10,
+  "d": 7,
+  "a": 14,
+  "kda": 3.4285714285714284,
+  "csm": 7.712765957446808,
+  "kp": 47,
+  "lpNet": 30,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }
