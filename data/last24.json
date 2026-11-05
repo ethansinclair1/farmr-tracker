@@ -1,24 +1,24 @@
 {
- "sig": "b9a54ae774",
+ "sig": "c0ae0da7e1",
  "report": {
-  "roast": "1W 1L, +30 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
+  "roast": "1W 2L, -1 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Low kill participation (18%). Stop farming while your team fights.",
-   "Buy control wards - 0.0 a game is nothing.",
+   "Low kill participation (31%). Stop farming while your team fights.",
+   "Buy control wards - 0.3 a game is nothing.",
    "Losing the early game - plan the first clear and gank the winning lane."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 1,
-  "k": 1,
-  "d": 3.5,
+  "losses": 2,
+  "k": 4,
+  "d": 3.3333333333333335,
   "a": 4,
-  "kda": 1.4285714285714286,
-  "csm": 7.470355731225297,
-  "kp": 18,
-  "lpNet": 30,
+  "kda": 2.4,
+  "csm": 8.064516129032258,
+  "kp": 31.333333333333332,
+  "lpNet": -1,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }

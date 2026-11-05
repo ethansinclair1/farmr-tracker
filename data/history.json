@@ -29935,8 +29935,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Malphite.png"
     },
     {
-     "n": "Teemo Jungle",
-     "h": "/lol/summoners/na/Teemo%20Jungle-Fill",
+     "n": "Mánco1",
+     "h": "/lol/summoners/na/M%C3%A1nco1-JUNG",
      "c": "Teemo",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.21.1/champion/Teemo.png"
     },
@@ -37318,6 +37318,300 @@
    "roast": "Win on Gragas (2/4/8). Got carried and the 8.1 CS/min proves it.",
    "shot": "g_55ae39b496.jpg",
    "firstSeen": 1793844983535
+  },
+  "Ranked Solo/Duo|11/4/2026, 10:32 PM|Hecarim|35m 20s": {
+   "id": "Ranked Solo/Duo|11/4/2026, 10:32 PM|Hecarim|35m 20s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/4/2026, 10:32 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "35m 20s",
+   "minutes": 35.333333333333336,
+   "k": 10,
+   "d": 3,
+   "a": 4,
+   "kda": "4.67",
+   "kp": 58,
+   "cs": 310,
+   "csm": 8.8,
+   "laning": [
+    57,
+    43
+   ],
+   "avgTier": "Master 781",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3156.png"
+    },
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6697.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "i cnat spel",
+     "h": "/lol/summoners/na/i%20cnat%20spel-sry",
+     "c": "Rumble",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rumble.png"
+    },
+    {
+     "n": "Jumose",
+     "h": "/lol/summoners/na/Jumose-BEAST",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "beluga smile",
+     "h": "/lol/summoners/na/beluga%20smile-kooch",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zed.png"
+    },
+    {
+     "n": "hopeless adc",
+     "h": "/lol/summoners/na/hopeless%20adc-mari",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "BIoodreigna",
+     "h": "/lol/summoners/na/BIoodreigna-NA1",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    },
+    {
+     "n": "Aydo",
+     "h": "/lol/summoners/na/Aydo-Aydo",
+     "c": "Gragas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gragas.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "ongalapo",
+     "h": "/lol/summoners/na/ongalapo-NA1",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Talon.png"
+    },
+    {
+     "n": "NotoriousGAD",
+     "h": "/lol/summoners/na/NotoriousGAD-123",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "Memories",
+     "h": "/lol/summoners/na/Memories-YYC",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793849520000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "i cnat spel",
+        "h": "/lol/summoners/na/i%20cnat%20spel-sry",
+        "t": "Master 1,011",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 35642,
+        "taken": 38984,
+        "cw": 1,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "Jumose",
+        "h": "/lol/summoners/na/Jumose-BEAST",
+        "t": "Master 991",
+        "op": 6.3,
+        "opr": "2nd",
+        "dmg": 23815,
+        "taken": 27675,
+        "cw": 1,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "beluga smile",
+        "h": "/lol/summoners/na/beluga%20smile-kooch",
+        "t": "Master 911",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 31599,
+        "taken": 20816,
+        "cw": 2,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "hopeless adc",
+        "h": "/lol/summoners/na/hopeless%20adc-mari",
+        "t": "Diamond 1",
+        "op": 6.3,
+        "opr": "MVP",
+        "dmg": 31635,
+        "taken": 26852,
+        "cw": 1,
+        "wards": "9 / 8"
+       },
+       {
+        "n": "BIoodreigna",
+        "h": "/lol/summoners/na/BIoodreigna-NA1",
+        "t": "Master 0",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 4462,
+        "taken": 29025,
+        "cw": 15,
+        "wards": "39 / 12"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Aydo",
+        "h": "/lol/summoners/na/Aydo-Aydo",
+        "t": "Master 1,185",
+        "op": 3.2,
+        "opr": "8th",
+        "dmg": 24809,
+        "taken": 33450,
+        "cw": 0,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 931",
+        "op": 5.5,
+        "opr": "ACE",
+        "dmg": 31351,
+        "taken": 45025,
+        "cw": 1,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "ongalapo",
+        "h": "/lol/summoners/na/ongalapo-NA1",
+        "t": "Master 817",
+        "op": 3.6,
+        "opr": "7th",
+        "dmg": 30971,
+        "taken": 33337,
+        "cw": 0,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "NotoriousGAD",
+        "h": "/lol/summoners/na/NotoriousGAD-123",
+        "t": "Master 1,103",
+        "op": 2.3,
+        "opr": "10th",
+        "dmg": 22579,
+        "taken": 26858,
+        "cw": 3,
+        "wards": "16 / 12"
+       },
+       {
+        "n": "Memories",
+        "h": "/lol/summoners/na/Memories-YYC",
+        "t": "Master 880",
+        "op": 2.6,
+        "opr": "9th",
+        "dmg": 8347,
+        "taken": 21527,
+        "cw": 0,
+        "wards": "34 / 7"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 6,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 7,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793849827717,
+   "shot": "g_6e6582ad58.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Hecarim (10/3/4). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
