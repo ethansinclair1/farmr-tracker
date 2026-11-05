@@ -36763,7 +36763,7 @@
     65
    ],
    "avgTier": "Master 926",
-   "lp": null,
+   "lp": -30,
    "items": [
     {
      "n": "Long Sword",
@@ -37022,9 +37022,9 @@
      }
     ]
    },
-   "firstSeen": 1793843274705,
+   "roast": "0% kill participation. Was Jarvan IV in this game or just watching it?",
    "shot": "g_8260cecc29.jpg",
-   "roast": "0% kill participation. Was Jarvan IV in this game or just watching it?"
+   "firstSeen": 1793843274705
   }
  },
  "tz": "America/Toronto"
