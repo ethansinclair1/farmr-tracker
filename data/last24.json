@@ -1,24 +1,24 @@
 {
- "sig": "c0ae0da7e1",
+ "sig": "975991b7c4",
  "report": {
-  "roast": "1W 2L, -1 LP. Bleeding LP like it's a hobby.",
+  "roast": "1W 3L, -32 LP. The enemy team should be paying him.",
   "fixes": [
-   "Low kill participation (31%). Stop farming while your team fights.",
-   "Buy control wards - 0.3 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Low kill participation (36%). Stop farming while your team fights.",
+   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.3 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 2,
-  "k": 4,
-  "d": 3.3333333333333335,
-  "a": 4,
-  "kda": 2.4,
-  "csm": 8.064516129032258,
-  "kp": 31.333333333333332,
-  "lpNet": -1,
-  "ints": 0,
-  "games": 3
+  "losses": 3,
+  "k": 3.5,
+  "d": 4.25,
+  "a": 3.5,
+  "kda": 1.6470588235294117,
+  "csm": 7.556372139635878,
+  "kp": 36,
+  "lpNet": -32,
+  "ints": 1,
+  "games": 4
  },
  "v": 3
 }
