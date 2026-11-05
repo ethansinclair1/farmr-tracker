@@ -36736,6 +36736,295 @@
    "roast": "12/4/10 on Jarvan IV, 71% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_29a8e11a3a.jpg",
    "firstSeen": 1793754822238
+  },
+  "Ranked Solo/Duo|11/4/2026, 8:43 PM|Jarvan IV|15m 40s": {
+   "id": "Ranked Solo/Duo|11/4/2026, 8:43 PM|Jarvan IV|15m 40s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/4/2026, 8:43 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+   },
+   "level": 9,
+   "duration": "15m 40s",
+   "minutes": 15.666666666666666,
+   "k": 0,
+   "d": 3,
+   "a": 0,
+   "kda": "0.00",
+   "kp": 0,
+   "cs": 100,
+   "csm": 6.4,
+   "laning": [
+    35,
+    65
+   ],
+   "avgTier": "Master 926",
+   "lp": null,
+   "items": [
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Slightly Magical Footwear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2422.png"
+    },
+    {
+     "n": "Cloth Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1029.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "rzoyvug",
+     "h": "/lol/summoners/na/rzoyvug-NA1",
+     "c": "Warwick",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Warwick.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "pokimane",
+     "h": "/lol/summoners/na/pokimane-sona",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "Owen7",
+     "h": "/lol/summoners/na/Owen7-0007",
+     "c": "Ziggs",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ziggs.png"
+    },
+    {
+     "n": "Asphodxl",
+     "h": "/lol/summoners/na/Asphodxl-ETHAN",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rell.png"
+    },
+    {
+     "n": "boss0808",
+     "h": "/lol/summoners/na/boss0808-NA1",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ornn.png"
+    },
+    {
+     "n": "zuhazana",
+     "h": "/lol/summoners/na/zuhazana-%E4%B8%AD%E6%9D%91%E4%B8%80%E8%91%89",
+     "c": "Graves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Graves.png"
+    },
+    {
+     "n": "一只小鱼",
+     "h": "/lol/summoners/na/%E4%B8%80%E5%8F%AA%E5%B0%8F%E9%B1%BC-slyss",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leblanc.png"
+    },
+    {
+     "n": "miserable n sad",
+     "h": "/lol/summoners/na/miserable%20n%20sad-die",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "Silent Reaper",
+     "h": "/lol/summoners/na/Silent%20Reaper-NA1",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793842980000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "rzoyvug",
+        "h": "/lol/summoners/na/rzoyvug-NA1",
+        "t": "Master 1,123",
+        "op": 2.6,
+        "opr": "ACE",
+        "dmg": 6005,
+        "taken": 13024,
+        "cw": 0,
+        "wards": "2 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 901",
+        "op": 1.6,
+        "opr": "10th",
+        "dmg": 2240,
+        "taken": 10150,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "pokimane",
+        "h": "/lol/summoners/na/pokimane-sona",
+        "t": "Master 1,228",
+        "op": 1.6,
+        "opr": "9th",
+        "dmg": 6038,
+        "taken": 11878,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Owen7",
+        "h": "/lol/summoners/na/Owen7-0007",
+        "t": "Master 574",
+        "op": 2.1,
+        "opr": "8th",
+        "dmg": 7718,
+        "taken": 9330,
+        "cw": 1,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "Asphodxl",
+        "h": "/lol/summoners/na/Asphodxl-ETHAN",
+        "t": "Master 448",
+        "op": 2.3,
+        "opr": "7th",
+        "dmg": 1361,
+        "taken": 8998,
+        "cw": 2,
+        "wards": "12 / 5"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "boss0808",
+        "h": "/lol/summoners/na/boss0808-NA1",
+        "t": "Master 943",
+        "op": 7.4,
+        "opr": "5th",
+        "dmg": 9418,
+        "taken": 7050,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "zuhazana",
+        "h": "/lol/summoners/na/zuhazana-%E4%B8%AD%E6%9D%91%E4%B8%80%E8%91%89",
+        "t": "Master 170",
+        "op": 10,
+        "opr": "3rd",
+        "dmg": 4809,
+        "taken": 7722,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "一只小鱼",
+        "h": "/lol/summoners/na/%E4%B8%80%E5%8F%AA%E5%B0%8F%E9%B1%BC-slyss",
+        "t": "Master 983",
+        "op": 9.2,
+        "opr": "4th",
+        "dmg": 12392,
+        "taken": 5985,
+        "cw": 1,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "miserable n sad",
+        "h": "/lol/summoners/na/miserable%20n%20sad-die",
+        "t": "Grandmaster 1,550",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 11234,
+        "taken": 10645,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Silent Reaper",
+        "h": "/lol/summoners/na/Silent%20Reaper-NA1",
+        "t": "Grandmaster 1,335",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 5693,
+        "taken": 7826,
+        "cw": 3,
+        "wards": "17 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793843274705,
+   "shot": "g_8260cecc29.jpg",
+   "roast": "0% kill participation. Was Jarvan IV in this game or just watching it?"
   }
  },
  "tz": "America/Toronto"
