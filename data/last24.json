@@ -1,24 +1,24 @@
 {
- "sig": "5af6199310",
+ "sig": "b9a54ae774",
  "report": {
-  "roast": "0W 1L, +0 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "1W 1L, +30 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
   "fixes": [
-   "Low kill participation (0%). Stop farming while your team fights.",
+   "Low kill participation (18%). Stop farming while your team fights.",
    "Buy control wards - 0.0 a game is nothing.",
-   "Farm more: 6.4 CS/min. Clear camps between fights."
+   "Losing the early game - plan the first clear and gank the winning lane."
   ],
   "ai": false,
-  "wins": 0,
+  "wins": 1,
   "losses": 1,
-  "k": 0,
-  "d": 3,
-  "a": 0,
-  "kda": 0,
-  "csm": 6.382978723404255,
-  "kp": 0,
-  "lpNet": 0,
+  "k": 1,
+  "d": 3.5,
+  "a": 4,
+  "kda": 1.4285714285714286,
+  "csm": 7.470355731225297,
+  "kp": 18,
+  "lpNet": 30,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }
