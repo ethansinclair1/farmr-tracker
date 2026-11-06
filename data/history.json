@@ -40936,8 +40936,136 @@
    "team": 1,
    "ts": 1794000240000,
    "detail": null,
-   "firstSeen": 1794000533470,
-   "shot": "g_c0101e3304.jpg"
+   "shot": "g_c0101e3304.jpg",
+   "firstSeen": 1794000533470
+  },
+  "Arena|11/6/2026, 5:02 PM|Kayn|25m 38s": {
+   "id": "Arena|11/6/2026, 5:02 PM|Kayn|25m 38s",
+   "queue": "Arena",
+   "date": "11/6/2026, 5:02 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Kayn",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kayn.png"
+   },
+   "level": 14,
+   "duration": "25m 38s",
+   "minutes": 25.633333333333333,
+   "k": 5,
+   "d": 7,
+   "a": 2,
+   "kda": "1.00",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223008.png"
+    },
+    {
+     "n": "Duskblade of Draktharr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/446691.png"
+    },
+    {
+     "n": "Axiom Arc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/226696.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/226699.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Lucas",
+     "h": "/lol/summoners/na/Lucas-911",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "Oyster Hands",
+     "h": "/lol/summoners/na/Oyster%20Hands-NA1",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Codery135",
+     "h": "/lol/summoners/na/Codery135-NA1",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "SandoMando",
+     "h": "/lol/summoners/na/SandoMando-420",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Teemo.png"
+    },
+    {
+     "n": "cuc cho",
+     "h": "/lol/summoners/na/cuc%20cho-6974",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Morgana.png"
+    },
+    {
+     "n": "lynhs dog",
+     "h": "/lol/summoners/na/lynhs%20dog-7426",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    },
+    {
+     "n": "Ferrous Jig",
+     "h": "/lol/summoners/na/Ferrous%20Jig-NA1",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Janna.png"
+    },
+    {
+     "n": "Dabbr",
+     "h": "/lol/summoners/na/Dabbr-6969",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Maokai.png"
+    },
+    {
+     "n": "URBRAINDEAD",
+     "h": "/lol/summoners/na/URBRAINDEAD-RIP",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vayne.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KogMaw.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kayn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kayn.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794002520000,
+   "detail": null,
+   "firstSeen": 1794002732515,
+   "shot": "g_541e3ee080.jpg"
   }
  },
  "tz": "America/Toronto"
