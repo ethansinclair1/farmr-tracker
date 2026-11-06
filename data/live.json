@@ -1,1 +1,358 @@
-{}
+{
+ "queue": "Ranked Solo/Duo",
+ "map": "Summoner's Rift",
+ "elapsed": 110,
+ "started": "11/5/2026, 10:45 PM",
+ "teams": [
+  {
+   "players": [
+    {
+     "n": "RainyBlue",
+     "tag": "Evol",
+     "h": "/lol/summoners/na/RainyBlue-Evol",
+     "champ": {
+      "n": "Fiora",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fiora.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Ignite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Conqueror",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+      },
+      {
+       "n": "Precision",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "201",
+     "wr": "",
+     "kda": "2.20"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "tag": "FarmR",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "champ": {
+      "n": "Hecarim",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+     },
+     "spells": [
+      {
+       "n": "Smite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+      },
+      {
+       "n": "Ghost",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Stormraider's Surge",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+      },
+      {
+       "n": "Sorcery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8200.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "348",
+     "wr": "",
+     "kda": "4.15"
+    },
+    {
+     "n": "GuLuuuuu",
+     "tag": "NA1",
+     "h": "/lol/summoners/na/GuLuuuuu-NA1",
+     "champ": {
+      "n": "Syndra",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+     },
+     "spells": [
+      {
+       "n": "Teleport",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+      },
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Electrocute",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+      },
+      {
+       "n": "Domination",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "433",
+     "wr": "",
+     "kda": "1.58"
+    },
+    {
+     "n": "Auto",
+     "tag": "Zag",
+     "h": "/lol/summoners/na/Auto-Zag",
+     "champ": {
+      "n": "Lucian",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lucian.png"
+     },
+     "spells": [
+      {
+       "n": "Exhaust",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerExhaust.png"
+      },
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Press the Attack",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8005.png"
+      },
+      {
+       "n": "Precision",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "1014",
+     "wr": "",
+     "kda": "2.40"
+    },
+    {
+     "n": "Peena",
+     "tag": "NA1",
+     "h": "/lol/summoners/na/Peena-NA1",
+     "champ": {
+      "n": "Nami",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Heal",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHeal.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Summon Aery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8214.png"
+      },
+      {
+       "n": "Sorcery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8200.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "405",
+     "wr": "",
+     "kda": "3.77"
+    }
+   ],
+   "bans": [
+    {
+     "n": "Urgot",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Urgot.png"
+    },
+    {
+     "n": "MasterYi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MasterYi.png"
+    },
+    {
+     "n": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Camille.png"
+    },
+    {
+     "n": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aurora.png"
+    }
+   ]
+  },
+  {
+   "players": [
+    {
+     "n": "Sage0fRage",
+     "tag": "NA1",
+     "h": "/lol/summoners/na/Sage0fRage-NA1",
+     "champ": {
+      "n": "Locke",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Locke.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Teleport",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Electrocute",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+      },
+      {
+       "n": "Domination",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "605",
+     "wr": "",
+     "kda": "3.49"
+    },
+    {
+     "n": "Boostburg",
+     "tag": "YT1",
+     "h": "/lol/summoners/na/Boostburg-YT1",
+     "champ": {
+      "n": "Nautilus",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nautilus.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Ignite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Electrocute",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+      },
+      {
+       "n": "Domination",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "1538",
+     "wr": "",
+     "kda": "2.41"
+    },
+    {
+     "n": "Handy",
+     "tag": "5755",
+     "h": "/lol/summoners/na/Handy-5755",
+     "champ": {
+      "n": "KSante",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KSante.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Teleport",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Grasp of the Undying",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8437.png"
+      },
+      {
+       "n": "Resolve",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "308",
+     "wr": "",
+     "kda": "2.56"
+    },
+    {
+     "n": "Fartdog2010",
+     "tag": "Bull",
+     "h": "/lol/summoners/na/Fartdog2010-Bull",
+     "champ": {
+      "n": "Talon",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Talon.png"
+     },
+     "spells": [
+      {
+       "n": "Smite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+      },
+      {
+       "n": "Ignite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Fleet Footwork",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8021.png"
+      },
+      {
+       "n": "Precision",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+      }
+     ],
+     "tier": "Grandmaster",
+     "played": "1170",
+     "wr": "",
+     "kda": "2.34"
+    }
+   ],
+   "bans": [
+    {
+     "n": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Draven.png"
+    },
+    {
+     "n": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "Belveth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Belveth.png"
+    },
+    {
+     "n": "Aatrox",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aatrox.png"
+    }
+   ]
+  }
+ ],
+ "at": "2026-11-06T03:47:00.672Z"
+}
