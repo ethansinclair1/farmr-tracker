@@ -38482,6 +38482,300 @@
    "roast": "3/8/8 on Jarvan IV. That's not a KDA, that's a donation receipt.",
    "shot": "g_2b68fe23a9.jpg",
    "firstSeen": 1793926071580
+  },
+  "Ranked Solo/Duo|11/5/2026, 8:22 PM|Sion|33m 14s": {
+   "id": "Ranked Solo/Duo|11/5/2026, 8:22 PM|Sion|33m 14s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/5/2026, 8:22 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sion",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+   },
+   "level": 18,
+   "duration": "33m 14s",
+   "minutes": 33.233333333333334,
+   "k": 1,
+   "d": 5,
+   "a": 6,
+   "kda": "1.40",
+   "kp": 30,
+   "cs": 299,
+   "csm": 9,
+   "laning": [
+    41,
+    59
+   ],
+   "avgTier": "Master 960",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Jak'Sho, The Protean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6665.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3748.png"
+    },
+    {
+     "n": "Armored Advance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3174.png"
+    },
+    {
+     "n": "Unending Despair",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2502.png"
+    },
+    {
+     "n": "Bramble Vest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3076.png"
+    },
+    {
+     "n": "Tunneler",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2021.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "solicitis",
+     "h": "/lol/summoners/na/solicitis-888",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+    },
+    {
+     "n": "Callendar",
+     "h": "/lol/summoners/na/Callendar-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "bananaafish",
+     "h": "/lol/summoners/na/bananaafish-banna",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Velkoz.png"
+    },
+    {
+     "n": "JulianC",
+     "h": "/lol/summoners/na/JulianC-8397",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    },
+    {
+     "n": "i for sure care",
+     "h": "/lol/summoners/na/i%20for%20sure%20care-1337",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gwen.png"
+    },
+    {
+     "n": "Heisenberg",
+     "h": "/lol/summoners/na/Heisenberg-Walt",
+     "c": "Nocturne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nocturne.png"
+    },
+    {
+     "n": "Slickity",
+     "h": "/lol/summoners/na/Slickity-123",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "swiftpaw95",
+     "h": "/lol/summoners/na/swiftpaw95-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Banhu",
+     "h": "/lol/summoners/na/Banhu-NA1",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zyra.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793928120000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "solicitis",
+        "h": "/lol/summoners/na/solicitis-888",
+        "t": "Grandmaster 1,333",
+        "op": 3,
+        "opr": "10th",
+        "dmg": 27314,
+        "taken": 44287,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "Callendar",
+        "h": "/lol/summoners/na/Callendar-NA1",
+        "t": "Master 624",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 28603,
+        "taken": 52022,
+        "cw": 0,
+        "wards": "1 / 4"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 868",
+        "op": 3.3,
+        "opr": "9th",
+        "dmg": 15460,
+        "taken": 49328,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "bananaafish",
+        "h": "/lol/summoners/na/bananaafish-banna",
+        "t": "Master 1,171",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 25980,
+        "taken": 25675,
+        "cw": 0,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "JulianC",
+        "h": "/lol/summoners/na/JulianC-8397",
+        "t": "Master 1,017",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 9918,
+        "taken": 25489,
+        "cw": 5,
+        "wards": "37 / 14"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "i for sure care",
+        "h": "/lol/summoners/na/i%20for%20sure%20care-1337",
+        "t": "Master 1,129",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 38872,
+        "taken": 30572,
+        "cw": 0,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "Heisenberg",
+        "h": "/lol/summoners/na/Heisenberg-Walt",
+        "t": "Master 767",
+        "op": 6.7,
+        "opr": "2nd",
+        "dmg": 21639,
+        "taken": 42086,
+        "cw": 2,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Slickity",
+        "h": "/lol/summoners/na/Slickity-123",
+        "t": "Master 409",
+        "op": 5,
+        "opr": "5th",
+        "dmg": 39605,
+        "taken": 38211,
+        "cw": 0,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "swiftpaw95",
+        "h": "/lol/summoners/na/swiftpaw95-NA1",
+        "t": "Master 1,327",
+        "op": 6.3,
+        "opr": "3rd",
+        "dmg": 38712,
+        "taken": 25886,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "Banhu",
+        "h": "/lol/summoners/na/Banhu-NA1",
+        "t": "Master 950",
+        "op": 7.6,
+        "opr": "MVP",
+        "dmg": 28106,
+        "taken": 14386,
+        "cw": 13,
+        "wards": "46 / 13"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 2,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1793928266822,
+   "shot": "g_08a972453a.jpg",
+   "lpCalc": true,
+   "roast": "30% kill participation. Was Sion in this game or just watching it?"
   }
  },
  "tz": "America/Toronto"

@@ -1,24 +1,24 @@
 {
- "sig": "3686563d56",
+ "sig": "55fc91d28c",
  "report": {
-  "roast": "1W 1L, -1 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "1W 2L, -32 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.5 vs 3.0 drakes a game). Be there before they spawn.",
-   "Stop dying - 7.5 deaths a game. Ward before face-checking.",
+   "Low kill participation (47%). Stop farming while your team fights.",
+   "Stop dying - 6.7 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 1,
-  "k": 6.5,
-  "d": 7.5,
-  "a": 11,
-  "kda": 2.3333333333333335,
-  "csm": 6.932339449541284,
-  "kp": 56,
-  "lpNet": -1,
+  "losses": 2,
+  "k": 4.666666666666667,
+  "d": 6.666666666666667,
+  "a": 9.333333333333334,
+  "kda": 2.1,
+  "csm": 7.683327252827435,
+  "kp": 47.333333333333336,
+  "lpNet": -32,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
