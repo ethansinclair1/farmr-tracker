@@ -39927,6 +39927,300 @@
    "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle.",
    "shot": "g_da4ba1c323.jpg",
    "firstSeen": 1793938319712
+  },
+  "Ranked Solo/Duo|11/5/2026, 11:52 PM|Graves|33m 27s": {
+   "id": "Ranked Solo/Duo|11/5/2026, 11:52 PM|Graves|33m 27s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/5/2026, 11:52 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Graves",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Graves.png"
+   },
+   "level": 18,
+   "duration": "33m 27s",
+   "minutes": 33.45,
+   "k": 9,
+   "d": 6,
+   "a": 7,
+   "kda": "2.67",
+   "kp": 55,
+   "cs": 265,
+   "csm": 7.9,
+   "laning": [
+    54,
+    46
+   ],
+   "avgTier": "Master 594",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Sundered Sky",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6610.png"
+    },
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3111.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Jak'Sho, The Protean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6665.png"
+    },
+    {
+     "n": "Tunneler",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2021.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3363.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Fleet Footwork",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8021.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "PJ1",
+     "h": "/lol/summoners/na/PJ1-Panda",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "Thomas Shelby",
+     "h": "/lol/summoners/na/Thomas%20Shelby-BYORD",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Taliyah.png"
+    },
+    {
+     "n": "Janivia",
+     "h": "/lol/summoners/na/Janivia-pika",
+     "c": "Anivia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Anivia.png"
+    },
+    {
+     "n": "twtv loldrift",
+     "h": "/lol/summoners/na/twtv%20loldrift-1234",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kalista.png"
+    },
+    {
+     "n": "Gumayusi Jr",
+     "h": "/lol/summoners/na/Gumayusi%20Jr-1412",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rakan.png"
+    },
+    {
+     "n": "See u on Mercury",
+     "h": "/lol/summoners/na/See%20u%20on%20Mercury-%E7%84%B6%E5%90%8E%E4%B8%8B%E6%AC%A1%E8%A7%81",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ambessa.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Graves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Graves.png"
+    },
+    {
+     "n": "Wander",
+     "h": "/lol/summoners/na/Wander-chud",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lissandra.png"
+    },
+    {
+     "n": "Horriﬁed",
+     "h": "/lol/summoners/na/Horri%EF%AC%81ed-NA1",
+     "c": "Heimerdinger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Heimerdinger.png"
+    },
+    {
+     "n": "usu",
+     "h": "/lol/summoners/na/usu-NA1",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pyke.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1793940720000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "PJ1",
+        "h": "/lol/summoners/na/PJ1-Panda",
+        "t": "Master 1,153",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 22652,
+        "taken": 23641,
+        "cw": 2,
+        "wards": "5 / 3"
+       },
+       {
+        "n": "Thomas Shelby",
+        "h": "/lol/summoners/na/Thomas%20Shelby-BYORD",
+        "t": "Master 127",
+        "op": 8.1,
+        "opr": "MVP",
+        "dmg": 35015,
+        "taken": 18982,
+        "cw": 2,
+        "wards": "3 / 8"
+       },
+       {
+        "n": "Janivia",
+        "h": "/lol/summoners/na/Janivia-pika",
+        "t": "Master 519",
+        "op": 6.7,
+        "opr": "3rd",
+        "dmg": 27471,
+        "taken": 37690,
+        "cw": 3,
+        "wards": "7 / 5"
+       },
+       {
+        "n": "twtv loldrift",
+        "h": "/lol/summoners/na/twtv%20loldrift-1234",
+        "t": "Master 554",
+        "op": 7.9,
+        "opr": "2nd",
+        "dmg": 33957,
+        "taken": 29248,
+        "cw": 0,
+        "wards": "11 / 6"
+       },
+       {
+        "n": "Gumayusi Jr",
+        "h": "/lol/summoners/na/Gumayusi%20Jr-1412",
+        "t": "Master 187",
+        "op": 5.4,
+        "opr": "4th",
+        "dmg": 10389,
+        "taken": 29880,
+        "cw": 14,
+        "wards": "37 / 13"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "See u on Mercury",
+        "h": "/lol/summoners/na/See%20u%20on%20Mercury-%E7%84%B6%E5%90%8E%E4%B8%8B%E6%AC%A1%E8%A7%81",
+        "t": "Master 316",
+        "op": 1.1,
+        "opr": "10th",
+        "dmg": 9960,
+        "taken": 29137,
+        "cw": 1,
+        "wards": "14 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 774",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 27168,
+        "taken": 35878,
+        "cw": 1,
+        "wards": "7 / 10"
+       },
+       {
+        "n": "Wander",
+        "h": "/lol/summoners/na/Wander-chud",
+        "t": "Master 543",
+        "op": 4.9,
+        "opr": "7th",
+        "dmg": 36826,
+        "taken": 31049,
+        "cw": 0,
+        "wards": "13 / 1"
+       },
+       {
+        "n": "Horriﬁed",
+        "h": "/lol/summoners/na/Horri%EF%AC%81ed-NA1",
+        "t": "Master 402",
+        "op": 3.8,
+        "opr": "8th",
+        "dmg": 31393,
+        "taken": 22504,
+        "cw": 0,
+        "wards": "8 / 4"
+       },
+       {
+        "n": "usu",
+        "h": "/lol/summoners/na/usu-NA1",
+        "t": "Grandmaster 1,366",
+        "op": 3.5,
+        "opr": "9th",
+        "dmg": 14068,
+        "taken": 26074,
+        "cw": 11,
+        "wards": "44 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 2,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 5,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1793941004673,
+   "shot": "g_be9f9fff2f.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Graves (9/6/7). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
