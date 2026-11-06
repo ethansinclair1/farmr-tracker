@@ -40220,6 +40220,296 @@
    "roast": "Lost on Graves (9/6/7). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_be9f9fff2f.jpg",
    "firstSeen": 1793941004673
+  },
+  "Ranked Solo/Duo|11/6/2026, 2:17 PM|Jarvan IV|21m 13s": {
+   "id": "Ranked Solo/Duo|11/6/2026, 2:17 PM|Jarvan IV|21m 13s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/6/2026, 2:17 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+   },
+   "level": 12,
+   "duration": "21m 13s",
+   "minutes": 21.216666666666665,
+   "k": 4,
+   "d": 8,
+   "a": 6,
+   "kda": "1.25",
+   "kp": 100,
+   "cs": 130,
+   "csm": 6.1,
+   "laning": [
+    27,
+    73
+   ],
+   "avgTier": "Master 802",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Glowing Mote",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2022.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1037.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "GabeXboss",
+     "h": "/lol/summoners/na/GabeXboss-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "xeno",
+     "h": "/lol/summoners/na/xeno-0225",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Galio.png"
+    },
+    {
+     "n": "SHU La Glace",
+     "h": "/lol/summoners/na/SHU%20La%20Glace-SHU",
+     "c": "Varus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Varus.png"
+    },
+    {
+     "n": "xTc4",
+     "h": "/lol/summoners/na/xTc4-EOMM",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rell.png"
+    },
+    {
+     "n": "Ani",
+     "h": "/lol/summoners/na/Ani-Ani1",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Irelia.png"
+    },
+    {
+     "n": "Play for fun",
+     "h": "/lol/summoners/na/Play%20for%20fun-XIXI",
+     "c": "Xin Zhao",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/XinZhao.png"
+    },
+    {
+     "n": "GuLuuuuu",
+     "h": "/lol/summoners/na/GuLuuuuu-NA1",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "DanínLØL",
+     "h": "/lol/summoners/na/Dan%C3%ADnL%C3%98L-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Ambush",
+     "h": "/lol/summoners/na/Ambush-1633",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793992620000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "GabeXboss",
+        "h": "/lol/summoners/na/GabeXboss-NA1",
+        "t": "Master 946",
+        "op": 4.8,
+        "opr": "ACE",
+        "dmg": 15713,
+        "taken": 13032,
+        "cw": 0,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 743",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 10382,
+        "taken": 17309,
+        "cw": 0,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "xeno",
+        "h": "/lol/summoners/na/xeno-0225",
+        "t": "Master 1,045",
+        "op": 3.1,
+        "opr": "10th",
+        "dmg": 8247,
+        "taken": 15582,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "SHU La Glace",
+        "h": "/lol/summoners/na/SHU%20La%20Glace-SHU",
+        "t": "Master 724",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 17060,
+        "taken": 13163,
+        "cw": 0,
+        "wards": "6 / 3"
+       },
+       {
+        "n": "xTc4",
+        "h": "/lol/summoners/na/xTc4-EOMM",
+        "t": "Master 566",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 4427,
+        "taken": 16501,
+        "cw": 5,
+        "wards": "24 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Ani",
+        "h": "/lol/summoners/na/Ani-Ani1",
+        "t": "Master 778",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 6884,
+        "taken": 12655,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Play for fun",
+        "h": "/lol/summoners/na/Play%20for%20fun-XIXI",
+        "t": "Master 1,004",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 19411,
+        "taken": 28013,
+        "cw": 1,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "GuLuuuuu",
+        "h": "/lol/summoners/na/GuLuuuuu-NA1",
+        "t": "Master 838",
+        "op": 9.5,
+        "opr": "3rd",
+        "dmg": 16457,
+        "taken": 11431,
+        "cw": 1,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "DanínLØL",
+        "h": "/lol/summoners/na/Dan%C3%ADnL%C3%98L-NA1",
+        "t": "Master 672",
+        "op": 7.1,
+        "opr": "4th",
+        "dmg": 9674,
+        "taken": 15359,
+        "cw": 1,
+        "wards": "8 / 4"
+       },
+       {
+        "n": "Ambush",
+        "h": "/lol/summoners/na/Ambush-1633",
+        "t": "Master 703",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 14967,
+        "taken": 9624,
+        "cw": 0,
+        "wards": "18 / 3"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 10,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1793992782026,
+   "shot": "g_6921ff488b.jpg",
+   "lpCalc": true,
+   "roast": "4/8/6 on Jarvan IV. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"

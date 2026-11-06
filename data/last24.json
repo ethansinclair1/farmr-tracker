@@ -1,24 +1,24 @@
 {
- "sig": "befa6f8c80",
+ "sig": "0c214cfc91",
  "report": {
-  "roast": "2W 6L, -126 LP. Not doing good today. Uninstall.",
+  "roast": "0W 1L, -31 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.5 vs 3.4 drakes a game). Be there before they spawn.",
-   "Low kill participation (53%). Stop farming while your team fights.",
-   "Stop dying - 6.5 deaths a game. Ward before face-checking."
+   "Take objectives: losing dragons/grubs (0.0 vs 3.0 drakes a game). Be there before they spawn.",
+   "Stop dying - 8.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
-  "wins": 2,
-  "losses": 6,
-  "k": 5.625,
-  "d": 6.5,
-  "a": 8.375,
-  "kda": 2.1538461538461537,
-  "csm": 7.572498298162014,
-  "kp": 52.5,
-  "lpNet": -126,
-  "ints": 2,
-  "games": 8
+  "wins": 0,
+  "losses": 1,
+  "k": 4,
+  "d": 8,
+  "a": 6,
+  "kda": 1.25,
+  "csm": 6.12725844461901,
+  "kp": 100,
+  "lpNet": -31,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }
