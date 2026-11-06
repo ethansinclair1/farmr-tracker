@@ -41064,8 +41064,140 @@
    "team": 1,
    "ts": 1794002520000,
    "detail": null,
-   "firstSeen": 1794002732515,
-   "shot": "g_541e3ee080.jpg"
+   "shot": "g_541e3ee080.jpg",
+   "firstSeen": 1794002732515
+  },
+  "Arena|11/6/2026, 5:23 PM|Sona|26m 55s": {
+   "id": "Arena|11/6/2026, 5:23 PM|Sona|26m 55s",
+   "queue": "Arena",
+   "date": "11/6/2026, 5:23 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sona",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sona.png"
+   },
+   "level": 13,
+   "duration": "26m 55s",
+   "minutes": 26.916666666666668,
+   "k": 0,
+   "d": 12,
+   "a": 5,
+   "kda": "0.42",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223158.png"
+    },
+    {
+     "n": "Eleisa's Miracle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/443063.png"
+    },
+    {
+     "n": "Seraph's Embrace",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223040.png"
+    },
+    {
+     "n": "Moonstone Renewer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/226617.png"
+    },
+    {
+     "n": "Puppeteer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/447123.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Login27",
+     "h": "/lol/summoners/na/Login27-1234",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Morgana.png"
+    },
+    {
+     "n": "Flesh Monkey",
+     "h": "/lol/summoners/na/Flesh%20Monkey-NA1",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "vElijah",
+     "h": "/lol/summoners/na/vElijah-NA1",
+     "c": "Ashe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ashe.png"
+    },
+    {
+     "n": "wolf16",
+     "h": "/lol/summoners/na/wolf16-NA1",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vayne.png"
+    },
+    {
+     "n": "King ôf Death",
+     "h": "/lol/summoners/na/King%20%C3%B4f%20Death-111",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nautilus.png"
+    },
+    {
+     "n": "Papi Harlow",
+     "h": "/lol/summoners/na/Papi%20Harlow-NA1",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Swain.png"
+    },
+    {
+     "n": "Chuck Horace",
+     "h": "/lol/summoners/na/Chuck%20Horace-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "Emmeryn",
+     "h": "/lol/summoners/na/Emmeryn-JUICY",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MissFortune.png"
+    },
+    {
+     "n": "BigTltBrenda",
+     "h": "/lol/summoners/na/BigTltBrenda-Body",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    },
+    {
+     "n": "5 Man Ward",
+     "h": "/lol/summoners/na/5%20Man%20Ward-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "Borq Borq",
+     "h": "/lol/summoners/na/Borq%20Borq-NA1",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Teemo.png"
+    },
+    {
+     "n": "Twisted",
+     "h": "/lol/summoners/na/Twisted-011",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    }
+   ],
+   "team": -1,
+   "ts": 1794003780000,
+   "detail": null,
+   "firstSeen": 1794003924402,
+   "shot": "g_b9d197c625.jpg"
   }
  },
  "tz": "America/Toronto"
