@@ -40799,10 +40799,145 @@
      }
     ]
    },
-   "firstSeen": 1793995466984,
+   "roast": "5/5/11 win on Hecarim. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_dd95ecf2e9.jpg",
-   "lpCalc": true,
-   "roast": "5/5/11 win on Hecarim. Ugly, lucky, and he'll still call it a carry."
+   "firstSeen": 1793995466984
+  },
+  "Arena|11/6/2026, 4:24 PM|Ezreal|24m 38s": {
+   "id": "Arena|11/6/2026, 4:24 PM|Ezreal|24m 38s",
+   "queue": "Arena",
+   "date": "11/6/2026, 4:24 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Ezreal",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+   },
+   "level": 16,
+   "duration": "24m 38s",
+   "minutes": 24.633333333333333,
+   "k": 7,
+   "d": 11,
+   "a": 7,
+   "kda": "1.27",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223020.png"
+    },
+    {
+     "n": "Reality Fracture",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/447102.png"
+    },
+    {
+     "n": "Hextech Gunblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223146.png"
+    },
+    {
+     "n": "Lich Bane",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223100.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223089.png"
+    },
+    {
+     "n": "Stormsurge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/224646.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "CatsPajamas",
+     "h": "/lol/summoners/na/CatsPajamas-lmao",
+     "c": "Urgot",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Urgot.png"
+    },
+    {
+     "n": "Ðuy",
+     "h": "/lol/summoners/na/%C3%90uy-OVA",
+     "c": "Veigar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Veigar.png"
+    },
+    {
+     "n": "danpajenkins",
+     "h": "/lol/summoners/na/danpajenkins-NA1",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Ricepaddy69",
+     "h": "/lol/summoners/na/Ricepaddy69-NA1",
+     "c": "Gangplank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gangplank.png"
+    },
+    {
+     "n": "THE6yearOLD24",
+     "h": "/lol/summoners/na/THE6yearOLD24-NA1",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sona.png"
+    },
+    {
+     "n": "kokodavid",
+     "h": "/lol/summoners/na/kokodavid-NA1",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kled.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Poppy.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Distilled",
+     "h": "/lol/summoners/na/Distilled-NA1",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viego.png"
+    },
+    {
+     "n": "IrelbingChillin",
+     "h": "/lol/summoners/na/IrelbingChillin-NA1",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "BuuGuyy",
+     "h": "/lol/summoners/na/BuuGuyy-444",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Darius.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794000240000,
+   "detail": null,
+   "firstSeen": 1794000533470,
+   "shot": "g_c0101e3304.jpg"
   }
  },
  "tz": "America/Toronto"
