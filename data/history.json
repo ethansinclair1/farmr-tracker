@@ -39353,6 +39353,296 @@
    "roast": "Win on Graves (9/3/10). Got carried and the 9.3 CS/min proves it.",
    "shot": "g_2861b62db7.jpg",
    "firstSeen": 1793933815310
+  },
+  "Ranked Solo/Duo|11/5/2026, 10:40 PM|Cho'Gath|38m 04s": {
+   "id": "Ranked Solo/Duo|11/5/2026, 10:40 PM|Cho'Gath|38m 04s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/5/2026, 10:40 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Cho'Gath",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+   },
+   "level": 17,
+   "duration": "38m 04s",
+   "minutes": 38.06666666666667,
+   "k": 5,
+   "d": 11,
+   "a": 10,
+   "kda": "1.36",
+   "kp": 45,
+   "cs": 210,
+   "csm": 5.5,
+   "laning": [
+    36,
+    64
+   ],
+   "avgTier": "Master 872",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3152.png"
+    },
+    {
+     "n": "Jak'Sho, The Protean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6665.png"
+    },
+    {
+     "n": "Force of Nature",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4401.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3084.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Hail of Blades",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/9923.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "krustythekrab",
+     "h": "/lol/summoners/na/krustythekrab-NA1",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Camille.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "Le Homard Volant",
+     "h": "/lol/summoners/na/Le%20Homard%20Volant-fish",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "lop7809",
+     "h": "/lol/summoners/na/lop7809-yannn",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "emiyaa",
+     "h": "/lol/summoners/na/emiyaa-1389",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    },
+    {
+     "n": "叫爸爸帮你抓",
+     "h": "/lol/summoners/na/%E5%8F%AB%E7%88%B8%E7%88%B8%E5%B8%AE%E4%BD%A0%E6%8A%93-%E6%88%91%E6%97%A0%E6%95%8C",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Renekton.png"
+    },
+    {
+     "n": "StackOverFlowww",
+     "h": "/lol/summoners/na/StackOverFlowww-NA1",
+     "c": "Elise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Elise.png"
+    },
+    {
+     "n": "secret acc",
+     "h": "/lol/summoners/na/secret%20acc-112",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leblanc.png"
+    },
+    {
+     "n": "radiohead",
+     "h": "/lol/summoners/na/radiohead-pyun",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "RLpwns",
+     "h": "/lol/summoners/na/RLpwns-NA1",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Thresh.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793936400000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "krustythekrab",
+        "h": "/lol/summoners/na/krustythekrab-NA1",
+        "t": "Master 921",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 41918,
+        "taken": 52676,
+        "cw": 1,
+        "wards": "9 / 5"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 836",
+        "op": 2.9,
+        "opr": "9th",
+        "dmg": 21045,
+        "taken": 78016,
+        "cw": 0,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "Le Homard Volant",
+        "h": "/lol/summoners/na/Le%20Homard%20Volant-fish",
+        "t": "Master 1,054",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 44391,
+        "taken": 36932,
+        "cw": 2,
+        "wards": "14 / 3"
+       },
+       {
+        "n": "lop7809",
+        "h": "/lol/summoners/na/lop7809-yannn",
+        "t": "Master 1,199",
+        "op": 3.3,
+        "opr": "8th",
+        "dmg": 23450,
+        "taken": 26200,
+        "cw": 2,
+        "wards": "17 / 4"
+       },
+       {
+        "n": "emiyaa",
+        "h": "/lol/summoners/na/emiyaa-1389",
+        "t": "Master 811",
+        "op": 6.3,
+        "opr": "ACE",
+        "dmg": 44742,
+        "taken": 32607,
+        "cw": 10,
+        "wards": "56 / 10"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "叫爸爸帮你抓",
+        "h": "/lol/summoners/na/%E5%8F%AB%E7%88%B8%E7%88%B8%E5%B8%AE%E4%BD%A0%E6%8A%93-%E6%88%91%E6%97%A0%E6%95%8C",
+        "t": "Master 416",
+        "op": 2.3,
+        "opr": "10th",
+        "dmg": 17859,
+        "taken": 53839,
+        "cw": 4,
+        "wards": "22 / 5"
+       },
+       {
+        "n": "StackOverFlowww",
+        "h": "/lol/summoners/na/StackOverFlowww-NA1",
+        "t": "Master 328",
+        "op": 8.5,
+        "opr": "MVP",
+        "dmg": 64567,
+        "taken": 41371,
+        "cw": 3,
+        "wards": "6 / 8"
+       },
+       {
+        "n": "secret acc",
+        "h": "/lol/summoners/na/secret%20acc-112",
+        "t": "Master 1,240",
+        "op": 5.3,
+        "opr": "4th",
+        "dmg": 27878,
+        "taken": 32772,
+        "cw": 0,
+        "wards": "4 / 7"
+       },
+       {
+        "n": "radiohead",
+        "h": "/lol/summoners/na/radiohead-pyun",
+        "t": "Master 889",
+        "op": 7.9,
+        "opr": "2nd",
+        "dmg": 72336,
+        "taken": 41300,
+        "cw": 0,
+        "wards": "14 / 1"
+       },
+       {
+        "n": "RLpwns",
+        "h": "/lol/summoners/na/RLpwns-NA1",
+        "t": "Master 1,027",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 9106,
+        "taken": 40468,
+        "cw": 4,
+        "wards": "29 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 3,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 13,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1793936605980,
+   "shot": "g_5979809fdd.jpg",
+   "lpCalc": true,
+   "roast": "11 deaths. The enemy team should be paying 11 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"
