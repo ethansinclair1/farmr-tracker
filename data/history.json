@@ -38775,6 +38775,296 @@
    "roast": "30% kill participation. Was Sion in this game or just watching it?",
    "shot": "g_08a972453a.jpg",
    "firstSeen": 1793928266822
+  },
+  "Ranked Solo/Duo|11/5/2026, 8:53 PM|Hecarim|26m 29s": {
+   "id": "Ranked Solo/Duo|11/5/2026, 8:53 PM|Hecarim|26m 29s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/5/2026, 8:53 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 15,
+   "duration": "26m 29s",
+   "minutes": 26.483333333333334,
+   "k": 5,
+   "d": 4,
+   "a": 7,
+   "kda": "3.00",
+   "kp": 71,
+   "cs": 207,
+   "csm": 7.8,
+   "laning": [
+    50,
+    50
+   ],
+   "avgTier": "Master 639",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3111.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2517.png"
+    },
+    {
+     "n": "Ruby Crystal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1028.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Lelouch",
+     "h": "/lol/summoners/na/Lelouch-52341",
+     "c": "Rumble",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rumble.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "AllUnitsEngage",
+     "h": "/lol/summoners/na/AllUnitsEngage-GO%20IN",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aurora.png"
+    },
+    {
+     "n": "douyin cokesIvt",
+     "h": "/lol/summoners/na/douyin%20cokesIvt-999",
+     "c": "Varus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Varus.png"
+    },
+    {
+     "n": "Lantern",
+     "h": "/lol/summoners/na/Lantern-111",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Thresh.png"
+    },
+    {
+     "n": "iu em quýt",
+     "h": "/lol/summoners/na/iu%20em%20qu%C3%BDt-0921",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
+    },
+    {
+     "n": "AGusta",
+     "h": "/lol/summoners/na/AGusta-NAs",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Khazix.png"
+    },
+    {
+     "n": "dang thats wild",
+     "h": "/lol/summoners/na/dang%20thats%20wild%20-wild",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akshan.png"
+    },
+    {
+     "n": "GodsSpecialChild",
+     "h": "/lol/summoners/na/GodsSpecialChild-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Ryujin",
+     "h": "/lol/summoners/na/Ryujin-vyyyy",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Morgana.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1793929980000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Lelouch",
+        "h": "/lol/summoners/na/Lelouch-52341",
+        "t": "Master 383",
+        "op": 2.1,
+        "opr": "10th",
+        "dmg": 18930,
+        "taken": 28469,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 837",
+        "op": 4.7,
+        "opr": "ACE",
+        "dmg": 13895,
+        "taken": 30500,
+        "cw": 0,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "AllUnitsEngage",
+        "h": "/lol/summoners/na/AllUnitsEngage-GO%20IN",
+        "t": "Master 585",
+        "op": 3.7,
+        "opr": "7th",
+        "dmg": 16769,
+        "taken": 18562,
+        "cw": 1,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "douyin cokesIvt",
+        "h": "/lol/summoners/na/douyin%20cokesIvt-999",
+        "t": "Master 751",
+        "op": 2.4,
+        "opr": "9th",
+        "dmg": 16315,
+        "taken": 15434,
+        "cw": 0,
+        "wards": "7 / 5"
+       },
+       {
+        "n": "Lantern",
+        "h": "/lol/summoners/na/Lantern-111",
+        "t": "Master 894",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 5322,
+        "taken": 21751,
+        "cw": 5,
+        "wards": "24 / 9"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "iu em quýt",
+        "h": "/lol/summoners/na/iu%20em%20qu%C3%BDt-0921",
+        "t": "Master 452",
+        "op": 6.1,
+        "opr": "2nd",
+        "dmg": 22480,
+        "taken": 24671,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "AGusta",
+        "h": "/lol/summoners/na/AGusta-NAs",
+        "t": "Master 675",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 16623,
+        "taken": 21837,
+        "cw": 1,
+        "wards": "2 / 4"
+       },
+       {
+        "n": "dang thats wild",
+        "h": "/lol/summoners/na/dang%20thats%20wild%20-wild",
+        "t": "Master 840",
+        "op": 5.5,
+        "opr": "4th",
+        "dmg": 28599,
+        "taken": 25391,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "GodsSpecialChild",
+        "h": "/lol/summoners/na/GodsSpecialChild-NA1",
+        "t": "Master 436",
+        "op": 6.1,
+        "opr": "3rd",
+        "dmg": 22244,
+        "taken": 13937,
+        "cw": 0,
+        "wards": "9 / 5"
+       },
+       {
+        "n": "Ryujin",
+        "h": "/lol/summoners/na/Ryujin-vyyyy",
+        "t": "Master 537",
+        "op": 6.4,
+        "opr": "MVP",
+        "dmg": 9624,
+        "taken": 13347,
+        "cw": 18,
+        "wards": "40 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1793930183843,
+   "shot": "g_3082ba331a.jpg",
+   "lpCalc": true,
+   "roast": "A 5/4/7 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
