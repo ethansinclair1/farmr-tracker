@@ -1,24 +1,24 @@
 {
- "sig": "a34ac9ac0d",
+ "sig": "3686563d56",
  "report": {
-  "roast": "1W 0L, +30 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "1W 1L, -1 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Low kill participation (47%). Stop farming while your team fights.",
-   "Stop dying - 7.0 deaths a game. Ward before face-checking.",
+   "Take objectives: losing dragons/grubs (1.5 vs 3.0 drakes a game). Be there before they spawn.",
+   "Stop dying - 7.5 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 0,
-  "k": 10,
-  "d": 7,
-  "a": 14,
-  "kda": 3.4285714285714284,
-  "csm": 7.712765957446808,
-  "kp": 47,
-  "lpNet": 30,
+  "losses": 1,
+  "k": 6.5,
+  "d": 7.5,
+  "a": 11,
+  "kda": 2.3333333333333335,
+  "csm": 6.932339449541284,
+  "kp": 56,
+  "lpNet": -1,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }
