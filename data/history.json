@@ -43514,6 +43514,155 @@
    "detail": null,
    "shot": "g_e87e8844c0.jpg",
    "firstSeen": 1794072769819
+  },
+  "Normal|11/7/2026, 1:06 PM|Rengar|28m 41s": {
+   "id": "Normal|11/7/2026, 1:06 PM|Rengar|28m 41s",
+   "queue": "Normal",
+   "date": "11/7/2026, 1:06 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 18,
+   "duration": "28m 41s",
+   "minutes": 28.683333333333334,
+   "k": 22,
+   "d": 3,
+   "a": 4,
+   "kda": "8.67",
+   "kp": 72,
+   "cs": 243,
+   "csm": 8.5,
+   "laning": [
+    61,
+    39
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6697.png"
+    },
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2520.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "JUMBO DARIUS",
+     "h": "/lol/summoners/na/JUMBO%20DARIUS-hehe",
+     "c": "Kayle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kayle.png"
+    },
+    {
+     "n": "oTharanesho",
+     "h": "/lol/summoners/na/oTharanesho-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "5 20 22",
+     "h": "/lol/summoners/na/5%2020%2022-NA1",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "RalFzkiE 102",
+     "h": "/lol/summoners/na/RalFzkiE%20102-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "Carinala",
+     "h": "/lol/summoners/na/Carinala-NA1",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sona.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Darius.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "dankquillius",
+     "h": "/lol/summoners/na/dankquillius-poop",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aurora.png"
+    },
+    {
+     "n": "MilkMan",
+     "h": "/lol/summoners/na/MilkMan-1wnl",
+     "c": "Varus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Varus.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794074760000,
+   "detail": null,
+   "firstSeen": 1794074945943,
+   "shot": "g_5ff8a3e950.jpg"
   }
  },
  "tz": "America/Toronto"
