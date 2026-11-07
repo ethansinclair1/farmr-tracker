@@ -1,24 +1,24 @@
 {
- "sig": "6a7f88f8e8",
+ "sig": "2a4c66e685",
  "report": {
-  "roast": "1W 1L, -2 LP. Bleeding LP like it's a hobby.",
+  "roast": "1W 2L, -33 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Stop dying - 6.5 deaths a game. Ward before face-checking.",
+   "Stop dying - 6.3 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.0 a game is nothing.",
    "Losing the early game - plan the first clear and gank the winning lane."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 1,
-  "k": 4.5,
-  "d": 6.5,
-  "a": 8.5,
-  "kda": 2,
-  "csm": 7.281132620629875,
-  "kp": 73,
-  "lpNet": -2,
+  "losses": 2,
+  "k": 4,
+  "d": 6.333333333333333,
+  "a": 7,
+  "kda": 1.736842105263158,
+  "csm": 7.200481637567729,
+  "kp": 58.666666666666664,
+  "lpNet": -33,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
