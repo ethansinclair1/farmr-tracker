@@ -41916,6 +41916,291 @@
    "roast": "11 deaths. The enemy team should be paying 11 cents in rent for living in this player's jungle.",
    "shot": "g_13c99897e3.jpg",
    "firstSeen": 1794014827520
+  },
+  "Ranked 5s|11/6/2026, 9:04 PM|Diana|24m 54s": {
+   "id": "Ranked 5s|11/6/2026, 9:04 PM|Diana|24m 54s",
+   "queue": "Ranked 5s",
+   "date": "11/6/2026, 9:04 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+   },
+   "level": 17,
+   "duration": "24m 54s",
+   "minutes": 24.9,
+   "k": 4,
+   "d": 3,
+   "a": 11,
+   "kda": "5.00",
+   "kp": 52,
+   "cs": 228,
+   "csm": 9.2,
+   "laning": [
+    58,
+    42
+   ],
+   "avgTier": "Platinum 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3020.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3157.png"
+    },
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4633.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Waddles24",
+     "h": "/lol/summoners/na/Waddles24-NA1",
+     "c": "Yorick",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yorick.png"
+    },
+    {
+     "n": "Winchester22NY",
+     "h": "/lol/summoners/na/Winchester22NY-STORM",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "strmbrgr",
+     "h": "/lol/summoners/na/strmbrgr-STORM",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ahri.png"
+    },
+    {
+     "n": "Pocket Milio",
+     "h": "/lol/summoners/na/Pocket%20Milio-STORM",
+     "c": "Ashe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ashe.png"
+    },
+    {
+     "n": "kazzledazz1e",
+     "h": "/lol/summoners/na/kazzledazz1e-meow",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "manman1122",
+     "h": "/lol/summoners/na/manman1122-meow",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794017040000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Waddles24",
+        "h": "/lol/summoners/na/Waddles24-NA1",
+        "t": "",
+        "op": 3.7,
+        "opr": "8th",
+        "dmg": 20447,
+        "taken": 27707,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Winchester22NY",
+        "h": "/lol/summoners/na/Winchester22NY-STORM",
+        "t": "",
+        "op": 5.9,
+        "opr": "ACE",
+        "dmg": 13821,
+        "taken": 30248,
+        "cw": 0,
+        "wards": "1 / 3"
+       },
+       {
+        "n": "strmbrgr",
+        "h": "/lol/summoners/na/strmbrgr-STORM",
+        "t": "Gold 1",
+        "op": 4.9,
+        "opr": "7th",
+        "dmg": 11267,
+        "taken": 17761,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "Pocket Milio",
+        "h": "/lol/summoners/na/Pocket%20Milio-STORM",
+        "t": "Gold 1",
+        "op": 3.1,
+        "opr": "9th",
+        "dmg": 11545,
+        "taken": 15360,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "kazzledazz1e",
+        "h": "/lol/summoners/na/kazzledazz1e-meow",
+        "t": "",
+        "op": 2.1,
+        "opr": "10th",
+        "dmg": 2721,
+        "taken": 18742,
+        "cw": 0,
+        "wards": "15 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Emerald 4",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 18719,
+        "taken": 22650,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 741",
+        "op": 7.6,
+        "opr": "MVP",
+        "dmg": 20453,
+        "taken": 17431,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "manman1122",
+        "h": "/lol/summoners/na/manman1122-meow",
+        "t": "Diamond 2",
+        "op": 6.9,
+        "opr": "2nd",
+        "dmg": 29933,
+        "taken": 20422,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "69PapiChulo",
+        "h": "/lol/summoners/na/69PapiChulo-4802",
+        "t": "Silver 4",
+        "op": 5.7,
+        "opr": "4th",
+        "dmg": 15028,
+        "taken": 12853,
+        "cw": 3,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "wyattskitten",
+        "h": "/lol/summoners/na/wyattskitten-uwu",
+        "t": "Iron 4",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 6273,
+        "taken": 6149,
+        "cw": 0,
+        "wards": "16 / 1"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1794017285170,
+   "shot": "g_6275c81d98.jpg",
+   "roast": "Win on Diana (4/3/11). Got carried and the 9.2 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
