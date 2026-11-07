@@ -43365,6 +43365,155 @@
    "roast": "30% kill participation. Was Graves in this game or just watching it?",
    "shot": "g_852fe42cc3.jpg",
    "firstSeen": 1794026728572
+  },
+  "Normal|11/7/2026, 12:31 PM|Rengar|47m 21s": {
+   "id": "Normal|11/7/2026, 12:31 PM|Rengar|47m 21s",
+   "queue": "Normal",
+   "date": "11/7/2026, 12:31 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 18,
+   "duration": "47m 21s",
+   "minutes": 47.35,
+   "k": 28,
+   "d": 12,
+   "a": 7,
+   "kda": "2.92",
+   "kp": 59,
+   "cs": 323,
+   "csm": 6.8,
+   "laning": [
+    58,
+    42
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3036.png"
+    },
+    {
+     "n": "Youmuu's Ghostblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3142.png"
+    },
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6697.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3814.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3031.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Big Bad Berg",
+     "h": "/lol/summoners/na/Big%20Bad%20Berg-NA123",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "FFitz03",
+     "h": "/lol/summoners/na/FFitz03-4750",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Taliyah.png"
+    },
+    {
+     "n": "TheFighter",
+     "h": "/lol/summoners/na/TheFighter-SPAIN",
+     "c": "Kayle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kayle.png"
+    },
+    {
+     "n": "Haun",
+     "h": "/lol/summoners/na/Haun-123",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "Skuddy",
+     "h": "/lol/summoners/na/Skuddy-4567",
+     "c": "Taric",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Taric.png"
+    },
+    {
+     "n": "her toilet",
+     "h": "/lol/summoners/na/her%20toilet-EUW",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Teemo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fizz.png"
+    },
+    {
+     "n": "bimbo baggins",
+     "h": "/lol/summoners/na/bimbo%20baggins-shire",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xerath.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794072660000,
+   "detail": null,
+   "firstSeen": 1794072769819,
+   "shot": "g_e87e8844c0.jpg"
   }
  },
  "tz": "America/Toronto"
