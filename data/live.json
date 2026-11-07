@@ -1,1 +1,325 @@
-{}
+{
+ "queue": "Ranked Solo/Duo",
+ "map": "Summoner's Rift",
+ "elapsed": 192,
+ "started": "11/7/2026, 1:13 PM",
+ "teams": [
+  {
+   "players": [
+    {
+     "n": "Vinson",
+     "tag": "cutie",
+     "h": "/lol/summoners/na/Vinson-cutie",
+     "champ": {
+      "n": "Syndra",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Teleport",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Arcane Comet",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8229.png"
+      },
+      {
+       "n": "Sorcery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8200.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "496",
+     "wr": "",
+     "kda": "1.92"
+    },
+    {
+     "n": "JFKisAFK",
+     "tag": "ffpls",
+     "h": "/lol/summoners/na/JFKisAFK-ffpls",
+     "champ": {
+      "n": "Kennen",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kennen.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Ignite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Summon Aery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8214.png"
+      },
+      {
+       "n": "Sorcery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8200.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "680",
+     "wr": "",
+     "kda": "2.04"
+    },
+    {
+     "n": "Ophion",
+     "tag": "Nyx",
+     "h": "/lol/summoners/na/Ophion-Nyx",
+     "champ": {
+      "n": "Braum",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Braum.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Heal",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHeal.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Guardian",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8465.png"
+      },
+      {
+       "n": "Resolve",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "286",
+     "wr": "",
+     "kda": "3.21"
+    }
+   ],
+   "bans": [
+    {
+     "n": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Swain.png"
+    },
+    {
+     "n": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ambessa.png"
+    },
+    {
+     "n": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    }
+   ]
+  },
+  {
+   "players": [
+    {
+     "n": "Day By Day",
+     "tag": "2003",
+     "h": "/lol/summoners/na/Day%20By%20Day-2003",
+     "champ": {
+      "n": "Vladimir",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+     },
+     "spells": [
+      {
+       "n": "Ignite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+      },
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Summon Aery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8214.png"
+      },
+      {
+       "n": "Sorcery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8200.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "2183",
+     "wr": "",
+     "kda": "2.41"
+    },
+    {
+     "n": "CrazyJude16",
+     "tag": "NA1",
+     "h": "/lol/summoners/na/CrazyJude16-NA1",
+     "champ": {
+      "n": "Thresh",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Thresh.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Heal",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHeal.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Aftershock",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8439.png"
+      },
+      {
+       "n": "Resolve",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "871",
+     "wr": "",
+     "kda": "2.44"
+    },
+    {
+     "n": "YEAHMUHAHAHA",
+     "tag": "MUHAH",
+     "h": "/lol/summoners/na/YEAHMUHAHAHA-MUHAH",
+     "champ": {
+      "n": "Viktor",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+     },
+     "spells": [
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      },
+      {
+       "n": "Barrier",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerBarrier.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Deathfire Touch",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8992.png"
+      },
+      {
+       "n": "Sorcery",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8200.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "1249",
+     "wr": "",
+     "kda": "3.42"
+    },
+    {
+     "n": "fastfighter47",
+     "tag": "NA1",
+     "h": "/lol/summoners/na/fastfighter47-NA1",
+     "champ": {
+      "n": "Tryndamere",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tryndamere.png"
+     },
+     "spells": [
+      {
+       "n": "Ghost",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+      },
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Hail of Blades",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/9923.png"
+      },
+      {
+       "n": "Domination",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "323",
+     "wr": "",
+     "kda": "2.25"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "tag": "FarmR",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "champ": {
+      "n": "JarvanIV",
+      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+     },
+     "spells": [
+      {
+       "n": "Smite",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+      },
+      {
+       "n": "Flash",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+      }
+     ],
+     "runes": [
+      {
+       "n": "Conqueror",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+      },
+      {
+       "n": "Precision",
+       "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+      }
+     ],
+     "tier": "Master",
+     "played": "353",
+     "wr": "",
+     "kda": "4.26"
+    }
+   ],
+   "bans": [
+    {
+     "n": "Leblanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leblanc.png"
+    },
+    {
+     "n": "MasterYi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MasterYi.png"
+    },
+    {
+     "n": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Yorick",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yorick.png"
+    },
+    {
+     "n": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lucian.png"
+    }
+   ]
+  }
+ ],
+ "at": "2026-11-07T18:16:45.092Z"
+}
