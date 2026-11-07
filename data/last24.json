@@ -1,24 +1,24 @@
 {
- "sig": "2a4c66e685",
+ "sig": "3f7bb30a5d",
  "report": {
-  "roast": "1W 2L, -33 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "0W 1L, +0 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Stop dying - 6.3 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.0 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Take objectives: losing dragons/grubs (1.0 vs 5.0 drakes a game). Be there before they spawn.",
+   "Stop dying - 9.0 deaths a game. Ward before face-checking.",
+   "Farm more: 6.2 CS/min. Clear camps between fights."
   ],
   "ai": false,
-  "wins": 1,
-  "losses": 2,
-  "k": 4,
-  "d": 6.333333333333333,
-  "a": 7,
-  "kda": 1.736842105263158,
-  "csm": 7.200481637567729,
-  "kp": 58.666666666666664,
-  "lpNet": -33,
+  "wins": 0,
+  "losses": 1,
+  "k": 8,
+  "d": 9,
+  "a": 17,
+  "kda": 2.7777777777777777,
+  "csm": 6.202122750346101,
+  "kp": 71,
+  "lpNet": 0,
   "ints": 0,
-  "games": 3
+  "games": 1
  },
  "v": 3
 }
