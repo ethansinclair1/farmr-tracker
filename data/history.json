@@ -44530,6 +44530,300 @@
    "roast": "Lost on Dr. Mundo (12/5/12). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_e1aa0c6806.jpg",
    "firstSeen": 1794081490780
+  },
+  "Ranked Solo/Duo|11/7/2026, 3:33 PM|Sion|22m 41s": {
+   "id": "Ranked Solo/Duo|11/7/2026, 3:33 PM|Sion|22m 41s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/7/2026, 3:33 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sion",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+   },
+   "level": 13,
+   "duration": "22m 41s",
+   "minutes": 22.683333333333334,
+   "k": 3,
+   "d": 9,
+   "a": 3,
+   "kda": "0.67",
+   "kp": 26,
+   "cs": 163,
+   "csm": 7.2,
+   "laning": [
+    42,
+    58
+   ],
+   "avgTier": "Master 459",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Doran's Shield",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1054.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3748.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3084.png"
+    },
+    {
+     "n": "Swiftmarch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3170.png"
+    },
+    {
+     "n": "Ruby Crystal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1028.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "JIM SIMONS",
+     "h": "/lol/summoners/na/JIM%20SIMONS-GOAT",
+     "c": "Trundle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Trundle.png"
+    },
+    {
+     "n": "Smoogy",
+     "h": "/lol/summoners/na/Smoogy-NA2",
+     "c": "Zac",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zac.png"
+    },
+    {
+     "n": "Kled on coffee",
+     "h": "/lol/summoners/na/Kled%20on%20coffee-NA1",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "Marbles27",
+     "h": "/lol/summoners/na/Marbles27-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "I run the show",
+     "h": "/lol/summoners/na/I%20run%20the%20show-777",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zoe.png"
+    },
+    {
+     "n": "又怪我",
+     "h": "/lol/summoners/na/%E5%8F%88%E6%80%AA%E6%88%91-528",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kennen.png"
+    },
+    {
+     "n": "Blazed4Days",
+     "h": "/lol/summoners/na/Blazed4Days-NA1",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Briar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "lies",
+     "h": "/lol/summoners/na/lies-0704",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kalista.png"
+    },
+    {
+     "n": "riven support",
+     "h": "/lol/summoners/na/riven%20support-only",
+     "c": "Amumu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Amumu.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794083580000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "JIM SIMONS",
+        "h": "/lol/summoners/na/JIM%20SIMONS-GOAT",
+        "t": "Master 582",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 18905,
+        "taken": 28668,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "Smoogy",
+        "h": "/lol/summoners/na/Smoogy-NA2",
+        "t": "Master 432",
+        "op": 8.2,
+        "opr": "MVP",
+        "dmg": 16800,
+        "taken": 26919,
+        "cw": 2,
+        "wards": "2 / 5"
+       },
+       {
+        "n": "Kled on coffee",
+        "h": "/lol/summoners/na/Kled%20on%20coffee-NA1",
+        "t": "Diamond 1",
+        "op": 7.1,
+        "opr": "3rd",
+        "dmg": 34002,
+        "taken": 36254,
+        "cw": 0,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "Marbles27",
+        "h": "/lol/summoners/na/Marbles27-NA1",
+        "t": "Master 963",
+        "op": 6.4,
+        "opr": "4th",
+        "dmg": 30722,
+        "taken": 16104,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "I run the show",
+        "h": "/lol/summoners/na/I%20run%20the%20show-777",
+        "t": "Master 393",
+        "op": 8.2,
+        "opr": "2nd",
+        "dmg": 27847,
+        "taken": 13918,
+        "cw": 4,
+        "wards": "21 / 3"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "又怪我",
+        "h": "/lol/summoners/na/%E5%8F%88%E6%80%AA%E6%88%91-528",
+        "t": "Master 70",
+        "op": 2.3,
+        "opr": "9th",
+        "dmg": 17494,
+        "taken": 23112,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Blazed4Days",
+        "h": "/lol/summoners/na/Blazed4Days-NA1",
+        "t": "Master 892",
+        "op": 1.9,
+        "opr": "10th",
+        "dmg": 11758,
+        "taken": 28188,
+        "cw": 1,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 648",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 17620,
+        "taken": 46743,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "lies",
+        "h": "/lol/summoners/na/lies-0704",
+        "t": "Master 17",
+        "op": 5,
+        "opr": "ACE",
+        "dmg": 30523,
+        "taken": 25183,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "riven support",
+        "h": "/lol/summoners/na/riven%20support-only",
+        "t": "Master 631",
+        "op": 4.5,
+        "opr": "7th",
+        "dmg": 8373,
+        "taken": 22665,
+        "cw": 2,
+        "wards": "15 / 3"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794083929225,
+   "shot": "g_0f43ef6815.jpg",
+   "lpCalc": true,
+   "roast": "9 deaths. The enemy team should be paying 9 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"
