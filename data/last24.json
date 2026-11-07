@@ -1,24 +1,24 @@
 {
- "sig": "81588946f8",
+ "sig": "4f5e3f340c",
  "report": {
-  "roast": "0W 5L, -124 LP. Log off and hand the account to someone who can play.",
+  "roast": "1W 5L, -95 LP. Not doing good today. Uninstall.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (0.8 vs 2.8 drakes a game). Be there before they spawn.",
-   "Stop dying - 6.2 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.4 a game is nothing."
+   "Take objectives: losing dragons/grubs (1.0 vs 2.5 drakes a game). Be there before they spawn.",
+   "Stop dying - 5.3 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.3 a game is nothing."
   ],
   "ai": false,
-  "wins": 0,
+  "wins": 1,
   "losses": 5,
-  "k": 6.8,
-  "d": 6.2,
-  "a": 7.4,
-  "kda": 2.290322580645161,
-  "csm": 6.820067898906073,
-  "kp": 60,
-  "lpNet": -124,
+  "k": 7.833333333333333,
+  "d": 5.333333333333333,
+  "a": 6.666666666666667,
+  "kda": 2.71875,
+  "csm": 7.195455501788344,
+  "kp": 59.166666666666664,
+  "lpNet": -95,
   "ints": 1,
-  "games": 5
+  "games": 6
  },
  "v": 3
 }
