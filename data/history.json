@@ -46311,7 +46311,7 @@
     43
    ],
    "avgTier": "Master 482",
-   "lp": null,
+   "lp": 29,
    "items": [
     {
      "n": "Riftmaker",
@@ -46570,9 +46570,10 @@
      }
     ]
    },
-   "firstSeen": 1794094577899,
+   "roast": "4/4/5 win on Diana. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_dc5b7511e0.jpg",
-   "roast": "4/4/5 win on Diana. Ugly, lucky, and he'll still call it a carry."
+   "firstSeen": 1794094577899,
+   "lpCalc": true
   }
  },
  "tz": "America/Toronto"

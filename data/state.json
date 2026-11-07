@@ -1,12 +1,12 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "5c3b121fad",
+ "sig": "6bd732d652",
  "rank": {
   "solo": {
    "tier": "Master",
-   "lp": 642,
-   "wins": 196,
+   "lp": 671,
+   "wins": 197,
    "losses": 166
   },
   "flex": {
@@ -17,7 +17,7 @@
   }
  },
  "pendingLp": {
-  "solo": "Ranked Solo/Duo|11/7/2026, 6:34 PM|Diana|19m 25s",
+  "solo": null,
   "flex": null
  }
 }
