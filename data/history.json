@@ -46284,6 +46284,295 @@
    "roast": "4/0/2 deathless on Graves. Annoyingly clean. Screenshot it, it won't happen again.",
    "shot": "g_3bf6b71704.jpg",
    "firstSeen": 1794093140211
+  },
+  "Ranked Solo/Duo|11/7/2026, 6:34 PM|Diana|19m 25s": {
+   "id": "Ranked Solo/Duo|11/7/2026, 6:34 PM|Diana|19m 25s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/7/2026, 6:34 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+   },
+   "level": 13,
+   "duration": "19m 25s",
+   "minutes": 19.416666666666668,
+   "k": 4,
+   "d": 4,
+   "a": 5,
+   "kda": "2.25",
+   "kp": 43,
+   "cs": 154,
+   "csm": 7.9,
+   "laning": [
+    57,
+    43
+   ],
+   "avgTier": "Master 482",
+   "lp": null,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4633.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Amplifying Tome",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1052.png"
+    },
+    {
+     "n": "Amplifying Tome",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1052.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Right Click RNG",
+     "h": "/lol/summoners/na/Right%20Click%20RNG-420",
+     "c": "Tryndamere",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tryndamere.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "G Money",
+     "h": "/lol/summoners/na/G%20Money-reee",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "nixeyez",
+     "h": "/lol/summoners/na/nixeyez-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "balancesheet",
+     "h": "/lol/summoners/na/balancesheet-NA2",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    },
+    {
+     "n": "Izilplex",
+     "h": "/lol/summoners/na/Izilplex-NA1",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Briar.png"
+    },
+    {
+     "n": "Deviate",
+     "h": "/lol/summoners/na/Deviate-NA2",
+     "c": "Aatrox",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aatrox.png"
+    },
+    {
+     "n": "Nonpareil",
+     "h": "/lol/summoners/na/Nonpareil-NA2",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "LiL Pow Pow",
+     "h": "/lol/summoners/na/LiL%20Pow%20Pow-Jinx",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+    },
+    {
+     "n": "KyNgiaN",
+     "h": "/lol/summoners/na/KyNgiaN-SUP",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rell.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794094440000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Right Click RNG",
+        "h": "/lol/summoners/na/Right%20Click%20RNG-420",
+        "t": "Master 483",
+        "op": 6.4,
+        "opr": "3rd",
+        "dmg": 16175,
+        "taken": 19322,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 642",
+        "op": 5.6,
+        "opr": "5th",
+        "dmg": 12045,
+        "taken": 15253,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "G Money",
+        "h": "/lol/summoners/na/G%20Money-reee",
+        "t": "Master 274",
+        "op": 5.7,
+        "opr": "4th",
+        "dmg": 8333,
+        "taken": 11345,
+        "cw": 2,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "nixeyez",
+        "h": "/lol/summoners/na/nixeyez-NA1",
+        "t": "Master 435",
+        "op": 7,
+        "opr": "2nd",
+        "dmg": 13002,
+        "taken": 10507,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "balancesheet",
+        "h": "/lol/summoners/na/balancesheet-NA2",
+        "t": "Master 730",
+        "op": 8.4,
+        "opr": "MVP",
+        "dmg": 7638,
+        "taken": 11017,
+        "cw": 5,
+        "wards": "14 / 1"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Izilplex",
+        "h": "/lol/summoners/na/Izilplex-NA1",
+        "t": "Master 442",
+        "op": 2.6,
+        "opr": "8th",
+        "dmg": 14624,
+        "taken": 22165,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Deviate",
+        "h": "/lol/summoners/na/Deviate-NA2",
+        "t": "Master 495",
+        "op": 2.3,
+        "opr": "9th",
+        "dmg": 8821,
+        "taken": 17389,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "Nonpareil",
+        "h": "/lol/summoners/na/Nonpareil-NA2",
+        "t": "Master 548",
+        "op": 4.4,
+        "opr": "ACE",
+        "dmg": 11417,
+        "taken": 10765,
+        "cw": 3,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "LiL Pow Pow",
+        "h": "/lol/summoners/na/LiL%20Pow%20Pow-Jinx",
+        "t": "Master 501",
+        "op": 2.2,
+        "opr": "10th",
+        "dmg": 12039,
+        "taken": 12332,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "KyNgiaN",
+        "h": "/lol/summoners/na/KyNgiaN-SUP",
+        "t": "Master 269",
+        "op": 3.8,
+        "opr": "7th",
+        "dmg": 4319,
+        "taken": 10968,
+        "cw": 14,
+        "wards": "26 / 3"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794094577899,
+   "shot": "g_dc5b7511e0.jpg",
+   "roast": "4/4/5 win on Diana. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
