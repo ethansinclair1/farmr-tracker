@@ -45702,6 +45702,300 @@
    "roast": "Win on Hecarim (6/2/13). Got carried and the 9.3 CS/min proves it.",
    "shot": "g_a818c797f2.jpg",
    "firstSeen": 1794089471398
+  },
+  "Ranked Solo/Duo|11/7/2026, 5:39 PM|Hecarim|26m 11s": {
+   "id": "Ranked Solo/Duo|11/7/2026, 5:39 PM|Hecarim|26m 11s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/7/2026, 5:39 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 15,
+   "duration": "26m 11s",
+   "minutes": 26.183333333333334,
+   "k": 6,
+   "d": 4,
+   "a": 8,
+   "kda": "3.50",
+   "kp": 64,
+   "cs": 208,
+   "csm": 7.9,
+   "laning": [
+    60,
+    40
+   ],
+   "avgTier": "Master 526",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Sterak's Gage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3053.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "getting closer",
+     "h": "/lol/summoners/na/getting%20closer-92180",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Jakeru",
+     "h": "/lol/summoners/na/Jakeru-%ED%81%B4%EB%A1%9C%EB%B2%84",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zed.png"
+    },
+    {
+     "n": "Meruvale",
+     "h": "/lol/summoners/na/Meruvale-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "pumpkinpieftw",
+     "h": "/lol/summoners/na/pumpkinpieftw-NA1",
+     "c": "Braum",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Braum.png"
+    },
+    {
+     "n": "King Plebus",
+     "h": "/lol/summoners/na/King%20Plebus-123",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Garen.png"
+    },
+    {
+     "n": "Solo ranker",
+     "h": "/lol/summoners/na/Solo%20ranker-123",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "pokimane",
+     "h": "/lol/summoners/na/pokimane-sona",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "ShIeepyHead",
+     "h": "/lol/summoners/na/ShIeepyHead-sleep",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "Chimpaneze",
+     "h": "/lol/summoners/na/Chimpaneze-Tarza",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794091140000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "getting closer",
+        "h": "/lol/summoners/na/getting%20closer-92180",
+        "t": "Diamond 1",
+        "op": 0.3,
+        "opr": "10th",
+        "dmg": 11523,
+        "taken": 24114,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 644",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 17467,
+        "taken": 28975,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Jakeru",
+        "h": "/lol/summoners/na/Jakeru-%ED%81%B4%EB%A1%9C%EB%B2%84",
+        "t": "Master 1,022",
+        "op": 6.7,
+        "opr": "ACE",
+        "dmg": 36782,
+        "taken": 16880,
+        "cw": 0,
+        "wards": "12 / 6"
+       },
+       {
+        "n": "Meruvale",
+        "h": "/lol/summoners/na/Meruvale-NA1",
+        "t": "Master 134",
+        "op": 1.4,
+        "opr": "9th",
+        "dmg": 14811,
+        "taken": 19406,
+        "cw": 2,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "pumpkinpieftw",
+        "h": "/lol/summoners/na/pumpkinpieftw-NA1",
+        "t": "Master 647",
+        "op": 3.4,
+        "opr": "7th",
+        "dmg": 7686,
+        "taken": 19858,
+        "cw": 17,
+        "wards": "33 / 10"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "King Plebus",
+        "h": "/lol/summoners/na/King%20Plebus-123",
+        "t": "Diamond 1",
+        "op": 6.7,
+        "opr": "MVP",
+        "dmg": 24699,
+        "taken": 22635,
+        "cw": 0,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "Solo ranker",
+        "h": "/lol/summoners/na/Solo%20ranker-123",
+        "t": "Master 763",
+        "op": 6.5,
+        "opr": "3rd",
+        "dmg": 23822,
+        "taken": 32175,
+        "cw": 0,
+        "wards": "0 / 3"
+       },
+       {
+        "n": "pokimane",
+        "h": "/lol/summoners/na/pokimane-sona",
+        "t": "Master 988",
+        "op": 2.3,
+        "opr": "8th",
+        "dmg": 14574,
+        "taken": 22353,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "ShIeepyHead",
+        "h": "/lol/summoners/na/ShIeepyHead-sleep",
+        "t": "Master 779",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 15020,
+        "taken": 16163,
+        "cw": 2,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "Chimpaneze",
+        "h": "/lol/summoners/na/Chimpaneze-Tarza",
+        "t": "Master 330",
+        "op": 5.3,
+        "opr": "4th",
+        "dmg": 12644,
+        "taken": 27572,
+        "cw": 0,
+        "wards": "25 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 10,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794091431865,
+   "shot": "g_fbe7887d31.jpg",
+   "lpCalc": true,
+   "roast": "A 6/4/8 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
