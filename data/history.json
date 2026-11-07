@@ -41196,8 +41196,140 @@
    "team": -1,
    "ts": 1794003780000,
    "detail": null,
-   "firstSeen": 1794003924402,
-   "shot": "g_b9d197c625.jpg"
+   "shot": "g_b9d197c625.jpg",
+   "firstSeen": 1794003924402
+  },
+  "Arena|11/6/2026, 6:59 PM|Karthus|25m 00s": {
+   "id": "Arena|11/6/2026, 6:59 PM|Karthus|25m 00s",
+   "queue": "Arena",
+   "date": "11/6/2026, 6:59 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Karthus",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karthus.png"
+   },
+   "level": 16,
+   "duration": "25m 00s",
+   "minutes": 25,
+   "k": 3,
+   "d": 5,
+   "a": 18,
+   "kda": "4.20",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "",
+   "lp": null,
+   "items": [
+    {
+     "n": "Liandry's Anguish",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/226653.png"
+    },
+    {
+     "n": "Pyromancer's Cloak",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/447118.png"
+    },
+    {
+     "n": "Blackfire Torch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/222503.png"
+    },
+    {
+     "n": "Malignance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223118.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/223089.png"
+    },
+    {
+     "n": "Arcane Sweeper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3348.png"
+    }
+   ],
+   "spells": [],
+   "runes": [],
+   "players": [
+    {
+     "n": "Leitch",
+     "h": "/lol/summoners/na/Leitch-NA1",
+     "c": "Zac",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zac.png"
+    },
+    {
+     "n": "Parson Brown",
+     "h": "/lol/summoners/na/Parson%20Brown-RAVE",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "Nïghttt",
+     "h": "/lol/summoners/na/N%C3%AFghttt-JANE",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lissandra.png"
+    },
+    {
+     "n": "ZestyElmo",
+     "h": "/lol/summoners/na/ZestyElmo-Zesty",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Talon.png"
+    },
+    {
+     "n": "Red Enthusiast",
+     "h": "/lol/summoners/na/Red%20Enthusiast-M26",
+     "c": "Ziggs",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ziggs.png"
+    },
+    {
+     "n": "Shrek Junior",
+     "h": "/lol/summoners/na/Shrek%20Junior-NA1",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Singed.png"
+    },
+    {
+     "n": "FatherLikeSion",
+     "h": "/lol/summoners/na/FatherLikeSion-Runit",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viego.png"
+    },
+    {
+     "n": "MonstorBike",
+     "h": "/lol/summoners/na/MonstorBike-NA1",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Twitch.png"
+    },
+    {
+     "n": "Monstormike",
+     "h": "/lol/summoners/na/Monstormike-NA1",
+     "c": "Bel'Veth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Belveth.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Brand.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Karthus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karthus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794009540000,
+   "detail": null,
+   "firstSeen": 1794009739087,
+   "shot": "g_d5ed34f736.jpg"
   }
  },
  "tz": "America/Toronto"
