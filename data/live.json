@@ -1,7 +1,7 @@
 {
  "queue": "Ranked Solo/Duo",
  "map": "Summoner's Rift",
- "elapsed": 191,
+ "elapsed": 431,
  "started": "11/7/2026, 3:10 PM",
  "teams": [
   {
@@ -321,5 +321,5 @@
    ]
   }
  ],
- "at": "2026-11-07T20:13:46.433Z"
+ "at": "2026-11-07T20:17:46.522Z"
 }
