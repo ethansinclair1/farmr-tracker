@@ -43690,7 +43690,7 @@
     37
    ],
    "avgTier": "Master 494",
-   "lp": null,
+   "lp": 0,
    "items": [
     {
      "n": "Plated Steelcaps",
@@ -43956,6 +43956,288 @@
    "roast": "8/9/17 on Jarvan IV. That's not a KDA, that's a donation receipt.",
    "shot": "g_e54d09d6e3.jpg",
    "firstSeen": 1794077627421
+  },
+  "Ranked Solo/Duo|11/7/2026, 2:13 PM|Diana|15m 56s": {
+   "id": "Ranked Solo/Duo|11/7/2026, 2:13 PM|Diana|15m 56s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/7/2026, 2:13 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+   },
+   "level": 12,
+   "duration": "15m 56s",
+   "minutes": 15.933333333333334,
+   "k": 4,
+   "d": 3,
+   "a": 0,
+   "kda": "1.33",
+   "kp": 67,
+   "cs": 141,
+   "csm": 8.8,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Master 493",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4633.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Slightly Magical Footwear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2422.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "turtlegon",
+     "h": "/lol/summoners/na/turtlegon-NA1",
+     "c": "Aatrox",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aatrox.png"
+    },
+    {
+     "n": "coach funnel",
+     "h": "/lol/summoners/na/coach%20funnel-NA1",
+     "c": "Kindred",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kindred.png"
+    },
+    {
+     "n": "Big Pancreas",
+     "h": "/lol/summoners/na/Big%20Pancreas-coin",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+    },
+    {
+     "n": "Afatsom1",
+     "h": "/lol/summoners/na/Afatsom1-NA1",
+     "c": "Ziggs",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ziggs.png"
+    },
+    {
+     "n": "Zxro",
+     "h": "/lol/summoners/na/Zxro-Teio",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    },
+    {
+     "n": "AncientElements",
+     "h": "/lol/summoners/na/AncientElements-002",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "Reflects",
+     "h": "/lol/summoners/na/Reflects-NA1",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "Wafs",
+     "h": "/lol/summoners/na/Wafs-Wafs",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Peyz",
+     "h": "/lol/summoners/na/Peyz-Fanz",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leona.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794078780000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "turtlegon",
+        "h": "/lol/summoners/na/turtlegon-NA1",
+        "t": "Master 384",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 9770,
+        "taken": 10552,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "coach funnel",
+        "h": "/lol/summoners/na/coach%20funnel-NA1",
+        "t": "Master 383",
+        "op": 8.6,
+        "opr": "2nd",
+        "dmg": 6233,
+        "taken": 10478,
+        "cw": 0,
+        "wards": "2 / 1"
+       },
+       {
+        "n": "Big Pancreas",
+        "h": "/lol/summoners/na/Big%20Pancreas-coin",
+        "t": "Master 485",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 16085,
+        "taken": 15349,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "Afatsom1",
+        "h": "/lol/summoners/na/Afatsom1-NA1",
+        "t": "Master 220",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 10550,
+        "taken": 6916,
+        "cw": 0,
+        "wards": "3 / 0"
+       },
+       {
+        "n": "Zxro",
+        "h": "/lol/summoners/na/Zxro-Teio",
+        "t": "Master 469",
+        "op": 5.6,
+        "opr": "3rd",
+        "dmg": 3001,
+        "taken": 8575,
+        "cw": 5,
+        "wards": "12 / 4"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "AncientElements",
+        "h": "/lol/summoners/na/AncientElements-002",
+        "t": "Master 293",
+        "op": 2.5,
+        "opr": "9th",
+        "dmg": 5967,
+        "taken": 13276,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 710",
+        "op": 5.1,
+        "opr": "ACE",
+        "dmg": 8894,
+        "taken": 11601,
+        "cw": 0,
+        "wards": "1 / 1"
+       },
+       {
+        "n": "Reflects",
+        "h": "/lol/summoners/na/Reflects-NA1",
+        "t": "Master 752",
+        "op": 1.4,
+        "opr": "10th",
+        "dmg": 9446,
+        "taken": 8775,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "Wafs",
+        "h": "/lol/summoners/na/Wafs-Wafs",
+        "t": "Master 716",
+        "op": 4.1,
+        "opr": "7th",
+        "dmg": 9018,
+        "taken": 8985,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "Peyz",
+        "h": "/lol/summoners/na/Peyz-Fanz",
+        "t": "Master 518",
+        "op": 3.4,
+        "opr": "8th",
+        "dmg": 4273,
+        "taken": 9564,
+        "cw": 4,
+        "wards": "11 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794079069930,
+   "shot": "g_28fec296f0.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Diana (4/3/0). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
