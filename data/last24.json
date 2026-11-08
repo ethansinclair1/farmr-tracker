@@ -1,24 +1,24 @@
 {
- "sig": "338187fc15",
+ "sig": "6e07537281",
  "report": {
-  "roast": "5W 7L, -41 LP. Log off and hand the account to someone who can play.",
+  "roast": "5W 8L, -72 LP. Not doing good today. Uninstall.",
   "fixes": [
-   "Low kill participation (53%). Stop farming while your team fights.",
-   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
+   "Low kill participation (51%). Stop farming while your team fights.",
+   "Stop dying - 4.5 deaths a game. Ward before face-checking.",
    "Buy control wards - 0.2 a game is nothing."
   ],
   "ai": false,
   "wins": 5,
-  "losses": 7,
-  "k": 6.5,
-  "d": 4.25,
-  "a": 6.833333333333333,
-  "kda": 3.137254901960784,
-  "csm": 7.801355894835474,
-  "kp": 53.25,
-  "lpNet": -41,
-  "ints": 1,
-  "games": 12
+  "losses": 8,
+  "k": 6.230769230769231,
+  "d": 4.538461538461538,
+  "a": 6.615384615384615,
+  "kda": 2.830508474576271,
+  "csm": 7.682545977296387,
+  "kp": 50.61538461538461,
+  "lpNet": -72,
+  "ints": 2,
+  "games": 13
  },
  "v": 3
 }
