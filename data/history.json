@@ -51217,6 +51217,296 @@
    "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle.",
    "shot": "g_728eecb645.jpg",
    "firstSeen": 1794176620328
+  },
+  "Ranked Solo/Duo|11/8/2026, 5:54 PM|Sylas|21m 44s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 5:54 PM|Sylas|21m 44s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 5:54 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+   },
+   "level": 12,
+   "duration": "21m 44s",
+   "minutes": 21.733333333333334,
+   "k": 2,
+   "d": 6,
+   "a": 4,
+   "kda": "1.00",
+   "kp": 35,
+   "cs": 127,
+   "csm": 5.8,
+   "laning": [
+    33,
+    67
+   ],
+   "avgTier": "Master 302",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Haunting Guise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3147.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3152.png"
+    },
+    {
+     "n": "Fiendish Codex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3108.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1082.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "PreciseRegretz",
+     "h": "/lol/summoners/na/PreciseRegretz-5624",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
+    },
+    {
+     "n": "EGOIST",
+     "h": "/lol/summoners/na/EGOIST-CONQ",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lillia.png"
+    },
+    {
+     "n": "egobaby",
+     "h": "/lol/summoners/na/egobaby-622",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "zanden",
+     "h": "/lol/summoners/na/zanden-BLA",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    },
+    {
+     "n": "LL Beast",
+     "h": "/lol/summoners/na/LL%20Beast-NA1",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Swain.png"
+    },
+    {
+     "n": "im oom",
+     "h": "/lol/summoners/na/im%20oom-NA1",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gwen.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "Viking Blood",
+     "h": "/lol/summoners/na/Viking%20Blood-CARRY",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akshan.png"
+    },
+    {
+     "n": "Armzen",
+     "h": "/lol/summoners/na/Armzen-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "LMQ Whiteshadow1",
+     "h": "/lol/summoners/na/LMQ%20Whiteshadow1-LMQ",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794178440000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "PreciseRegretz",
+        "h": "/lol/summoners/na/PreciseRegretz-5624",
+        "t": "Master 66",
+        "op": 8.1,
+        "opr": "2nd",
+        "dmg": 23982,
+        "taken": 27798,
+        "cw": 2,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "EGOIST",
+        "h": "/lol/summoners/na/EGOIST-CONQ",
+        "t": "Master 396",
+        "op": 9.4,
+        "opr": "MVP",
+        "dmg": 25268,
+        "taken": 28181,
+        "cw": 0,
+        "wards": "0 / 1"
+       },
+       {
+        "n": "egobaby",
+        "h": "/lol/summoners/na/egobaby-622",
+        "t": "Master 498",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 14486,
+        "taken": 22431,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "zanden",
+        "h": "/lol/summoners/na/zanden-BLA",
+        "t": "Master 300",
+        "op": 7.9,
+        "opr": "3rd",
+        "dmg": 16948,
+        "taken": 10538,
+        "cw": 0,
+        "wards": "7 / 4"
+       },
+       {
+        "n": "LL Beast",
+        "h": "/lol/summoners/na/LL%20Beast-NA1",
+        "t": "Diamond 1",
+        "op": 6.9,
+        "opr": "4th",
+        "dmg": 18929,
+        "taken": 24874,
+        "cw": 0,
+        "wards": "14 / 2"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "im oom",
+        "h": "/lol/summoners/na/im%20oom-NA1",
+        "t": "Master 363",
+        "op": 2.4,
+        "opr": "10th",
+        "dmg": 15309,
+        "taken": 26725,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 599",
+        "op": 3.3,
+        "opr": "8th",
+        "dmg": 14531,
+        "taken": 27622,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Viking Blood",
+        "h": "/lol/summoners/na/Viking%20Blood-CARRY",
+        "t": "Master 502",
+        "op": 3.8,
+        "opr": "7th",
+        "dmg": 20724,
+        "taken": 18113,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Armzen",
+        "h": "/lol/summoners/na/Armzen-NA1",
+        "t": "Master 76",
+        "op": 4.7,
+        "opr": "ACE",
+        "dmg": 19477,
+        "taken": 18560,
+        "cw": 0,
+        "wards": "5 / 2"
+       },
+       {
+        "n": "LMQ Whiteshadow1",
+        "h": "/lol/summoners/na/LMQ%20Whiteshadow1-LMQ",
+        "t": "Master 242",
+        "op": 2.9,
+        "opr": "9th",
+        "dmg": 7130,
+        "taken": 23365,
+        "cw": 7,
+        "wards": "17 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794178571841,
+   "shot": "g_3f762f26c3.jpg",
+   "lpCalc": true,
+   "roast": "35% kill participation. Was Sylas in this game or just watching it?"
   }
  },
  "tz": "America/Toronto"

@@ -1,24 +1,24 @@
 {
- "sig": "498d003cc0",
+ "sig": "f772acc244",
  "report": {
-  "roast": "4W 4L, -8 LP. Bleeding LP like it's a hobby.",
+  "roast": "4W 5L, -39 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Low kill participation (52%). Stop farming while your team fights.",
-   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.5 a game is nothing."
+   "Low kill participation (50%). Stop farming while your team fights.",
+   "Stop dying - 5.1 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.4 a game is nothing."
   ],
   "ai": false,
   "wins": 4,
-  "losses": 4,
-  "k": 6.25,
-  "d": 5,
-  "a": 7.875,
-  "kda": 2.825,
-  "csm": 7.522908440736051,
-  "kp": 51.5,
-  "lpNet": -8,
+  "losses": 5,
+  "k": 5.777777777777778,
+  "d": 5.111111111111111,
+  "a": 7.444444444444445,
+  "kda": 2.5869565217391304,
+  "csm": 7.374210633530251,
+  "kp": 49.666666666666664,
+  "lpNet": -39,
   "ints": 0,
-  "games": 8
+  "games": 9
  },
  "v": 3
 }
