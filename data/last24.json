@@ -1,24 +1,24 @@
 {
- "sig": "e3f5512a9c",
+ "sig": "338187fc15",
  "report": {
-  "roast": "4W 7L, -70 LP. The enemy team should be paying him.",
+  "roast": "5W 7L, -41 LP. Log off and hand the account to someone who can play.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.5 vs 1.7 drakes a game). Be there before they spawn.",
-   "Low kill participation (54%). Stop farming while your team fights.",
-   "Stop dying - 4.5 deaths a game. Ward before face-checking."
+   "Low kill participation (53%). Stop farming while your team fights.",
+   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.2 a game is nothing."
   ],
   "ai": false,
-  "wins": 4,
+  "wins": 5,
   "losses": 7,
-  "k": 6.545454545454546,
-  "d": 4.545454545454546,
-  "a": 6.7272727272727275,
-  "kda": 2.92,
-  "csm": 7.713724790290916,
-  "kp": 53.54545454545455,
-  "lpNet": -70,
+  "k": 6.5,
+  "d": 4.25,
+  "a": 6.833333333333333,
+  "kda": 3.137254901960784,
+  "csm": 7.801355894835474,
+  "kp": 53.25,
+  "lpNet": -41,
   "ints": 1,
-  "games": 11
+  "games": 12
  },
  "v": 3
 }
