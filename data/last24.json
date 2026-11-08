@@ -1,24 +1,24 @@
 {
- "sig": "2ab716b0c8",
+ "sig": "3e10d56009",
  "report": {
-  "roast": "3W 3L, -6 LP. Bleeding LP like it's a hobby.",
+  "roast": "4W 3L, +23 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.8 vs 2.0 drakes a game). Be there before they spawn.",
-   "Low kill participation (55%). Stop farming while your team fights.",
-   "Stop dying - 5.0 deaths a game. Ward before face-checking."
+   "Low kill participation (53%). Stop farming while your team fights.",
+   "Buy control wards - 0.3 a game is nothing.",
+   "Losing the early game - plan the first clear and gank the winning lane."
   ],
   "ai": false,
-  "wins": 3,
+  "wins": 4,
   "losses": 3,
-  "k": 6,
-  "d": 5,
-  "a": 8.333333333333334,
-  "kda": 2.8666666666666667,
-  "csm": 7.808092247503346,
-  "kp": 54.833333333333336,
-  "lpNet": -6,
+  "k": 6.428571428571429,
+  "d": 4.571428571428571,
+  "a": 8.142857142857142,
+  "kda": 3.1875,
+  "csm": 7.788233224870285,
+  "kp": 53,
+  "lpNet": 23,
   "ints": 0,
-  "games": 6
+  "games": 7
  },
  "v": 3
 }

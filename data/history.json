@@ -50635,6 +50635,296 @@
    "roast": "Lost on Hecarim (6/7/13). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_8985428a08.jpg",
    "firstSeen": 1794172271570
+  },
+  "Ranked Solo/Duo|11/8/2026, 4:40 PM|Rengar|27m 38s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 4:40 PM|Rengar|27m 38s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 4:40 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 16,
+   "duration": "27m 38s",
+   "minutes": 27.633333333333333,
+   "k": 9,
+   "d": 2,
+   "a": 7,
+   "kda": "8.00",
+   "kp": 42,
+   "cs": 212,
+   "csm": 7.7,
+   "laning": [
+    50,
+    50
+   ],
+   "avgTier": "Master 678",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3814.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "HARMAN",
+     "h": "/lol/summoners/na/HARMAN-1of1",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "Dime",
+     "h": "/lol/summoners/na/Dime-Lesu",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Khazix.png"
+    },
+    {
+     "n": "FierDragon",
+     "h": "/lol/summoners/na/FierDragon-NA1",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Galio.png"
+    },
+    {
+     "n": "Boost3d",
+     "h": "/lol/summoners/na/Boost3d-1738",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KogMaw.png"
+    },
+    {
+     "n": "StinkyAsian",
+     "h": "/lol/summoners/na/StinkyAsian-EWW",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zilean.png"
+    },
+    {
+     "n": "Adumski",
+     "h": "/lol/summoners/na/Adumski-NA1",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Renekton.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "ZakMTL",
+     "h": "/lol/summoners/na/ZakMTL-JUGG",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "Reminder",
+     "h": "/lol/summoners/na/Reminder-OVOXO",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aphelios.png"
+    },
+    {
+     "n": "Donkey Hawaii",
+     "h": "/lol/summoners/na/Donkey%20Hawaii-NA1",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karma.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794174000000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "HARMAN",
+        "h": "/lol/summoners/na/HARMAN-1of1",
+        "t": "Master 541",
+        "op": 3,
+        "opr": "9th",
+        "dmg": 16235,
+        "taken": 24961,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Dime",
+        "h": "/lol/summoners/na/Dime-Lesu",
+        "t": "Master 698",
+        "op": 5.8,
+        "opr": "ACE",
+        "dmg": 36519,
+        "taken": 36655,
+        "cw": 1,
+        "wards": "3 / 11"
+       },
+       {
+        "n": "FierDragon",
+        "h": "/lol/summoners/na/FierDragon-NA1",
+        "t": "Master 627",
+        "op": 2.6,
+        "opr": "10th",
+        "dmg": 14361,
+        "taken": 32823,
+        "cw": 2,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Boost3d",
+        "h": "/lol/summoners/na/Boost3d-1738",
+        "t": "Master 636",
+        "op": 3.2,
+        "opr": "8th",
+        "dmg": 31964,
+        "taken": 26599,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "StinkyAsian",
+        "h": "/lol/summoners/na/StinkyAsian-EWW",
+        "t": "Master 739",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 8173,
+        "taken": 22236,
+        "cw": 14,
+        "wards": "39 / 10"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Adumski",
+        "h": "/lol/summoners/na/Adumski-NA1",
+        "t": "Master 691",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 25171,
+        "taken": 30043,
+        "cw": 0,
+        "wards": "4 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 601",
+        "op": 6.1,
+        "opr": "2nd",
+        "dmg": 28689,
+        "taken": 27555,
+        "cw": 0,
+        "wards": "11 / 4"
+       },
+       {
+        "n": "ZakMTL",
+        "h": "/lol/summoners/na/ZakMTL-JUGG",
+        "t": "Master 905",
+        "op": 5.2,
+        "opr": "4th",
+        "dmg": 22386,
+        "taken": 24317,
+        "cw": 1,
+        "wards": "5 / 3"
+       },
+       {
+        "n": "Reminder",
+        "h": "/lol/summoners/na/Reminder-OVOXO",
+        "t": "Master 634",
+        "op": 6.5,
+        "opr": "MVP",
+        "dmg": 33056,
+        "taken": 30377,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "Donkey Hawaii",
+        "h": "/lol/summoners/na/Donkey%20Hawaii-NA1",
+        "t": "Master 712",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 10080,
+        "taken": 30418,
+        "cw": 10,
+        "wards": "33 / 10"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794174189132,
+   "shot": "g_a7a7d61a92.jpg",
+   "lpCalc": true,
+   "roast": "Win on Rengar (9/2/7). Got carried and the 7.7 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
