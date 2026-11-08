@@ -47725,6 +47725,300 @@
    "roast": "12/1/7 win on Akali. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_24a96b68de.jpg",
    "firstSeen": 1794104289479
+  },
+  "Ranked Solo/Duo|11/7/2026, 9:50 PM|Akali|26m 51s": {
+   "id": "Ranked Solo/Duo|11/7/2026, 9:50 PM|Akali|26m 51s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/7/2026, 9:50 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Akali",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+   },
+   "level": 14,
+   "duration": "26m 51s",
+   "minutes": 26.85,
+   "k": 5,
+   "d": 8,
+   "a": 6,
+   "kda": "1.38",
+   "kp": 52,
+   "cs": 168,
+   "csm": 6.3,
+   "laning": [
+    42,
+    58
+   ],
+   "avgTier": "Master 643",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Doran's Ring",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1056.png"
+    },
+    {
+     "n": "Hextech Gunblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3146.png"
+    },
+    {
+     "n": "Spellslinger's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3175.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1058.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Amplifying Tome",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1052.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Electrocute",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Sabin",
+     "h": "/lol/summoners/na/Sabin-0006",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Maokai.png"
+    },
+    {
+     "n": "TRLJD",
+     "h": "/lol/summoners/na/TRLJD-1111",
+     "c": "Nunu & Willump",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nunu.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "Ophion",
+     "h": "/lol/summoners/na/Ophion-Nyx",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Winter",
+     "h": "/lol/summoners/na/Winter-Zoeee",
+     "c": "Elise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Elise.png"
+    },
+    {
+     "n": "Greenteabub",
+     "h": "/lol/summoners/na/Greenteabub-1111",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+    },
+    {
+     "n": "咩啊咩啊咩啊咩啊咩啊咩啊",
+     "h": "/lol/summoners/na/%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A-777",
+     "c": "Karthus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karthus.png"
+    },
+    {
+     "n": "YuDouFu",
+     "h": "/lol/summoners/na/YuDouFu-NA1",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "D3TERMINATI0N",
+     "h": "/lol/summoners/na/D3TERMINATI0N-DDG",
+     "c": "Sivir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sivir.png"
+    },
+    {
+     "n": "passive player",
+     "h": "/lol/summoners/na/passive%20player-timid",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794106200000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Sabin",
+        "h": "/lol/summoners/na/Sabin-0006",
+        "t": "Grandmaster 1,404",
+        "op": 2.3,
+        "opr": "10th",
+        "dmg": 21492,
+        "taken": 50420,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "TRLJD",
+        "h": "/lol/summoners/na/TRLJD-1111",
+        "t": "Master 617",
+        "op": 4.7,
+        "opr": "ACE",
+        "dmg": 16319,
+        "taken": 35771,
+        "cw": 0,
+        "wards": "3 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 671",
+        "op": 3.1,
+        "opr": "8th",
+        "dmg": 29346,
+        "taken": 32387,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Ophion",
+        "h": "/lol/summoners/na/Ophion-Nyx",
+        "t": "Master 724",
+        "op": 3.1,
+        "opr": "9th",
+        "dmg": 22748,
+        "taken": 23081,
+        "cw": 0,
+        "wards": "8 / 3"
+       },
+       {
+        "n": "Winter",
+        "h": "/lol/summoners/na/Winter-Zoeee",
+        "t": "Master 822",
+        "op": 3.2,
+        "opr": "7th",
+        "dmg": 14267,
+        "taken": 30212,
+        "cw": 12,
+        "wards": "28 / 10"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Greenteabub",
+        "h": "/lol/summoners/na/Greenteabub-1111",
+        "t": "Master 1,206",
+        "op": 6.5,
+        "opr": "4th",
+        "dmg": 45151,
+        "taken": 64593,
+        "cw": 0,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "咩啊咩啊咩啊咩啊咩啊咩啊",
+        "h": "/lol/summoners/na/%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A%E5%92%A9%E5%95%8A-777",
+        "t": "Master 381",
+        "op": 6.5,
+        "opr": "3rd",
+        "dmg": 31341,
+        "taken": 29191,
+        "cw": 4,
+        "wards": "5 / 5"
+       },
+       {
+        "n": "YuDouFu",
+        "h": "/lol/summoners/na/YuDouFu-NA1",
+        "t": "Master 163",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 16612,
+        "taken": 9390,
+        "cw": 0,
+        "wards": "11 / 4"
+       },
+       {
+        "n": "D3TERMINATI0N",
+        "h": "/lol/summoners/na/D3TERMINATI0N-DDG",
+        "t": "Master 156",
+        "op": 7.3,
+        "opr": "2nd",
+        "dmg": 42847,
+        "taken": 26628,
+        "cw": 0,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "passive player",
+        "h": "/lol/summoners/na/passive%20player-timid",
+        "t": "Master 290",
+        "op": 8.8,
+        "opr": "MVP",
+        "dmg": 12960,
+        "taken": 9757,
+        "cw": 9,
+        "wards": "23 / 0"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 9,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1794106475859,
+   "shot": "g_2172bcebcc.jpg",
+   "lpCalc": true,
+   "roast": "5/8/6 on Akali. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
