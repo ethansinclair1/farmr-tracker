@@ -1,24 +1,24 @@
 {
- "sig": "bcaac23f89",
+ "sig": "5117e3a4cc",
  "report": {
-  "roast": "0W 1L, -31 LP. Bleeding LP like it's a hobby.",
+  "roast": "0W 2L, -62 LP. The enemy team should be paying him.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.0 vs 3.0 drakes a game). Be there before they spawn.",
-   "Buy control wards - 0.0 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Take objectives: losing dragons/grubs (0.5 vs 3.5 drakes a game). Be there before they spawn.",
+   "Low kill participation (47%). Stop farming while your team fights.",
+   "Stop dying - 5.5 deaths a game. Ward before face-checking."
   ],
   "ai": false,
   "wins": 0,
-  "losses": 1,
+  "losses": 2,
   "k": 7,
-  "d": 4,
-  "a": 3,
-  "kda": 2.5,
-  "csm": 8.763206960845245,
-  "kp": 56,
-  "lpNet": -31,
+  "d": 5.5,
+  "a": 2.5,
+  "kda": 1.7272727272727273,
+  "csm": 8.156073001887979,
+  "kp": 47,
+  "lpNet": -62,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }

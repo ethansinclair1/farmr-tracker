@@ -49182,6 +49182,300 @@
    "roast": "A 7/4/3 loss on Jarvan IV. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_3d44131826.jpg",
    "firstSeen": 1794162063766
+  },
+  "Ranked Solo/Duo|11/8/2026, 1:49 PM|Diana|26m 09s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 1:49 PM|Diana|26m 09s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 1:49 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+   },
+   "level": 14,
+   "duration": "26m 09s",
+   "minutes": 26.15,
+   "k": 7,
+   "d": 7,
+   "a": 2,
+   "kda": "1.29",
+   "kp": 38,
+   "cs": 197,
+   "csm": 7.5,
+   "laning": [
+    48,
+    52
+   ],
+   "avgTier": "Master 311",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4633.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3152.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Cloth Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1029.png"
+    },
+    {
+     "n": "Amplifying Tome",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1052.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Naatrox",
+     "h": "/lol/summoners/na/Naatrox-AATRX",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Darius.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "brainrot",
+     "h": "/lol/summoners/na/brainrot-2easy",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hwei.png"
+    },
+    {
+     "n": "MoneroForPuppers",
+     "h": "/lol/summoners/na/MoneroForPuppers-NA1",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Twitch.png"
+    },
+    {
+     "n": "rotten angel",
+     "h": "/lol/summoners/na/rotten%20angel-meow",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Neeko.png"
+    },
+    {
+     "n": "P\nVision of Empire",
+     "h": "/lol/summoners/na/Vision%20of%20Empire-KEKW",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vayne.png"
+    },
+    {
+     "n": "Rat",
+     "h": "/lol/summoners/na/Rat-na5",
+     "c": "Wukong",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MonkeyKing.png"
+    },
+    {
+     "n": "Lindaツ",
+     "h": "/lol/summoners/na/Linda%E3%83%84-80085",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "Uncle Raz",
+     "h": "/lol/summoners/na/Uncle%20Raz-1302",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Bamboozler Bob",
+     "h": "/lol/summoners/na/Bamboozler%20Bob-6969",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lissandra.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794163740000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Naatrox",
+        "h": "/lol/summoners/na/Naatrox-AATRX",
+        "t": "Master 303",
+        "op": 2.1,
+        "opr": "10th",
+        "dmg": 5073,
+        "taken": 18925,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 576",
+        "op": 4,
+        "opr": "7th",
+        "dmg": 19592,
+        "taken": 24838,
+        "cw": 1,
+        "wards": "2 / 2"
+       },
+       {
+        "n": "brainrot",
+        "h": "/lol/summoners/na/brainrot-2easy",
+        "t": "Master 178",
+        "op": 3.9,
+        "opr": "8th",
+        "dmg": 16274,
+        "taken": 18649,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "MoneroForPuppers",
+        "h": "/lol/summoners/na/MoneroForPuppers-NA1",
+        "t": "Master 120",
+        "op": 4.8,
+        "opr": "ACE",
+        "dmg": 19062,
+        "taken": 21167,
+        "cw": 1,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "rotten angel",
+        "h": "/lol/summoners/na/rotten%20angel-meow",
+        "t": "Master 266",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 15288,
+        "taken": 23720,
+        "cw": 5,
+        "wards": "26 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Vision of Empire",
+        "h": "/lol/summoners/na/Vision%20of%20Empire-KEKW",
+        "t": "Master 120",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 14165,
+        "taken": 10088,
+        "cw": 1,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "Rat",
+        "h": "/lol/summoners/na/Rat-na5",
+        "t": "Master 444",
+        "op": 8.1,
+        "opr": "MVP",
+        "dmg": 17657,
+        "taken": 27013,
+        "cw": 2,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "Lindaツ",
+        "h": "/lol/summoners/na/Linda%E3%83%84-80085",
+        "t": "Master 232",
+        "op": 6.4,
+        "opr": "3rd",
+        "dmg": 24992,
+        "taken": 25853,
+        "cw": 0,
+        "wards": "3 / 1"
+       },
+       {
+        "n": "Uncle Raz",
+        "h": "/lol/summoners/na/Uncle%20Raz-1302",
+        "t": "Master 473",
+        "op": 5.4,
+        "opr": "4th",
+        "dmg": 16717,
+        "taken": 18037,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "Bamboozler Bob",
+        "h": "/lol/summoners/na/Bamboozler%20Bob-6969",
+        "t": "Master 394",
+        "op": 6.7,
+        "opr": "2nd",
+        "dmg": 18356,
+        "taken": 20112,
+        "cw": 9,
+        "wards": "17 / 3"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794164004666,
+   "shot": "g_9bc70bf71a.jpg",
+   "lpCalc": true,
+   "roast": "38% kill participation. Was Diana in this game or just watching it?"
   }
  },
  "tz": "America/Toronto"
