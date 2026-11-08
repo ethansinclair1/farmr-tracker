@@ -49475,6 +49475,296 @@
    "roast": "38% kill participation. Was Diana in this game or just watching it?",
    "shot": "g_9bc70bf71a.jpg",
    "firstSeen": 1794164004666
+  },
+  "Ranked Solo/Duo|11/8/2026, 2:21 PM|Rengar|25m 35s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 2:21 PM|Rengar|25m 35s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 2:21 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 15,
+   "duration": "25m 35s",
+   "minutes": 25.583333333333332,
+   "k": 5,
+   "d": 3,
+   "a": 5,
+   "kda": "3.33",
+   "kp": 50,
+   "cs": 197,
+   "csm": 7.7,
+   "laning": [
+    46,
+    54
+   ],
+   "avgTier": "Master 276",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3036.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Justin Baeber",
+     "h": "/lol/summoners/na/Justin%20Baeber-NA1",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malphite.png"
+    },
+    {
+     "n": "Effie",
+     "h": "/lol/summoners/na/Effie-3ffie",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "poof",
+     "h": "/lol/summoners/na/poof-oof",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xerath.png"
+    },
+    {
+     "n": "Eyes",
+     "h": "/lol/summoners/na/Eyes-Relax",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "brainrot",
+     "h": "/lol/summoners/na/brainrot-2easy",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    },
+    {
+     "n": "Yunnan",
+     "h": "/lol/summoners/na/Yunnan-087",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Someday one day",
+     "h": "/lol/summoners/na/Someday%20one%20day-na2",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Irelia.png"
+    },
+    {
+     "n": "Riot Ritan",
+     "h": "/lol/summoners/na/Riot%20Ritan-Riot",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jinx.png"
+    },
+    {
+     "n": "Riot Hexyn",
+     "h": "/lol/summoners/na/Riot%20Hexyn-RIOT",
+     "c": "Milio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Milio.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794165660000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Justin Baeber",
+        "h": "/lol/summoners/na/Justin%20Baeber-NA1",
+        "t": "Master 571",
+        "op": 3.4,
+        "opr": "7th",
+        "dmg": 28032,
+        "taken": 26477,
+        "cw": 1,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "Effie",
+        "h": "/lol/summoners/na/Effie-3ffie",
+        "t": "Master 365",
+        "op": 5.4,
+        "opr": "ACE",
+        "dmg": 17123,
+        "taken": 22722,
+        "cw": 0,
+        "wards": "2 / 7"
+       },
+       {
+        "n": "poof",
+        "h": "/lol/summoners/na/poof-oof",
+        "t": "Master 89",
+        "op": 1.3,
+        "opr": "10th",
+        "dmg": 10710,
+        "taken": 11525,
+        "cw": 1,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Eyes",
+        "h": "/lol/summoners/na/Eyes-Relax",
+        "t": "Master 836",
+        "op": 2.1,
+        "opr": "9th",
+        "dmg": 25427,
+        "taken": 19093,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "brainrot",
+        "h": "/lol/summoners/na/brainrot-2easy",
+        "t": "Master 148",
+        "op": 2.4,
+        "opr": "8th",
+        "dmg": 7416,
+        "taken": 20016,
+        "cw": 8,
+        "wards": "26 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Yunnan",
+        "h": "/lol/summoners/na/Yunnan-087",
+        "t": "Diamond 1",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 26056,
+        "taken": 56559,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 545",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 11424,
+        "taken": 22430,
+        "cw": 0,
+        "wards": "10 / 5"
+       },
+       {
+        "n": "Someday one day",
+        "h": "/lol/summoners/na/Someday%20one%20day-na2",
+        "t": "Diamond 2",
+        "op": 5.8,
+        "opr": "2nd",
+        "dmg": 17364,
+        "taken": 19598,
+        "cw": 4,
+        "wards": "8 / 6"
+       },
+       {
+        "n": "Riot Ritan",
+        "h": "/lol/summoners/na/Riot%20Ritan-Riot",
+        "t": "Master 207",
+        "op": 5.4,
+        "opr": "3rd",
+        "dmg": 24596,
+        "taken": 15059,
+        "cw": 0,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "Riot Hexyn",
+        "h": "/lol/summoners/na/Riot%20Hexyn-RIOT",
+        "t": "Master 161",
+        "op": 6.1,
+        "opr": "MVP",
+        "dmg": 3357,
+        "taken": 8740,
+        "cw": 2,
+        "wards": "27 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1794165964196,
+   "shot": "g_ee863fc80e.jpg",
+   "lpCalc": true,
+   "roast": "5/3/5 win on Rengar. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
