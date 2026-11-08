@@ -1,24 +1,24 @@
 {
- "sig": "3e10d56009",
+ "sig": "498d003cc0",
  "report": {
-  "roast": "4W 3L, +23 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "4W 4L, -8 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Low kill participation (53%). Stop farming while your team fights.",
-   "Buy control wards - 0.3 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane."
+   "Low kill participation (52%). Stop farming while your team fights.",
+   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.5 a game is nothing."
   ],
   "ai": false,
   "wins": 4,
-  "losses": 3,
-  "k": 6.428571428571429,
-  "d": 4.571428571428571,
-  "a": 8.142857142857142,
-  "kda": 3.1875,
-  "csm": 7.788233224870285,
-  "kp": 53,
-  "lpNet": 23,
+  "losses": 4,
+  "k": 6.25,
+  "d": 5,
+  "a": 7.875,
+  "kda": 2.825,
+  "csm": 7.522908440736051,
+  "kp": 51.5,
+  "lpNet": -8,
   "ints": 0,
-  "games": 7
+  "games": 8
  },
  "v": 3
 }
