@@ -47155,6 +47155,287 @@
    "roast": "A 9/6/19 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_6614f34817.jpg",
    "firstSeen": 1794099937806
+  },
+  "Ranked 5s|11/7/2026, 8:27 PM|Zilean|17m 50s": {
+   "id": "Ranked 5s|11/7/2026, 8:27 PM|Zilean|17m 50s",
+   "queue": "Ranked 5s",
+   "date": "11/7/2026, 8:27 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Zilean",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zilean.png"
+   },
+   "level": 12,
+   "duration": "17m 50s",
+   "minutes": 17.833333333333332,
+   "k": 0,
+   "d": 3,
+   "a": 10,
+   "kda": "3.33",
+   "kp": 53,
+   "cs": 109,
+   "csm": 6.1,
+   "laning": [
+    49,
+    51
+   ],
+   "avgTier": "Platinum 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Ring",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1056.png"
+    },
+    {
+     "n": "Seraph's Embrace",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3040.png"
+    },
+    {
+     "n": "Crimson Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3171.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Arcane Comet",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8229.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "lil b",
+     "h": "/lol/summoners/na/lil%20b-bob",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "Kulak",
+     "h": "/lol/summoners/na/Kulak-8912",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "MrPandaFire",
+     "h": "/lol/summoners/na/MrPandaFire-NA1",
+     "c": "Locke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Locke.png"
+    },
+    {
+     "n": "Estir",
+     "h": "/lol/summoners/na/Estir-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "nower",
+     "h": "/lol/summoners/na/nower-NA1",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Maokai.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Shen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shen.png"
+    },
+    {
+     "n": "Burnoutz",
+     "h": "/lol/summoners/na/Burnoutz-NA1",
+     "c": "Master Yi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MasterYi.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zilean.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Corki",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Corki.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Morgana.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794101220000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "lil b",
+        "h": "/lol/summoners/na/lil%20b-bob",
+        "t": "Silver 3",
+        "op": 0.2,
+        "opr": "10th",
+        "dmg": 8510,
+        "taken": 27224,
+        "cw": 1,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "Kulak",
+        "h": "/lol/summoners/na/Kulak-8912",
+        "t": "Emerald 4",
+        "op": 2.5,
+        "opr": "9th",
+        "dmg": 5803,
+        "taken": 11609,
+        "cw": 2,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "MrPandaFire",
+        "h": "/lol/summoners/na/MrPandaFire-NA1",
+        "t": "Gold 3",
+        "op": 5.2,
+        "opr": "ACE",
+        "dmg": 10225,
+        "taken": 10339,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "Estir",
+        "h": "/lol/summoners/na/Estir-NA1",
+        "t": "Platinum 2",
+        "op": 4.3,
+        "opr": "7th",
+        "dmg": 6694,
+        "taken": 6137,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "nower",
+        "h": "/lol/summoners/na/nower-NA1",
+        "t": "",
+        "op": 4.3,
+        "opr": "8th",
+        "dmg": 2888,
+        "taken": 12230,
+        "cw": 5,
+        "wards": "12 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Emerald 4",
+        "op": 6.8,
+        "opr": "2nd",
+        "dmg": 19294,
+        "taken": 12059,
+        "cw": 0,
+        "wards": "1 / 1"
+       },
+       {
+        "n": "Burnoutz",
+        "h": "/lol/summoners/na/Burnoutz-NA1",
+        "t": "Master Yi",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 19146,
+        "taken": 9887,
+        "cw": 0,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 671",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 7110,
+        "taken": 9770,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "69PapiChulo",
+        "h": "/lol/summoners/na/69PapiChulo-4802",
+        "t": "Silver 4",
+        "op": 6,
+        "opr": "4th",
+        "dmg": 9178,
+        "taken": 7021,
+        "cw": 1,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "wyattskitten",
+        "h": "/lol/summoners/na/wyattskitten-uwu",
+        "t": "Iron 4",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 3927,
+        "taken": 6701,
+        "cw": 0,
+        "wards": "14 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794101380089,
+   "shot": "g_bffe3c76f8.jpg",
+   "roast": "Win on Zilean (0/3/10). Got carried and the 6.1 CS/min proves it."
   }
  },
  "tz": "America/Toronto"
