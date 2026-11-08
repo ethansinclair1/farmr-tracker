@@ -46573,6 +46573,295 @@
    "roast": "4/4/5 win on Diana. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_dc5b7511e0.jpg",
    "firstSeen": 1794094577899
+  },
+  "Ranked 5s|11/7/2026, 7:08 PM|Sylas|19m 51s": {
+   "id": "Ranked 5s|11/7/2026, 7:08 PM|Sylas|19m 51s",
+   "queue": "Ranked 5s",
+   "date": "11/7/2026, 7:08 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+   },
+   "level": 11,
+   "duration": "19m 51s",
+   "minutes": 19.85,
+   "k": 2,
+   "d": 6,
+   "a": 2,
+   "kda": "0.67",
+   "kp": 40,
+   "cs": 121,
+   "csm": 6.1,
+   "laning": [
+    35,
+    65
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Ring",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1056.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3152.png"
+    },
+    {
+     "n": "Refillable Potion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2031.png"
+    },
+    {
+     "n": "Crimson Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3171.png"
+    },
+    {
+     "n": "Fiendish Codex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3108.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Morgana.png"
+    },
+    {
+     "n": "Burnoutz",
+     "h": "/lol/summoners/na/Burnoutz-NA1",
+     "c": "Bel'Veth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Belveth.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KogMaw.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Blitzcrank.png"
+    },
+    {
+     "n": "The Merve",
+     "h": "/lol/summoners/na/The%20Merve-NA1",
+     "c": "Mordekaiser",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Mordekaiser.png"
+    },
+    {
+     "n": "c1azzy",
+     "h": "/lol/summoners/na/c1azzy-42069",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viego.png"
+    },
+    {
+     "n": "Dive",
+     "h": "/lol/summoners/na/Dive-001",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "BleckSpoondle",
+     "h": "/lol/summoners/na/BleckSpoondle-430",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "woodee",
+     "h": "/lol/summoners/na/woodee-wood",
+     "c": "Tahm Kench",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TahmKench.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794096480000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "wyattskitten",
+        "h": "/lol/summoners/na/wyattskitten-uwu",
+        "t": "Iron 4",
+        "op": 3.5,
+        "opr": "7th",
+        "dmg": 7643,
+        "taken": 12810,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Burnoutz",
+        "h": "/lol/summoners/na/Burnoutz-NA1",
+        "t": "Master 482",
+        "op": 3.4,
+        "opr": "9th",
+        "dmg": 12721,
+        "taken": 20070,
+        "cw": 0,
+        "wards": "1 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 671",
+        "op": 3.5,
+        "opr": "8th",
+        "dmg": 11133,
+        "taken": 18955,
+        "cw": 1,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "69PapiChulo",
+        "h": "/lol/summoners/na/69PapiChulo-4802",
+        "t": "Silver 4",
+        "op": 3.8,
+        "opr": "ACE",
+        "dmg": 15842,
+        "taken": 14071,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Emerald 4",
+        "op": 2.6,
+        "opr": "10th",
+        "dmg": 5429,
+        "taken": 17771,
+        "cw": 2,
+        "wards": "11 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "The Merve",
+        "h": "/lol/summoners/na/The%20Merve-NA1",
+        "t": "Diamond 4",
+        "op": 9.3,
+        "opr": "4th",
+        "dmg": 19373,
+        "taken": 18594,
+        "cw": 2,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "c1azzy",
+        "h": "/lol/summoners/na/c1azzy-42069",
+        "t": "Silver 4",
+        "op": 6.2,
+        "opr": "5th",
+        "dmg": 5242,
+        "taken": 16006,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "Dive",
+        "h": "/lol/summoners/na/Dive-001",
+        "t": "Master 153",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 20741,
+        "taken": 8157,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "BleckSpoondle",
+        "h": "/lol/summoners/na/BleckSpoondle-430",
+        "t": "Gold 3",
+        "op": 10,
+        "opr": "3rd",
+        "dmg": 11510,
+        "taken": 9326,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "woodee",
+        "h": "/lol/summoners/na/woodee-wood",
+        "t": "Emerald 2",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 15656,
+        "taken": 23614,
+        "cw": 5,
+        "wards": "17 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 7,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794097015320,
+   "shot": "g_9b87fb9961.jpg",
+   "roast": "A 2/6/2 loss on Sylas. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
