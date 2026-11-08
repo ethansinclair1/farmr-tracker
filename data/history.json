@@ -47436,6 +47436,295 @@
    "roast": "Win on Zilean (0/3/10). Got carried and the 6.1 CS/min proves it.",
    "shot": "g_bffe3c76f8.jpg",
    "firstSeen": 1794101380089
+  },
+  "Ranked 5s|11/7/2026, 9:12 PM|Akali|22m 31s": {
+   "id": "Ranked 5s|11/7/2026, 9:12 PM|Akali|22m 31s",
+   "queue": "Ranked 5s",
+   "date": "11/7/2026, 9:12 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Akali",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+   },
+   "level": 16,
+   "duration": "22m 31s",
+   "minutes": 22.516666666666666,
+   "k": 12,
+   "d": 1,
+   "a": 7,
+   "kda": "19.00",
+   "kp": 66,
+   "cs": 216,
+   "csm": 9.6,
+   "laning": [
+    77,
+    23
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1082.png"
+    },
+    {
+     "n": "Hextech Gunblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3146.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3157.png"
+    },
+    {
+     "n": "Spellslinger's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3175.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Electrocute",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Shoku",
+     "h": "/lol/summoners/na/Shoku-CHAD",
+     "c": "Sett",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sett.png"
+    },
+    {
+     "n": "Fonzy",
+     "h": "/lol/summoners/na/Fonzy-TxR",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lillia.png"
+    },
+    {
+     "n": "AFGHAN DAD",
+     "h": "/lol/summoners/na/AFGHAN%20DAD-BOOM",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "IptamenosAlbanos",
+     "h": "/lol/summoners/na/IptamenosAlbanos-1315",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jinx.png"
+    },
+    {
+     "n": "ChubbyPeaNut",
+     "h": "/lol/summoners/na/ChubbyPeaNut-CHAD",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sona.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    },
+    {
+     "n": "Burnoutz",
+     "h": "/lol/summoners/na/Burnoutz-NA1",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794103920000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Shoku",
+        "h": "/lol/summoners/na/Shoku-CHAD",
+        "t": "Emerald 3",
+        "op": 2.6,
+        "opr": "9th",
+        "dmg": 15460,
+        "taken": 26827,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "Fonzy",
+        "h": "/lol/summoners/na/Fonzy-TxR",
+        "t": "Gold 1",
+        "op": 4.5,
+        "opr": "7th",
+        "dmg": 10291,
+        "taken": 24783,
+        "cw": 1,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "AFGHAN DAD",
+        "h": "/lol/summoners/na/AFGHAN%20DAD-BOOM",
+        "t": "",
+        "op": 2.4,
+        "opr": "10th",
+        "dmg": 7860,
+        "taken": 17969,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "IptamenosAlbanos",
+        "h": "/lol/summoners/na/IptamenosAlbanos-1315",
+        "t": "Platinum 1",
+        "op": 6.5,
+        "opr": "ACE",
+        "dmg": 12249,
+        "taken": 9115,
+        "cw": 2,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "ChubbyPeaNut",
+        "h": "/lol/summoners/na/ChubbyPeaNut-CHAD",
+        "t": "",
+        "op": 4.2,
+        "opr": "8th",
+        "dmg": 3441,
+        "taken": 11036,
+        "cw": 2,
+        "wards": "12 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Emerald 4",
+        "op": 6,
+        "opr": "4th",
+        "dmg": 19504,
+        "taken": 16538,
+        "cw": 0,
+        "wards": "3 / 0"
+       },
+       {
+        "n": "Burnoutz",
+        "h": "/lol/summoners/na/Burnoutz-NA1",
+        "t": "Master 482",
+        "op": 8.2,
+        "opr": "2nd",
+        "dmg": 16717,
+        "taken": 20930,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 671",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 30422,
+        "taken": 16589,
+        "cw": 0,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "69PapiChulo",
+        "h": "/lol/summoners/na/69PapiChulo-4802",
+        "t": "Silver 4",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 4886,
+        "taken": 8689,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "wyattskitten",
+        "h": "/lol/summoners/na/wyattskitten-uwu",
+        "t": "Iron 4",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 2844,
+        "taken": 7253,
+        "cw": 0,
+        "wards": "18 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794104289479,
+   "shot": "g_24a96b68de.jpg",
+   "roast": "12/1/7 win on Akali. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
