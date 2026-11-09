@@ -53407,8 +53407,157 @@
    "team": 0,
    "ts": 1794194280000,
    "detail": null,
-   "firstSeen": 1794194814307,
-   "shot": "g_e4e90e973f.jpg"
+   "shot": "g_e4e90e973f.jpg",
+   "firstSeen": 1794194814307
+  },
+  "Normal|11/8/2026, 10:57 PM|Lux|31m 18s": {
+   "id": "Normal|11/8/2026, 10:57 PM|Lux|31m 18s",
+   "queue": "Normal",
+   "date": "11/8/2026, 10:57 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Lux",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+   },
+   "level": 16,
+   "duration": "31m 18s",
+   "minutes": 31.3,
+   "k": 9,
+   "d": 9,
+   "a": 15,
+   "kda": "2.67",
+   "kp": 57,
+   "cs": 202,
+   "csm": 6.5,
+   "laning": [
+    59,
+    41
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1058.png"
+    },
+    {
+     "n": "Luden's Echo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6655.png"
+    },
+    {
+     "n": "Spellslinger's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3175.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Stormsurge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4646.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1058.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Barrier",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerBarrier.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Arcane Comet",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8229.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "swisp",
+     "h": "/lol/summoners/na/swisp-jng",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Prykz",
+     "h": "/lol/summoners/na/Prykz-NA1",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "Derazzle",
+     "h": "/lol/summoners/na/Derazzle-NA1",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leblanc.png"
+    },
+    {
+     "n": "Top Dominance",
+     "h": "/lol/summoners/na/Top%20Dominance-NA1",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Draven.png"
+    },
+    {
+     "n": "Hugh Januos",
+     "h": "/lol/summoners/na/Hugh%20Januos-NA1",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leona.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "Bob",
+     "h": "/lol/summoners/na/Bob-Rare",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Naafiri.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "khang",
+     "h": "/lol/summoners/na/khang-0814",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "ColZDude",
+     "h": "/lol/summoners/na/ColZDude-Dad",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Blitzcrank.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794196620000,
+   "detail": null,
+   "firstSeen": 1794196735903,
+   "shot": "g_33a67be201.jpg"
   }
  },
  "tz": "America/Toronto"
