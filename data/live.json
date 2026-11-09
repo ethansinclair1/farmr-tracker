@@ -1,7 +1,7 @@
 {
  "queue": "Ranked Solo/Duo",
  "map": "Summoner's Rift",
- "elapsed": 268,
+ "elapsed": 506,
  "started": "11/9/2026, 4:07 PM",
  "teams": [
   {
@@ -101,7 +101,7 @@
       }
      ],
      "tier": "Master",
-     "played": "2056",
+     "played": "2057",
      "wr": "",
      "kda": "2.17"
     },
@@ -291,8 +291,8 @@
        "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
       }
      ],
-     "tier": "Diamond 1",
-     "played": "855",
+     "tier": "Master",
+     "played": "861",
      "wr": "",
      "kda": "2.77"
     },
@@ -325,7 +325,7 @@
       }
      ],
      "tier": "Master",
-     "played": "635",
+     "played": "636",
      "wr": "",
      "kda": "2.21"
     },
@@ -387,5 +387,5 @@
    ]
   }
  ],
- "at": "2026-11-09T21:10:56.601Z"
+ "at": "2026-11-09T21:14:56.717Z"
 }
