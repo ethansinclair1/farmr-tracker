@@ -52381,6 +52381,300 @@
    "roast": "Win on Talon (12/7/11). Got carried and the 6.6 CS/min proves it.",
    "shot": "g_a804810775.jpg",
    "firstSeen": 1794185598238
+  },
+  "Ranked Solo/Duo|11/8/2026, 8:21 PM|Rengar|25m 21s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 8:21 PM|Rengar|25m 21s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 8:21 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 13,
+   "duration": "25m 21s",
+   "minutes": 25.35,
+   "k": 9,
+   "d": 7,
+   "a": 2,
+   "kda": "1.57",
+   "kp": 65,
+   "cs": 162,
+   "csm": 6.4,
+   "laning": [
+    62,
+    38
+   ],
+   "avgTier": "Master 584",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3814.png"
+    },
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6697.png"
+    },
+    {
+     "n": "Last Whisper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3035.png"
+    },
+    {
+     "n": "Noonquiver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6670.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "YiQiuYe",
+     "h": "/lol/summoners/na/YiQiuYe-NA1",
+     "c": "Fiora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fiora.png"
+    },
+    {
+     "n": "Xandyesca",
+     "h": "/lol/summoners/na/Xandyesca-007",
+     "c": "Xin Zhao",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/XinZhao.png"
+    },
+    {
+     "n": "Uatemychocolate",
+     "h": "/lol/summoners/na/Uatemychocolate-Ekko",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "itsClem",
+     "h": "/lol/summoners/na/itsClem-NA1",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "El Gato Makonha",
+     "h": "/lol/summoners/na/El%20Gato%20Makonha-BCT",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    },
+    {
+     "n": "Macareni",
+     "h": "/lol/summoners/na/Macareni-Wet",
+     "c": "Riven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Riven.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Jindřich ze S",
+     "h": "/lol/summoners/na/Jind%C5%99ich%20ze%20S-4464",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "Yuriyumilol",
+     "h": "/lol/summoners/na/Yuriyumilol-NA1",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "Helyx",
+     "h": "/lol/summoners/na/Helyx-%C3%A4gare",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794187260000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "YiQiuYe",
+        "h": "/lol/summoners/na/YiQiuYe-NA1",
+        "t": "Master 234",
+        "op": 7.9,
+        "opr": "MVP",
+        "dmg": 27461,
+        "taken": 25632,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "Xandyesca",
+        "h": "/lol/summoners/na/Xandyesca-007",
+        "t": "Master 407",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 12440,
+        "taken": 20195,
+        "cw": 6,
+        "wards": "8 / 8"
+       },
+       {
+        "n": "Uatemychocolate",
+        "h": "/lol/summoners/na/Uatemychocolate-Ekko",
+        "t": "Master 1,206",
+        "op": 7.2,
+        "opr": "2nd",
+        "dmg": 22936,
+        "taken": 22896,
+        "cw": 1,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "itsClem",
+        "h": "/lol/summoners/na/itsClem-NA1",
+        "t": "Master 412",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 16514,
+        "taken": 17982,
+        "cw": 1,
+        "wards": "10 / 5"
+       },
+       {
+        "n": "El Gato Makonha",
+        "h": "/lol/summoners/na/El%20Gato%20Makonha-BCT",
+        "t": "Master 173",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 5369,
+        "taken": 12657,
+        "cw": 13,
+        "wards": "30 / 9"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Macareni",
+        "h": "/lol/summoners/na/Macareni-Wet",
+        "t": "Master 771",
+        "op": 2.3,
+        "opr": "10th",
+        "dmg": 11848,
+        "taken": 22157,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 595",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 16122,
+        "taken": 21790,
+        "cw": 1,
+        "wards": "3 / 3"
+       },
+       {
+        "n": "Jindřich ze S",
+        "h": "/lol/summoners/na/Jind%C5%99ich%20ze%20S-4464",
+        "t": "Master 974",
+        "op": 5.6,
+        "opr": "ACE",
+        "dmg": 21918,
+        "taken": 17034,
+        "cw": 1,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "Yuriyumilol",
+        "h": "/lol/summoners/na/Yuriyumilol-NA1",
+        "t": "Master 766",
+        "op": 2.9,
+        "opr": "8th",
+        "dmg": 11202,
+        "taken": 13895,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "Helyx",
+        "h": "/lol/summoners/na/Helyx-%C3%A4gare",
+        "t": "Master 300",
+        "op": 2.5,
+        "opr": "9th",
+        "dmg": 5587,
+        "taken": 22771,
+        "cw": 8,
+        "wards": "42 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 2,
+      "Tower": 10,
+      "Inhibitor": 2
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794187543008,
+   "shot": "g_2d36e157ee.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Rengar (9/7/2). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
