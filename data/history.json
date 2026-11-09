@@ -53558,6 +53558,299 @@
    "detail": null,
    "shot": "g_33a67be201.jpg",
    "firstSeen": 1794196735903
+  },
+  "Ranked Solo/Duo|11/8/2026, 11:38 PM|Rengar|33m 33s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 11:38 PM|Rengar|33m 33s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 11:38 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 18,
+   "duration": "33m 33s",
+   "minutes": 33.55,
+   "k": 19,
+   "d": 4,
+   "a": 4,
+   "kda": "5.75",
+   "kp": 56,
+   "cs": 300,
+   "csm": 8.9,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Master 304",
+   "lp": null,
+   "items": [
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3036.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3814.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Rain凌泽青",
+     "h": "/lol/summoners/na/Rain%E5%87%8C%E6%B3%BD%E9%9D%92-1988",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "farm",
+     "h": "/lol/summoners/na/farm-NA2",
+     "c": "Sejuani",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sejuani.png"
+    },
+    {
+     "n": "whitepill",
+     "h": "/lol/summoners/na/whitepill-333",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "Luft",
+     "h": "/lol/summoners/na/Luft-0009",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "puipuipuipui",
+     "h": "/lol/summoners/na/puipuipuipui-%E3%83%A2%E3%83%AB%E3%82%AB%E3%83%BC",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "Lingering Will",
+     "h": "/lol/summoners/na/Lingering%20Will-1DAY",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malphite.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Albxo",
+     "h": "/lol/summoners/na/Albxo-519",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "Yuu",
+     "h": "/lol/summoners/na/Yuu-%E9%95%BF%E5%A4%9C%E6%9C%88",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "G91",
+     "h": "/lol/summoners/na/G91-NA1",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Velkoz.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794199080000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Rain凌泽青",
+        "h": "/lol/summoners/na/Rain%E5%87%8C%E6%B3%BD%E9%9D%92-1988",
+        "t": "Master 270",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 21085,
+        "taken": 47250,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "farm",
+        "h": "/lol/summoners/na/farm-NA2",
+        "t": "Master 262",
+        "op": 4.8,
+        "opr": "ACE",
+        "dmg": 21006,
+        "taken": 54677,
+        "cw": 2,
+        "wards": "4 / 2"
+       },
+       {
+        "n": "whitepill",
+        "h": "/lol/summoners/na/whitepill-333",
+        "t": "Master 201",
+        "op": 3.3,
+        "opr": "9th",
+        "dmg": 16223,
+        "taken": 19944,
+        "cw": 0,
+        "wards": "8 / 4"
+       },
+       {
+        "n": "Luft",
+        "h": "/lol/summoners/na/Luft-0009",
+        "t": "Master 87",
+        "op": 4.2,
+        "opr": "8th",
+        "dmg": 24722,
+        "taken": 29960,
+        "cw": 0,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "puipuipuipui",
+        "h": "/lol/summoners/na/puipuipuipui-%E3%83%A2%E3%83%AB%E3%82%AB%E3%83%BC",
+        "t": "Master 114",
+        "op": 1.8,
+        "opr": "10th",
+        "dmg": 11462,
+        "taken": 35740,
+        "cw": 9,
+        "wards": "45 / 3"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Lingering Will",
+        "h": "/lol/summoners/na/Lingering%20Will-1DAY",
+        "t": "Master 655",
+        "op": 5.3,
+        "opr": "4th",
+        "dmg": 22882,
+        "taken": 20822,
+        "cw": 1,
+        "wards": "14 / 5"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 502",
+        "op": 8.5,
+        "opr": "MVP",
+        "dmg": 39654,
+        "taken": 34999,
+        "cw": 0,
+        "wards": "2 / 7"
+       },
+       {
+        "n": "Albxo",
+        "h": "/lol/summoners/na/Albxo-519",
+        "t": "Master 349",
+        "op": 6.1,
+        "opr": "3rd",
+        "dmg": 33542,
+        "taken": 30587,
+        "cw": 1,
+        "wards": "14 / 5"
+       },
+       {
+        "n": "Yuu",
+        "h": "/lol/summoners/na/Yuu-%E9%95%BF%E5%A4%9C%E6%9C%88",
+        "t": "Master 322",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 32686,
+        "taken": 25831,
+        "cw": 0,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "G91",
+        "h": "/lol/summoners/na/G91-NA1",
+        "t": "Master 275",
+        "op": 6.6,
+        "opr": "2nd",
+        "dmg": 35972,
+        "taken": 20435,
+        "cw": 5,
+        "wards": "28 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 2,
+      "Dragon": 5,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 4
+     }
+    ]
+   },
+   "firstSeen": 1794199407463,
+   "shot": "g_f2e16fdcd4.jpg",
+   "roast": "19/4/4 on Rengar, 56% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
