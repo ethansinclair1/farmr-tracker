@@ -1,7 +1,7 @@
 {
  "queue": "Ranked Solo/Duo",
  "map": "Summoner's Rift",
- "elapsed": 210,
+ "elapsed": 447,
  "started": "11/9/2026, 1:45 PM",
  "teams": [
   {
@@ -101,7 +101,7 @@
       }
      ],
      "tier": "Master",
-     "played": "713",
+     "played": "714",
      "wr": "",
      "kda": "2.81"
     },
@@ -226,7 +226,7 @@
       }
      ],
      "tier": "Master",
-     "played": "1631",
+     "played": "1632",
      "wr": "",
      "kda": "2.32"
     },
@@ -317,5 +317,5 @@
    ]
   }
  ],
- "at": "2026-11-09T18:48:11.898Z"
+ "at": "2026-11-09T18:52:10.324Z"
 }
