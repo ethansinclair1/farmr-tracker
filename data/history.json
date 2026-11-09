@@ -53260,6 +53260,155 @@
    "roast": "4/10/7 on Jarvan IV. That's not a KDA, that's a donation receipt.",
    "shot": "g_1b4e5f818d.jpg",
    "firstSeen": 1794191900769
+  },
+  "Normal|11/8/2026, 10:18 PM|Kai'Sa|38m 19s": {
+   "id": "Normal|11/8/2026, 10:18 PM|Kai'Sa|38m 19s",
+   "queue": "Normal",
+   "date": "11/8/2026, 10:18 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Kai'Sa",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+   },
+   "level": 18,
+   "duration": "38m 19s",
+   "minutes": 38.31666666666667,
+   "k": 26,
+   "d": 13,
+   "a": 7,
+   "kda": "2.54",
+   "kp": 60,
+   "cs": 248,
+   "csm": 6.5,
+   "laning": [
+    57,
+    43
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3089.png"
+    },
+    {
+     "n": "Kraken Slayer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6672.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3157.png"
+    },
+    {
+     "n": "Nashor's Tooth",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3115.png"
+    },
+    {
+     "n": "Guinsoo's Rageblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3124.png"
+    },
+    {
+     "n": "Banshee's Veil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3102.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Berserker's Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3006.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Barrier",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerBarrier.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8008.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Mrs Kwan",
+     "h": "/lol/summoners/na/Mrs%20Kwan-NA1",
+     "c": "Urgot",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Urgot.png"
+    },
+    {
+     "n": "Miller",
+     "h": "/lol/summoners/na/Miller-MGSV",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Blitzcrank.png"
+    },
+    {
+     "n": "imnotgose",
+     "h": "/lol/summoners/na/imnotgose-gose",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jayce.png"
+    },
+    {
+     "n": "A Rogue STD",
+     "h": "/lol/summoners/na/A%20Rogue%20STD-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "LissMyAss",
+     "h": "/lol/summoners/na/LissMyAss-G59",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lissandra.png"
+    },
+    {
+     "n": "sBors",
+     "h": "/lol/summoners/na/sBors-Peyz",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "RichPersian",
+     "h": "/lol/summoners/na/RichPersian-NA1",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794194280000,
+   "detail": null,
+   "firstSeen": 1794194814307,
+   "shot": "g_e4e90e973f.jpg"
   }
  },
  "tz": "America/Toronto"
