@@ -1,24 +1,24 @@
 {
- "sig": "5d4bad5faf",
+ "sig": "256aa921b9",
  "report": {
-  "roast": "1W 1L, -2 LP. Bleeding LP like it's a hobby.",
+  "roast": "1W 2L, -33 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Buy control wards - 0.5 a game is nothing.",
+   "Buy control wards - 0.3 a game is nothing.",
    "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 1,
-  "k": 7.5,
-  "d": 4,
-  "a": 7,
-  "kda": 3.625,
-  "csm": 7.6719197707736395,
-  "kp": 59,
-  "lpNet": -2,
+  "losses": 2,
+  "k": 7,
+  "d": 4.666666666666667,
+  "a": 8.333333333333334,
+  "kda": 3.2857142857142856,
+  "csm": 7.855695176327523,
+  "kp": 63,
+  "lpNet": -33,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }

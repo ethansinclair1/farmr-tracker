@@ -54425,6 +54425,300 @@
    "roast": "A 10/5/4 loss on Rengar. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_1b35267f52.jpg",
    "firstSeen": 1794251658575
+  },
+  "Ranked Solo/Duo|11/9/2026, 2:50 PM|Diana|35m 42s": {
+   "id": "Ranked Solo/Duo|11/9/2026, 2:50 PM|Diana|35m 42s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/9/2026, 2:50 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+   },
+   "level": 18,
+   "duration": "35m 42s",
+   "minutes": 35.7,
+   "k": 6,
+   "d": 6,
+   "a": 11,
+   "kda": "2.83",
+   "kp": 71,
+   "cs": 289,
+   "csm": 8.1,
+   "laning": [
+    53,
+    47
+   ],
+   "avgTier": "Master 374",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4633.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3152.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3157.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Blighting Jewel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4630.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "ajmonsta",
+     "h": "/lol/summoners/na/ajmonsta-NA1",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "Origin96",
+     "h": "/lol/summoners/na/Origin96-NA1",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Orianna.png"
+    },
+    {
+     "n": "A Rogue STD",
+     "h": "/lol/summoners/na/A%20Rogue%20STD-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "TwigTheMighty",
+     "h": "/lol/summoners/na/TwigTheMighty-sTiK",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zoe.png"
+    },
+    {
+     "n": "Matt",
+     "h": "/lol/summoners/na/Matt-3380",
+     "c": "Anivia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Anivia.png"
+    },
+    {
+     "n": "Purple1323",
+     "h": "/lol/summoners/na/Purple1323-1323",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Plata ton",
+     "h": "/lol/summoners/na/Plata%20ton-2005",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hwei.png"
+    },
+    {
+     "n": "SHELIKTHEWAYIERR",
+     "h": "/lol/summoners/na/SHELIKTHEWAYIERR-NA2",
+     "c": "Sivir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sivir.png"
+    },
+    {
+     "n": "Dacnomaniak",
+     "h": "/lol/summoners/na/Dacnomaniak-BONK",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Poppy.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794253800000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "ajmonsta",
+        "h": "/lol/summoners/na/ajmonsta-NA1",
+        "t": "Master 177",
+        "op": 2.5,
+        "opr": "9th",
+        "dmg": 15729,
+        "taken": 57790,
+        "cw": 0,
+        "wards": "15 / 10"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 529",
+        "op": 5.6,
+        "opr": "ACE",
+        "dmg": 33755,
+        "taken": 38041,
+        "cw": 0,
+        "wards": "7 / 9"
+       },
+       {
+        "n": "Origin96",
+        "h": "/lol/summoners/na/Origin96-NA1",
+        "t": "Master 125",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 25127,
+        "taken": 33195,
+        "cw": 2,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "A Rogue STD",
+        "h": "/lol/summoners/na/A%20Rogue%20STD-NA1",
+        "t": "Master 91",
+        "op": 3.9,
+        "opr": "8th",
+        "dmg": 17823,
+        "taken": 22585,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "TwigTheMighty",
+        "h": "/lol/summoners/na/TwigTheMighty-sTiK",
+        "t": "Master 660",
+        "op": 2.5,
+        "opr": "10th",
+        "dmg": 24227,
+        "taken": 27587,
+        "cw": 9,
+        "wards": "29 / 6"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Matt",
+        "h": "/lol/summoners/na/Matt-3380",
+        "t": "Master 1,112",
+        "op": 6.3,
+        "opr": "2nd",
+        "dmg": 29756,
+        "taken": 37065,
+        "cw": 2,
+        "wards": "13 / 0"
+       },
+       {
+        "n": "Purple1323",
+        "h": "/lol/summoners/na/Purple1323-1323",
+        "t": "Master 369",
+        "op": 4.4,
+        "opr": "6th",
+        "dmg": 30107,
+        "taken": 31666,
+        "cw": 2,
+        "wards": "10 / 11"
+       },
+       {
+        "n": "Plata ton",
+        "h": "/lol/summoners/na/Plata%20ton-2005",
+        "t": "Diamond 4",
+        "op": 5.9,
+        "opr": "4th",
+        "dmg": 35605,
+        "taken": 23015,
+        "cw": 0,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "SHELIKTHEWAYIERR",
+        "h": "/lol/summoners/na/SHELIKTHEWAYIERR-NA2",
+        "t": "Master 163",
+        "op": 7.8,
+        "opr": "MVP",
+        "dmg": 48046,
+        "taken": 27155,
+        "cw": 0,
+        "wards": "14 / 5"
+       },
+       {
+        "n": "Dacnomaniak",
+        "h": "/lol/summoners/na/Dacnomaniak-BONK",
+        "t": "Master 846",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 18011,
+        "taken": 27568,
+        "cw": 8,
+        "wards": "38 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794254096576,
+   "shot": "g_1136c971c9.jpg",
+   "lpCalc": true,
+   "roast": "A 6/6/11 loss on Diana. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
