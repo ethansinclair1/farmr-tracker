@@ -1,24 +1,24 @@
 {
- "sig": "e09adb0fc8",
+ "sig": "03951cc1d9",
  "report": {
-  "roast": "2W 2L, -4 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "3W 2L, +25 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Buy control wards - 0.3 a game is nothing.",
+   "Buy control wards - 0.6 a game is nothing.",
    "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 2,
+  "wins": 3,
   "losses": 2,
-  "k": 7.5,
-  "d": 4.75,
-  "a": 9.75,
-  "kda": 3.6315789473684212,
-  "csm": 7.804727328904682,
-  "kp": 58.75,
-  "lpNet": -4,
+  "k": 7.2,
+  "d": 3.8,
+  "a": 9.6,
+  "kda": 4.421052631578948,
+  "csm": 7.938834828762796,
+  "kp": 56.4,
+  "lpNet": 25,
   "ints": 0,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }
