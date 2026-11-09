@@ -53585,7 +53585,7 @@
     53
    ],
    "avgTier": "Master 304",
-   "lp": null,
+   "lp": 29,
    "items": [
     {
      "n": "Boots of Swiftness",
@@ -53848,9 +53848,9 @@
      }
     ]
    },
-   "firstSeen": 1794199407463,
+   "roast": "19/4/4 on Rengar, 56% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_f2e16fdcd4.jpg",
-   "roast": "19/4/4 on Rengar, 56% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "firstSeen": 1794199407463
   }
  },
  "tz": "America/Toronto"

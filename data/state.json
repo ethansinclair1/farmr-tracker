@@ -1,7 +1,7 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "4752566140",
+ "sig": "03217336ae",
  "rank": {
   "solo": {
    "tier": "Master",
@@ -17,7 +17,7 @@
   }
  },
  "pendingLp": {
-  "solo": "Ranked Solo/Duo|11/8/2026, 11:38 PM|Rengar|33m 33s",
+  "solo": null,
   "flex": null
  }
 }
