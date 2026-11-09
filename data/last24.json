@@ -1,24 +1,24 @@
 {
- "sig": "47eb2958da",
+ "sig": "5d4bad5faf",
  "report": {
-  "roast": "1W 0L, +58 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "1W 1L, -2 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Low kill participation (54%). Stop farming while your team fights.",
-   "Buy control wards - 0.0 a game is nothing.",
+   "Buy control wards - 0.5 a game is nothing.",
+   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 0,
-  "k": 5,
-  "d": 3,
-  "a": 10,
-  "kda": 5,
-  "csm": 7.916041979010495,
-  "kp": 54,
-  "lpNet": 58,
+  "losses": 1,
+  "k": 7.5,
+  "d": 4,
+  "a": 7,
+  "kda": 3.625,
+  "csm": 7.6719197707736395,
+  "kp": 59,
+  "lpNet": -2,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }
