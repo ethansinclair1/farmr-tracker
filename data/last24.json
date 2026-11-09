@@ -1,24 +1,24 @@
 {
- "sig": "cc9f2fea94",
+ "sig": "47eb2958da",
  "report": {
-  "roast": "7W 9L, -105 LP. The enemy team should be paying him.",
+  "roast": "1W 0L, +58 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.7 vs 2.3 drakes a game). Be there before they spawn.",
    "Low kill participation (54%). Stop farming while your team fights.",
-   "Stop dying - 5.6 deaths a game. Ward before face-checking."
+   "Buy control wards - 0.0 a game is nothing.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 7,
-  "losses": 9,
-  "k": 7.25,
-  "d": 5.5625,
-  "a": 6.875,
-  "kda": 2.539325842696629,
-  "csm": 7.178299207891198,
-  "kp": 53.625,
-  "lpNet": -105,
-  "ints": 2,
-  "games": 16
+  "wins": 1,
+  "losses": 0,
+  "k": 5,
+  "d": 3,
+  "a": 10,
+  "kda": 5,
+  "csm": 7.916041979010495,
+  "kp": 54,
+  "lpNet": 58,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }

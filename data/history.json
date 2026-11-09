@@ -38903,8 +38903,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akshan.png"
     },
     {
-     "n": "GodsSpecialChild",
-     "h": "/lol/summoners/na/GodsSpecialChild-NA1",
+     "n": "skitty",
+     "h": "/lol/summoners/na/skitty-cat1",
      "c": "Caitlyn",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
     },
@@ -53851,6 +53851,292 @@
    "roast": "19/4/4 on Rengar, 56% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_f2e16fdcd4.jpg",
    "firstSeen": 1794199407463
+  },
+  "Ranked Solo/Duo|11/9/2026, 1:27 PM|Diana|22m 14s": {
+   "id": "Ranked Solo/Duo|11/9/2026, 1:27 PM|Diana|22m 14s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/9/2026, 1:27 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+   },
+   "level": 15,
+   "duration": "22m 14s",
+   "minutes": 22.233333333333334,
+   "k": 5,
+   "d": 3,
+   "a": 10,
+   "kda": "5.00",
+   "kp": 54,
+   "cs": 176,
+   "csm": 7.9,
+   "laning": [
+    56,
+    44
+   ],
+   "avgTier": "Master 404",
+   "lp": 58,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4633.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1058.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "IronTissue",
+     "h": "/lol/summoners/na/IronTissue-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "Yawnzy",
+     "h": "/lol/summoners/na/Yawnzy-Wind",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "Turkey Meat",
+     "h": "/lol/summoners/na/Turkey%20Meat-FIOWR",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Tate McRae",
+     "h": "/lol/summoners/na/Tate%20McRae-4324",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    },
+    {
+     "n": "papaphil",
+     "h": "/lol/summoners/na/papaphil-2421",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
+    },
+    {
+     "n": "Lelouch Lamperou",
+     "h": "/lol/summoners/na/Lelouch%20Lamperou-04956",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viego.png"
+    },
+    {
+     "n": "The Papaya Lord",
+     "h": "/lol/summoners/na/The%20Papaya%20Lord-Red",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "R from Starbucks",
+     "h": "/lol/summoners/na/R%20from%20Starbucks-R2win",
+     "c": "Ashe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ashe.png"
+    },
+    {
+     "n": "Chunkop",
+     "h": "/lol/summoners/na/Chunkop-NA1",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794248820000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "IronTissue",
+        "h": "/lol/summoners/na/IronTissue-NA1",
+        "t": "Master 407",
+        "op": 7.2,
+        "opr": "4th",
+        "dmg": 21357,
+        "taken": 26972,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 531",
+        "op": 8.1,
+        "opr": "MVP",
+        "dmg": 19092,
+        "taken": 14380,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "Yawnzy",
+        "h": "/lol/summoners/na/Yawnzy-Wind",
+        "t": "Master 675",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 17016,
+        "taken": 16537,
+        "cw": 1,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Turkey Meat",
+        "h": "/lol/summoners/na/Turkey%20Meat-FIOWR",
+        "t": "Master 5",
+        "op": 7.7,
+        "opr": "3rd",
+        "dmg": 21772,
+        "taken": 13893,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Tate McRae",
+        "h": "/lol/summoners/na/Tate%20McRae-4324",
+        "t": "Master 365",
+        "op": 8.1,
+        "opr": "2nd",
+        "dmg": 5779,
+        "taken": 19894,
+        "cw": 15,
+        "wards": "35 / 4"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "papaphil",
+        "h": "/lol/summoners/na/papaphil-2421",
+        "t": "Master 443",
+        "op": 3.3,
+        "opr": "10th",
+        "dmg": 12988,
+        "taken": 22426,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Lelouch Lamperou",
+        "h": "/lol/summoners/na/Lelouch%20Lamperou-04956",
+        "t": "Diamond 1",
+        "op": 3.7,
+        "opr": "9th",
+        "dmg": 9176,
+        "taken": 20743,
+        "cw": 0,
+        "wards": "0 / 4"
+       },
+       {
+        "n": "The Papaya Lord",
+        "h": "/lol/summoners/na/The%20Papaya%20Lord-Red",
+        "t": "Master 768",
+        "op": 5,
+        "opr": "ACE",
+        "dmg": 17975,
+        "taken": 20684,
+        "cw": 1,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "R from Starbucks",
+        "h": "/lol/summoners/na/R%20from%20Starbucks-R2win",
+        "t": "Master 709",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 13432,
+        "taken": 13217,
+        "cw": 1,
+        "wards": "8 / 3"
+       },
+       {
+        "n": "Chunkop",
+        "h": "/lol/summoners/na/Chunkop-NA1",
+        "t": "Master 153",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 11050,
+        "taken": 22743,
+        "cw": 2,
+        "wards": "23 / 3"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794249160421,
+   "shot": "g_61af2068af.jpg",
+   "lpCalc": true,
+   "roast": "5/3/10 win on Diana. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
