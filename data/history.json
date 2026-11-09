@@ -52967,6 +52967,300 @@
    "roast": "Lost on Rengar (2/5/2). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_7bc0d7c136.jpg",
    "firstSeen": 1794189220434
+  },
+  "Ranked Solo/Duo|11/8/2026, 9:32 PM|Jarvan IV|28m 13s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 9:32 PM|Jarvan IV|28m 13s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 9:32 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+   },
+   "level": 14,
+   "duration": "28m 13s",
+   "minutes": 28.216666666666665,
+   "k": 4,
+   "d": 10,
+   "a": 7,
+   "kda": "1.10",
+   "kp": 52,
+   "cs": 166,
+   "csm": 5.9,
+   "laning": [
+    52,
+    48
+   ],
+   "avgTier": "Master 501",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2019.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1037.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FIGHTING IRISH",
+     "h": "/lol/summoners/na/FIGHTING%20IRISH-IRA",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Garen.png"
+    },
+    {
+     "n": "Asyc",
+     "h": "/lol/summoners/na/Asyc-nyaa",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+    },
+    {
+     "n": "Lorel78",
+     "h": "/lol/summoners/na/Lorel78-NA1",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Orianna.png"
+    },
+    {
+     "n": "NotoriousGAD",
+     "h": "/lol/summoners/na/NotoriousGAD-123",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Sherman",
+     "h": "/lol/summoners/na/Sherman-8OR",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shaco.png"
+    },
+    {
+     "n": "hallozer",
+     "h": "/lol/summoners/na/hallozer-1337",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "SquigglyDude",
+     "h": "/lol/summoners/na/SquigglyDude-69420",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+    },
+    {
+     "n": "Job Application",
+     "h": "/lol/summoners/na/Job%20Application-BOOOO",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jinx.png"
+    },
+    {
+     "n": "L9XENONKITTENXDD",
+     "h": "/lol/summoners/na/L9XENONKITTENXDD-L9JP1",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zilean.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794191520000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "FIGHTING IRISH",
+        "h": "/lol/summoners/na/FIGHTING%20IRISH-IRA",
+        "t": "Master 153",
+        "op": 6.6,
+        "opr": "3rd",
+        "dmg": 18857,
+        "taken": 34021,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "Asyc",
+        "h": "/lol/summoners/na/Asyc-nyaa",
+        "t": "Master 137",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 11348,
+        "taken": 26736,
+        "cw": 0,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "Lorel78",
+        "h": "/lol/summoners/na/Lorel78-NA1",
+        "t": "Master 702",
+        "op": 8.4,
+        "opr": "2nd",
+        "dmg": 24189,
+        "taken": 13966,
+        "cw": 2,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "NotoriousGAD",
+        "h": "/lol/summoners/na/NotoriousGAD-123",
+        "t": "Master 895",
+        "op": 6.4,
+        "opr": "4th",
+        "dmg": 18942,
+        "taken": 20598,
+        "cw": 2,
+        "wards": "12 / 6"
+       },
+       {
+        "n": "Sherman",
+        "h": "/lol/summoners/na/Sherman-8OR",
+        "t": "Master 315",
+        "op": 9.9,
+        "opr": "MVP",
+        "dmg": 22268,
+        "taken": 17604,
+        "cw": 11,
+        "wards": "37 / 7"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "hallozer",
+        "h": "/lol/summoners/na/hallozer-1337",
+        "t": "Master 495",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 28708,
+        "taken": 27276,
+        "cw": 0,
+        "wards": "4 / 4"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 533",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 14666,
+        "taken": 27624,
+        "cw": 0,
+        "wards": "5 / 9"
+       },
+       {
+        "n": "SquigglyDude",
+        "h": "/lol/summoners/na/SquigglyDude-69420",
+        "t": "Master 590",
+        "op": 5,
+        "opr": "ACE",
+        "dmg": 18187,
+        "taken": 18982,
+        "cw": 4,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "Job Application",
+        "h": "/lol/summoners/na/Job%20Application-BOOOO",
+        "t": "Master 409",
+        "op": 4.4,
+        "opr": "8th",
+        "dmg": 12344,
+        "taken": 19463,
+        "cw": 0,
+        "wards": "8 / 8"
+       },
+       {
+        "n": "L9XENONKITTENXDD",
+        "h": "/lol/summoners/na/L9XENONKITTENXDD-L9JP1",
+        "t": "Master 776",
+        "op": 3.5,
+        "opr": "10th",
+        "dmg": 5638,
+        "taken": 17445,
+        "cw": 5,
+        "wards": "31 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 10,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794191900769,
+   "shot": "g_1b4e5f818d.jpg",
+   "lpCalc": true,
+   "roast": "4/10/7 on Jarvan IV. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
