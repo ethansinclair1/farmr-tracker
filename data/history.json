@@ -51795,6 +51795,300 @@
    "roast": "10 deaths. The enemy team should be paying 10 cents in rent for living in this player's jungle.",
    "shot": "g_5404427e04.jpg",
    "firstSeen": 1794180970637
+  },
+  "Ranked Solo/Duo|11/8/2026, 7:05 PM|Rengar|23m 36s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 7:05 PM|Rengar|23m 36s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 7:05 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 16,
+   "duration": "23m 36s",
+   "minutes": 23.6,
+   "k": 11,
+   "d": 0,
+   "a": 10,
+   "kda": "",
+   "kp": 66,
+   "cs": 195,
+   "csm": 8.3,
+   "laning": [
+    73,
+    27
+   ],
+   "avgTier": "Master 244",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "wo hao shang xin",
+     "h": "/lol/summoners/na/wo%20hao%20shang%20xin-NA1",
+     "c": "Mordekaiser",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Mordekaiser.png"
+    },
+    {
+     "n": "Deviate",
+     "h": "/lol/summoners/na/Deviate-DIFF2",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "尿的再远也触碰不到你",
+     "h": "/lol/summoners/na/%E5%B0%BF%E7%9A%84%E5%86%8D%E8%BF%9C%E4%B9%9F%E8%A7%A6%E7%A2%B0%E4%B8%8D%E5%88%B0%E4%BD%A0-%E5%B2%81%E5%B2%81225",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "but i will die",
+     "h": "/lol/summoners/na/but%20i%20will%20die-fuwi1",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "chef4",
+     "h": "/lol/summoners/na/chef4-7184",
+     "c": "Milio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Milio.png"
+    },
+    {
+     "n": "Spychala",
+     "h": "/lol/summoners/na/Spychala-NA1",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Fyre",
+     "h": "/lol/summoners/na/Fyre-2999",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "Misixx",
+     "h": "/lol/summoners/na/Misixx-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "Pugg4",
+     "h": "/lol/summoners/na/Pugg4-NA1",
+     "c": "LeBlanc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leblanc.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794182700000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "wo hao shang xin",
+        "h": "/lol/summoners/na/wo%20hao%20shang%20xin-NA1",
+        "t": "Master 52",
+        "op": 3.4,
+        "opr": "7th",
+        "dmg": 15150,
+        "taken": 21310,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "Deviate",
+        "h": "/lol/summoners/na/Deviate-DIFF2",
+        "t": "Master 180",
+        "op": 1,
+        "opr": "10th",
+        "dmg": 9158,
+        "taken": 22565,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "尿的再远也触碰不到你",
+        "h": "/lol/summoners/na/%E5%B0%BF%E7%9A%84%E5%86%8D%E8%BF%9C%E4%B9%9F%E8%A7%A6%E7%A2%B0%E4%B8%8D%E5%88%B0%E4%BD%A0-%E5%B2%81%E5%B2%81225",
+        "t": "Master 152",
+        "op": 4,
+        "opr": "ACE",
+        "dmg": 12168,
+        "taken": 13112,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "but i will die",
+        "h": "/lol/summoners/na/but%20i%20will%20die-fuwi1",
+        "t": "Diamond 1",
+        "op": 1.7,
+        "opr": "9th",
+        "dmg": 16956,
+        "taken": 21599,
+        "cw": 0,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "chef4",
+        "h": "/lol/summoners/na/chef4-7184",
+        "t": "Master 547",
+        "op": 2.5,
+        "opr": "8th",
+        "dmg": 2936,
+        "taken": 11409,
+        "cw": 3,
+        "wards": "12 / 8"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Spychala",
+        "h": "/lol/summoners/na/Spychala-NA1",
+        "t": "Master 207",
+        "op": 6.1,
+        "opr": "4th",
+        "dmg": 12482,
+        "taken": 20481,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 537",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 22350,
+        "taken": 20278,
+        "cw": 0,
+        "wards": "4 / 4"
+       },
+       {
+        "n": "Fyre",
+        "h": "/lol/summoners/na/Fyre-2999",
+        "t": "Master 97",
+        "op": 6,
+        "opr": "5th",
+        "dmg": 15972,
+        "taken": 19220,
+        "cw": 3,
+        "wards": "13 / 0"
+       },
+       {
+        "n": "Misixx",
+        "h": "/lol/summoners/na/Misixx-NA1",
+        "t": "Diamond 1",
+        "op": 9.3,
+        "opr": "2nd",
+        "dmg": 13668,
+        "taken": 12445,
+        "cw": 1,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Pugg4",
+        "h": "/lol/summoners/na/Pugg4-NA1",
+        "t": "Master 812",
+        "op": 8.6,
+        "opr": "3rd",
+        "dmg": 11917,
+        "taken": 12839,
+        "cw": 4,
+        "wards": "27 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1794182925793,
+   "shot": "g_7f05fd92fb.jpg",
+   "lpCalc": true,
+   "roast": "11/0/10 deathless on Rengar. Annoyingly clean. Screenshot it, it won't happen again."
   }
  },
  "tz": "America/Toronto"
