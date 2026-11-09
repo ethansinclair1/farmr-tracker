@@ -1,24 +1,24 @@
 {
- "sig": "256aa921b9",
+ "sig": "e09adb0fc8",
  "report": {
-  "roast": "1W 2L, -33 LP. Bleeding LP like it's a hobby.",
+  "roast": "2W 2L, -4 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
    "Buy control wards - 0.3 a game is nothing.",
    "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 2,
-  "k": 7,
-  "d": 4.666666666666667,
-  "a": 8.333333333333334,
-  "kda": 3.2857142857142856,
-  "csm": 7.855695176327523,
-  "kp": 63,
-  "lpNet": -33,
+  "k": 7.5,
+  "d": 4.75,
+  "a": 9.75,
+  "kda": 3.6315789473684212,
+  "csm": 7.804727328904682,
+  "kp": 58.75,
+  "lpNet": -4,
   "ints": 0,
-  "games": 3
+  "games": 4
  },
  "v": 3
 }
