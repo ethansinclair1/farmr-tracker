@@ -1,24 +1,24 @@
 {
- "sig": "72996a4ce1",
+ "sig": "e66810c237",
  "report": {
-  "roast": "Inted a 7/10/7 Rengar. Embarrassing. 6W 7L, -43 LP.",
+  "roast": "6W 8L, -74 LP. The enemy team should be paying him.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.7 vs 2.2 drakes a game). Be there before they spawn.",
+   "Take objectives: losing dragons/grubs (1.6 vs 2.3 drakes a game). Be there before they spawn.",
    "Low kill participation (54%). Stop farming while your team fights.",
    "Stop dying - 5.4 deaths a game. Ward before face-checking."
   ],
   "ai": false,
   "wins": 6,
-  "losses": 7,
-  "k": 7,
-  "d": 5.384615384615385,
-  "a": 7.461538461538462,
-  "kda": 2.6857142857142855,
-  "csm": 7.1868677579547535,
-  "kp": 53.84615384615385,
-  "lpNet": -43,
+  "losses": 8,
+  "k": 6.642857142857143,
+  "d": 5.357142857142857,
+  "a": 7.071428571428571,
+  "kda": 2.5600000000000005,
+  "csm": 7.11943793911007,
+  "kp": 53.57142857142857,
+  "lpNet": -74,
   "ints": 1,
-  "games": 13
+  "games": 14
  },
  "v": 3
 }

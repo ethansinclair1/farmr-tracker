@@ -52674,6 +52674,300 @@
    "roast": "Lost on Rengar (9/7/2). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_2d36e157ee.jpg",
    "firstSeen": 1794187543008
+  },
+  "Ranked Solo/Duo|11/8/2026, 8:50 PM|Rengar|21m 50s": {
+   "id": "Ranked Solo/Duo|11/8/2026, 8:50 PM|Rengar|21m 50s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/8/2026, 8:50 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 12,
+   "duration": "21m 50s",
+   "minutes": 21.833333333333332,
+   "k": 2,
+   "d": 5,
+   "a": 2,
+   "kda": "0.80",
+   "kp": 50,
+   "cs": 131,
+   "csm": 6,
+   "laning": [
+    32,
+    68
+   ],
+   "avgTier": "Master 537",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Tiamat",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3077.png"
+    },
+    {
+     "n": "Glowing Mote",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2022.png"
+    },
+    {
+     "n": "Serrated Dirk",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3134.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1037.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Junood",
+     "h": "/lol/summoners/na/Junood-5246",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Renekton.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Craig Mammalton",
+     "h": "/lol/summoners/na/Craig%20Mammalton-CRAIG",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "Escaping Reality",
+     "h": "/lol/summoners/na/Escaping%20Reality-Ego",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aphelios.png"
+    },
+    {
+     "n": "the biggest",
+     "h": "/lol/summoners/na/the%20biggest-FISH",
+     "c": "Tahm Kench",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TahmKench.png"
+    },
+    {
+     "n": "NBA Funboy",
+     "h": "/lol/summoners/na/NBA%20Funboy-NA1",
+     "c": "Rumble",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rumble.png"
+    },
+    {
+     "n": "Unknown",
+     "h": "/lol/summoners/na/Unknown-2v9",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shaco.png"
+    },
+    {
+     "n": "YiQiuYe",
+     "h": "/lol/summoners/na/YiQiuYe-NA1",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ahri.png"
+    },
+    {
+     "n": "unceasing joy",
+     "h": "/lol/summoners/na/unceasing%20joy-206",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "Yuriyumilol",
+     "h": "/lol/summoners/na/Yuriyumilol-NA1",
+     "c": "Sejuani",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sejuani.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794189000000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Junood",
+        "h": "/lol/summoners/na/Junood-5246",
+        "t": "Master 137",
+        "op": 1.7,
+        "opr": "10th",
+        "dmg": 7193,
+        "taken": 29812,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 564",
+        "op": 2.9,
+        "opr": "7th",
+        "dmg": 6053,
+        "taken": 16523,
+        "cw": 1,
+        "wards": "2 / 5"
+       },
+       {
+        "n": "Craig Mammalton",
+        "h": "/lol/summoners/na/Craig%20Mammalton-CRAIG",
+        "t": "Master 468",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 16243,
+        "taken": 20418,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Escaping Reality",
+        "h": "/lol/summoners/na/Escaping%20Reality-Ego",
+        "t": "Master 1,162",
+        "op": 2.4,
+        "opr": "9th",
+        "dmg": 7602,
+        "taken": 10774,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "the biggest",
+        "h": "/lol/summoners/na/the%20biggest-FISH",
+        "t": "Master 419",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 4581,
+        "taken": 12244,
+        "cw": 0,
+        "wards": "15 / 2"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "NBA Funboy",
+        "h": "/lol/summoners/na/NBA%20Funboy-NA1",
+        "t": "Master 664",
+        "op": 9.5,
+        "opr": "2nd",
+        "dmg": 27737,
+        "taken": 14013,
+        "cw": 1,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Unknown",
+        "h": "/lol/summoners/na/Unknown-2v9",
+        "t": "Master 444",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 11638,
+        "taken": 12892,
+        "cw": 3,
+        "wards": "5 / 2"
+       },
+       {
+        "n": "YiQiuYe",
+        "h": "/lol/summoners/na/YiQiuYe-NA1",
+        "t": "Master 263",
+        "op": 8.4,
+        "opr": "3rd",
+        "dmg": 19202,
+        "taken": 15367,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "unceasing joy",
+        "h": "/lol/summoners/na/unceasing%20joy-206",
+        "t": "Master 512",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 9206,
+        "taken": 7564,
+        "cw": 3,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Yuriyumilol",
+        "h": "/lol/summoners/na/Yuriyumilol-NA1",
+        "t": "Master 735",
+        "op": 6.2,
+        "opr": "4th",
+        "dmg": 7014,
+        "taken": 10462,
+        "cw": 4,
+        "wards": "14 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 9,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794189220434,
+   "shot": "g_7bc0d7c136.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Rengar (2/5/2). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
