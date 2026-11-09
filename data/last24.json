@@ -1,24 +1,24 @@
 {
- "sig": "03951cc1d9",
+ "sig": "fc70b86368",
  "report": {
-  "roast": "3W 2L, +25 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "Inted a 1/7/2 Hecarim. Embarrassing. 3W 3L, -6 LP.",
   "fixes": [
-   "Buy control wards - 0.6 a game is nothing.",
-   "Track objective timers and set up vision a minute early.",
-   "Play with the team, not for the highlight reel."
+   "Low kill participation (53%). Stop farming while your team fights.",
+   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.5 a game is nothing."
   ],
   "ai": false,
   "wins": 3,
-  "losses": 2,
-  "k": 7.2,
-  "d": 3.8,
-  "a": 9.6,
-  "kda": 4.421052631578948,
-  "csm": 7.938834828762796,
-  "kp": 56.4,
-  "lpNet": 25,
-  "ints": 0,
-  "games": 5
+  "losses": 3,
+  "k": 6.166666666666667,
+  "d": 4.333333333333333,
+  "a": 8.333333333333334,
+  "kda": 3.3461538461538463,
+  "csm": 7.697189483227562,
+  "kp": 52.5,
+  "lpNet": -6,
+  "ints": 1,
+  "games": 6
  },
  "v": 3
 }
