@@ -1,24 +1,24 @@
 {
- "sig": "517ba37bbd",
+ "sig": "639a736304",
  "report": {
-  "roast": "5W 6L, -41 LP - and a 7/10/7 int in there. Uninstall.",
+  "roast": "Inted a 7/10/7 Rengar. Embarrassing. 6W 6L, -12 LP.",
   "fixes": [
-   "Low kill participation (51%). Stop farming while your team fights.",
-   "Stop dying - 5.1 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.4 a game is nothing."
+   "Take objectives: losing dragons/grubs (1.8 vs 2.2 drakes a game). Be there before they spawn.",
+   "Low kill participation (53%). Stop farming while your team fights.",
+   "Stop dying - 5.3 deaths a game. Ward before face-checking."
   ],
   "ai": false,
-  "wins": 5,
+  "wins": 6,
   "losses": 6,
-  "k": 6.363636363636363,
-  "d": 5.090909090909091,
-  "a": 7.636363636363637,
-  "kda": 2.75,
-  "csm": 7.327410187075769,
-  "kp": 50.72727272727273,
-  "lpNet": -41,
+  "k": 6.833333333333333,
+  "d": 5.25,
+  "a": 7.916666666666667,
+  "kda": 2.8095238095238093,
+  "csm": 7.246749394373857,
+  "kp": 52.916666666666664,
+  "lpNet": -12,
   "ints": 1,
-  "games": 11
+  "games": 12
  },
  "v": 3
 }
