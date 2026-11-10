@@ -56746,6 +56746,143 @@
    "detail": null,
    "shot": "g_b7b7705533.jpg",
    "firstSeen": 1794349823042
+  },
+  "Normal|11/10/2026, 6:05 PM|Pantheon|32m 33s": {
+   "id": "Normal|11/10/2026, 6:05 PM|Pantheon|32m 33s",
+   "queue": "Normal",
+   "date": "11/10/2026, 6:05 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Pantheon",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+   },
+   "level": 15,
+   "duration": "32m 33s",
+   "minutes": 32.55,
+   "k": 4,
+   "d": 12,
+   "a": 9,
+   "kda": "1.08",
+   "kp": 30,
+   "cs": 155,
+   "csm": 4.8,
+   "laning": [
+    48,
+    52
+   ],
+   "avgTier": "Emerald 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2520.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Exhaust",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerExhaust.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Mythile",
+     "h": "/lol/summoners/na/Mythile-UdeM",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Olaf.png"
+    },
+    {
+     "n": "JeuneChaton",
+     "h": "/lol/summoners/na/JeuneChaton-MIAOU",
+     "c": "Evelynn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Evelynn.png"
+    },
+    {
+     "n": "Québecor CEO",
+     "h": "/lol/summoners/na/Qu%C3%A9becor%20CEO-UdeM",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "ProZachTheDrug",
+     "h": "/lol/summoners/na/ProZachTheDrug-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "UdeM Skamandrios",
+     "h": "/lol/summoners/na/UdeM%20Skamandrios-UdeM",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "War",
+     "h": "/lol/summoners/na/War-NA%E3%83%84",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Irelia.png"
+    },
+    {
+     "n": "NEX AD TE VENIT",
+     "h": "/lol/summoners/na/NEX%20AD%20TE%20VENIT-MMIV",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Sharita Repulsa",
+     "h": "/lol/summoners/na/Sharita%20Repulsa-2222",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Blitzcrank.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794351900000,
+   "detail": null,
+   "firstSeen": 1794352223861,
+   "shot": "g_e580888301.jpg"
   }
  },
  "tz": "America/Toronto"
