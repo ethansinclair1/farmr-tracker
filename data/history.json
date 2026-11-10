@@ -55874,6 +55874,300 @@
    "roast": "A 9/7/6 loss on Rengar. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_ddae0f53ff.jpg",
    "firstSeen": 1794288535737
+  },
+  "Ranked Solo/Duo|11/10/2026, 12:58 AM|Qiyana|25m 44s": {
+   "id": "Ranked Solo/Duo|11/10/2026, 12:58 AM|Qiyana|25m 44s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/10/2026, 12:58 AM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Qiyana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+   },
+   "level": 15,
+   "duration": "25m 44s",
+   "minutes": 25.733333333333334,
+   "k": 7,
+   "d": 5,
+   "a": 13,
+   "kda": "4.00",
+   "kp": 47,
+   "cs": 164,
+   "csm": 6.4,
+   "laning": [
+    54,
+    46
+   ],
+   "avgTier": "Master 124",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2520.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Last Whisper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3035.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "First Strike",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8369.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Federico",
+     "h": "/lol/summoners/na/Federico-VietG",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Olaf.png"
+    },
+    {
+     "n": "VALKYLIGHTJOEK5",
+     "h": "/lol/summoners/na/VALKYLIGHTJOEK5-E7CC",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "Poison",
+     "h": "/lol/summoners/na/Poison-Dmg",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "sguid",
+     "h": "/lol/summoners/na/sguid-NA2",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Streep",
+     "h": "/lol/summoners/na/Streep-NA1",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "Dannya",
+     "h": "/lol/summoners/na/Dannya-9999",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Irelia.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "记者文文酱",
+     "h": "/lol/summoners/na/%E8%AE%B0%E8%80%85%E6%96%87%E6%96%87%E9%85%B1-3889",
+     "c": "Vex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vex.png"
+    },
+    {
+     "n": "catsfootironclaw",
+     "h": "/lol/summoners/na/catsfootironclaw-zzz",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "Cake22",
+     "h": "/lol/summoners/na/Cake22-6461",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karma.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794290280000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Federico",
+        "h": "/lol/summoners/na/Federico-VietG",
+        "t": "Master 91",
+        "op": 2.8,
+        "opr": "10th",
+        "dmg": 15682,
+        "taken": 32980,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "VALKYLIGHTJOEK5",
+        "h": "/lol/summoners/na/VALKYLIGHTJOEK5-E7CC",
+        "t": "Master 301",
+        "op": 5,
+        "opr": "ACE",
+        "dmg": 13627,
+        "taken": 29406,
+        "cw": 0,
+        "wards": "3 / 5"
+       },
+       {
+        "n": "Poison",
+        "h": "/lol/summoners/na/Poison-Dmg",
+        "t": "Master 239",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 17947,
+        "taken": 23412,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "sguid",
+        "h": "/lol/summoners/na/sguid-NA2",
+        "t": "Master 83",
+        "op": 4.8,
+        "opr": "8th",
+        "dmg": 19418,
+        "taken": 19534,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "Streep",
+        "h": "/lol/summoners/na/Streep-NA1",
+        "t": "Emerald 1",
+        "op": 4.1,
+        "opr": "9th",
+        "dmg": 9117,
+        "taken": 21940,
+        "cw": 2,
+        "wards": "23 / 2"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Dannya",
+        "h": "/lol/summoners/na/Dannya-9999",
+        "t": "Master 124",
+        "op": 8.2,
+        "opr": "2nd",
+        "dmg": 27328,
+        "taken": 28239,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 494",
+        "op": 7.9,
+        "opr": "4th",
+        "dmg": 23484,
+        "taken": 23209,
+        "cw": 0,
+        "wards": "2 / 2"
+       },
+       {
+        "n": "记者文文酱",
+        "h": "/lol/summoners/na/%E8%AE%B0%E8%80%85%E6%96%87%E6%96%87%E9%85%B1-3889",
+        "t": "Diamond 1",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 36832,
+        "taken": 15599,
+        "cw": 2,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "catsfootironclaw",
+        "h": "/lol/summoners/na/catsfootironclaw-zzz",
+        "t": "Master 141",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 13766,
+        "taken": 19837,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Cake22",
+        "h": "/lol/summoners/na/Cake22-6461",
+        "t": "Master 275",
+        "op": 7.9,
+        "opr": "3rd",
+        "dmg": 8372,
+        "taken": 17169,
+        "cw": 10,
+        "wards": "25 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 4,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1794290485456,
+   "shot": "g_978410306f.jpg",
+   "lpCalc": true,
+   "roast": "7/5/13 on Qiyana, 47% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
