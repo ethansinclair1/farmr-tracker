@@ -1,24 +1,24 @@
 {
- "sig": "184ec85dd5",
+ "sig": "1ab0b06bf8",
  "report": {
-  "roast": "1W 1L, -2 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "2W 1L, +27 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.0 a game is nothing.",
-   "Farm more: 6.6 CS/min. Clear camps between fights."
+   "Low kill participation (54%). Stop farming while your team fights.",
+   "Farm more: 5.0 CS/min. Clear camps between fights.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "k": 8,
-  "d": 6,
-  "a": 9.5,
-  "kda": 2.9166666666666665,
-  "csm": 6.634086744043984,
-  "kp": 56,
-  "lpNet": -2,
+  "k": 5.666666666666667,
+  "d": 4.666666666666667,
+  "a": 13.333333333333334,
+  "kda": 4.071428571428571,
+  "csm": 4.981380065717415,
+  "kp": 54,
+  "lpNet": 27,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
