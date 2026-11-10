@@ -1,24 +1,24 @@
 {
- "sig": "fc70b86368",
+ "sig": "f9a3360736",
  "report": {
-  "roast": "Inted a 1/7/2 Hecarim. Embarrassing. 3W 3L, -6 LP.",
+  "roast": "0W 1L, -31 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Low kill participation (53%). Stop farming while your team fights.",
-   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.5 a game is nothing."
+   "Stop dying - 7.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.0 a game is nothing.",
+   "Farm more: 6.9 CS/min. Clear camps between fights."
   ],
   "ai": false,
-  "wins": 3,
-  "losses": 3,
-  "k": 6.166666666666667,
-  "d": 4.333333333333333,
-  "a": 8.333333333333334,
-  "kda": 3.3461538461538463,
-  "csm": 7.697189483227562,
-  "kp": 52.5,
-  "lpNet": -6,
-  "ints": 1,
-  "games": 6
+  "wins": 0,
+  "losses": 1,
+  "k": 9,
+  "d": 7,
+  "a": 6,
+  "kda": 2.142857142857143,
+  "csm": 6.867052023121388,
+  "kp": 65,
+  "lpNet": -31,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }

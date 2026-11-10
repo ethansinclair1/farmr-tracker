@@ -55585,6 +55585,296 @@
    "roast": "33% kill participation. Was Hecarim in this game or just watching it?",
    "shot": "g_241c56ed7f.jpg",
    "firstSeen": 1794259641816
+  },
+  "Ranked Solo/Duo|11/10/2026, 12:26 AM|Rengar|28m 50s": {
+   "id": "Ranked Solo/Duo|11/10/2026, 12:26 AM|Rengar|28m 50s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/10/2026, 12:26 AM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 16,
+   "duration": "28m 50s",
+   "minutes": 28.833333333333332,
+   "k": 9,
+   "d": 7,
+   "a": 6,
+   "kda": "2.14",
+   "kp": 65,
+   "cs": 198,
+   "csm": 6.9,
+   "laning": [
+    59,
+    41
+   ],
+   "avgTier": "Master 448",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3036.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3363.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "P\ndyrus",
+     "h": "/lol/summoners/na/dyrus-na2",
+     "c": "Gangplank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gangplank.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "TikiCyber",
+     "h": "/lol/summoners/na/TikiCyber-NA1",
+     "c": "Ryze",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ryze.png"
+    },
+    {
+     "n": "harsh winter",
+     "h": "/lol/summoners/na/harsh%20winter-NA1",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "Jack Torrance",
+     "h": "/lol/summoners/na/Jack%20Torrance-DULL",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    },
+    {
+     "n": "AX7",
+     "h": "/lol/summoners/na/AX7-NA1",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kennen.png"
+    },
+    {
+     "n": "evyn",
+     "h": "/lol/summoners/na/evyn-SDF",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "The Fool",
+     "h": "/lol/summoners/na/The%20Fool-Zer01",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Orianna.png"
+    },
+    {
+     "n": "sleep debt",
+     "h": "/lol/summoners/na/sleep%20debt-000",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lucian.png"
+    },
+    {
+     "n": "ICahriYou",
+     "h": "/lol/summoners/na/ICahriYou-2272",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karma.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794288360000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "dyrus",
+        "h": "/lol/summoners/na/dyrus-na2",
+        "t": "Master 611",
+        "op": 5.9,
+        "opr": "ACE",
+        "dmg": 33881,
+        "taken": 27625,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 525",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 26438,
+        "taken": 30178,
+        "cw": 0,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "TikiCyber",
+        "h": "/lol/summoners/na/TikiCyber-NA1",
+        "t": "Master 25",
+        "op": 2.3,
+        "opr": "10th",
+        "dmg": 18790,
+        "taken": 30712,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "harsh winter",
+        "h": "/lol/summoners/na/harsh%20winter-NA1",
+        "t": "Master 912",
+        "op": 3,
+        "opr": "9th",
+        "dmg": 24392,
+        "taken": 25749,
+        "cw": 0,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "Jack Torrance",
+        "h": "/lol/summoners/na/Jack%20Torrance-DULL",
+        "t": "Master 431",
+        "op": 3.1,
+        "opr": "8th",
+        "dmg": 6491,
+        "taken": 25333,
+        "cw": 2,
+        "wards": "23 / 9"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "AX7",
+        "h": "/lol/summoners/na/AX7-NA1",
+        "t": "Diamond 1",
+        "op": 3.5,
+        "opr": "7th",
+        "dmg": 14449,
+        "taken": 22738,
+        "cw": 0,
+        "wards": "12 / 0"
+       },
+       {
+        "n": "evyn",
+        "h": "/lol/summoners/na/evyn-SDF",
+        "t": "Diamond 1",
+        "op": 7,
+        "opr": "MVP",
+        "dmg": 28008,
+        "taken": 46119,
+        "cw": 0,
+        "wards": "1 / 6"
+       },
+       {
+        "n": "The Fool",
+        "h": "/lol/summoners/na/The%20Fool-Zer01",
+        "t": "Master 723",
+        "op": 5.8,
+        "opr": "4th",
+        "dmg": 33165,
+        "taken": 23479,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "sleep debt",
+        "h": "/lol/summoners/na/sleep%20debt-000",
+        "t": "Master 220",
+        "op": 6.6,
+        "opr": "2nd",
+        "dmg": 29142,
+        "taken": 23235,
+        "cw": 5,
+        "wards": "16 / 2"
+       },
+       {
+        "n": "ICahriYou",
+        "h": "/lol/summoners/na/ICahriYou-2272",
+        "t": "Master 1,065",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 13738,
+        "taken": 21254,
+        "cw": 4,
+        "wards": "27 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1794288535737,
+   "shot": "g_ddae0f53ff.jpg",
+   "lpCalc": true,
+   "roast": "A 9/7/6 loss on Rengar. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
