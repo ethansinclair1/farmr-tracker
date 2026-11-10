@@ -56167,6 +56167,155 @@
    "roast": "7/5/13 on Qiyana, 47% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_978410306f.jpg",
    "firstSeen": 1794290485456
+  },
+  "Normal|11/10/2026, 11:03 AM|Lee Sin|31m 12s": {
+   "id": "Normal|11/10/2026, 11:03 AM|Lee Sin|31m 12s",
+   "queue": "Normal",
+   "date": "11/10/2026, 11:03 AM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Lee Sin",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+   },
+   "level": 17,
+   "duration": "31m 12s",
+   "minutes": 31.2,
+   "k": 6,
+   "d": 8,
+   "a": 8,
+   "kda": "1.75",
+   "kp": 44,
+   "cs": 265,
+   "csm": 8.5,
+   "laning": [
+    63,
+    37
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Hexdrinker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3155.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "C4thars1s",
+     "h": "/lol/summoners/na/C4thars1s-1031",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Camille.png"
+    },
+    {
+     "n": "proweige",
+     "h": "/lol/summoners/na/proweige-NA1",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viego.png"
+    },
+    {
+     "n": "bigGulrila",
+     "h": "/lol/summoners/na/bigGulrila-NA1",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Orianna.png"
+    },
+    {
+     "n": "The Big Black",
+     "h": "/lol/summoners/na/The%20Big%20Black-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Living Rain",
+     "h": "/lol/summoners/na/Living%20Rain-NA1",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aurora.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Darius.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+    },
+    {
+     "n": "鲁路修兰佩路基",
+     "h": "/lol/summoners/na/%E9%B2%81%E8%B7%AF%E4%BF%AE%E5%85%B0%E4%BD%A9%E8%B7%AF%E5%9F%BA-%E5%BE%B7%E8%8E%B1%E6%96%87",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+    },
+    {
+     "n": "MrDeathello",
+     "h": "/lol/summoners/na/MrDeathello-NA1",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Olaf.png"
+    },
+    {
+     "n": "Caitiff",
+     "h": "/lol/summoners/na/Caitiff-CAN",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794326580000,
+   "detail": null,
+   "firstSeen": 1794326766469,
+   "shot": "g_ae67682141.jpg"
   }
  },
  "tz": "America/Toronto"
