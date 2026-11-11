@@ -57176,6 +57176,155 @@
    "roast": "Lost on Hecarim (2/4/3). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_e91b97c8e7.jpg",
    "firstSeen": 1794355661139
+  },
+  "Normal|11/10/2026, 7:49 PM|Gangplank|32m 26s": {
+   "id": "Normal|11/10/2026, 7:49 PM|Gangplank|32m 26s",
+   "queue": "Normal",
+   "date": "11/10/2026, 7:49 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Gangplank",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gangplank.png"
+   },
+   "level": 19,
+   "duration": "32m 26s",
+   "minutes": 32.43333333333333,
+   "k": 8,
+   "d": 9,
+   "a": 7,
+   "kda": "1.67",
+   "kp": 43,
+   "cs": 263,
+   "csm": 8.1,
+   "laning": [
+    59,
+    41
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Essence Reaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3508.png"
+    },
+    {
+     "n": "Noonquiver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6670.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3031.png"
+    },
+    {
+     "n": "The Collector",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6676.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Deathfire Touch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8992.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Gangplank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gangplank.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Amumu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Amumu.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Locke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Locke.png"
+    },
+    {
+     "n": "Looodubidoonnn",
+     "h": "/lol/summoners/na/Looodubidoonnn-3895",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MissFortune.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    },
+    {
+     "n": "dwb",
+     "h": "/lol/summoners/na/dwb-1234",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "iktomimi",
+     "h": "/lol/summoners/na/iktomimi-NA1",
+     "c": "Master Yi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MasterYi.png"
+    },
+    {
+     "n": "cerulean",
+     "h": "/lol/summoners/na/cerulean-ocean",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zed.png"
+    },
+    {
+     "n": "Stabbin62",
+     "h": "/lol/summoners/na/Stabbin62-NA1",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "motzart",
+     "h": "/lol/summoners/na/motzart-motzi",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Brand.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794358140000,
+   "detail": null,
+   "firstSeen": 1794358297539,
+   "shot": "g_0e46d434ba.jpg"
   }
  },
  "tz": "America/Toronto"
