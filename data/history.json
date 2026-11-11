@@ -57767,6 +57767,300 @@
    "roast": "Win on Trundle (13/3/3). Got carried and the 9.4 CS/min proves it.",
    "shot": "g_ab9c3566a4.jpg",
    "firstSeen": 1794363166010
+  },
+  "Ranked Flex|11/10/2026, 9:40 PM|Lee Sin|28m 34s": {
+   "id": "Ranked Flex|11/10/2026, 9:40 PM|Lee Sin|28m 34s",
+   "queue": "Ranked Flex",
+   "date": "11/10/2026, 9:40 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Lee Sin",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+   },
+   "level": 18,
+   "duration": "28m 34s",
+   "minutes": 28.566666666666666,
+   "k": 8,
+   "d": 8,
+   "a": 11,
+   "kda": "2.38",
+   "kp": 70,
+   "cs": 223,
+   "csm": 7.8,
+   "laning": [
+    44,
+    56
+   ],
+   "avgTier": "Gold 1",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Doran's Blade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1055.png"
+    },
+    {
+     "n": "Profane Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6698.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Eclipse",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6692.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3156.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "YordleWithaStraw",
+     "h": "/lol/summoners/na/YordleWithaStraw-0904",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+    },
+    {
+     "n": "namrO",
+     "h": "/lol/summoners/na/namrO-NA1",
+     "c": "Skarner",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Skarner.png"
+    },
+    {
+     "n": "solocupsean",
+     "h": "/lol/summoners/na/solocupsean-000",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ahri.png"
+    },
+    {
+     "n": "Sheffuh",
+     "h": "/lol/summoners/na/Sheffuh-Kxsta",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "RubberBANDY",
+     "h": "/lol/summoners/na/RubberBANDY-9999",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rakan.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Master Yi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MasterYi.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kennen.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Soraka.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794364800000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "YordleWithaStraw",
+        "h": "/lol/summoners/na/YordleWithaStraw-0904",
+        "t": "Diamond 4",
+        "op": 5.5,
+        "opr": "ACE",
+        "dmg": 22377,
+        "taken": 24988,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "namrO",
+        "h": "/lol/summoners/na/namrO-NA1",
+        "t": "Silver 1",
+        "op": 3.9,
+        "opr": "7th",
+        "dmg": 7621,
+        "taken": 28804,
+        "cw": 5,
+        "wards": "14 / 4"
+       },
+       {
+        "n": "solocupsean",
+        "h": "/lol/summoners/na/solocupsean-000",
+        "t": "",
+        "op": 1.8,
+        "opr": "9th",
+        "dmg": 15522,
+        "taken": 22295,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Sheffuh",
+        "h": "/lol/summoners/na/Sheffuh-Kxsta",
+        "t": "Iron 1",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 10708,
+        "taken": 18894,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "RubberBANDY",
+        "h": "/lol/summoners/na/RubberBANDY-9999",
+        "t": "Emerald 1",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 12537,
+        "taken": 23133,
+        "cw": 2,
+        "wards": "18 / 2"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Platinum 1",
+        "op": 6.5,
+        "opr": "MVP",
+        "dmg": 34543,
+        "taken": 34374,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Master Yi",
+        "op": 6.2,
+        "opr": "2nd",
+        "dmg": 20790,
+        "taken": 22841,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "EmeraldFinalBoss",
+        "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+        "t": "Gold 4",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 17665,
+        "taken": 19022,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "69PapiChulo",
+        "h": "/lol/summoners/na/69PapiChulo-4802",
+        "t": "Gold 2",
+        "op": 5.6,
+        "opr": "3rd",
+        "dmg": 22392,
+        "taken": 13088,
+        "cw": 1,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "wyattskitten",
+        "h": "/lol/summoners/na/wyattskitten-uwu",
+        "t": "Silver 3",
+        "op": 1.1,
+        "opr": "10th",
+        "dmg": 2825,
+        "taken": 16020,
+        "cw": 0,
+        "wards": "29 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 9,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794365121058,
+   "shot": "g_7118e56d1e.jpg",
+   "lpCalc": true,
+   "roast": "8/8/11 win on Lee Sin. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
