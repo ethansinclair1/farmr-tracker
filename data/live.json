@@ -1,7 +1,7 @@
 {
  "queue": "Ranked Flex",
  "map": "Summoner's Rift",
- "elapsed": 759,
+ "elapsed": 1000,
  "started": "11/10/2026, 9:12 PM",
  "teams": [
   {
@@ -387,5 +387,5 @@
    ]
   }
  ],
- "at": "2026-11-11T02:24:23.667Z"
+ "at": "2026-11-11T02:28:24.062Z"
 }
