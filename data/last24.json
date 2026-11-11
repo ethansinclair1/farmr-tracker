@@ -1,24 +1,24 @@
 {
- "sig": "a2d442e051",
+ "sig": "33f7b0d19a",
  "report": {
-  "roast": "0W 1L, -31 LP - and a 4/8/4 int in there. Uninstall.",
+  "roast": "0W 2L, -62 LP. Not doing good today. Uninstall.",
   "fixes": [
-   "Low kill participation (33%). Stop farming while your team fights.",
-   "Stop dying - 8.0 deaths a game. Ward before face-checking.",
-   "Farm more: 6.8 CS/min. Clear camps between fights."
+   "Take objectives: losing dragons/grubs (0.5 vs 4.0 drakes a game). Be there before they spawn.",
+   "Low kill participation (36%). Stop farming while your team fights.",
+   "Stop dying - 7.5 deaths a game. Ward before face-checking."
   ],
   "ai": false,
   "wins": 0,
-  "losses": 1,
-  "k": 4,
-  "d": 8,
-  "a": 4,
-  "kda": 1,
-  "csm": 6.787752983912818,
-  "kp": 33,
-  "lpNet": -31,
-  "ints": 1,
-  "games": 1
+  "losses": 2,
+  "k": 4.5,
+  "d": 7.5,
+  "a": 2.5,
+  "kda": 0.9333333333333333,
+  "csm": 7.03016241299304,
+  "kp": 35.5,
+  "lpNet": -62,
+  "ints": 2,
+  "games": 2
  },
  "v": 3
 }

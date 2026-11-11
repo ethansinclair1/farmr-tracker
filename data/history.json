@@ -59586,6 +59586,296 @@
    "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle.",
    "shot": "g_fedecb985e.jpg",
    "firstSeen": 1794375034209
+  },
+  "Ranked Solo/Duo|11/11/2026, 1:03 AM|Rengar|25m 21s": {
+   "id": "Ranked Solo/Duo|11/11/2026, 1:03 AM|Rengar|25m 21s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/11/2026, 1:03 AM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 14,
+   "duration": "25m 21s",
+   "minutes": 25.35,
+   "k": 5,
+   "d": 7,
+   "a": 1,
+   "kda": "0.86",
+   "kp": 38,
+   "cs": 186,
+   "csm": 7.3,
+   "laning": [
+    46,
+    54
+   ],
+   "avgTier": "Master 433",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3036.png"
+    },
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6697.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Axiom Arc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6696.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "schi",
+     "h": "/lol/summoners/na/schi-NA1",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KSante.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "NYTE1",
+     "h": "/lol/summoners/na/NYTE1-NA1",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "sth2die4",
+     "h": "/lol/summoners/na/sth2die4-wzq",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zed.png"
+    },
+    {
+     "n": "雨停很久",
+     "h": "/lol/summoners/na/%E9%9B%A8%E5%81%9C%E5%BE%88%E4%B9%85-1116",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "TheSlamboy",
+     "h": "/lol/summoners/na/TheSlamboy-GOAT",
+     "c": "Volibear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Volibear.png"
+    },
+    {
+     "n": "IlIlIlIIllIIllIl",
+     "h": "/lol/summoners/na/IlIlIlIIllIIllIl-NA1",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "심동팔",
+     "h": "/lol/summoners/na/%EC%8B%AC%EB%8F%99%ED%8C%94-6261",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "Xeero",
+     "h": "/lol/summoners/na/Xeero-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "Klepto Krab",
+     "h": "/lol/summoners/na/Klepto%20Krab-NA1",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794376980000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "schi",
+        "h": "/lol/summoners/na/schi-NA1",
+        "t": "Master 582",
+        "op": 2.9,
+        "opr": "9th",
+        "dmg": 14004,
+        "taken": 29135,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 488",
+        "op": 2.7,
+        "opr": "10th",
+        "dmg": 11291,
+        "taken": 25753,
+        "cw": 0,
+        "wards": "3 / 6"
+       },
+       {
+        "n": "NYTE1",
+        "h": "/lol/summoners/na/NYTE1-NA1",
+        "t": "Master 436",
+        "op": 4.1,
+        "opr": "7th",
+        "dmg": 23894,
+        "taken": 28467,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "sth2die4",
+        "h": "/lol/summoners/na/sth2die4-wzq",
+        "t": "Master 52",
+        "op": 3.3,
+        "opr": "8th",
+        "dmg": 14746,
+        "taken": 20386,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "雨停很久",
+        "h": "/lol/summoners/na/%E9%9B%A8%E5%81%9C%E5%BE%88%E4%B9%85-1116",
+        "t": "Master 96",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 11100,
+        "taken": 16342,
+        "cw": 11,
+        "wards": "26 / 9"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "TheSlamboy",
+        "h": "/lol/summoners/na/TheSlamboy-GOAT",
+        "t": "Master 974",
+        "op": 7.7,
+        "opr": "3rd",
+        "dmg": 29607,
+        "taken": 28492,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "IlIlIlIIllIIllIl",
+        "h": "/lol/summoners/na/IlIlIlIIllIIllIl-NA1",
+        "t": "Master 86",
+        "op": 8.6,
+        "opr": "MVP",
+        "dmg": 12386,
+        "taken": 15235,
+        "cw": 2,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "심동팔",
+        "h": "/lol/summoners/na/%EC%8B%AC%EB%8F%99%ED%8C%94-6261",
+        "t": "Master 795",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 19313,
+        "taken": 24812,
+        "cw": 2,
+        "wards": "6 / 4"
+       },
+       {
+        "n": "Xeero",
+        "h": "/lol/summoners/na/Xeero-NA1",
+        "t": "Master 703",
+        "op": 6.9,
+        "opr": "4th",
+        "dmg": 14634,
+        "taken": 14709,
+        "cw": 1,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Klepto Krab",
+        "h": "/lol/summoners/na/Klepto%20Krab-NA1",
+        "t": "Master 116",
+        "op": 8.2,
+        "opr": "2nd",
+        "dmg": 24305,
+        "taken": 17364,
+        "cw": 7,
+        "wards": "24 / 7"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1794377195757,
+   "shot": "g_11eb00a57f.jpg",
+   "lpCalc": true,
+   "roast": "38% kill participation. Was Rengar in this game or just watching it?"
   }
  },
  "tz": "America/Toronto"
