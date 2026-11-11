@@ -58207,8 +58207,261 @@
    "team": 0,
    "ts": 1794367200000,
    "detail": null,
-   "firstSeen": 1794367515264,
-   "shot": "g_f3380c9c30.jpg"
+   "shot": "g_f3380c9c30.jpg",
+   "firstSeen": 1794367515264
+  },
+  "Ranked Solo/Duo|11/10/2026, 10:34 PM|Hecarim|1m 15s": {
+   "id": "Ranked Solo/Duo|11/10/2026, 10:34 PM|Hecarim|1m 15s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/10/2026, 10:34 PM",
+   "result": "Remake",
+   "win": false,
+   "remake": true,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 1,
+   "duration": "1m 15s",
+   "minutes": 1.25,
+   "k": 0,
+   "d": 0,
+   "a": 0,
+   "kda": "0.00",
+   "kp": 0,
+   "cs": 0,
+   "csm": 0,
+   "laning": null,
+   "avgTier": "Master 380",
+   "lp": null,
+   "items": [
+    {
+     "n": "Gustwalker Hatchling",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1102.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1204.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Konata Izumi",
+     "h": "/lol/summoners/na/Konata%20Izumi-Otaku",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Poppy.png"
+    },
+    {
+     "n": "171KevinTTV",
+     "h": "/lol/summoners/na/171KevinTTV-Luee",
+     "c": "Kayn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kayn.png"
+    },
+    {
+     "n": "Squishy",
+     "h": "/lol/summoners/na/Squishy-moke",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+    },
+    {
+     "n": "ShowFaker",
+     "h": "/lol/summoners/na/ShowFaker-8008",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "Concise",
+     "h": "/lol/summoners/na/Concise-NA1",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leona.png"
+    },
+    {
+     "n": "Navaja",
+     "h": "/lol/summoners/na/Navaja-lol",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "GabeXboss",
+     "h": "/lol/summoners/na/GabeXboss-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "δόξα",
+     "h": "/lol/summoners/na/%CE%B4%CF%8C%CE%BE%CE%B1-God",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "AIbion",
+     "h": "/lol/summoners/na/AIbion-NA1",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Thresh.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794368040000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Konata Izumi",
+        "h": "/lol/summoners/na/Konata%20Izumi-Otaku",
+        "t": "Master 222",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "171KevinTTV",
+        "h": "/lol/summoners/na/171KevinTTV-Luee",
+        "t": "Master 208",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 232,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "Squishy",
+        "h": "/lol/summoners/na/Squishy-moke",
+        "t": "Master 334",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "ShowFaker",
+        "h": "/lol/summoners/na/ShowFaker-8008",
+        "t": "Master 321",
+        "op": 0,
+        "opr": "",
+        "dmg": 82,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "Concise",
+        "h": "/lol/summoners/na/Concise-NA1",
+        "t": "Master 496",
+        "op": 0,
+        "opr": "",
+        "dmg": 124,
+        "taken": 65,
+        "cw": 0,
+        "wards": "0 / 0"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Navaja",
+        "h": "/lol/summoners/na/Navaja-lol",
+        "t": "Master 471",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 521",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 282,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "GabeXboss",
+        "h": "/lol/summoners/na/GabeXboss-NA1",
+        "t": "Master 618",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "δόξα",
+        "h": "/lol/summoners/na/%CE%B4%CF%8C%CE%BE%CE%B1-God",
+        "t": "Master 326",
+        "op": 0,
+        "opr": "",
+        "dmg": 65,
+        "taken": 215,
+        "cw": 0,
+        "wards": "0 / 0"
+       },
+       {
+        "n": "AIbion",
+        "h": "/lol/summoners/na/AIbion-NA1",
+        "t": "Master 281",
+        "op": 0,
+        "opr": "",
+        "dmg": 0,
+        "taken": 0,
+        "cw": 0,
+        "wards": "1 / 0"
+       }
+      ]
+     }
+    ],
+    "obj": []
+   },
+   "firstSeen": 1794368260070,
+   "shot": "g_c289c01803.jpg",
+   "roast": "Remake. Even the game gave up on this one."
   }
  },
  "tz": "America/Toronto"
