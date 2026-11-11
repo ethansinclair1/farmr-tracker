@@ -58060,6 +58060,155 @@
    "roast": "8/8/11 win on Lee Sin. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_7118e56d1e.jpg",
    "firstSeen": 1794365121058
+  },
+  "Normal|11/10/2026, 10:20 PM|Yasuo|33m 31s": {
+   "id": "Normal|11/10/2026, 10:20 PM|Yasuo|33m 31s",
+   "queue": "Normal",
+   "date": "11/10/2026, 10:20 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Yasuo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+   },
+   "level": 19,
+   "duration": "33m 31s",
+   "minutes": 33.516666666666666,
+   "k": 4,
+   "d": 11,
+   "a": 12,
+   "kda": "1.45",
+   "kp": 57,
+   "cs": 241,
+   "csm": 7.2,
+   "laning": [
+    40,
+    60
+   ],
+   "avgTier": "Platinum 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Bow",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1086.png"
+    },
+    {
+     "n": "Berserker's Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3006.png"
+    },
+    {
+     "n": "Immortal Shieldbow",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6673.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3031.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3036.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2019.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Exhaust",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerExhaust.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8008.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malphite.png"
+    },
+    {
+     "n": "Fireballandy",
+     "h": "/lol/summoners/na/Fireballandy-idiot",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "SlippyTKE",
+     "h": "/lol/summoners/na/SlippyTKE-NA1",
+     "c": "Urgot",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Urgot.png"
+    },
+    {
+     "n": "TheTiger98",
+     "h": "/lol/summoners/na/TheTiger98-NA1",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Poppy.png"
+    },
+    {
+     "n": "Felix",
+     "h": "/lol/summoners/na/Felix-FF20",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Garen.png"
+    },
+    {
+     "n": "Dalcetto",
+     "h": "/lol/summoners/na/Dalcetto-2633",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "Sparkle",
+     "h": "/lol/summoners/na/Sparkle-meow",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794367200000,
+   "detail": null,
+   "firstSeen": 1794367515264,
+   "shot": "g_f3380c9c30.jpg"
   }
  },
  "tz": "America/Toronto"
