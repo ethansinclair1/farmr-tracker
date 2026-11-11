@@ -59008,6 +59008,300 @@
    "roast": "13/1/6 win on Graves. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_da6d9db596.jpg",
    "firstSeen": 1794370418169
+  },
+  "Ranked Solo/Duo|11/10/2026, 11:49 PM|Hecarim|32m 00s": {
+   "id": "Ranked Solo/Duo|11/10/2026, 11:49 PM|Hecarim|32m 00s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/10/2026, 11:49 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 16,
+   "duration": "32m 00s",
+   "minutes": 32,
+   "k": 4,
+   "d": 4,
+   "a": 4,
+   "kda": "2.00",
+   "kp": 62,
+   "cs": 235,
+   "csm": 7.3,
+   "laning": [
+    42,
+    58
+   ],
+   "avgTier": "Master 700",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3161.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Sterak's Gage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3053.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Earling Haaland",
+     "h": "/lol/summoners/na/Earling%20Haaland-99999",
+     "c": "Kayle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kayle.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "DashAttack",
+     "h": "/lol/summoners/na/DashAttack-NA1",
+     "c": "Azir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Azir.png"
+    },
+    {
+     "n": "Tengen",
+     "h": "/lol/summoners/na/Tengen-0203",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "babysayno",
+     "h": "/lol/summoners/na/babysayno-cat",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    },
+    {
+     "n": "Drey Gasai",
+     "h": "/lol/summoners/na/Drey%20Gasai-NA1",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "200ms",
+     "h": "/lol/summoners/na/200ms-NA2",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Darius.png"
+    },
+    {
+     "n": "Ace",
+     "h": "/lol/summoners/na/Ace-ZAQ4",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lucian.png"
+    },
+    {
+     "n": "ReubixCube",
+     "h": "/lol/summoners/na/ReubixCube-NA1",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Dokyle",
+     "h": "/lol/summoners/na/Dokyle-NA1",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rell.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794372540000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Earling Haaland",
+        "h": "/lol/summoners/na/Earling%20Haaland-99999",
+        "t": "Master 785",
+        "op": 1.4,
+        "opr": "10th",
+        "dmg": 12903,
+        "taken": 25719,
+        "cw": 0,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 550",
+        "op": 4.1,
+        "opr": "7th",
+        "dmg": 16010,
+        "taken": 42912,
+        "cw": 2,
+        "wards": "3 / 9"
+       },
+       {
+        "n": "DashAttack",
+        "h": "/lol/summoners/na/DashAttack-NA1",
+        "t": "Master 754",
+        "op": 4.7,
+        "opr": "ACE",
+        "dmg": 29550,
+        "taken": 23746,
+        "cw": 7,
+        "wards": "14 / 11"
+       },
+       {
+        "n": "Tengen",
+        "h": "/lol/summoners/na/Tengen-0203",
+        "t": "Master 635",
+        "op": 3.6,
+        "opr": "8th",
+        "dmg": 23252,
+        "taken": 20423,
+        "cw": 1,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "babysayno",
+        "h": "/lol/summoners/na/babysayno-cat",
+        "t": "Master 721",
+        "op": 3.5,
+        "opr": "9th",
+        "dmg": 6911,
+        "taken": 18056,
+        "cw": 10,
+        "wards": "46 / 14"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Drey Gasai",
+        "h": "/lol/summoners/na/Drey%20Gasai-NA1",
+        "t": "Master 942",
+        "op": 8.1,
+        "opr": "2nd",
+        "dmg": 37235,
+        "taken": 27460,
+        "cw": 1,
+        "wards": "13 / 4"
+       },
+       {
+        "n": "200ms",
+        "h": "/lol/summoners/na/200ms-NA2",
+        "t": "Master 772",
+        "op": 8,
+        "opr": "3rd",
+        "dmg": 22228,
+        "taken": 34940,
+        "cw": 1,
+        "wards": "3 / 4"
+       },
+       {
+        "n": "Ace",
+        "h": "/lol/summoners/na/Ace-ZAQ4",
+        "t": "Master 325",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 10966,
+        "taken": 17250,
+        "cw": 2,
+        "wards": "14 / 9"
+       },
+       {
+        "n": "ReubixCube",
+        "h": "/lol/summoners/na/ReubixCube-NA1",
+        "t": "Master 820",
+        "op": 6,
+        "opr": "4th",
+        "dmg": 28993,
+        "taken": 14022,
+        "cw": 0,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "Dokyle",
+        "h": "/lol/summoners/na/Dokyle-NA1",
+        "t": "Master 698",
+        "op": 9.1,
+        "opr": "MVP",
+        "dmg": 9167,
+        "taken": 24704,
+        "cw": 14,
+        "wards": "48 / 16"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 11,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794372846079,
+   "shot": "g_9ae8a2dd2b.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Hecarim (4/4/4). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
