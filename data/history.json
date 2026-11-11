@@ -57325,6 +57325,155 @@
    "detail": null,
    "shot": "g_0e46d434ba.jpg",
    "firstSeen": 1794358297539
+  },
+  "Normal|11/10/2026, 8:24 PM|Riven|30m 00s": {
+   "id": "Normal|11/10/2026, 8:24 PM|Riven|30m 00s",
+   "queue": "Normal",
+   "date": "11/10/2026, 8:24 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Riven",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Riven.png"
+   },
+   "level": 18,
+   "duration": "30m 00s",
+   "minutes": 30,
+   "k": 11,
+   "d": 9,
+   "a": 3,
+   "kda": "1.56",
+   "kp": 36,
+   "cs": 193,
+   "csm": 6.4,
+   "laning": [
+    60,
+    40
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Eclipse",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6692.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2517.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2019.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Riven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Riven.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kennen.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fizz.png"
+    },
+    {
+     "n": "VI Regina",
+     "h": "/lol/summoners/na/VI%20Regina-NA69",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jinx.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    },
+    {
+     "n": "PoopyDiddyChud",
+     "h": "/lol/summoners/na/PoopyDiddyChud-EFN",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KSante.png"
+    },
+    {
+     "n": "doctorweird11",
+     "h": "/lol/summoners/na/doctorweird11-NA1",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Briar.png"
+    },
+    {
+     "n": "UnAwesomeness",
+     "h": "/lol/summoners/na/UnAwesomeness-NA1",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Smolder.png"
+    },
+    {
+     "n": "CrownIsDiamond",
+     "h": "/lol/summoners/na/CrownIsDiamond-5039",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "NFStrife",
+     "h": "/lol/summoners/na/NFStrife-YoRHa",
+     "c": "Veigar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Veigar.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794360240000,
+   "detail": null,
+   "firstSeen": 1794360495904,
+   "shot": "g_07e9ed1950.jpg"
   }
  },
  "tz": "America/Toronto"
