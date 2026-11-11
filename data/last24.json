@@ -1,24 +1,24 @@
 {
- "sig": "1f7d0a5ca3",
+ "sig": "a2d442e051",
  "report": {
-  "roast": "3W 3L, -6 LP. Bleeding LP like it's a hobby.",
+  "roast": "0W 1L, -31 LP - and a 4/8/4 int in there. Uninstall.",
   "fixes": [
-   "Buy control wards - 1.4 a game is nothing.",
-   "Farm more: 6.7 CS/min. Clear camps between fights.",
-   "Play with the team, not for the highlight reel."
+   "Low kill participation (33%). Stop farming while your team fights.",
+   "Stop dying - 8.0 deaths a game. Ward before face-checking.",
+   "Farm more: 6.8 CS/min. Clear camps between fights."
   ],
   "ai": false,
-  "wins": 3,
-  "losses": 3,
-  "k": 6,
-  "d": 3.8333333333333335,
-  "a": 8.833333333333334,
-  "kda": 3.869565217391304,
-  "csm": 6.749024707412223,
-  "kp": 59.666666666666664,
-  "lpNet": -6,
-  "ints": 0,
-  "games": 8
+  "wins": 0,
+  "losses": 1,
+  "k": 4,
+  "d": 8,
+  "a": 4,
+  "kda": 1,
+  "csm": 6.787752983912818,
+  "kp": 33,
+  "lpNet": -31,
+  "ints": 1,
+  "games": 1
  },
  "v": 3
 }
