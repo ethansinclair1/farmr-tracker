@@ -1,7 +1,7 @@
 {
  "queue": "Normal",
  "map": "Summoner's Rift",
- "elapsed": 524,
+ "elapsed": 766,
  "started": "11/11/2026, 9:51 PM",
  "teams": [
   {
@@ -68,7 +68,7 @@
       }
      ],
      "tier": "Master",
-     "played": "401",
+     "played": "402",
      "wr": "",
      "kda": "2.26"
     },
@@ -387,5 +387,5 @@
    ]
   }
  ],
- "at": "2026-11-12T02:59:44.798Z"
+ "at": "2026-11-12T03:03:43.077Z"
 }
