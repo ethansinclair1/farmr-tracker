@@ -61473,6 +61473,155 @@
    "detail": null,
    "shot": "g_aa633b636d.jpg",
    "firstSeen": 1794454107749
+  },
+  "Normal|11/11/2026, 11:16 PM|Taliyah|45m 52s": {
+   "id": "Normal|11/11/2026, 11:16 PM|Taliyah|45m 52s",
+   "queue": "Normal",
+   "date": "11/11/2026, 11:16 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Taliyah",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Taliyah.png"
+   },
+   "level": 18,
+   "duration": "45m 52s",
+   "minutes": 45.86666666666667,
+   "k": 7,
+   "d": 10,
+   "a": 19,
+   "kda": "2.60",
+   "kp": 55,
+   "cs": 294,
+   "csm": 6.4,
+   "laning": [
+    45,
+    55
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Luden's Echo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6655.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3157.png"
+    },
+    {
+     "n": "Banshee's Veil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3102.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3089.png"
+    },
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3020.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Dark Harvest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8128.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fizz.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Taliyah.png"
+    },
+    {
+     "n": "Panvbravo",
+     "h": "/lol/summoners/na/Panvbravo-1209",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "allUGHver",
+     "h": "/lol/summoners/na/allUGHver-NA1",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "Afrte",
+     "h": "/lol/summoners/na/Afrte-NA1",
+     "c": "Milio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Milio.png"
+    },
+    {
+     "n": "重金求子",
+     "h": "/lol/summoners/na/%E9%87%8D%E9%87%91%E6%B1%82%E5%AD%90-mom",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+    },
+    {
+     "n": "DShrimp",
+     "h": "/lol/summoners/na/DShrimp-NA1",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lillia.png"
+    },
+    {
+     "n": "graigsters",
+     "h": "/lol/summoners/na/graigsters-NA1",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+    },
+    {
+     "n": "xShiina Mashirox",
+     "h": "/lol/summoners/na/xShiina%20Mashirox-2258",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MissFortune.png"
+    },
+    {
+     "n": "Squidwardismydad",
+     "h": "/lol/summoners/na/Squidwardismydad-LIGMA",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shaco.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794456960000,
+   "detail": null,
+   "firstSeen": 1794457276515,
+   "shot": "g_e8ca1c4b1c.jpg"
   }
  },
  "tz": "America/Toronto"
