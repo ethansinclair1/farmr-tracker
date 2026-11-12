@@ -60742,6 +60742,296 @@
    "roast": "A 1/5/8 loss on Lee Sin. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_0b51c212c6.jpg",
    "firstSeen": 1794447340880
+  },
+  "Ranked Solo/Duo|11/11/2026, 9:00 PM|Xin Zhao|24m 36s": {
+   "id": "Ranked Solo/Duo|11/11/2026, 9:00 PM|Xin Zhao|24m 36s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/11/2026, 9:00 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Xin Zhao",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/XinZhao.png"
+   },
+   "level": 13,
+   "duration": "24m 36s",
+   "minutes": 24.6,
+   "k": 4,
+   "d": 8,
+   "a": 7,
+   "kda": "1.38",
+   "kp": 73,
+   "cs": 150,
+   "csm": 6.1,
+   "laning": [
+    39,
+    61
+   ],
+   "avgTier": "Master 329",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3748.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "RAGNAROK10000",
+     "h": "/lol/summoners/na/RAGNAROK10000-NA1",
+     "c": "Urgot",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Urgot.png"
+    },
+    {
+     "n": "Revenant",
+     "h": "/lol/summoners/na/Revenant-Joker",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "Azed",
+     "h": "/lol/summoners/na/Azed-NA1",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "Drechizzlenizzle",
+     "h": "/lol/summoners/na/Drechizzlenizzle-1331",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Kledyboi",
+     "h": "/lol/summoners/na/Kledyboi-NA1",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kled.png"
+    },
+    {
+     "n": "Black Lemonade",
+     "h": "/lol/summoners/na/Black%20Lemonade-NA2",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ambessa.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Xin Zhao",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/XinZhao.png"
+    },
+    {
+     "n": "Lunami",
+     "h": "/lol/summoners/na/Lunami-555",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Naafiri.png"
+    },
+    {
+     "n": "S9 Diamond LFT",
+     "h": "/lol/summoners/na/S9%20Diamond%20LFT-NA1",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "scaf",
+     "h": "/lol/summoners/na/scaf-cr7",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794448800000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "RAGNAROK10000",
+        "h": "/lol/summoners/na/RAGNAROK10000-NA1",
+        "t": "Master 164",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 20619,
+        "taken": 20945,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "Revenant",
+        "h": "/lol/summoners/na/Revenant-Joker",
+        "t": "Master 549",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 25539,
+        "taken": 22276,
+        "cw": 1,
+        "wards": "2 / 0"
+       },
+       {
+        "n": "Azed",
+        "h": "/lol/summoners/na/Azed-NA1",
+        "t": "Master 535",
+        "op": 8.4,
+        "opr": "2nd",
+        "dmg": 27113,
+        "taken": 17746,
+        "cw": 4,
+        "wards": "8 / 6"
+       },
+       {
+        "n": "Drechizzlenizzle",
+        "h": "/lol/summoners/na/Drechizzlenizzle-1331",
+        "t": "Master 428",
+        "op": 7.2,
+        "opr": "3rd",
+        "dmg": 19630,
+        "taken": 18223,
+        "cw": 1,
+        "wards": "9 / 5"
+       },
+       {
+        "n": "Kledyboi",
+        "h": "/lol/summoners/na/Kledyboi-NA1",
+        "t": "Master 182",
+        "op": 5.4,
+        "opr": "5th",
+        "dmg": 17171,
+        "taken": 27397,
+        "cw": 4,
+        "wards": "23 / 13"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Black Lemonade",
+        "h": "/lol/summoners/na/Black%20Lemonade-NA2",
+        "t": "Diamond 2",
+        "op": 2.9,
+        "opr": "10th",
+        "dmg": 14308,
+        "taken": 23873,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 424",
+        "op": 4.6,
+        "opr": "ACE",
+        "dmg": 24249,
+        "taken": 46286,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Lunami",
+        "h": "/lol/summoners/na/Lunami-555",
+        "t": "Master 483",
+        "op": 3.8,
+        "opr": "8th",
+        "dmg": 14960,
+        "taken": 24955,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "S9 Diamond LFT",
+        "h": "/lol/summoners/na/S9%20Diamond%20LFT-NA1",
+        "t": "Diamond 1",
+        "op": 3.8,
+        "opr": "7th",
+        "dmg": 21348,
+        "taken": 17520,
+        "cw": 1,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "scaf",
+        "h": "/lol/summoners/na/scaf-cr7",
+        "t": "Master 661",
+        "op": 3.1,
+        "opr": "9th",
+        "dmg": 8664,
+        "taken": 19517,
+        "cw": 12,
+        "wards": "32 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794449017792,
+   "shot": "g_39f9ac557a.jpg",
+   "lpCalc": true,
+   "roast": "4/8/7 on Xin Zhao. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
