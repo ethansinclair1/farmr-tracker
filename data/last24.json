@@ -1,24 +1,24 @@
 {
- "sig": "7e17b3f894",
+ "sig": "98f7bc42cb",
  "report": {
-  "roast": "1W 5L, -126 LP. Log off and hand the account to someone who can play.",
+  "roast": "2W 5L, -97 LP. The enemy team should be paying him.",
   "fixes": [
-   "Low kill participation (48%). Stop farming while your team fights.",
-   "Stop dying - 6.3 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.7 a game is nothing."
+   "Low kill participation (51%). Stop farming while your team fights.",
+   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 0.6 a game is nothing."
   ],
   "ai": false,
-  "wins": 1,
+  "wins": 2,
   "losses": 5,
-  "k": 5.666666666666667,
-  "d": 6.333333333333333,
-  "a": 4.5,
-  "kda": 1.6052631578947372,
-  "csm": 7.261916179150283,
-  "kp": 48,
-  "lpNet": -126,
+  "k": 6.571428571428571,
+  "d": 6,
+  "a": 5.714285714285714,
+  "kda": 2.0476190476190474,
+  "csm": 7.393320235756386,
+  "kp": 50.57142857142857,
+  "lpNet": -97,
   "ints": 2,
-  "games": 6
+  "games": 7
  },
  "v": 3
 }

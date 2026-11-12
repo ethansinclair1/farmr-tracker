@@ -61031,6 +61031,300 @@
    "roast": "4/8/7 on Xin Zhao. That's not a KDA, that's a donation receipt.",
    "shot": "g_39f9ac557a.jpg",
    "firstSeen": 1794449017792
+  },
+  "Ranked Solo/Duo|11/11/2026, 9:47 PM|Hecarim|38m 18s": {
+   "id": "Ranked Solo/Duo|11/11/2026, 9:47 PM|Hecarim|38m 18s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/11/2026, 9:47 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "38m 18s",
+   "minutes": 38.3,
+   "k": 12,
+   "d": 4,
+   "a": 13,
+   "kda": "6.25",
+   "kp": 66,
+   "cs": 306,
+   "csm": 8,
+   "laning": [
+    67,
+    33
+   ],
+   "avgTier": "Master 235",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6697.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3156.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2517.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Javentiell",
+     "h": "/lol/summoners/na/Javentiell-6718",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Xi Mộng 蚩梦",
+     "h": "/lol/summoners/na/Xi%20M%E1%BB%99ng%20%E8%9A%A9%E6%A2%A6-1234",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xerath.png"
+    },
+    {
+     "n": "UP diliman ave",
+     "h": "/lol/summoners/na/UP%20diliman%20ave-PHL1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "jenny",
+     "h": "/lol/summoners/na/jenny-wenny",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Soraka.png"
+    },
+    {
+     "n": "BSTTS",
+     "h": "/lol/summoners/na/BSTTS-BTS",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jax.png"
+    },
+    {
+     "n": "Uzi Maki Moto",
+     "h": "/lol/summoners/na/Uzi%20Maki%20Moto-NA1",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lillia.png"
+    },
+    {
+     "n": "meep",
+     "h": "/lol/summoners/na/meep-1134",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
+    },
+    {
+     "n": "ballhog",
+     "h": "/lol/summoners/na/ballhog-%E3%83%A4%E3%83%A4%E3%83%A4",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Draven.png"
+    },
+    {
+     "n": "NinaVuster",
+     "h": "/lol/summoners/na/NinaVuster-085",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794451620000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Javentiell",
+        "h": "/lol/summoners/na/Javentiell-6718",
+        "t": "Master 224",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 43817,
+        "taken": 41841,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 393",
+        "op": 8.4,
+        "opr": "3rd",
+        "dmg": 42683,
+        "taken": 50711,
+        "cw": 0,
+        "wards": "11 / 10"
+       },
+       {
+        "n": "Xi Mộng 蚩梦",
+        "h": "/lol/summoners/na/Xi%20M%E1%BB%99ng%20%E8%9A%A9%E6%A2%A6-1234",
+        "t": "Master 434",
+        "op": 7.4,
+        "opr": "4th",
+        "dmg": 41588,
+        "taken": 13175,
+        "cw": 0,
+        "wards": "13 / 0"
+       },
+       {
+        "n": "UP diliman ave",
+        "h": "/lol/summoners/na/UP%20diliman%20ave-PHL1",
+        "t": "Master 197",
+        "op": 8.6,
+        "opr": "2nd",
+        "dmg": 42337,
+        "taken": 26623,
+        "cw": 3,
+        "wards": "15 / 3"
+       },
+       {
+        "n": "jenny",
+        "h": "/lol/summoners/na/jenny-wenny",
+        "t": "Diamond 1",
+        "op": 9.1,
+        "opr": "MVP",
+        "dmg": 6898,
+        "taken": 19131,
+        "cw": 14,
+        "wards": "49 / 13"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "BSTTS",
+        "h": "/lol/summoners/na/BSTTS-BTS",
+        "t": "Master 357",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 31898,
+        "taken": 59712,
+        "cw": 2,
+        "wards": "11 / 6"
+       },
+       {
+        "n": "Uzi Maki Moto",
+        "h": "/lol/summoners/na/Uzi%20Maki%20Moto-NA1",
+        "t": "Master 1",
+        "op": 3.8,
+        "opr": "8th",
+        "dmg": 23243,
+        "taken": 43859,
+        "cw": 1,
+        "wards": "1 / 5"
+       },
+       {
+        "n": "meep",
+        "h": "/lol/summoners/na/meep-1134",
+        "t": "Master 366",
+        "op": 4.9,
+        "opr": "ACE",
+        "dmg": 33792,
+        "taken": 41988,
+        "cw": 0,
+        "wards": "4 / 5"
+       },
+       {
+        "n": "ballhog",
+        "h": "/lol/summoners/na/ballhog-%E3%83%A4%E3%83%A4%E3%83%A4",
+        "t": "Master 422",
+        "op": 2.8,
+        "opr": "9th",
+        "dmg": 24752,
+        "taken": 31297,
+        "cw": 0,
+        "wards": "12 / 5"
+       },
+       {
+        "n": "NinaVuster",
+        "h": "/lol/summoners/na/NinaVuster-085",
+        "t": "Diamond 1",
+        "op": 1.9,
+        "opr": "10th",
+        "dmg": 8153,
+        "taken": 28152,
+        "cw": 16,
+        "wards": "45 / 13"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794451932629,
+   "shot": "g_5f147ba8e0.jpg",
+   "lpCalc": true,
+   "roast": "12/4/13 on Hecarim, 66% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
