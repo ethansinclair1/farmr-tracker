@@ -61324,6 +61324,155 @@
    "roast": "12/4/13 on Hecarim, 66% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_5f147ba8e0.jpg",
    "firstSeen": 1794451932629
+  },
+  "Normal|11/11/2026, 10:25 PM|Qiyana|34m 22s": {
+   "id": "Normal|11/11/2026, 10:25 PM|Qiyana|34m 22s",
+   "queue": "Normal",
+   "date": "11/11/2026, 10:25 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Qiyana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+   },
+   "level": 18,
+   "duration": "34m 22s",
+   "minutes": 34.36666666666667,
+   "k": 8,
+   "d": 10,
+   "a": 21,
+   "kda": "2.90",
+   "kp": 71,
+   "cs": 232,
+   "csm": 6.8,
+   "laning": [
+    52,
+    48
+   ],
+   "avgTier": "Emerald 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2520.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Serylda's Grudge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6694.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3814.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "First Strike",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8369.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Olaf.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "Shade",
+     "h": "/lol/summoners/na/Shade-4pek",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Irelia.png"
+    },
+    {
+     "n": "shark bby",
+     "h": "/lol/summoners/na/shark%20bby-0816",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "Sleepyyvoice",
+     "h": "/lol/summoners/na/Sleepyyvoice-212",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Swain.png"
+    },
+    {
+     "n": "Khoa",
+     "h": "/lol/summoners/na/Khoa-boom",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "Bolbi",
+     "h": "/lol/summoners/na/Bolbi-7542",
+     "c": "Amumu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Amumu.png"
+    },
+    {
+     "n": "Michael B Jordan",
+     "h": "/lol/summoners/na/Michael%20B%20Jordan-CN1",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "Stephen Curry",
+     "h": "/lol/summoners/na/Stephen%20Curry-LePoo",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Shiraiyuki",
+     "h": "/lol/summoners/na/Shiraiyuki-001",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794453900000,
+   "detail": null,
+   "firstSeen": 1794454107749,
+   "shot": "g_aa633b636d.jpg"
   }
  },
  "tz": "America/Toronto"
