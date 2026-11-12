@@ -51297,8 +51297,8 @@
    ],
    "players": [
     {
-     "n": "PreciseRegretz",
-     "h": "/lol/summoners/na/PreciseRegretz-5624",
+     "n": "EvilDoerManke",
+     "h": "/lol/summoners/na/EvilDoerManke-8455",
      "c": "Gnar",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
     },
@@ -53081,8 +53081,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shaco.png"
     },
     {
-     "n": "hallozer",
-     "h": "/lol/summoners/na/hallozer-1337",
+     "n": "Jordan Peterson",
+     "h": "/lol/summoners/na/Jordan%20Peterson-ORDER",
      "c": "Pantheon",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
     },
@@ -54264,8 +54264,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
     },
     {
-     "n": "SHELIKTHEWAYIERR",
-     "h": "/lol/summoners/na/SHELIKTHEWAYIERR-NA2",
+     "n": "BLACKCANARYBLACK",
+     "h": "/lol/summoners/na/BLACKCANARYBLACK-NA2",
      "c": "Miss Fortune",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MissFortune.png"
     },
@@ -54557,8 +54557,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hwei.png"
     },
     {
-     "n": "SHELIKTHEWAYIERR",
-     "h": "/lol/summoners/na/SHELIKTHEWAYIERR-NA2",
+     "n": "BLACKCANARYBLACK",
+     "h": "/lol/summoners/na/BLACKCANARYBLACK-NA2",
      "c": "Sivir",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sivir.png"
     },
@@ -61910,8 +61910,8 @@
    "team": 1,
    "ts": 1794460680000,
    "detail": null,
-   "firstSeen": 1794460923071,
-   "shot": "g_df7c5a9614.jpg"
+   "shot": "g_df7c5a9614.jpg",
+   "firstSeen": 1794460923071
   }
  },
  "tz": "America/Toronto"
