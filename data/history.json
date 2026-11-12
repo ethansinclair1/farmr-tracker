@@ -61622,6 +61622,147 @@
    "detail": null,
    "shot": "g_e8ca1c4b1c.jpg",
    "firstSeen": 1794457276515
+  },
+  "Normal|11/11/2026, 11:40 PM|Rengar|15m 29s": {
+   "id": "Normal|11/11/2026, 11:40 PM|Rengar|15m 29s",
+   "queue": "Normal",
+   "date": "11/11/2026, 11:40 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Rengar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+   },
+   "level": 9,
+   "duration": "15m 29s",
+   "minutes": 15.483333333333333,
+   "k": 4,
+   "d": 5,
+   "a": 2,
+   "kda": "1.20",
+   "kp": 60,
+   "cs": 101,
+   "csm": 6.5,
+   "laning": [
+    36,
+    64
+   ],
+   "avgTier": "Emerald 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Blade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1055.png"
+    },
+    {
+     "n": "Tiamat",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3077.png"
+    },
+    {
+     "n": "Umbral Glaive",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3179.png"
+    },
+    {
+     "n": "Glowing Mote",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2022.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Fleet Footwork",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8021.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yuumi.png"
+    },
+    {
+     "n": "Misstitched",
+     "h": "/lol/summoners/na/Misstitched-NA1",
+     "c": "Evelynn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Evelynn.png"
+    },
+    {
+     "n": "Pharaoh",
+     "h": "/lol/summoners/na/Pharaoh-SIWA",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rengar.png"
+    },
+    {
+     "n": "CatSoup",
+     "h": "/lol/summoners/na/CatSoup-soupy",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Seraphine.png"
+    },
+    {
+     "n": "after rain",
+     "h": "/lol/summoners/na/after%20rain-manta",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
+    },
+    {
+     "n": "LebrunJaymes",
+     "h": "/lol/summoners/na/LebrunJaymes-3036",
+     "c": "Tryndamere",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tryndamere.png"
+    },
+    {
+     "n": "Carcinogenic",
+     "h": "/lol/summoners/na/Carcinogenic-DDS",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "siya",
+     "h": "/lol/summoners/na/siya-003",
+     "c": "Mel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Mel.png"
+    },
+    {
+     "n": "zero enemies",
+     "h": "/lol/summoners/na/zero%20enemies-zzz",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794458400000,
+   "detail": null,
+   "firstSeen": 1794458719134,
+   "shot": "g_b5acec4816.jpg"
   }
  },
  "tz": "America/Toronto"
