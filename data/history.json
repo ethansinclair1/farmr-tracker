@@ -61912,6 +61912,292 @@
    "detail": null,
    "shot": "g_df7c5a9614.jpg",
    "firstSeen": 1794460923071
+  },
+  "Ranked Solo/Duo|11/12/2026, 6:57 PM|Hecarim|22m 30s": {
+   "id": "Ranked Solo/Duo|11/12/2026, 6:57 PM|Hecarim|22m 30s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/12/2026, 6:57 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 15,
+   "duration": "22m 30s",
+   "minutes": 22.5,
+   "k": 6,
+   "d": 1,
+   "a": 9,
+   "kda": "15.00",
+   "kp": 65,
+   "cs": 213,
+   "csm": 9.5,
+   "laning": [
+    42,
+    58
+   ],
+   "avgTier": "Master 207",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "SiriusBull",
+     "h": "/lol/summoners/na/SiriusBull-NA1",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "GodOfKope",
+     "h": "/lol/summoners/na/GodOfKope-0510",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xerath.png"
+    },
+    {
+     "n": "Zuha",
+     "h": "/lol/summoners/na/Zuha-00000",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "JimBobHick",
+     "h": "/lol/summoners/na/JimBobHick-NA1",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    },
+    {
+     "n": "Chazzz Princeton",
+     "h": "/lol/summoners/na/Chazzz%20Princeton-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "Fumikage",
+     "h": "/lol/summoners/na/Fumikage-2055",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Khazix.png"
+    },
+    {
+     "n": "八奈見アンナ",
+     "h": "/lol/summoners/na/%E5%85%AB%E5%A5%88%E8%A6%8B%E3%82%A2%E3%83%B3%E3%83%8A-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "InDoMinuS",
+     "h": "/lol/summoners/na/InDoMinuS-addif",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "TinkerToy",
+     "h": "/lol/summoners/na/TinkerToy-NA1",
+     "c": "Braum",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Braum.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794527820000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "SiriusBull",
+        "h": "/lol/summoners/na/SiriusBull-NA1",
+        "t": "Master 239",
+        "op": 6,
+        "opr": "5th",
+        "dmg": 17247,
+        "taken": 16168,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 422",
+        "op": 9.7,
+        "opr": "MVP",
+        "dmg": 16466,
+        "taken": 25349,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "GodOfKope",
+        "h": "/lol/summoners/na/GodOfKope-0510",
+        "t": "Master 348",
+        "op": 9.6,
+        "opr": "2nd",
+        "dmg": 20081,
+        "taken": 8534,
+        "cw": 2,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Zuha",
+        "h": "/lol/summoners/na/Zuha-00000",
+        "t": "Diamond 2",
+        "op": 7,
+        "opr": "4th",
+        "dmg": 14034,
+        "taken": 10863,
+        "cw": 2,
+        "wards": "8 / 6"
+       },
+       {
+        "n": "JimBobHick",
+        "h": "/lol/summoners/na/JimBobHick-NA1",
+        "t": "Master 174",
+        "op": 8.7,
+        "opr": "3rd",
+        "dmg": 5925,
+        "taken": 11347,
+        "cw": 8,
+        "wards": "30 / 3"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Chazzz Princeton",
+        "h": "/lol/summoners/na/Chazzz%20Princeton-NA1",
+        "t": "Master 73",
+        "op": 2.9,
+        "opr": "9th",
+        "dmg": 11296,
+        "taken": 21090,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Fumikage",
+        "h": "/lol/summoners/na/Fumikage-2055",
+        "t": "Master 363",
+        "op": 3.4,
+        "opr": "8th",
+        "dmg": 9293,
+        "taken": 23306,
+        "cw": 4,
+        "wards": "5 / 2"
+       },
+       {
+        "n": "八奈見アンナ",
+        "h": "/lol/summoners/na/%E5%85%AB%E5%A5%88%E8%A6%8B%E3%82%A2%E3%83%B3%E3%83%8A-%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3",
+        "t": "Master 337",
+        "op": 2.1,
+        "opr": "10th",
+        "dmg": 9702,
+        "taken": 16359,
+        "cw": 0,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "InDoMinuS",
+        "h": "/lol/summoners/na/InDoMinuS-addif",
+        "t": "Diamond 1",
+        "op": 4,
+        "opr": "ACE",
+        "dmg": 13748,
+        "taken": 16714,
+        "cw": 1,
+        "wards": "7 / 4"
+       },
+       {
+        "n": "TinkerToy",
+        "h": "/lol/summoners/na/TinkerToy-NA1",
+        "t": "Master 302",
+        "op": 3.4,
+        "opr": "7th",
+        "dmg": 6279,
+        "taken": 13850,
+        "cw": 13,
+        "wards": "23 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 7,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 1,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794527985400,
+   "shot": "g_9f7a796ae4.jpg",
+   "lpCalc": true,
+   "roast": "6/1/9 win on Hecarim. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"

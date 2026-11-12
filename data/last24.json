@@ -1,24 +1,24 @@
 {
- "sig": "98f7bc42cb",
+ "sig": "f6f64a3f82",
  "report": {
-  "roast": "2W 5L, -97 LP. The enemy team should be paying him.",
+  "roast": "1W 0L, +29 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Low kill participation (51%). Stop farming while your team fights.",
-   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.6 a game is nothing."
+   "Buy control wards - 0.0 a game is nothing.",
+   "Losing the early game - plan the first clear and gank the winning lane.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 2,
-  "losses": 5,
-  "k": 6.571428571428571,
-  "d": 6,
-  "a": 5.714285714285714,
-  "kda": 2.0476190476190474,
-  "csm": 7.393320235756386,
-  "kp": 50.57142857142857,
-  "lpNet": -97,
-  "ints": 2,
-  "games": 7
+  "wins": 1,
+  "losses": 0,
+  "k": 6,
+  "d": 1,
+  "a": 9,
+  "kda": 15,
+  "csm": 9.466666666666667,
+  "kp": 65,
+  "lpNet": 29,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }
