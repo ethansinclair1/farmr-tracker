@@ -61763,6 +61763,155 @@
    "detail": null,
    "shot": "g_b5acec4816.jpg",
    "firstSeen": 1794458719134
+  },
+  "Normal|11/12/2026, 12:18 AM|Gragas|31m 14s": {
+   "id": "Normal|11/12/2026, 12:18 AM|Gragas|31m 14s",
+   "queue": "Normal",
+   "date": "11/12/2026, 12:18 AM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Gragas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gragas.png"
+   },
+   "level": 16,
+   "duration": "31m 14s",
+   "minutes": 31.233333333333334,
+   "k": 15,
+   "d": 7,
+   "a": 20,
+   "kda": "5.00",
+   "kp": 51,
+   "cs": 174,
+   "csm": 5.6,
+   "laning": [
+    73,
+    27
+   ],
+   "avgTier": "Platinum 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Ring",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1056.png"
+    },
+    {
+     "n": "Lich Bane",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3100.png"
+    },
+    {
+     "n": "Shattered Armguard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2421.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Stormsurge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4646.png"
+    },
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3089.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Exhaust",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerExhaust.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Kees",
+     "h": "/lol/summoners/na/Kees-HUNK",
+     "c": "Mordekaiser",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Mordekaiser.png"
+    },
+    {
+     "n": "OriginaleName",
+     "h": "/lol/summoners/na/OriginaleName-NA1",
+     "c": "Kha'Zix",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Khazix.png"
+    },
+    {
+     "n": "TheReALNoodLz",
+     "h": "/lol/summoners/na/TheReALNoodLz-MOIST",
+     "c": "Mel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Mel.png"
+    },
+    {
+     "n": "Renee Graves",
+     "h": "/lol/summoners/na/Renee%20Graves-incst",
+     "c": "Corki",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Corki.png"
+    },
+    {
+     "n": "Energy Falcon",
+     "h": "/lol/summoners/na/Energy%20Falcon-Lotad",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Teemo.png"
+    },
+    {
+     "n": "Sefir",
+     "h": "/lol/summoners/na/Sefir-179",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+    },
+    {
+     "n": "Gouxindoujiao",
+     "h": "/lol/summoners/na/Gouxindoujiao-JUUN",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "几点来",
+     "h": "/lol/summoners/na/%E5%87%A0%E7%82%B9%E6%9D%A5-sbgj",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jayce.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Gragas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gragas.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794460680000,
+   "detail": null,
+   "firstSeen": 1794460923071,
+   "shot": "g_df7c5a9614.jpg"
   }
  },
  "tz": "America/Toronto"
