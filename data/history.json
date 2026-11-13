@@ -62197,6 +62197,300 @@
    "roast": "6/1/9 win on Hecarim. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_9f7a796ae4.jpg",
    "firstSeen": 1794527985400
+  },
+  "Ranked Solo/Duo|11/12/2026, 7:45 PM|Hecarim|28m 09s": {
+   "id": "Ranked Solo/Duo|11/12/2026, 7:45 PM|Hecarim|28m 09s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/12/2026, 7:45 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 17,
+   "duration": "28m 09s",
+   "minutes": 28.15,
+   "k": 15,
+   "d": 4,
+   "a": 7,
+   "kda": "5.50",
+   "kp": 54,
+   "cs": 229,
+   "csm": 8.1,
+   "laning": [
+    60,
+    40
+   ],
+   "avgTier": "Master 300",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2517.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Randuin's Omen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3143.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3156.png"
+    },
+    {
+     "n": "Last Whisper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3035.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Chung",
+     "h": "/lol/summoners/na/Chung-SPOOK",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "yone 4 fun acc",
+     "h": "/lol/summoners/na/yone%204%20fun%20acc-tryng",
+     "c": "Nocturne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nocturne.png"
+    },
+    {
+     "n": "LL Majikage",
+     "h": "/lol/summoners/na/LL%20Majikage-LUX",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "Ventura",
+     "h": "/lol/summoners/na/Ventura-ADC",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Aphelios.png"
+    },
+    {
+     "n": "Asianbunny",
+     "h": "/lol/summoners/na/Asianbunny-love",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pyke.png"
+    },
+    {
+     "n": "20 ff gg",
+     "h": "/lol/summoners/na/20%20ff%20gg-NA1",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "407",
+     "h": "/lol/summoners/na/407-666",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hwei.png"
+    },
+    {
+     "n": "Rockabananza",
+     "h": "/lol/summoners/na/Rockabananza-0001",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Smolder.png"
+    },
+    {
+     "n": "ohyaryar",
+     "h": "/lol/summoners/na/ohyaryar-1618",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Janna.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794530700000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Chung",
+        "h": "/lol/summoners/na/Chung-SPOOK",
+        "t": "Master 207",
+        "op": 2.5,
+        "opr": "10th",
+        "dmg": 15908,
+        "taken": 27282,
+        "cw": 0,
+        "wards": "3 / 3"
+       },
+       {
+        "n": "yone 4 fun acc",
+        "h": "/lol/summoners/na/yone%204%20fun%20acc-tryng",
+        "t": "Master 639",
+        "op": 4.6,
+        "opr": "8th",
+        "dmg": 18013,
+        "taken": 38033,
+        "cw": 2,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "LL Majikage",
+        "h": "/lol/summoners/na/LL%20Majikage-LUX",
+        "t": "Master 154",
+        "op": 5.6,
+        "opr": "ACE",
+        "dmg": 26299,
+        "taken": 12964,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "Ventura",
+        "h": "/lol/summoners/na/Ventura-ADC",
+        "t": "Master 571",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 25871,
+        "taken": 21482,
+        "cw": 1,
+        "wards": "9 / 4"
+       },
+       {
+        "n": "Asianbunny",
+        "h": "/lol/summoners/na/Asianbunny-love",
+        "t": "Master 145",
+        "op": 4.3,
+        "opr": "9th",
+        "dmg": 15573,
+        "taken": 30585,
+        "cw": 9,
+        "wards": "23 / 12"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "20 ff gg",
+        "h": "/lol/summoners/na/20%20ff%20gg-NA1",
+        "t": "Master 134",
+        "op": 5.2,
+        "opr": "4th",
+        "dmg": 24561,
+        "taken": 28639,
+        "cw": 0,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 451",
+        "op": 7.9,
+        "opr": "MVP",
+        "dmg": 28624,
+        "taken": 33855,
+        "cw": 0,
+        "wards": "4 / 3"
+       },
+       {
+        "n": "407",
+        "h": "/lol/summoners/na/407-666",
+        "t": "Master 458",
+        "op": 4.7,
+        "opr": "7th",
+        "dmg": 23144,
+        "taken": 22072,
+        "cw": 0,
+        "wards": "12 / 4"
+       },
+       {
+        "n": "Rockabananza",
+        "h": "/lol/summoners/na/Rockabananza-0001",
+        "t": "Master 340",
+        "op": 5.5,
+        "opr": "3rd",
+        "dmg": 25809,
+        "taken": 25330,
+        "cw": 0,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "ohyaryar",
+        "h": "/lol/summoners/na/ohyaryar-1618",
+        "t": "Diamond 1",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 5371,
+        "taken": 19379,
+        "cw": 18,
+        "wards": "34 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 4,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794530887285,
+   "shot": "g_a66852dc4a.jpg",
+   "lpCalc": true,
+   "roast": "15/4/7 on Hecarim, 54% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
