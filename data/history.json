@@ -62490,6 +62490,296 @@
    "roast": "15/4/7 on Hecarim, 54% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_a66852dc4a.jpg",
    "firstSeen": 1794530887285
+  },
+  "Ranked Solo/Duo|11/12/2026, 8:09 PM|Hecarim|16m 47s": {
+   "id": "Ranked Solo/Duo|11/12/2026, 8:09 PM|Hecarim|16m 47s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/12/2026, 8:09 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 13,
+   "duration": "16m 47s",
+   "minutes": 16.783333333333335,
+   "k": 9,
+   "d": 0,
+   "a": 2,
+   "kda": "",
+   "kp": 69,
+   "cs": 156,
+   "csm": 9.3,
+   "laning": [
+    57,
+    43
+   ],
+   "avgTier": "Master 22",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2517.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Eye of the Herald",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3513.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "honeynutchio",
+     "h": "/lol/summoners/na/honeynutchio-6969",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Camille.png"
+    },
+    {
+     "n": "TwIIGGeR",
+     "h": "/lol/summoners/na/TwIIGGeR-NA1",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Qiyana.png"
+    },
+    {
+     "n": "pouts",
+     "h": "/lol/summoners/na/pouts-111",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Velkoz.png"
+    },
+    {
+     "n": "mystic we",
+     "h": "/lol/summoners/na/mystic%20we-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "isfp小宝",
+     "h": "/lol/summoners/na/isfp%E5%B0%8F%E5%AE%9D-NA2",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leona.png"
+    },
+    {
+     "n": "Vanii",
+     "h": "/lol/summoners/na/Vanii-NA1",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kennen.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "brxco",
+     "h": "/lol/summoners/na/brxco-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
+    },
+    {
+     "n": "butters",
+     "h": "/lol/summoners/na/butters-soch",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yunara.png"
+    },
+    {
+     "n": "Monty Mole",
+     "h": "/lol/summoners/na/Monty%20Mole-SHUBH",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lulu.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794532140000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "honeynutchio",
+        "h": "/lol/summoners/na/honeynutchio-6969",
+        "t": "Master 60",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 6543,
+        "taken": 12476,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "TwIIGGeR",
+        "h": "/lol/summoners/na/TwIIGGeR-NA1",
+        "t": "Diamond 1",
+        "op": 6.4,
+        "opr": "ACE",
+        "dmg": 7338,
+        "taken": 11235,
+        "cw": 0,
+        "wards": "0 / 3"
+       },
+       {
+        "n": "pouts",
+        "h": "/lol/summoners/na/pouts-111",
+        "t": "Master 263",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 11660,
+        "taken": 8764,
+        "cw": 1,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "mystic we",
+        "h": "/lol/summoners/na/mystic%20we-NA1",
+        "t": "Diamond 1",
+        "op": 2.3,
+        "opr": "10th",
+        "dmg": 2108,
+        "taken": 9258,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "isfp小宝",
+        "h": "/lol/summoners/na/isfp%E5%B0%8F%E5%AE%9D-NA2",
+        "t": "Emerald 3",
+        "op": 6.4,
+        "opr": "4th",
+        "dmg": 4844,
+        "taken": 8504,
+        "cw": 2,
+        "wards": "4 / 1"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Vanii",
+        "h": "/lol/summoners/na/Vanii-NA1",
+        "t": "Master 246",
+        "op": 4,
+        "opr": "9th",
+        "dmg": 11151,
+        "taken": 8958,
+        "cw": 2,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 480",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 10167,
+        "taken": 14218,
+        "cw": 1,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "brxco",
+        "h": "/lol/summoners/na/brxco-NA1",
+        "t": "Master 0",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 6548,
+        "taken": 12829,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "butters",
+        "h": "/lol/summoners/na/butters-soch",
+        "t": "Diamond 1",
+        "op": 7.3,
+        "opr": "2nd",
+        "dmg": 9936,
+        "taken": 4517,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "Monty Mole",
+        "h": "/lol/summoners/na/Monty%20Mole-SHUBH",
+        "t": "Master 96",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 2583,
+        "taken": 7178,
+        "cw": 4,
+        "wards": "14 / 1"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794532379083,
+   "shot": "g_c16290075a.jpg",
+   "lpCalc": true,
+   "roast": "9/0/2 deathless on Hecarim. Annoyingly clean. Screenshot it, it won't happen again."
   }
  },
  "tz": "America/Toronto"
