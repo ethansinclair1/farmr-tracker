@@ -1,7 +1,7 @@
 {
  "queue": "ARAM: Mayhem",
  "map": "Howling Abyss",
- "elapsed": 86,
+ "elapsed": 330,
  "started": "11/14/2026, 1:28 AM",
  "teams": [
   {
@@ -345,5 +345,5 @@
    "bans": []
   }
  ],
- "at": "2026-11-14T06:30:01.595Z"
+ "at": "2026-11-14T06:34:05.312Z"
 }
