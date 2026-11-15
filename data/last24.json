@@ -1,21 +1,21 @@
 {
- "sig": "4175166d2b",
+ "sig": "81df3d8912",
  "report": {
   "roast": "0W 1L, -31 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (1.0 vs 2.0 drakes a game). Be there before they spawn.",
+   "Low kill participation (50%). Stop farming while your team fights.",
    "Stop dying - 6.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 1.0 a game is nothing."
+   "Buy control wards - 0.0 a game is nothing."
   ],
   "ai": false,
   "wins": 0,
   "losses": 1,
-  "k": 7,
+  "k": 5,
   "d": 6,
-  "a": 1,
+  "a": 3,
   "kda": 1.3333333333333333,
-  "csm": 7.959183673469387,
-  "kp": 73,
+  "csm": 7.4957216200798635,
+  "kp": 50,
   "lpNet": -31,
   "ints": 0,
   "games": 1

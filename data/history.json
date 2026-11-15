@@ -63361,6 +63361,299 @@
    "roast": "A 7/6/1 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_ed8a44dbf6.jpg",
    "firstSeen": 1794717210948
+  },
+  "Ranked Solo/Duo|11/15/2026, 12:08 AM|Hecarim|29m 13s": {
+   "id": "Ranked Solo/Duo|11/15/2026, 12:08 AM|Hecarim|29m 13s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/15/2026, 12:08 AM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 15,
+   "duration": "29m 13s",
+   "minutes": 29.216666666666665,
+   "k": 5,
+   "d": 6,
+   "a": 3,
+   "kda": "1.33",
+   "kp": 50,
+   "cs": 219,
+   "csm": 7.5,
+   "laning": [
+    54,
+    46
+   ],
+   "avgTier": "Master 147",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6695.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1037.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "loofy",
+     "h": "/lol/summoners/na/loofy-7369",
+     "c": "Sett",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sett.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "baghuette luver",
+     "h": "/lol/summoners/na/baghuette%20luver-999",
+     "c": "Kassadin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kassadin.png"
+    },
+    {
+     "n": "bck2bck",
+     "h": "/lol/summoners/na/bck2bck-2bck",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jhin.png"
+    },
+    {
+     "n": "matty",
+     "h": "/lol/summoners/na/matty-111",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Morgana.png"
+    },
+    {
+     "n": "coffee",
+     "h": "/lol/summoners/na/coffee-cafe4",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gnar.png"
+    },
+    {
+     "n": "thank you lela",
+     "h": "/lol/summoners/na/thank%20you%20lela-loveu",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Talon.png"
+    },
+    {
+     "n": "Zoom",
+     "h": "/lol/summoners/na/Zoom-Zen",
+     "c": "Fizz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fizz.png"
+    },
+    {
+     "n": "SHRIMPBOY",
+     "h": "/lol/summoners/na/SHRIMPBOY-NA1",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "lust for life",
+     "h": "/lol/summoners/na/lust%20for%20life-angel",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karma.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794719280000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "loofy",
+        "h": "/lol/summoners/na/loofy-7369",
+        "t": "Master 75",
+        "op": 1.2,
+        "opr": "10th",
+        "dmg": 11248,
+        "taken": 33556,
+        "cw": 0,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 476",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 16571,
+        "taken": 30336,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "baghuette luver",
+        "h": "/lol/summoners/na/baghuette%20luver-999",
+        "t": "Master 0",
+        "op": 3.4,
+        "opr": "8th",
+        "dmg": 16597,
+        "taken": 28660,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "bck2bck",
+        "h": "/lol/summoners/na/bck2bck-2bck",
+        "t": "Master 7",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 18748,
+        "taken": 20569,
+        "cw": 1,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "matty",
+        "h": "/lol/summoners/na/matty-111",
+        "t": "Master 74",
+        "op": 2.8,
+        "opr": "9th",
+        "dmg": 7338,
+        "taken": 26770,
+        "cw": 8,
+        "wards": "30 / 8"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "coffee",
+        "h": "/lol/summoners/na/coffee-cafe4",
+        "t": "Master 157",
+        "op": 8.6,
+        "opr": "2nd",
+        "dmg": 38526,
+        "taken": 24355,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "thank you lela",
+        "h": "/lol/summoners/na/thank%20you%20lela-loveu",
+        "t": "Master 217",
+        "op": 8.1,
+        "opr": "3rd",
+        "dmg": 24964,
+        "taken": 30160,
+        "cw": 0,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "Zoom",
+        "h": "/lol/summoners/na/Zoom-Zen",
+        "t": "Diamond 1",
+        "op": 6.7,
+        "opr": "4th",
+        "dmg": 22633,
+        "taken": 15790,
+        "cw": 1,
+        "wards": "5 / 4"
+       },
+       {
+        "n": "SHRIMPBOY",
+        "h": "/lol/summoners/na/SHRIMPBOY-NA1",
+        "t": "Master 126",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 20210,
+        "taken": 17836,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "lust for life",
+        "h": "/lol/summoners/na/lust%20for%20life-angel",
+        "t": "Master 372",
+        "op": 9.4,
+        "opr": "MVP",
+        "dmg": 11439,
+        "taken": 14131,
+        "cw": 15,
+        "wards": "48 / 12"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 2,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 10,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1794719633687,
+   "shot": "g_9734e9a850.jpg",
+   "roast": "A 5/6/3 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
