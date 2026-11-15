@@ -1,24 +1,24 @@
 {
- "sig": "ef419b9b35",
+ "sig": "4175166d2b",
  "report": {
-  "roast": "4W 0L, +116 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "0W 1L, -31 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Buy control wards - 0.8 a game is nothing.",
-   "Track objective timers and set up vision a minute early.",
-   "Play with the team, not for the highlight reel."
+   "Take objectives: losing dragons/grubs (1.0 vs 2.0 drakes a game). Be there before they spawn.",
+   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
+   "Buy control wards - 1.0 a game is nothing."
   ],
   "ai": false,
-  "wins": 4,
-  "losses": 0,
-  "k": 10.5,
-  "d": 1.75,
-  "a": 7.25,
-  "kda": 10.142857142857142,
-  "csm": 8.769611890999174,
-  "kp": 63.5,
-  "lpNet": 116,
+  "wins": 0,
+  "losses": 1,
+  "k": 7,
+  "d": 6,
+  "a": 1,
+  "kda": 1.3333333333333333,
+  "csm": 7.959183673469387,
+  "kp": 73,
+  "lpNet": -31,
   "ints": 0,
-  "games": 4
+  "games": 1
  },
  "v": 3
 }

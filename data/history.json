@@ -63072,6 +63072,296 @@
    "roast": "12/2/11 on Hecarim, 66% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_d5a157b456.jpg",
    "firstSeen": 1794537001209
+  },
+  "Ranked Solo/Duo|11/14/2026, 11:28 PM|Hecarim|22m 52s": {
+   "id": "Ranked Solo/Duo|11/14/2026, 11:28 PM|Hecarim|22m 52s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/14/2026, 11:28 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 14,
+   "duration": "22m 52s",
+   "minutes": 22.866666666666667,
+   "k": 7,
+   "d": 6,
+   "a": 1,
+   "kda": "1.33",
+   "kp": 73,
+   "cs": 182,
+   "csm": 8,
+   "laning": [
+    52,
+    48
+   ],
+   "avgTier": "Master 224",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3071.png"
+    },
+    {
+     "n": "Null-Magic Mantle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1033.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2517.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "LiarsPoker",
+     "h": "/lol/summoners/na/LiarsPoker-UPUP",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vladimir.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "kuromi",
+     "h": "/lol/summoners/na/kuromi-uwua",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "cinnamoroll",
+     "h": "/lol/summoners/na/cinnamoroll-uwua",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MissFortune.png"
+    },
+    {
+     "n": "Who Shot Yah",
+     "h": "/lol/summoners/na/Who%20Shot%20Yah-DOA",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shaco.png"
+    },
+    {
+     "n": "PitsyLo",
+     "h": "/lol/summoners/na/PitsyLo-NA1",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Darius.png"
+    },
+    {
+     "n": "Dorry",
+     "h": "/lol/summoners/na/Dorry-Jyyy",
+     "c": "Talon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Talon.png"
+    },
+    {
+     "n": "AJs Smurf",
+     "h": "/lol/summoners/na/AJs%20Smurf-NA1",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "Descendant",
+     "h": "/lol/summoners/na/Descendant-NA1",
+     "c": "Mel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Mel.png"
+    },
+    {
+     "n": "MioMio",
+     "h": "/lol/summoners/na/MioMio-NA1",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794716880000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "LiarsPoker",
+        "h": "/lol/summoners/na/LiarsPoker-UPUP",
+        "t": "Master 165",
+        "op": 2,
+        "opr": "9th",
+        "dmg": 8669,
+        "taken": 17428,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 538",
+        "op": 4.4,
+        "opr": "ACE",
+        "dmg": 13650,
+        "taken": 27904,
+        "cw": 1,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "kuromi",
+        "h": "/lol/summoners/na/kuromi-uwua",
+        "t": "Diamond 1",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 11398,
+        "taken": 17660,
+        "cw": 3,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "cinnamoroll",
+        "h": "/lol/summoners/na/cinnamoroll-uwua",
+        "t": "Master 195",
+        "op": 4,
+        "opr": "7th",
+        "dmg": 10892,
+        "taken": 12986,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Who Shot Yah",
+        "h": "/lol/summoners/na/Who%20Shot%20Yah-DOA",
+        "t": "Master 198",
+        "op": 0.1,
+        "opr": "10th",
+        "dmg": 4682,
+        "taken": 14814,
+        "cw": 2,
+        "wards": "14 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "PitsyLo",
+        "h": "/lol/summoners/na/PitsyLo-NA1",
+        "t": "Master 521",
+        "op": 6.1,
+        "opr": "4th",
+        "dmg": 10855,
+        "taken": 17352,
+        "cw": 1,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "Dorry",
+        "h": "/lol/summoners/na/Dorry-Jyyy",
+        "t": "Master 107",
+        "op": 5.6,
+        "opr": "5th",
+        "dmg": 10606,
+        "taken": 21168,
+        "cw": 0,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "AJs Smurf",
+        "h": "/lol/summoners/na/AJs%20Smurf-NA1",
+        "t": "Diamond 1",
+        "op": 7.5,
+        "opr": "3rd",
+        "dmg": 14151,
+        "taken": 19648,
+        "cw": 4,
+        "wards": "5 / 5"
+       },
+       {
+        "n": "Descendant",
+        "h": "/lol/summoners/na/Descendant-NA1",
+        "t": "Master 635",
+        "op": 9.8,
+        "opr": "2nd",
+        "dmg": 21770,
+        "taken": 11090,
+        "cw": 1,
+        "wards": "3 / 1"
+       },
+       {
+        "n": "MioMio",
+        "h": "/lol/summoners/na/MioMio-NA1",
+        "t": "Diamond 1",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 16804,
+        "taken": 7261,
+        "cw": 5,
+        "wards": "29 / 2"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1794717210948,
+   "shot": "g_ed8a44dbf6.jpg",
+   "lpCalc": true,
+   "roast": "A 7/6/1 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
