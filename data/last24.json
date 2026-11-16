@@ -1,22 +1,22 @@
 {
- "sig": "81df3d8912",
+ "sig": "e2beda84f4",
  "report": {
-  "roast": "0W 1L, -31 LP. Bleeding LP like it's a hobby.",
+  "roast": "1W 0L, +29 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Low kill participation (50%). Stop farming while your team fights.",
-   "Stop dying - 6.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 0.0 a game is nothing."
+   "Buy control wards - 1.0 a game is nothing.",
+   "Track objective timers and set up vision a minute early.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 0,
-  "losses": 1,
-  "k": 5,
-  "d": 6,
-  "a": 3,
-  "kda": 1.3333333333333333,
-  "csm": 7.4957216200798635,
-  "kp": 50,
-  "lpNet": -31,
+  "wins": 1,
+  "losses": 0,
+  "k": 9,
+  "d": 0,
+  "a": 5,
+  "kda": 14,
+  "csm": 9.602446483180428,
+  "kp": 78,
+  "lpNet": 29,
   "ints": 0,
   "games": 1
  },

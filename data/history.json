@@ -63654,6 +63654,296 @@
    "roast": "A 5/6/3 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_9734e9a850.jpg",
    "firstSeen": 1794719633687
+  },
+  "Ranked Solo/Duo|11/16/2026, 2:29 PM|Hecarim|16m 21s": {
+   "id": "Ranked Solo/Duo|11/16/2026, 2:29 PM|Hecarim|16m 21s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/16/2026, 2:29 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+   },
+   "level": 13,
+   "duration": "16m 21s",
+   "minutes": 16.35,
+   "k": 9,
+   "d": 0,
+   "a": 5,
+   "kda": "",
+   "kp": 78,
+   "cs": 157,
+   "csm": 9.6,
+   "laning": [
+    72,
+    28
+   ],
+   "avgTier": "Master 103",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1037.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1001.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "SiriusBull",
+     "h": "/lol/summoners/na/SiriusBull-NA1",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yasuo.png"
+    },
+    {
+     "n": "ZoX",
+     "h": "/lol/summoners/na/ZoX%20-99999",
+     "c": "Shaco",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Shaco.png"
+    },
+    {
+     "n": "Nocd Her Up",
+     "h": "/lol/summoners/na/Nocd%20Her%20Up-PlanB",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Orianna.png"
+    },
+    {
+     "n": "arcial",
+     "h": "/lol/summoners/na/arcial-NA1",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "DDADANGER",
+     "h": "/lol/summoners/na/DDADANGER-NA1",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leona.png"
+    },
+    {
+     "n": "the sparkh",
+     "h": "/lol/summoners/na/the%20sparkh-6079",
+     "c": "Kled",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Kled.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Hecarim.png"
+    },
+    {
+     "n": "OH HELLOO HEHAHA",
+     "h": "/lol/summoners/na/OH%20HELLOO%20HEHAHA-uwu",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lissandra.png"
+    },
+    {
+     "n": "King Sakebi",
+     "h": "/lol/summoners/na/King%20Sakebi-NA1",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Vegetarian Steak",
+     "h": "/lol/summoners/na/Vegetarian%20Steak-cow",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Rell.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794857340000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "SiriusBull",
+        "h": "/lol/summoners/na/SiriusBull-NA1",
+        "t": "Master 25",
+        "op": 2.9,
+        "opr": "7th",
+        "dmg": 5596,
+        "taken": 5981,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "ZoX",
+        "h": "/lol/summoners/na/ZoX%20-99999",
+        "t": "Master 129",
+        "op": 1.3,
+        "opr": "8th",
+        "dmg": 6771,
+        "taken": 10506,
+        "cw": 0,
+        "wards": "1 / 0"
+       },
+       {
+        "n": "Nocd Her Up",
+        "h": "/lol/summoners/na/Nocd%20Her%20Up-PlanB",
+        "t": "Diamond 1",
+        "op": 0.8,
+        "opr": "10th",
+        "dmg": 5173,
+        "taken": 11947,
+        "cw": 0,
+        "wards": "3 / 0"
+       },
+       {
+        "n": "arcial",
+        "h": "/lol/summoners/na/arcial-NA1",
+        "t": "Master 361",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 5891,
+        "taken": 6471,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "DDADANGER",
+        "h": "/lol/summoners/na/DDADANGER-NA1",
+        "t": "Master 82",
+        "op": 1.1,
+        "opr": "9th",
+        "dmg": 3284,
+        "taken": 12037,
+        "cw": 2,
+        "wards": "15 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "the sparkh",
+        "h": "/lol/summoners/na/the%20sparkh-6079",
+        "t": "Master 70",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 7212,
+        "taken": 11641,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 476",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 8875,
+        "taken": 14057,
+        "cw": 1,
+        "wards": "2 / 0"
+       },
+       {
+        "n": "OH HELLOO HEHAHA",
+        "h": "/lol/summoners/na/OH%20HELLOO%20HEHAHA-uwu",
+        "t": "Master 512",
+        "op": 8.1,
+        "opr": "3rd",
+        "dmg": 10899,
+        "taken": 7849,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "King Sakebi",
+        "h": "/lol/summoners/na/King%20Sakebi-NA1",
+        "t": "Master 60",
+        "op": 8,
+        "opr": "4th",
+        "dmg": 10690,
+        "taken": 5683,
+        "cw": 1,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Vegetarian Steak",
+        "h": "/lol/summoners/na/Vegetarian%20Steak-cow",
+        "t": "Emerald 2",
+        "op": 8.3,
+        "opr": "2nd",
+        "dmg": 2498,
+        "taken": 4314,
+        "cw": 5,
+        "wards": "13 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794857601749,
+   "shot": "g_8a13d03247.jpg",
+   "lpCalc": true,
+   "roast": "9/0/5 deathless on Hecarim. Annoyingly clean. Screenshot it, it won't happen again."
   }
  },
  "tz": "America/Toronto"
