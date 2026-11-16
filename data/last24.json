@@ -1,24 +1,24 @@
 {
- "sig": "5174e9e496",
+ "sig": "620e9a47a4",
  "report": {
-  "roast": "2W 0L, +58 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "2W 1L, +27 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Buy control wards - 0.5 a game is nothing.",
+   "Buy control wards - 0.7 a game is nothing.",
    "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 2,
-  "losses": 0,
-  "k": 8,
-  "d": 1,
-  "a": 6.5,
-  "kda": 14.5,
-  "csm": 8.678237650200266,
-  "kp": 76.5,
-  "lpNet": 58,
+  "losses": 1,
+  "k": 10,
+  "d": 2.6666666666666665,
+  "a": 7,
+  "kda": 6.375,
+  "csm": 8.387978142076502,
+  "kp": 73.33333333333333,
+  "lpNet": 27,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
