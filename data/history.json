@@ -18020,590 +18020,6 @@
    "roast": "11/5/7 win on Hecarim. LP is LP, even when it's ugly.",
    "firstSeen": 1793049288102
   },
-  "Ranked Solo/Duo|10/18/2026, 6:24 PM|Hecarim|27m 47s": {
-   "id": "Ranked Solo/Duo|10/18/2026, 6:24 PM|Hecarim|27m 47s",
-   "queue": "Ranked Solo/Duo",
-   "date": "10/18/2026, 6:24 PM",
-   "result": "Victory",
-   "win": true,
-   "remake": false,
-   "champ": {
-    "n": "Hecarim",
-    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Hecarim.png"
-   },
-   "level": 17,
-   "duration": "27m 47s",
-   "minutes": 27.783333333333335,
-   "k": 6,
-   "d": 3,
-   "a": 11,
-   "kda": "5.67",
-   "kp": 44,
-   "cs": 227,
-   "csm": 8.2,
-   "laning": [
-    61,
-    39
-   ],
-   "avgTier": "Master 289",
-   "lp": null,
-   "items": [
-    {
-     "n": "Black Cleaver",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3071.png"
-    },
-    {
-     "n": "Spear of Shojin",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3161.png"
-    },
-    {
-     "n": "Gluttonous Greaves",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3008.png"
-    },
-    {
-     "n": "Endless Hunger",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/2517.png"
-    },
-    {
-     "n": "Giant's Belt",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1011.png"
-    },
-    {
-     "n": "Warden's Mail",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3082.png"
-    },
-    {
-     "n": "Oracle Lens",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3364.png"
-    },
-    {
-     "n": "Jungle Quest Reward",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1209.png"
-    }
-   ],
-   "spells": [
-    {
-     "n": "Smite",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerSmite.png"
-    },
-    {
-     "n": "Ghost",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerHaste.png"
-    }
-   ],
-   "runes": [
-    {
-     "n": "Stormraider's Surge",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perk/8230.png"
-    },
-    {
-     "n": "Precision",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perkStyle/8000.png"
-    }
-   ],
-   "players": [
-    {
-     "n": "Polar",
-     "h": "/lol/summoners/na/Polar-NA2",
-     "c": "Nautilus",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Nautilus.png"
-    },
-    {
-     "n": "FullClearDeluxe",
-     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-     "c": "Hecarim",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Hecarim.png"
-    },
-    {
-     "n": "tôi dại dột123",
-     "h": "/lol/summoners/na/t%C3%B4i%20d%E1%BA%A1i%20d%E1%BB%99t123-59Y1",
-     "c": "Viktor",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Viktor.png"
-    },
-    {
-     "n": "DuhhDiamond",
-     "h": "/lol/summoners/na/DuhhDiamond-NA1",
-     "c": "Zeri",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Zeri.png"
-    },
-    {
-     "n": "Kenny Powers",
-     "h": "/lol/summoners/na/Kenny%20Powers-HOOK",
-     "c": "Thresh",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Thresh.png"
-    },
-    {
-     "n": "kakira",
-     "h": "/lol/summoners/na/kakira-VRB",
-     "c": "Yone",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Yone.png"
-    },
-    {
-     "n": "Eastyxo",
-     "h": "/lol/summoners/na/Eastyxo-666",
-     "c": "Cho'Gath",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Chogath.png"
-    },
-    {
-     "n": "Burito",
-     "h": "/lol/summoners/na/Burito-Burto",
-     "c": "Ryze",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Ryze.png"
-    },
-    {
-     "n": "LeoEmperor",
-     "h": "/lol/summoners/na/LeoEmperor-NA1",
-     "c": "Samira",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Samira.png"
-    },
-    {
-     "n": "ulqglxsvd",
-     "h": "/lol/summoners/na/ulqglxsvd-NA1",
-     "c": "Poppy",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Poppy.png"
-    }
-   ],
-   "team": 0,
-   "ts": 1792362240000,
-   "detail": {
-    "teams": [
-     {
-      "win": true,
-      "side": "blue",
-      "players": [
-       {
-        "n": "Polar",
-        "h": "/lol/summoners/na/Polar-NA2",
-        "t": "Master 59",
-        "op": 4.9,
-        "opr": "6th",
-        "dmg": 16672,
-        "taken": 23056,
-        "cw": 1,
-        "wards": "11 / 0"
-       },
-       {
-        "n": "FullClearDeluxe",
-        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-        "t": "Master 377",
-        "op": 7.4,
-        "opr": "4th",
-        "dmg": 17815,
-        "taken": 37278,
-        "cw": 0,
-        "wards": "10 / 1"
-       },
-       {
-        "n": "tôi dại dột123",
-        "h": "/lol/summoners/na/t%C3%B4i%20d%E1%BA%A1i%20d%E1%BB%99t123-59Y1",
-        "t": "Master 339",
-        "op": 10,
-        "opr": "2nd",
-        "dmg": 43427,
-        "taken": 19323,
-        "cw": 1,
-        "wards": "8 / 2"
-       },
-       {
-        "n": "DuhhDiamond",
-        "h": "/lol/summoners/na/DuhhDiamond-NA1",
-        "t": "Master 650",
-        "op": 10,
-        "opr": "MVP",
-        "dmg": 31644,
-        "taken": 21221,
-        "cw": 0,
-        "wards": "8 / 6"
-       },
-       {
-        "n": "Kenny Powers",
-        "h": "/lol/summoners/na/Kenny%20Powers-HOOK",
-        "t": "Master 136",
-        "op": 9.4,
-        "opr": "3rd",
-        "dmg": 9897,
-        "taken": 10086,
-        "cw": 10,
-        "wards": "27 / 11"
-       }
-      ]
-     },
-     {
-      "win": false,
-      "side": "red",
-      "players": [
-       {
-        "n": "kakira",
-        "h": "/lol/summoners/na/kakira-VRB",
-        "t": "Diamond 2",
-        "op": 5.1,
-        "opr": "ACE",
-        "dmg": 29337,
-        "taken": 30377,
-        "cw": 0,
-        "wards": "10 / 0"
-       },
-       {
-        "n": "Eastyxo",
-        "h": "/lol/summoners/na/Eastyxo-666",
-        "t": "Diamond 1",
-        "op": 3.8,
-        "opr": "8th",
-        "dmg": 12519,
-        "taken": 38250,
-        "cw": 0,
-        "wards": "0 / 5"
-       },
-       {
-        "n": "Burito",
-        "h": "/lol/summoners/na/Burito-Burto",
-        "t": "Master 778",
-        "op": 4.8,
-        "opr": "7th",
-        "dmg": 22208,
-        "taken": 24505,
-        "cw": 1,
-        "wards": "10 / 5"
-       },
-       {
-        "n": "LeoEmperor",
-        "h": "/lol/summoners/na/LeoEmperor-NA1",
-        "t": "Master 312",
-        "op": 1.7,
-        "opr": "10th",
-        "dmg": 7247,
-        "taken": 24523,
-        "cw": 0,
-        "wards": "8 / 2"
-       },
-       {
-        "n": "ulqglxsvd",
-        "h": "/lol/summoners/na/ulqglxsvd-NA1",
-        "t": "Master 406",
-        "op": 2.4,
-        "opr": "9th",
-        "dmg": 6689,
-        "taken": 23165,
-        "cw": 8,
-        "wards": "37 / 7"
-       }
-      ]
-     }
-    ],
-    "obj": [
-     {
-      "Baron": 1,
-      "Dragon": 3,
-      "Rift Herald": 1,
-      "Void Grub": 0,
-      "Tower": 10,
-      "Inhibitor": 1
-     },
-     {
-      "Baron": 0,
-      "Dragon": 1,
-      "Rift Herald": 0,
-      "Void Grub": 3,
-      "Tower": 2,
-      "Inhibitor": 0
-     }
-    ]
-   },
-   "roast": "6/3/11 win on Hecarim. LP is LP, even when it's ugly.",
-   "firstSeen": 1793049288102
-  },
-  "Ranked Solo/Duo|10/18/2026, 5:40 PM|Graves|41m 38s": {
-   "id": "Ranked Solo/Duo|10/18/2026, 5:40 PM|Graves|41m 38s",
-   "queue": "Ranked Solo/Duo",
-   "date": "10/18/2026, 5:40 PM",
-   "result": "Defeat",
-   "win": false,
-   "remake": false,
-   "champ": {
-    "n": "Graves",
-    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Graves.png"
-   },
-   "level": 18,
-   "duration": "41m 38s",
-   "minutes": 41.63333333333333,
-   "k": 12,
-   "d": 6,
-   "a": 7,
-   "kda": "3.17",
-   "kp": 46,
-   "cs": 339,
-   "csm": 8.1,
-   "laning": [
-    50,
-    50
-   ],
-   "avgTier": "Master 703",
-   "lp": null,
-   "items": [
-    {
-     "n": "The Collector",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/6676.png"
-    },
-    {
-     "n": "Hubris",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/6697.png"
-    },
-    {
-     "n": "Immortal Shieldbow",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/6673.png"
-    },
-    {
-     "n": "Plated Steelcaps",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3047.png"
-    },
-    {
-     "n": "Infinity Edge",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3031.png"
-    },
-    {
-     "n": "Lord Dominik's Regards",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3036.png"
-    },
-    {
-     "n": "Farsight Alteration",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3363.png"
-    },
-    {
-     "n": "Jungle Quest Reward",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1209.png"
-    }
-   ],
-   "spells": [
-    {
-     "n": "Smite",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerSmite.png"
-    },
-    {
-     "n": "Flash",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerFlash.png"
-    }
-   ],
-   "runes": [
-    {
-     "n": "Dark Harvest",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perk/8128.png"
-    },
-    {
-     "n": "Precision",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perkStyle/8000.png"
-    }
-   ],
-   "players": [
-    {
-     "n": "FakersAdoptedSon",
-     "h": "/lol/summoners/na/FakersAdoptedSon-NA1",
-     "c": "Pantheon",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Pantheon.png"
-    },
-    {
-     "n": "Eon",
-     "h": "/lol/summoners/na/Eon-900",
-     "c": "Talon",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Talon.png"
-    },
-    {
-     "n": "Lelouch Vi Brit",
-     "h": "/lol/summoners/na/Lelouch%20Vi%20Brit-Zero0",
-     "c": "Vladimir",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Vladimir.png"
-    },
-    {
-     "n": "rewinz",
-     "h": "/lol/summoners/na/rewinz-sexxy",
-     "c": "Locke",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Locke.png"
-    },
-    {
-     "n": "geto",
-     "h": "/lol/summoners/na/geto-%EF%BE%92%20%20%20%C3%98",
-     "c": "Sona",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Sona.png"
-    },
-    {
-     "n": "撼天VIP",
-     "h": "/lol/summoners/na/%E6%92%BC%E5%A4%A9VIP-glory",
-     "c": "Aatrox",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Aatrox.png"
-    },
-    {
-     "n": "FullClearDeluxe",
-     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-     "c": "Graves",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Graves.png"
-    },
-    {
-     "n": "curruy",
-     "h": "/lol/summoners/na/curruy-NA2",
-     "c": "Akali",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Akali.png"
-    },
-    {
-     "n": "BlueShoes9",
-     "h": "/lol/summoners/na/BlueShoes9-NA1",
-     "c": "Kai'Sa",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Kaisa.png"
-    },
-    {
-     "n": "Kraymer",
-     "h": "/lol/summoners/na/Kraymer-NA1",
-     "c": "Leona",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Leona.png"
-    }
-   ],
-   "team": 1,
-   "ts": 1792359600000,
-   "detail": {
-    "teams": [
-     {
-      "win": true,
-      "side": "blue",
-      "players": [
-       {
-        "n": "FakersAdoptedSon",
-        "h": "/lol/summoners/na/FakersAdoptedSon-NA1",
-        "t": "Master 397",
-        "op": 5,
-        "opr": "6th",
-        "dmg": 48045,
-        "taken": 45601,
-        "cw": 1,
-        "wards": "12 / 3"
-       },
-       {
-        "n": "Eon",
-        "h": "/lol/summoners/na/Eon-900",
-        "t": "Master 329",
-        "op": 5.6,
-        "opr": "3rd",
-        "dmg": 45380,
-        "taken": 46235,
-        "cw": 1,
-        "wards": "19 / 20"
-       },
-       {
-        "n": "Lelouch Vi Brit",
-        "h": "/lol/summoners/na/Lelouch%20Vi%20Brit-Zero0",
-        "t": "Master 999",
-        "op": 5.4,
-        "opr": "4th",
-        "dmg": 45451,
-        "taken": 44791,
-        "cw": 0,
-        "wards": "4 / 0"
-       },
-       {
-        "n": "rewinz",
-        "h": "/lol/summoners/na/rewinz-sexxy",
-        "t": "Master 781",
-        "op": 4.6,
-        "opr": "8th",
-        "dmg": 38760,
-        "taken": 40231,
-        "cw": 0,
-        "wards": "11 / 1"
-       },
-       {
-        "n": "geto",
-        "h": "/lol/summoners/na/geto-%EF%BE%92%20%20%20%C3%98",
-        "t": "Master 773",
-        "op": 7.4,
-        "opr": "MVP",
-        "dmg": 26830,
-        "taken": 32450,
-        "cw": 6,
-        "wards": "45 / 13"
-       }
-      ]
-     },
-     {
-      "win": false,
-      "side": "red",
-      "players": [
-       {
-        "n": "撼天VIP",
-        "h": "/lol/summoners/na/%E6%92%BC%E5%A4%A9VIP-glory",
-        "t": "Master 841",
-        "op": 4.9,
-        "opr": "7th",
-        "dmg": 46011,
-        "taken": 85682,
-        "cw": 0,
-        "wards": "6 / 4"
-       },
-       {
-        "n": "FullClearDeluxe",
-        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-        "t": "Master 406",
-        "op": 5,
-        "opr": "5th",
-        "dmg": 32509,
-        "taken": 34833,
-        "cw": 1,
-        "wards": "8 / 12"
-       },
-       {
-        "n": "curruy",
-        "h": "/lol/summoners/na/curruy-NA2",
-        "t": "Master 838",
-        "op": 5.8,
-        "opr": "ACE",
-        "dmg": 48464,
-        "taken": 34097,
-        "cw": 0,
-        "wards": "4 / 6"
-       },
-       {
-        "n": "BlueShoes9",
-        "h": "/lol/summoners/na/BlueShoes9-NA1",
-        "t": "Master 890",
-        "op": 2.9,
-        "opr": "10th",
-        "dmg": 29467,
-        "taken": 33029,
-        "cw": 0,
-        "wards": "9 / 6"
-       },
-       {
-        "n": "Kraymer",
-        "h": "/lol/summoners/na/Kraymer-NA1",
-        "t": "Master 772",
-        "op": 4.3,
-        "opr": "9th",
-        "dmg": 13074,
-        "taken": 44916,
-        "cw": 19,
-        "wards": "60 / 9"
-       }
-      ]
-     }
-    ],
-    "obj": [
-     {
-      "Baron": 2,
-      "Dragon": 2,
-      "Rift Herald": 1,
-      "Void Grub": 1,
-      "Tower": 9,
-      "Inhibitor": 1
-     },
-     {
-      "Baron": 1,
-      "Dragon": 4,
-      "Rift Herald": 0,
-      "Void Grub": 2,
-      "Tower": 8,
-      "Inhibitor": 2
-     }
-    ]
-   },
-   "roast": "A 12/6/7 loss on Graves. Not the worst, but the LP doesn't care about effort.",
-   "firstSeen": 1793049288102
-  },
   "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s": {
    "id": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s",
    "queue": "Ranked Solo/Duo",
@@ -62391,6 +61807,155 @@
    "roast": "33% kill participation. Was Qiyana in this game or just watching it?",
    "shot": "g_e24b5afe3e.jpg",
    "firstSeen": 1794890689194
+  },
+  "Normal|11/17/2026, 5:41 PM|Dr. Mundo|32m 15s": {
+   "id": "Normal|11/17/2026, 5:41 PM|Dr. Mundo|32m 15s",
+   "queue": "Normal",
+   "date": "11/17/2026, 5:41 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+   },
+   "level": 20,
+   "duration": "32m 15s",
+   "minutes": 32.25,
+   "k": 10,
+   "d": 4,
+   "a": 6,
+   "kda": "4.00",
+   "kp": 53,
+   "cs": 307,
+   "csm": 9.5,
+   "laning": [
+    65,
+    35
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2501.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3748.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3084.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    },
+    {
+     "n": "Warmog's Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3083.png"
+    },
+    {
+     "n": "Bramble Vest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3076.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3363.png"
+    },
+    {
+     "n": "Top Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1221.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "comfortable",
+     "h": "/lol/summoners/na/comfortable-btwn",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akali.png"
+    },
+    {
+     "n": "backseat girl",
+     "h": "/lol/summoners/na/backseat%20girl-rmvr",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Chogath.png"
+    },
+    {
+     "n": "AdriftAnarchist",
+     "h": "/lol/summoners/na/AdriftAnarchist-SOUP",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xerath.png"
+    },
+    {
+     "n": "Shane Thien",
+     "h": "/lol/summoners/na/Shane%20Thien-4844",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "Hexsin",
+     "h": "/lol/summoners/na/Hexsin-HEX",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Lux.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    },
+    {
+     "n": "Opossum King",
+     "h": "/lol/summoners/na/Opossum%20King-NA1",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Akshan.png"
+    },
+    {
+     "n": "G1GA BIN",
+     "h": "/lol/summoners/na/G1GA%20BIN-NA1",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Syndra.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794955260000,
+   "detail": null,
+   "firstSeen": 1794955577567,
+   "shot": "g_139e71018a.jpg"
   }
  },
  "tz": "America/Toronto"
