@@ -61664,6 +61664,155 @@
    "detail": null,
    "shot": "g_139e71018a.jpg",
    "firstSeen": 1794955577567
+  },
+  "Normal|11/17/2026, 6:28 PM|Pantheon|34m 03s": {
+   "id": "Normal|11/17/2026, 6:28 PM|Pantheon|34m 03s",
+   "queue": "Normal",
+   "date": "11/17/2026, 6:28 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Pantheon",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+   },
+   "level": 18,
+   "duration": "34m 03s",
+   "minutes": 34.05,
+   "k": 6,
+   "d": 9,
+   "a": 7,
+   "kda": "1.44",
+   "kp": 46,
+   "cs": 236,
+   "csm": 6.9,
+   "laning": [
+    63,
+    37
+   ],
+   "avgTier": "Emerald 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Blade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1055.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6699.png"
+    },
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2520.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3047.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6333.png"
+    },
+    {
+     "n": "Caulfield's Warhammer",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3133.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "seaal",
+     "h": "/lol/summoners/na/seaal-777",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zaahen.png"
+    },
+    {
+     "n": "Reformed Schizo",
+     "h": "/lol/summoners/na/Reformed%20Schizo-kill",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zed.png"
+    },
+    {
+     "n": "eldiablo",
+     "h": "/lol/summoners/na/eldiablo-5365",
+     "c": "Aurelion Sol",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/AurelionSol.png"
+    },
+    {
+     "n": "Saz",
+     "h": "/lol/summoners/na/Saz-PCIT",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "FunPoliceCaitlyn",
+     "h": "/lol/summoners/na/FunPoliceCaitlyn-ALF",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Teemo.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "CDogDaBeast",
+     "h": "/lol/summoners/na/CDogDaBeast-NA1",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KogMaw.png"
+    },
+    {
+     "n": "JuneToJuly1922",
+     "h": "/lol/summoners/na/JuneToJuly1922-GC88",
+     "c": "Karma",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karma.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794958080000,
+   "detail": null,
+   "firstSeen": 1794958304324,
+   "shot": "g_fab3fcd460.jpg"
   }
  },
  "tz": "America/Toronto"
