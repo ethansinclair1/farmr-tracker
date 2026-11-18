@@ -16860,290 +16860,6 @@
    "roast": "Win on Hecarim (5/2/3). Carried or carried? The 7 CS/min says \"a bit of both\".",
    "firstSeen": 1793049288102
   },
-  "Ranked Solo/Duo|10/18/2026, 10:38 PM|Hecarim|27m 43s": {
-   "id": "Ranked Solo/Duo|10/18/2026, 10:38 PM|Hecarim|27m 43s",
-   "queue": "Ranked Solo/Duo",
-   "date": "10/18/2026, 10:38 PM",
-   "result": "Defeat",
-   "win": false,
-   "remake": false,
-   "champ": {
-    "n": "Hecarim",
-    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Hecarim.png"
-   },
-   "level": 15,
-   "duration": "27m 43s",
-   "minutes": 27.716666666666665,
-   "k": 1,
-   "d": 9,
-   "a": 6,
-   "kda": "0.78",
-   "kp": 35,
-   "cs": 223,
-   "csm": 8,
-   "laning": [
-    33,
-    67
-   ],
-   "avgTier": "Master 732",
-   "lp": null,
-   "items": [
-    {
-     "n": "Death's Dance",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/6333.png"
-    },
-    {
-     "n": "Black Cleaver",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3071.png"
-    },
-    {
-     "n": "Endless Hunger",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/2517.png"
-    },
-    {
-     "n": "Boots",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1001.png"
-    },
-    {
-     "n": "Farsight Alteration",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3363.png"
-    },
-    {
-     "n": "Jungle Quest Reward",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1209.png"
-    }
-   ],
-   "spells": [
-    {
-     "n": "Smite",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerSmite.png"
-    },
-    {
-     "n": "Ghost",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerHaste.png"
-    }
-   ],
-   "runes": [
-    {
-     "n": "Stormraider's Surge",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perk/8230.png"
-    },
-    {
-     "n": "Precision",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perkStyle/8000.png"
-    }
-   ],
-   "players": [
-    {
-     "n": "502GLUEGUNNER",
-     "h": "/lol/summoners/na/502GLUEGUNNER-NA1",
-     "c": "Locke",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Locke.png"
-    },
-    {
-     "n": "FullClearDeluxe",
-     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-     "c": "Hecarim",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Hecarim.png"
-    },
-    {
-     "n": "DragonJousting",
-     "h": "/lol/summoners/na/DragonJousting-NA1",
-     "c": "Ahri",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Ahri.png"
-    },
-    {
-     "n": "Verii",
-     "h": "/lol/summoners/na/Verii-Grim",
-     "c": "Jhin",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Jhin.png"
-    },
-    {
-     "n": "shrimplicity",
-     "h": "/lol/summoners/na/shrimplicity-1441",
-     "c": "Maokai",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Maokai.png"
-    },
-    {
-     "n": "Dobking",
-     "h": "/lol/summoners/na/Dobking-NA1",
-     "c": "Ornn",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Ornn.png"
-    },
-    {
-     "n": "Jaskael",
-     "h": "/lol/summoners/na/Jaskael-URMAD",
-     "c": "Wukong",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/MonkeyKing.png"
-    },
-    {
-     "n": "Malevolent Bun",
-     "h": "/lol/summoners/na/Malevolent%20Bun-Duke",
-     "c": "Karma",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Karma.png"
-    },
-    {
-     "n": "Char Siu",
-     "h": "/lol/summoners/na/Char%20Siu-ZYU",
-     "c": "Kai'Sa",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Kaisa.png"
-    },
-    {
-     "n": "Silent Knight",
-     "h": "/lol/summoners/na/Silent%20Knight-HONOR",
-     "c": "Blitzcrank",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Blitzcrank.png"
-    }
-   ],
-   "team": 0,
-   "ts": 1792377480000,
-   "detail": {
-    "teams": [
-     {
-      "win": false,
-      "side": "blue",
-      "players": [
-       {
-        "n": "502GLUEGUNNER",
-        "h": "/lol/summoners/na/502GLUEGUNNER-NA1",
-        "t": "Master 673",
-        "op": 4.9,
-        "opr": "7th",
-        "dmg": 21411,
-        "taken": 27361,
-        "cw": 0,
-        "wards": "10 / 1"
-       },
-       {
-        "n": "FullClearDeluxe",
-        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-        "t": "Master 532",
-        "op": 3.1,
-        "opr": "10th",
-        "dmg": 17895,
-        "taken": 36167,
-        "cw": 1,
-        "wards": "6 / 1"
-       },
-       {
-        "n": "DragonJousting",
-        "h": "/lol/summoners/na/DragonJousting-NA1",
-        "t": "Master 704",
-        "op": 4.9,
-        "opr": "6th",
-        "dmg": 19003,
-        "taken": 13631,
-        "cw": 0,
-        "wards": "9 / 3"
-       },
-       {
-        "n": "Verii",
-        "h": "/lol/summoners/na/Verii-Grim",
-        "t": "Master 1,182",
-        "op": 5.1,
-        "opr": "ACE",
-        "dmg": 25330,
-        "taken": 21010,
-        "cw": 0,
-        "wards": "8 / 2"
-       },
-       {
-        "n": "shrimplicity",
-        "h": "/lol/summoners/na/shrimplicity-1441",
-        "t": "Master 392",
-        "op": 3.5,
-        "opr": "9th",
-        "dmg": 12253,
-        "taken": 26385,
-        "cw": 3,
-        "wards": "24 / 10"
-       }
-      ]
-     },
-     {
-      "win": true,
-      "side": "red",
-      "players": [
-       {
-        "n": "Dobking",
-        "h": "/lol/summoners/na/Dobking-NA1",
-        "t": "Master 382",
-        "op": 4.5,
-        "opr": "8th",
-        "dmg": 24401,
-        "taken": 39377,
-        "cw": 0,
-        "wards": "9 / 1"
-       },
-       {
-        "n": "Jaskael",
-        "h": "/lol/summoners/na/Jaskael-URMAD",
-        "t": "Master 984",
-        "op": 10,
-        "opr": "MVP",
-        "dmg": 27662,
-        "taken": 27646,
-        "cw": 0,
-        "wards": "1 / 6"
-       },
-       {
-        "n": "Malevolent Bun",
-        "h": "/lol/summoners/na/Malevolent%20Bun-Duke",
-        "t": "Master 889",
-        "op": 5.9,
-        "opr": "4th",
-        "dmg": 8840,
-        "taken": 14034,
-        "cw": 5,
-        "wards": "12 / 3"
-       },
-       {
-        "n": "Char Siu",
-        "h": "/lol/summoners/na/Char%20Siu-ZYU",
-        "t": "Master 890",
-        "op": 8.4,
-        "opr": "2nd",
-        "dmg": 29149,
-        "taken": 19552,
-        "cw": 1,
-        "wards": "10 / 5"
-       },
-       {
-        "n": "Silent Knight",
-        "h": "/lol/summoners/na/Silent%20Knight-HONOR",
-        "t": "Master 689",
-        "op": 7.2,
-        "opr": "3rd",
-        "dmg": 9450,
-        "taken": 23800,
-        "cw": 13,
-        "wards": "48 / 6"
-       }
-      ]
-     }
-    ],
-    "obj": [
-     {
-      "Baron": 0,
-      "Dragon": 0,
-      "Rift Herald": 0,
-      "Void Grub": 0,
-      "Tower": 3,
-      "Inhibitor": 0
-     },
-     {
-      "Baron": 1,
-      "Dragon": 3,
-      "Rift Herald": 0,
-      "Void Grub": 3,
-      "Tower": 3,
-      "Inhibitor": 0
-     }
-    ]
-   },
-   "roast": "9 deaths. The enemy team should be paying 9 cents in rent for living in this player's jungle.",
-   "firstSeen": 1793049288102
-  },
   "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s": {
    "id": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s",
    "queue": "Ranked Solo/Duo",
@@ -61964,8 +61680,157 @@
    "team": 1,
    "ts": 1794967860000,
    "detail": null,
-   "firstSeen": 1794968209107,
-   "shot": "g_793426e0fc.jpg"
+   "shot": "g_793426e0fc.jpg",
+   "firstSeen": 1794968209107
+  },
+  "Normal|11/17/2026, 9:53 PM|Blitzcrank|35m 14s": {
+   "id": "Normal|11/17/2026, 9:53 PM|Blitzcrank|35m 14s",
+   "queue": "Normal",
+   "date": "11/17/2026, 9:53 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Blitzcrank",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Blitzcrank.png"
+   },
+   "level": 15,
+   "duration": "35m 14s",
+   "minutes": 35.233333333333334,
+   "k": 5,
+   "d": 12,
+   "a": 18,
+   "kda": "1.92",
+   "kp": 47,
+   "cs": 48,
+   "csm": 1.4,
+   "laning": [
+    59,
+    41
+   ],
+   "avgTier": "Iron at Cooking",
+   "lp": null,
+   "items": [
+    {
+     "n": "Solstice Sleigh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3876.png"
+    },
+    {
+     "n": "Shurelya's Battlesong",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2065.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3158.png"
+    },
+    {
+     "n": "Malignance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3118.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Blasting Wand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1026.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Control Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2055.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Electrocute",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "ShleemGobbler",
+     "h": "/lol/summoners/na/ShleemGobbler-NOB",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zaahen.png"
+    },
+    {
+     "n": "Ryerino",
+     "h": "/lol/summoners/na/Ryerino-xdd",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nautilus.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Locke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Locke.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Blitzcrank.png"
+    },
+    {
+     "n": "YOGO01",
+     "h": "/lol/summoners/na/YOGO01-NA1",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Irelia.png"
+    },
+    {
+     "n": "Iron at Cooking",
+     "h": "/lol/summoners/na/Iron%20at%20Cooking-loser",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ornn.png"
+    },
+    {
+     "n": "Strelizia",
+     "h": "/lol/summoners/na/Strelizia-lol",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "SquidProQuo",
+     "h": "/lol/summoners/na/SquidProQuo-VOID",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Morgue Mommy",
+     "h": "/lol/summoners/na/Morgue%20Mommy-dead",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1794970380000,
+   "detail": null,
+   "firstSeen": 1794970653562,
+   "shot": "g_96bc3ce365.jpg"
   }
  },
  "tz": "America/Toronto"
