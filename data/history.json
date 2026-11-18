@@ -62107,6 +62107,155 @@
    "detail": null,
    "shot": "g_06ffa1476d.jpg",
    "firstSeen": 1794962186762
+  },
+  "Normal|11/17/2026, 8:16 PM|Kog'Maw|37m 43s": {
+   "id": "Normal|11/17/2026, 8:16 PM|Kog'Maw|37m 43s",
+   "queue": "Normal",
+   "date": "11/17/2026, 8:16 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Kog'Maw",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KogMaw.png"
+   },
+   "level": 18,
+   "duration": "37m 43s",
+   "minutes": 37.71666666666667,
+   "k": 19,
+   "d": 13,
+   "a": 12,
+   "kda": "2.38",
+   "kp": 74,
+   "cs": 247,
+   "csm": 6.5,
+   "laning": [
+    52,
+    48
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Rabadon's Deathcap",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3089.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2510.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3157.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Void Staff",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3135.png"
+    },
+    {
+     "n": "Navori Flickerblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/6675.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3363.png"
+    },
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3020.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Destroyer12875",
+     "h": "/lol/summoners/na/Destroyer12875-9328",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KSante.png"
+    },
+    {
+     "n": "porcelainslighty",
+     "h": "/lol/summoners/na/porcelainslighty-Horus",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/LeeSin.png"
+    },
+    {
+     "n": "RaisinSage",
+     "h": "/lol/summoners/na/RaisinSage-Fruit",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Viktor.png"
+    },
+    {
+     "n": "KiritoTheSolo",
+     "h": "/lol/summoners/na/KiritoTheSolo-Ksolo",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Jinx.png"
+    },
+    {
+     "n": "Tharivol Elf",
+     "h": "/lol/summoners/na/Tharivol%20Elf-NA1",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Soraka.png"
+    },
+    {
+     "n": "칼날부리치킨",
+     "h": "/lol/summoners/na/%EC%B9%BC%EB%82%A0%EB%B6%80%EB%A6%AC%EC%B9%98%ED%82%A8-9210",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vayne.png"
+    },
+    {
+     "n": "CH3NsanitY27",
+     "h": "/lol/summoners/na/CH3NsanitY27-NA1",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sylas.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/KogMaw.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Sion.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794964560000,
+   "detail": null,
+   "firstSeen": 1794964917874,
+   "shot": "g_7fc5ff1d7c.jpg"
   }
  },
  "tz": "America/Toronto"
