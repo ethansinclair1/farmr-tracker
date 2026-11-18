@@ -61958,6 +61958,155 @@
    "detail": null,
    "shot": "g_e914e53019.jpg",
    "firstSeen": 1794960267251
+  },
+  "Normal|11/17/2026, 7:33 PM|Alistar|29m 35s": {
+   "id": "Normal|11/17/2026, 7:33 PM|Alistar|29m 35s",
+   "queue": "Normal",
+   "date": "11/17/2026, 7:33 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Alistar",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+   },
+   "level": 17,
+   "duration": "29m 35s",
+   "minutes": 29.583333333333332,
+   "k": 8,
+   "d": 11,
+   "a": 14,
+   "kda": "2.00",
+   "kp": 79,
+   "cs": 121,
+   "csm": 4.1,
+   "laning": [
+    63,
+    37
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1058.png"
+    },
+    {
+     "n": "Imperial Mandate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4005.png"
+    },
+    {
+     "n": "Stormsurge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4646.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/4645.png"
+    },
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3020.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1058.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Electrocute",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8112.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "arfees",
+     "h": "/lol/summoners/na/arfees-8820",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Gwen.png"
+    },
+    {
+     "n": "Croutons",
+     "h": "/lol/summoners/na/Croutons-Yuki",
+     "c": "Wukong",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MonkeyKing.png"
+    },
+    {
+     "n": "Aristial",
+     "h": "/lol/summoners/na/Aristial-bud",
+     "c": "Katarina",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Katarina.png"
+    },
+    {
+     "n": "Ruthless Warrior",
+     "h": "/lol/summoners/na/Ruthless%20Warrior-NA1",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Tristana.png"
+    },
+    {
+     "n": "Deimos",
+     "h": "/lol/summoners/na/Deimos-06239",
+     "c": "Leona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Leona.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Alistar.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "NegasaurusRex",
+     "h": "/lol/summoners/na/NegasaurusRex-kkkk",
+     "c": "Fiora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Fiora.png"
+    },
+    {
+     "n": "Merco 2f",
+     "h": "/lol/summoners/na/%20Merco%202f-NA1",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Senna.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794961980000,
+   "detail": null,
+   "firstSeen": 1794962186762,
+   "shot": "g_06ffa1476d.jpg"
   }
  },
  "tz": "America/Toronto"
