@@ -61037,8 +61037,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Belveth.png"
     },
     {
-     "n": "cacarix dogensen",
-     "h": "/lol/summoners/na/cacarix%20dogensen-LeOne",
+     "n": "DaDogg03",
+     "h": "/lol/summoners/na/DaDogg03-1228",
      "c": "Twisted Fate",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
     },
@@ -61956,8 +61956,8 @@
    "team": 1,
    "ts": 1794959940000,
    "detail": null,
-   "firstSeen": 1794960267251,
-   "shot": "g_e914e53019.jpg"
+   "shot": "g_e914e53019.jpg",
+   "firstSeen": 1794960267251
   }
  },
  "tz": "America/Toronto"
