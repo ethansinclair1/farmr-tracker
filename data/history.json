@@ -61829,8 +61829,302 @@
    "team": 0,
    "ts": 1794970380000,
    "detail": null,
-   "firstSeen": 1794970653562,
-   "shot": "g_96bc3ce365.jpg"
+   "shot": "g_96bc3ce365.jpg",
+   "firstSeen": 1794970653562
+  },
+  "Ranked Solo/Duo|11/17/2026, 10:41 PM|Dr. Mundo|32m 31s": {
+   "id": "Ranked Solo/Duo|11/17/2026, 10:41 PM|Dr. Mundo|32m 31s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/17/2026, 10:41 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+   },
+   "level": 18,
+   "duration": "32m 31s",
+   "minutes": 32.516666666666666,
+   "k": 13,
+   "d": 4,
+   "a": 13,
+   "kda": "6.50",
+   "kp": 79,
+   "cs": 277,
+   "csm": 8.5,
+   "laning": [
+    45,
+    55
+   ],
+   "avgTier": "Master 624",
+   "lp": 58,
+   "items": [
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3748.png"
+    },
+    {
+     "n": "Spirit Visage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3065.png"
+    },
+    {
+     "n": "Dead Man's Plate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3742.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3084.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2501.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Fleet Footwork",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8021.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Dont Call Me Dog",
+     "h": "/lol/summoners/na/Dont%20Call%20Me%20Dog-LUO",
+     "c": "Nasus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nasus.png"
+    },
+    {
+     "n": "Sojan",
+     "h": "/lol/summoners/na/Sojan-Judge",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    },
+    {
+     "n": "Tzu",
+     "h": "/lol/summoners/na/Tzu-Rahh",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Diana.png"
+    },
+    {
+     "n": "yuanfen",
+     "h": "/lol/summoners/na/yuanfen-%E5%A7%BB%E7%BC%98%E7%BA%A2%E7%BA%BF",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zyra.png"
+    },
+    {
+     "n": "JasmineWolfz",
+     "h": "/lol/summoners/na/JasmineWolfz-WOOF",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nautilus.png"
+    },
+    {
+     "n": "VegaNinjA",
+     "h": "/lol/summoners/na/VegaNinjA-NA1",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Vayne.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+    },
+    {
+     "n": "FierDragon",
+     "h": "/lol/summoners/na/FierDragon-NA1",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Galio.png"
+    },
+    {
+     "n": "Paiful",
+     "h": "/lol/summoners/na/Paiful-NA0",
+     "c": "Zeri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Zeri.png"
+    },
+    {
+     "n": "Mischele",
+     "h": "/lol/summoners/na/Mischele-NA1",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794973260000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Dont Call Me Dog",
+        "h": "/lol/summoners/na/Dont%20Call%20Me%20Dog-LUO",
+        "t": "Master 364",
+        "op": 2.9,
+        "opr": "10th",
+        "dmg": 25587,
+        "taken": 36549,
+        "cw": 1,
+        "wards": "4 / 4"
+       },
+       {
+        "n": "Sojan",
+        "h": "/lol/summoners/na/Sojan-Judge",
+        "t": "Master 183",
+        "op": 5.3,
+        "opr": "ACE",
+        "dmg": 36822,
+        "taken": 32352,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "Tzu",
+        "h": "/lol/summoners/na/Tzu-Rahh",
+        "t": "Master 936",
+        "op": 3,
+        "opr": "9th",
+        "dmg": 24021,
+        "taken": 20100,
+        "cw": 0,
+        "wards": "8 / 5"
+       },
+       {
+        "n": "yuanfen",
+        "h": "/lol/summoners/na/yuanfen-%E5%A7%BB%E7%BC%98%E7%BA%A2%E7%BA%BF",
+        "t": "Master 320",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 35877,
+        "taken": 22896,
+        "cw": 0,
+        "wards": "5 / 3"
+       },
+       {
+        "n": "JasmineWolfz",
+        "h": "/lol/summoners/na/JasmineWolfz-WOOF",
+        "t": "Master 420",
+        "op": 4.3,
+        "opr": "8th",
+        "dmg": 12395,
+        "taken": 24960,
+        "cw": 13,
+        "wards": "44 / 8"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "VegaNinjA",
+        "h": "/lol/summoners/na/VegaNinjA-NA1",
+        "t": "Master 719",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 26148,
+        "taken": 31993,
+        "cw": 3,
+        "wards": "15 / 4"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 561",
+        "op": 7.9,
+        "opr": "MVP",
+        "dmg": 34147,
+        "taken": 66784,
+        "cw": 2,
+        "wards": "3 / 4"
+       },
+       {
+        "n": "FierDragon",
+        "h": "/lol/summoners/na/FierDragon-NA1",
+        "t": "Master 648",
+        "op": 5.4,
+        "opr": "4th",
+        "dmg": 24354,
+        "taken": 30524,
+        "cw": 2,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "Paiful",
+        "h": "/lol/summoners/na/Paiful-NA0",
+        "t": "Master 1,148",
+        "op": 5.4,
+        "opr": "3rd",
+        "dmg": 23902,
+        "taken": 32713,
+        "cw": 1,
+        "wards": "8 / 10"
+       },
+       {
+        "n": "Mischele",
+        "h": "/lol/summoners/na/Mischele-NA1",
+        "t": "Master 936",
+        "op": 5.7,
+        "opr": "2nd",
+        "dmg": 8751,
+        "taken": 10483,
+        "cw": 10,
+        "wards": "40 / 1"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1794973436058,
+   "shot": "g_e4b91f12eb.jpg",
+   "lpCalc": true,
+   "roast": "13/4/13 on Dr. Mundo, 79% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"

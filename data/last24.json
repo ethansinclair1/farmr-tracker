@@ -1,24 +1,24 @@
 {
- "sig": "8b9fc35a57",
+ "sig": "77c109bd70",
  "report": {
-  "roast": "4W 2L, +85 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "1W 0L, +58 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Buy control wards - 0.5 a game is nothing.",
-   "4 champions in 6 games - pick 2-3 and stick to them.",
+   "Losing the early game - plan the first clear and gank the winning lane.",
+   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 4,
-  "losses": 2,
-  "k": 8,
-  "d": 2.5,
-  "a": 7.166666666666667,
-  "kda": 6.066666666666667,
-  "csm": 8.605833556328605,
-  "kp": 62,
-  "lpNet": 85,
+  "wins": 1,
+  "losses": 0,
+  "k": 13,
+  "d": 4,
+  "a": 13,
+  "kda": 6.5,
+  "csm": 8.518708354689903,
+  "kp": 79,
+  "lpNet": 58,
   "ints": 0,
-  "games": 6
+  "games": 1
  },
  "v": 3
 }

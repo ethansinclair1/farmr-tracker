@@ -1,13 +1,13 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "3cd50a4c49",
+ "sig": "4a78a8c86f",
  "rank": {
   "solo": {
    "tier": "Master",
-   "lp": 561,
-   "wins": 221,
-   "losses": 192
+   "lp": 619,
+   "wins": 222,
+   "losses": 193
   },
   "flex": {
    "tier": "Platinum 1",
@@ -17,7 +17,7 @@
   }
  },
  "pendingLp": {
-  "solo": "Ranked Solo/Duo|11/16/2026, 11:40 PM|Qiyana|4m 57s",
+  "solo": null,
   "flex": null
  }
 }
