@@ -59301,8 +59301,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
     },
     {
-     "n": "cinnamoroll",
-     "h": "/lol/summoners/na/cinnamoroll-uwua",
+     "n": "carpe diem",
+     "h": "/lol/summoners/na/carpe%20diem-mercy",
      "c": "Miss Fortune",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/MissFortune.png"
     },
@@ -61811,8 +61811,153 @@
    "team": 1,
    "ts": 1794958080000,
    "detail": null,
-   "firstSeen": 1794958304324,
-   "shot": "g_fab3fcd460.jpg"
+   "shot": "g_fab3fcd460.jpg",
+   "firstSeen": 1794958304324
+  },
+  "Normal|11/17/2026, 6:59 PM|Dr. Mundo|25m 18s": {
+   "id": "Normal|11/17/2026, 6:59 PM|Dr. Mundo|25m 18s",
+   "queue": "Normal",
+   "date": "11/17/2026, 6:59 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+   },
+   "level": 17,
+   "duration": "25m 18s",
+   "minutes": 25.3,
+   "k": 10,
+   "d": 7,
+   "a": 4,
+   "kda": "2.00",
+   "kp": 35,
+   "cs": 196,
+   "csm": 7.7,
+   "laning": [
+    59,
+    41
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3748.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3084.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3009.png"
+    },
+    {
+     "n": "Warmog's Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3083.png"
+    },
+    {
+     "n": "Tunneler",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/2021.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/3340.png"
+    },
+    {
+     "n": "Top Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/item/1221.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "BarksForPraise",
+     "h": "/lol/summoners/na/BarksForPraise-Begs",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Singed.png"
+    },
+    {
+     "n": "l Drift l",
+     "h": "/lol/summoners/na/l%20Drift%20l-NA1",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "perv teammate",
+     "h": "/lol/summoners/na/perv%20teammate-bush",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ahri.png"
+    },
+    {
+     "n": "CazadOREO",
+     "h": "/lol/summoners/na/CazadOREO-Faegt",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Xayah.png"
+    },
+    {
+     "n": "TheHollowed1s",
+     "h": "/lol/summoners/na/TheHollowed1s-Yiff",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Pantheon.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/DrMundo.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Karthus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Karthus.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Malzahar.png"
+    },
+    {
+     "n": "AustrianLeader",
+     "h": "/lol/summoners/na/AustrianLeader-GOOD",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Draven.png"
+    },
+    {
+     "n": "Banana Pancakes",
+     "h": "/lol/summoners/na/Banana%20Pancakes-Syrup",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1794959940000,
+   "detail": null,
+   "firstSeen": 1794960267251,
+   "shot": "g_e914e53019.jpg"
   }
  },
  "tz": "America/Toronto"
