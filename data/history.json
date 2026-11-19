@@ -61985,6 +61985,155 @@
    "detail": null,
    "shot": "g_853f810bdb.jpg",
    "firstSeen": 1795052961008
+  },
+  "Normal|11/18/2026, 9:26 PM|Yone|29m 57s": {
+   "id": "Normal|11/18/2026, 9:26 PM|Yone|29m 57s",
+   "queue": "Normal",
+   "date": "11/18/2026, 9:26 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Yone",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yone.png"
+   },
+   "level": 15,
+   "duration": "29m 57s",
+   "minutes": 29.95,
+   "k": 8,
+   "d": 12,
+   "a": 13,
+   "kda": "1.75",
+   "kp": 70,
+   "cs": 203,
+   "csm": 6.8,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Bow",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1086.png"
+    },
+    {
+     "n": "Immortal Shieldbow",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6673.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3031.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Last Whisper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3035.png"
+    },
+    {
+     "n": "Noonquiver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6670.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Berserker's Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3006.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Exhaust",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerExhaust.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8008.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Wolf Sniper179",
+     "h": "/lol/summoners/na/Wolf%20Sniper179-NA1",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/KSante.png"
+    },
+    {
+     "n": "perfectbread",
+     "h": "/lol/summoners/na/perfectbread-88888",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Briar.png"
+    },
+    {
+     "n": "Bennett the Dog",
+     "h": "/lol/summoners/na/Bennett%20the%20Dog-NA1",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lissandra.png"
+    },
+    {
+     "n": "CaptGoldfish375",
+     "h": "/lol/summoners/na/CaptGoldfish375-NA1",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "Frogzzzzz",
+     "h": "/lol/summoners/na/Frogzzzzz-1000",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Alistar.png"
+    },
+    {
+     "n": "gnarzy",
+     "h": "/lol/summoners/na/gnarzy-lofi",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Gnar.png"
+    },
+    {
+     "n": "victoria",
+     "h": "/lol/summoners/na/victoria-heals",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Malzahar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yone.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Maokai",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Maokai.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795055160000,
+   "detail": null,
+   "firstSeen": 1795055362156,
+   "shot": "g_f3889e3202.jpg"
   }
  },
  "tz": "America/Toronto"
