@@ -62106,7 +62106,7 @@
     },
     {
      "n": "victoria",
-     "h": "/lol/summoners/na/victoria-heals",
+     "h": "/lol/summoners/na/victoria-numby",
      "c": "Vi",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
     },
@@ -62427,6 +62427,296 @@
    "roast": "Lost on Hecarim (8/7/9). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_aceaab3a45.jpg",
    "firstSeen": 1795060937786
+  },
+  "Ranked Solo/Duo|11/18/2026, 11:34 PM|Hecarim|31m 20s": {
+   "id": "Ranked Solo/Duo|11/18/2026, 11:34 PM|Hecarim|31m 20s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/18/2026, 11:34 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+   },
+   "level": 17,
+   "duration": "31m 20s",
+   "minutes": 31.333333333333332,
+   "k": 8,
+   "d": 8,
+   "a": 13,
+   "kda": "2.63",
+   "kp": 62,
+   "cs": 240,
+   "csm": 7.7,
+   "laning": [
+    52,
+    48
+   ],
+   "avgTier": "Master 875",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Randuin's Omen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3143.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Descendant",
+     "h": "/lol/summoners/na/Descendant-NA1",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Aurora.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+    },
+    {
+     "n": "THEYDONTLIKEU",
+     "h": "/lol/summoners/na/THEYDONTLIKEU-TW1",
+     "c": "Kassadin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kassadin.png"
+    },
+    {
+     "n": "ocd",
+     "h": "/lol/summoners/na/ocd-NA2",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Tristana.png"
+    },
+    {
+     "n": "Asphodxl",
+     "h": "/lol/summoners/na/Asphodxl-ETHAN",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Pantheon.png"
+    },
+    {
+     "n": "Lelouch Vi Brit",
+     "h": "/lol/summoners/na/Lelouch%20Vi%20Brit-Zero0",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "twtv Solub",
+     "h": "/lol/summoners/na/twtv%20Solub-Shep",
+     "c": "Graves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Graves.png"
+    },
+    {
+     "n": "Metro",
+     "h": "/lol/summoners/na/Metro-Crown",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Xerath.png"
+    },
+    {
+     "n": "ghelb",
+     "h": "/lol/summoners/na/ghelb-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jhin.png"
+    },
+    {
+     "n": "Azuriul",
+     "h": "/lol/summoners/na/Azuriul-NA1",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zyra.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795062840000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Descendant",
+        "h": "/lol/summoners/na/Descendant-NA1",
+        "t": "Master 681",
+        "op": 2.1,
+        "opr": "10th",
+        "dmg": 12541,
+        "taken": 26379,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 588",
+        "op": 4.9,
+        "opr": "ACE",
+        "dmg": 14819,
+        "taken": 38058,
+        "cw": 2,
+        "wards": "3 / 7"
+       },
+       {
+        "n": "THEYDONTLIKEU",
+        "h": "/lol/summoners/na/THEYDONTLIKEU-TW1",
+        "t": "Master 681",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 33689,
+        "taken": 34104,
+        "cw": 1,
+        "wards": "4 / 4"
+       },
+       {
+        "n": "ocd",
+        "h": "/lol/summoners/na/ocd-NA2",
+        "t": "Master 1,082",
+        "op": 3.3,
+        "opr": "9th",
+        "dmg": 20205,
+        "taken": 26173,
+        "cw": 2,
+        "wards": "13 / 3"
+       },
+       {
+        "n": "Asphodxl",
+        "h": "/lol/summoners/na/Asphodxl-ETHAN",
+        "t": "Master 885",
+        "op": 4.2,
+        "opr": "8th",
+        "dmg": 19529,
+        "taken": 30849,
+        "cw": 3,
+        "wards": "49 / 7"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Lelouch Vi Brit",
+        "h": "/lol/summoners/na/Lelouch%20Vi%20Brit-Zero0",
+        "t": "Master 1,319",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 30838,
+        "taken": 31772,
+        "cw": 0,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "twtv Solub",
+        "h": "/lol/summoners/na/twtv%20Solub-Shep",
+        "t": "Master 778",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 28908,
+        "taken": 23463,
+        "cw": 1,
+        "wards": "2 / 9"
+       },
+       {
+        "n": "Metro",
+        "h": "/lol/summoners/na/Metro-Crown",
+        "t": "Master 616",
+        "op": 5.4,
+        "opr": "4th",
+        "dmg": 20887,
+        "taken": 17566,
+        "cw": 2,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "ghelb",
+        "h": "/lol/summoners/na/ghelb-NA1",
+        "t": "Grandmaster 1,133",
+        "op": 7.3,
+        "opr": "MVP",
+        "dmg": 33914,
+        "taken": 22586,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "Azuriul",
+        "h": "/lol/summoners/na/Azuriul-NA1",
+        "t": "Master 983",
+        "op": 6.3,
+        "opr": "2nd",
+        "dmg": 19789,
+        "taken": 26044,
+        "cw": 10,
+        "wards": "48 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 12,
+      "Inhibitor": 3
+     }
+    ]
+   },
+   "firstSeen": 1795063121852,
+   "shot": "g_9ec0f984af.jpg",
+   "lpCalc": true,
+   "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle."
   }
  },
  "tz": "America/Toronto"
