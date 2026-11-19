@@ -61693,8 +61693,157 @@
    "team": 1,
    "ts": 1795047960000,
    "detail": null,
-   "firstSeen": 1795048100563,
-   "shot": "g_efc49754db.jpg"
+   "shot": "g_efc49754db.jpg",
+   "firstSeen": 1795048100563
+  },
+  "Normal|11/18/2026, 8:14 PM|Yunara|40m 55s": {
+   "id": "Normal|11/18/2026, 8:14 PM|Yunara|40m 55s",
+   "queue": "Normal",
+   "date": "11/18/2026, 8:14 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Yunara",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yunara.png"
+   },
+   "level": 18,
+   "duration": "40m 55s",
+   "minutes": 40.916666666666664,
+   "k": 19,
+   "d": 15,
+   "a": 24,
+   "kda": "2.87",
+   "kp": 64,
+   "cs": 293,
+   "csm": 7.2,
+   "laning": [
+    69,
+    31
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3031.png"
+    },
+    {
+     "n": "Yun Tal Wildarrows",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3032.png"
+    },
+    {
+     "n": "Runaan's Hurricane",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3085.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3036.png"
+    },
+    {
+     "n": "Fiendhunter Bolts",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2512.png"
+    },
+    {
+     "n": "Bloodthirster",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3072.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3363.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3008.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Barrier",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerBarrier.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8008.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "beat",
+     "h": "/lol/summoners/na/beat-off",
+     "c": "Singed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Singed.png"
+    },
+    {
+     "n": "Aero",
+     "h": "/lol/summoners/na/Aero-yen",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Chogath.png"
+    },
+    {
+     "n": "JMB",
+     "h": "/lol/summoners/na/JMB-IZONE",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lux.png"
+    },
+    {
+     "n": "freezZy",
+     "h": "/lol/summoners/na/freezZy-kairo",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Twitch.png"
+    },
+    {
+     "n": "carter",
+     "h": "/lol/summoners/na/carter-crtr",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Camille.png"
+    },
+    {
+     "n": "BoostMeForABlow",
+     "h": "/lol/summoners/na/BoostMeForABlow-2001",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Gwen.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Malzahar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yunara.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Neeko.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795050840000,
+   "detail": null,
+   "firstSeen": 1795051009717,
+   "shot": "g_13862e01ca.jpg"
   }
  },
  "tz": "America/Toronto"
