@@ -62716,6 +62716,296 @@
    "roast": "8 deaths. The enemy team should be paying 8 cents in rent for living in this player's jungle.",
    "shot": "g_9ec0f984af.jpg",
    "firstSeen": 1795063121852
+  },
+  "Ranked Solo/Duo|11/19/2026, 12:11 AM|Graves|32m 28s": {
+   "id": "Ranked Solo/Duo|11/19/2026, 12:11 AM|Graves|32m 28s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/19/2026, 12:11 AM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Graves",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Graves.png"
+   },
+   "level": 18,
+   "duration": "32m 28s",
+   "minutes": 32.46666666666667,
+   "k": 3,
+   "d": 6,
+   "a": 13,
+   "kda": "2.67",
+   "kp": 42,
+   "cs": 253,
+   "csm": 7.8,
+   "laning": [
+    44,
+    56
+   ],
+   "avgTier": "Master 480",
+   "lp": 29,
+   "items": [
+    {
+     "n": "The Collector",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6676.png"
+    },
+    {
+     "n": "Youmuu's Ghostblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3142.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3036.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "B. F. Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1038.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Fleet Footwork",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8021.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "monke",
+     "h": "/lol/summoners/na/monke-emonk",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yone.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Graves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Graves.png"
+    },
+    {
+     "n": "The Last Nap",
+     "h": "/lol/summoners/na/The%20Last%20Nap-NA1",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Taliyah.png"
+    },
+    {
+     "n": "KITE",
+     "h": "/lol/summoners/na/KITE-QUBEC",
+     "c": "Draven",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Draven.png"
+    },
+    {
+     "n": "双重国籍哑女",
+     "h": "/lol/summoners/na/%E5%8F%8C%E9%87%8D%E5%9B%BD%E7%B1%8D%E5%93%91%E5%A5%B3-yyds",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sona.png"
+    },
+    {
+     "n": "MagiTensai",
+     "h": "/lol/summoners/na/MagiTensai-NA1",
+     "c": "Udyr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Udyr.png"
+    },
+    {
+     "n": "Christianres",
+     "h": "/lol/summoners/na/Christianres-NA1",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "yagoonii",
+     "h": "/lol/summoners/na/yagoonii-ttv",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ahri.png"
+    },
+    {
+     "n": "Stevie Wonder",
+     "h": "/lol/summoners/na/Stevie%20Wonder-1950",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Xerath.png"
+    },
+    {
+     "n": "aSilverDragon",
+     "h": "/lol/summoners/na/aSilverDragon-NA1",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Pantheon.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795065060000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "monke",
+        "h": "/lol/summoners/na/monke-emonk",
+        "t": "Master 471",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 24712,
+        "taken": 34099,
+        "cw": 0,
+        "wards": "6 / 3"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 557",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 15216,
+        "taken": 25035,
+        "cw": 1,
+        "wards": "3 / 9"
+       },
+       {
+        "n": "The Last Nap",
+        "h": "/lol/summoners/na/The%20Last%20Nap-NA1",
+        "t": "Master 199",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 38602,
+        "taken": 33136,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "KITE",
+        "h": "/lol/summoners/na/KITE-QUBEC",
+        "t": "Master 755",
+        "op": 8.1,
+        "opr": "MVP",
+        "dmg": 43384,
+        "taken": 30826,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "双重国籍哑女",
+        "h": "/lol/summoners/na/%E5%8F%8C%E9%87%8D%E5%9B%BD%E7%B1%8D%E5%93%91%E5%A5%B3-yyds",
+        "t": "Master 304",
+        "op": 6.3,
+        "opr": "2nd",
+        "dmg": 8620,
+        "taken": 23038,
+        "cw": 11,
+        "wards": "63 / 16"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "MagiTensai",
+        "h": "/lol/summoners/na/MagiTensai-NA1",
+        "t": "Master 558",
+        "op": 5.5,
+        "opr": "4th",
+        "dmg": 32645,
+        "taken": 46288,
+        "cw": 0,
+        "wards": "12 / 2"
+       },
+       {
+        "n": "Christianres",
+        "h": "/lol/summoners/na/Christianres-NA1",
+        "t": "Master 391",
+        "op": 5,
+        "opr": "5th",
+        "dmg": 12941,
+        "taken": 24738,
+        "cw": 9,
+        "wards": "14 / 7"
+       },
+       {
+        "n": "yagoonii",
+        "h": "/lol/summoners/na/yagoonii-ttv",
+        "t": "Master 871",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 23753,
+        "taken": 30101,
+        "cw": 1,
+        "wards": "12 / 5"
+       },
+       {
+        "n": "Stevie Wonder",
+        "h": "/lol/summoners/na/Stevie%20Wonder-1950",
+        "t": "Master 343",
+        "op": 5.6,
+        "opr": "ACE",
+        "dmg": 39833,
+        "taken": 21110,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "aSilverDragon",
+        "h": "/lol/summoners/na/aSilverDragon-NA1",
+        "t": "Master 350",
+        "op": 2.5,
+        "opr": "10th",
+        "dmg": 10836,
+        "taken": 24691,
+        "cw": 9,
+        "wards": "51 / 11"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 2,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 10,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 5,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1795065332242,
+   "shot": "g_c26a6ef9ff.jpg",
+   "lpCalc": true,
+   "roast": "3/6/13 win on Graves. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"

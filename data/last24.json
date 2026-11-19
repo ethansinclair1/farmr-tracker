@@ -1,24 +1,24 @@
 {
- "sig": "2d0a9458e1",
+ "sig": "24e64015dc",
  "report": {
-  "roast": "0W 2L, -62 LP. The enemy team should be paying him.",
+  "roast": "1W 0L, +29 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Stop dying - 7.5 deaths a game. Ward before face-checking.",
-   "Track objective timers and set up vision a minute early.",
-   "Play with the team, not for the highlight reel."
+   "Take objectives: losing dragons/grubs (3.0 vs 2.0 drakes a game). Be there before they spawn.",
+   "Low kill participation (42%). Stop farming while your team fights.",
+   "Stop dying - 6.0 deaths a game. Ward before face-checking."
   ],
   "ai": false,
-  "wins": 0,
-  "losses": 2,
-  "k": 8,
-  "d": 7.5,
-  "a": 11,
-  "kda": 2.533333333333333,
-  "csm": 7.782915551229009,
-  "kp": 55.5,
-  "lpNet": -62,
+  "wins": 1,
+  "losses": 0,
+  "k": 3,
+  "d": 6,
+  "a": 13,
+  "kda": 2.6666666666666665,
+  "csm": 7.792607802874743,
+  "kp": 42,
+  "lpNet": 29,
   "ints": 0,
-  "games": 2
+  "games": 1
  },
  "v": 3
 }
