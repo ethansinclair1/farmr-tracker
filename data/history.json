@@ -61691,8 +61691,157 @@
    "team": 1,
    "ts": 1795044720000,
    "detail": null,
-   "firstSeen": 1795044940920,
-   "shot": "g_9fa6acaab0.jpg"
+   "shot": "g_9fa6acaab0.jpg",
+   "firstSeen": 1795044940920
+  },
+  "Normal|11/18/2026, 6:57 PM|Vi|18m 27s": {
+   "id": "Normal|11/18/2026, 6:57 PM|Vi|18m 27s",
+   "queue": "Normal",
+   "date": "11/18/2026, 6:57 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Vi",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+   },
+   "level": 12,
+   "duration": "18m 27s",
+   "minutes": 18.45,
+   "k": 5,
+   "d": 5,
+   "a": 3,
+   "kda": "1.60",
+   "kp": 53,
+   "cs": 124,
+   "csm": 6.7,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Trinity Force",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3078.png"
+    },
+    {
+     "n": "Slightly Magical Footwear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2422.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1037.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1036.png"
+    },
+    {
+     "n": "Cloth Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1029.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    },
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "hypergamy",
+     "h": "/lol/summoners/na/hypergamy-ijk",
+     "c": "Rumble",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Rumble.png"
+    },
+    {
+     "n": "Immoral Compass",
+     "h": "/lol/summoners/na/Immoral%20Compass-NA1",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Naafiri.png"
+    },
+    {
+     "n": "Kitten 1",
+     "h": "/lol/summoners/na/Kitten%201-5333",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hwei.png"
+    },
+    {
+     "n": "Zakeiazureii",
+     "h": "/lol/summoners/na/Zakeiazureii-MilkT",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Xayah.png"
+    },
+    {
+     "n": "dastardlySphinct",
+     "h": "/lol/summoners/na/dastardlySphinct-9521",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Swain.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Galio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Galio.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "Still In Love",
+     "h": "/lol/summoners/na/Still%20In%20Love-URA",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Syndra.png"
+    },
+    {
+     "n": "Salt",
+     "h": "/lol/summoners/na/Salt-pooky",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sona.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795046220000,
+   "detail": null,
+   "firstSeen": 1795046420520,
+   "shot": "g_c324b99091.jpg"
   }
  },
  "tz": "America/Toronto"
