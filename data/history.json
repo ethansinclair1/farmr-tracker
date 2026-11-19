@@ -62134,6 +62134,300 @@
    "detail": null,
    "shot": "g_f3889e3202.jpg",
    "firstSeen": 1795055362156
+  },
+  "Ranked Solo/Duo|11/18/2026, 10:57 PM|Hecarim|37m 09s": {
+   "id": "Ranked Solo/Duo|11/18/2026, 10:57 PM|Hecarim|37m 09s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/18/2026, 10:57 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "37m 09s",
+   "minutes": 37.15,
+   "k": 8,
+   "d": 7,
+   "a": 9,
+   "kda": "2.43",
+   "kp": 49,
+   "cs": 293,
+   "csm": 7.9,
+   "laning": [
+    51,
+    49
+   ],
+   "avgTier": "Master 518",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3161.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3158.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Chempunk Chainsword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6609.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "SHM33T",
+     "h": "/lol/summoners/na/SHM33T-NA1",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Malphite.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+    },
+    {
+     "n": "DogtheBlue",
+     "h": "/lol/summoners/na/DogtheBlue-NA1",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Akali.png"
+    },
+    {
+     "n": "HChenn",
+     "h": "/lol/summoners/na/HChenn-0712",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yunara.png"
+    },
+    {
+     "n": "Taco Turmoil",
+     "h": "/lol/summoners/na/Taco%20Turmoil-suc",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lulu.png"
+    },
+    {
+     "n": "La diffraction",
+     "h": "/lol/summoners/na/La%20diffraction-7185",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vayne.png"
+    },
+    {
+     "n": "쉬꺽뿡",
+     "h": "/lol/summoners/na/%EC%89%AC%EA%BA%BD%EB%BF%A1-pfft",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Pantheon.png"
+    },
+    {
+     "n": "liverpool",
+     "h": "/lol/summoners/na/liverpool-num1",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sylas.png"
+    },
+    {
+     "n": "VoidWalker",
+     "h": "/lol/summoners/na/VoidWalker-4744",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Mayluy",
+     "h": "/lol/summoners/na/Mayluy-NA1",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sona.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795060620000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "SHM33T",
+        "h": "/lol/summoners/na/SHM33T-NA1",
+        "t": "Master 258",
+        "op": 4.4,
+        "opr": "8th",
+        "dmg": 33630,
+        "taken": 38811,
+        "cw": 0,
+        "wards": "6 / 11"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 619",
+        "op": 5.3,
+        "opr": "ACE",
+        "dmg": 36175,
+        "taken": 52698,
+        "cw": 2,
+        "wards": "4 / 7"
+       },
+       {
+        "n": "DogtheBlue",
+        "h": "/lol/summoners/na/DogtheBlue-NA1",
+        "t": "Master 655",
+        "op": 4.7,
+        "opr": "7th",
+        "dmg": 48984,
+        "taken": 44218,
+        "cw": 0,
+        "wards": "9 / 5"
+       },
+       {
+        "n": "HChenn",
+        "h": "/lol/summoners/na/HChenn-0712",
+        "t": "Master 632",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 26339,
+        "taken": 36904,
+        "cw": 3,
+        "wards": "17 / 6"
+       },
+       {
+        "n": "Taco Turmoil",
+        "h": "/lol/summoners/na/Taco%20Turmoil-suc",
+        "t": "Master 688",
+        "op": 3.1,
+        "opr": "10th",
+        "dmg": 6717,
+        "taken": 34767,
+        "cw": 3,
+        "wards": "21 / 16"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "La diffraction",
+        "h": "/lol/summoners/na/La%20diffraction-7185",
+        "t": "Master 386",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 34694,
+        "taken": 37582,
+        "cw": 5,
+        "wards": "13 / 2"
+       },
+       {
+        "n": "쉬꺽뿡",
+        "h": "/lol/summoners/na/%EC%89%AC%EA%BA%BD%EB%BF%A1-pfft",
+        "t": "Master 178",
+        "op": 8.1,
+        "opr": "3rd",
+        "dmg": 39664,
+        "taken": 34211,
+        "cw": 6,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "liverpool",
+        "h": "/lol/summoners/na/liverpool-num1",
+        "t": "Master 535",
+        "op": 6.1,
+        "opr": "4th",
+        "dmg": 40862,
+        "taken": 64537,
+        "cw": 6,
+        "wards": "21 / 2"
+       },
+       {
+        "n": "VoidWalker",
+        "h": "/lol/summoners/na/VoidWalker-4744",
+        "t": "Master 675",
+        "op": 9.5,
+        "opr": "MVP",
+        "dmg": 49430,
+        "taken": 20322,
+        "cw": 0,
+        "wards": "14 / 5"
+       },
+       {
+        "n": "Mayluy",
+        "h": "/lol/summoners/na/Mayluy-NA1",
+        "t": "Master 551",
+        "op": 8.4,
+        "opr": "2nd",
+        "dmg": 23874,
+        "taken": 35734,
+        "cw": 22,
+        "wards": "64 / 10"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 6,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 7,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1795060937786,
+   "shot": "g_aceaab3a45.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Hecarim (8/7/9). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
