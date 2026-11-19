@@ -61844,6 +61844,147 @@
    "detail": null,
    "shot": "g_13862e01ca.jpg",
    "firstSeen": 1795051009717
+  },
+  "Normal|11/18/2026, 8:47 PM|Graves|25m 54s": {
+   "id": "Normal|11/18/2026, 8:47 PM|Graves|25m 54s",
+   "queue": "Normal",
+   "date": "11/18/2026, 8:47 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Graves",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Graves.png"
+   },
+   "level": 13,
+   "duration": "25m 54s",
+   "minutes": 25.9,
+   "k": 11,
+   "d": 12,
+   "a": 4,
+   "kda": "1.25",
+   "kp": 60,
+   "cs": 180,
+   "csm": 6.9,
+   "laning": [
+    48,
+    52
+   ],
+   "avgTier": "Platinum 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3031.png"
+    },
+    {
+     "n": "Essence Reaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3508.png"
+    },
+    {
+     "n": "The Collector",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6676.png"
+    },
+    {
+     "n": "Lord Dominik's Regards",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3036.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3008.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Exhaust",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerExhaust.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Dark Harvest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8128.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Optiifyy",
+     "h": "/lol/summoners/na/Optiifyy-simba",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Briar.png"
+    },
+    {
+     "n": "Simon Awada",
+     "h": "/lol/summoners/na/Simon%20Awada-0001",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Rell.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lux.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Graves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Graves.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Pantheon.png"
+    },
+    {
+     "n": "tota11ynottimid",
+     "h": "/lol/summoners/na/tota11ynottimid-7795",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ornn.png"
+    },
+    {
+     "n": "america first",
+     "h": "/lol/summoners/na/america%20first-noGF1",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zyra.png"
+    },
+    {
+     "n": "bigXdilfIRL",
+     "h": "/lol/summoners/na/bigXdilfIRL-100",
+     "c": "Akshan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Akshan.png"
+    },
+    {
+     "n": "Augustine",
+     "h": "/lol/summoners/na/Augustine-3697",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Xayah.png"
+    },
+    {
+     "n": "promatt56",
+     "h": "/lol/summoners/na/promatt56-NA1",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Blitzcrank.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795052820000,
+   "detail": null,
+   "firstSeen": 1795052961008,
+   "shot": "g_853f810bdb.jpg"
   }
  },
  "tz": "America/Toronto"
