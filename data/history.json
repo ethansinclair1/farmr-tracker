@@ -60965,6 +60965,147 @@
    "roast": "21/1/13 on Hecarim, 85% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_8868dbeb66.jpg",
    "firstSeen": 1795148599928
+  },
+  "Normal|11/20/2026, 1:22 PM|Dr. Mundo|23m 08s": {
+   "id": "Normal|11/20/2026, 1:22 PM|Dr. Mundo|23m 08s",
+   "queue": "Normal",
+   "date": "11/20/2026, 1:22 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+   },
+   "level": 14,
+   "duration": "23m 08s",
+   "minutes": 23.133333333333333,
+   "k": 1,
+   "d": 8,
+   "a": 3,
+   "kda": "0.50",
+   "kp": 27,
+   "cs": 158,
+   "csm": 6.8,
+   "laning": [
+    30,
+    70
+   ],
+   "avgTier": "Emerald 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Shield",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1054.png"
+    },
+    {
+     "n": "Warmog's Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3083.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3084.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3009.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Top Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1221.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "alex will climb",
+     "h": "/lol/summoners/na/alex%20will%20climb-iblve",
+     "c": "Trundle",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Trundle.png"
+    },
+    {
+     "n": "Skrrt",
+     "h": "/lol/summoners/na/Skrrt-344",
+     "c": "Shyvana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Shyvana.png"
+    },
+    {
+     "n": "Camblade12",
+     "h": "/lol/summoners/na/Camblade12-NA1",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Brand.png"
+    },
+    {
+     "n": "EXXOD1A",
+     "h": "/lol/summoners/na/EXXOD1A-1V9",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yasuo.png"
+    },
+    {
+     "n": "Hard To be Bard",
+     "h": "/lol/summoners/na/Hard%20To%20be%20Bard-NA1",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Bard.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Karthus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Karthus.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "AsianMahn",
+     "h": "/lol/summoners/na/AsianMahn-420",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/MissFortune.png"
+    },
+    {
+     "n": "6ARB0",
+     "h": "/lol/summoners/na/6ARB0-GARBO",
+     "c": "Braum",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Braum.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795198920000,
+   "detail": null,
+   "firstSeen": 1795199252231,
+   "shot": "g_425c859929.jpg"
   }
  },
  "tz": "America/Toronto"
