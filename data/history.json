@@ -12499,295 +12499,6 @@
    "shot": "g_acdc9775a1.jpg",
    "firstSeen": 1793049288100
   },
-  "Ranked Solo/Duo|10/20/2026, 11:27 PM|Hecarim|22m 12s": {
-   "id": "Ranked Solo/Duo|10/20/2026, 11:27 PM|Hecarim|22m 12s",
-   "queue": "Ranked Solo/Duo",
-   "date": "10/20/2026, 11:27 PM",
-   "result": "Victory",
-   "win": true,
-   "remake": false,
-   "champ": {
-    "n": "Hecarim",
-    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Hecarim.png"
-   },
-   "level": 14,
-   "duration": "22m 12s",
-   "minutes": 22.2,
-   "k": 7,
-   "d": 1,
-   "a": 8,
-   "kda": "15.00",
-   "kp": 60,
-   "cs": 164,
-   "csm": 7.4,
-   "laning": [
-    52,
-    48
-   ],
-   "avgTier": "Master 801",
-   "lp": null,
-   "items": [
-    {
-     "n": "Endless Hunger",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/2517.png"
-    },
-    {
-     "n": "Axiom Arc",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/6696.png"
-    },
-    {
-     "n": "Serpent's Fang",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/6695.png"
-    },
-    {
-     "n": "Plated Steelcaps",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3047.png"
-    },
-    {
-     "n": "Glowing Mote",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/2022.png"
-    },
-    {
-     "n": "Oracle Lens",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3364.png"
-    },
-    {
-     "n": "Jungle Quest Reward",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1209.png"
-    }
-   ],
-   "spells": [
-    {
-     "n": "Smite",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerSmite.png"
-    },
-    {
-     "n": "Ghost",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerHaste.png"
-    }
-   ],
-   "runes": [
-    {
-     "n": "Stormraider's Surge",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perk/8230.png"
-    },
-    {
-     "n": "Precision",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perkStyle/8000.png"
-    }
-   ],
-   "players": [
-    {
-     "n": "Jiwon",
-     "h": "/lol/summoners/na/Jiwon-Soap",
-     "c": "Yasuo",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Yasuo.png"
-    },
-    {
-     "n": "FullClearDeluxe",
-     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-     "c": "Hecarim",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Hecarim.png"
-    },
-    {
-     "n": "ylpedmy",
-     "h": "/lol/summoners/na/ylpedmy-owoo",
-     "c": "Lissandra",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Lissandra.png"
-    },
-    {
-     "n": "P\nKnow my name",
-     "h": "/lol/summoners/na/Know%20my%20name-9999",
-     "c": "Miss Fortune",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/MissFortune.png"
-    },
-    {
-     "n": "Flowerandbutter",
-     "h": "/lol/summoners/na/Flowerandbutter-ttv",
-     "c": "Nami",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Nami.png"
-    },
-    {
-     "n": "tickle",
-     "h": "/lol/summoners/na/tickle-brug",
-     "c": "Renekton",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Renekton.png"
-    },
-    {
-     "n": "jeslynuwu",
-     "h": "/lol/summoners/na/jeslynuwu-NA1",
-     "c": "Master Yi",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/MasterYi.png"
-    },
-    {
-     "n": "Magmor",
-     "h": "/lol/summoners/na/Magmor-Blade",
-     "c": "Ryze",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Ryze.png"
-    },
-    {
-     "n": "choppa",
-     "h": "/lol/summoners/na/choppa-ghost",
-     "c": "Caitlyn",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Caitlyn.png"
-    },
-    {
-     "n": "Memories",
-     "h": "/lol/summoners/na/Memories-YYC",
-     "c": "Karma",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Karma.png"
-    }
-   ],
-   "team": 0,
-   "ts": 1792553220000,
-   "detail": {
-    "teams": [
-     {
-      "win": true,
-      "side": "blue",
-      "players": [
-       {
-        "n": "Jiwon",
-        "h": "/lol/summoners/na/Jiwon-Soap",
-        "t": "Master 539",
-        "op": 5.7,
-        "opr": "5th",
-        "dmg": 14325,
-        "taken": 13451,
-        "cw": 0,
-        "wards": "8 / 0"
-       },
-       {
-        "n": "FullClearDeluxe",
-        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-        "t": "Master 665",
-        "op": 9.8,
-        "opr": "3rd",
-        "dmg": 11174,
-        "taken": 22268,
-        "cw": 2,
-        "wards": "3 / 1"
-       },
-       {
-        "n": "ylpedmy",
-        "h": "/lol/summoners/na/ylpedmy-owoo",
-        "t": "Master 915",
-        "op": 8.8,
-        "opr": "4th",
-        "dmg": 18872,
-        "taken": 16705,
-        "cw": 5,
-        "wards": "13 / 1"
-       },
-       {
-        "n": "Know my name",
-        "h": "/lol/summoners/na/Know%20my%20name-9999",
-        "t": "Master 27",
-        "op": 10,
-        "opr": "2nd",
-        "dmg": 28085,
-        "taken": 13929,
-        "cw": 4,
-        "wards": "13 / 2"
-       },
-       {
-        "n": "Flowerandbutter",
-        "h": "/lol/summoners/na/Flowerandbutter-ttv",
-        "t": "Master 1,076",
-        "op": 10,
-        "opr": "MVP",
-        "dmg": 6024,
-        "taken": 12820,
-        "cw": 3,
-        "wards": "25 / 8"
-       }
-      ]
-     },
-     {
-      "win": false,
-      "side": "red",
-      "players": [
-       {
-        "n": "tickle",
-        "h": "/lol/summoners/na/tickle-brug",
-        "t": "Grandmaster 1,526",
-        "op": 4.1,
-        "opr": "8th",
-        "dmg": 11437,
-        "taken": 25846,
-        "cw": 2,
-        "wards": "5 / 1"
-       },
-       {
-        "n": "jeslynuwu",
-        "h": "/lol/summoners/na/jeslynuwu-NA1",
-        "t": "Master Yi",
-        "op": 4.2,
-        "opr": "7th",
-        "dmg": 14715,
-        "taken": 19303,
-        "cw": 0,
-        "wards": "6 / 4"
-       },
-       {
-        "n": "Magmor",
-        "h": "/lol/summoners/na/Magmor-Blade",
-        "t": "Master 908",
-        "op": 4.3,
-        "opr": "ACE",
-        "dmg": 12472,
-        "taken": 21717,
-        "cw": 1,
-        "wards": "8 / 2"
-       },
-       {
-        "n": "choppa",
-        "h": "/lol/summoners/na/choppa-ghost",
-        "t": "Master 732",
-        "op": 2.2,
-        "opr": "10th",
-        "dmg": 9103,
-        "taken": 12455,
-        "cw": 0,
-        "wards": "8 / 5"
-       },
-       {
-        "n": "Memories",
-        "h": "/lol/summoners/na/Memories-YYC",
-        "t": "Master 907",
-        "op": 2.6,
-        "opr": "9th",
-        "dmg": 7575,
-        "taken": 16842,
-        "cw": 4,
-        "wards": "21 / 7"
-       }
-      ]
-     }
-    ],
-    "obj": [
-     {
-      "Baron": 1,
-      "Dragon": 0,
-      "Rift Herald": 1,
-      "Void Grub": 3,
-      "Tower": 5,
-      "Inhibitor": 0
-     },
-     {
-      "Baron": 0,
-      "Dragon": 3,
-      "Rift Herald": 0,
-      "Void Grub": 0,
-      "Tower": 1,
-      "Inhibitor": 0
-     }
-    ]
-   },
-   "roast": "Win on Hecarim (7/1/8). Carried or carried? The 7.4 CS/min says \"a bit of both\".",
-   "shot": "g_bd344f4b60.jpg",
-   "firstSeen": 1793049288100
-  },
   "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s": {
    "id": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s",
    "queue": "Ranked Solo/Duo",
@@ -60676,6 +60387,292 @@
    "roast": "Win on Jarvan IV (7/3/8). Got carried and the 7.7 CS/min proves it.",
    "shot": "g_1499d8d32c.jpg",
    "firstSeen": 1795143723386
+  },
+  "Ranked Solo/Duo|11/19/2026, 10:39 PM|Jarvan IV|27m 14s": {
+   "id": "Ranked Solo/Duo|11/19/2026, 10:39 PM|Jarvan IV|27m 14s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/19/2026, 10:39 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Jarvan IV",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/JarvanIV.png"
+   },
+   "level": 14,
+   "duration": "27m 14s",
+   "minutes": 27.233333333333334,
+   "k": 2,
+   "d": 7,
+   "a": 12,
+   "kda": "2.00",
+   "kp": 78,
+   "cs": 168,
+   "csm": 6.2,
+   "laning": [
+    53,
+    47
+   ],
+   "avgTier": "Master 222",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2019.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "MartialArtsForY",
+     "h": "/lol/summoners/na/MartialArtsForY-MA4Y",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zaahen.png"
+    },
+    {
+     "n": "JWARRIOR1",
+     "h": "/lol/summoners/na/JWARRIOR1-Thor",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Briar.png"
+    },
+    {
+     "n": "gleep aftonsparv",
+     "h": "/lol/summoners/na/gleep%20aftonsparv-glorp",
+     "c": "Zac",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zac.png"
+    },
+    {
+     "n": "Doublelift",
+     "h": "/lol/summoners/na/Doublelift-EXHST",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Blushes",
+     "h": "/lol/summoners/na/Blushes-Heart",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lulu.png"
+    },
+    {
+     "n": "secsystem",
+     "h": "/lol/summoners/na/secsystem-NA1",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "Lunar",
+     "h": "/lol/summoners/na/Lunar-Monk3",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Viktor.png"
+    },
+    {
+     "n": "MisterMiko",
+     "h": "/lol/summoners/na/MisterMiko-NA1",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Tristana.png"
+    },
+    {
+     "n": "FlickingBeaver28",
+     "h": "/lol/summoners/na/FlickingBeaver28-BEAN",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nami.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795145940000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "MartialArtsForY",
+        "h": "/lol/summoners/na/MartialArtsForY-MA4Y",
+        "t": "Master 509",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 27574,
+        "taken": 45917,
+        "cw": 1,
+        "wards": "12 / 0"
+       },
+       {
+        "n": "JWARRIOR1",
+        "h": "/lol/summoners/na/JWARRIOR1-Thor",
+        "t": "Master 177",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 15639,
+        "taken": 16171,
+        "cw": 2,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "gleep aftonsparv",
+        "h": "/lol/summoners/na/gleep%20aftonsparv-glorp",
+        "t": "Diamond 1",
+        "op": 6.6,
+        "opr": "2nd",
+        "dmg": 16243,
+        "taken": 32723,
+        "cw": 0,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "Doublelift",
+        "h": "/lol/summoners/na/Doublelift-EXHST",
+        "t": "Master 75",
+        "op": 6.6,
+        "opr": "MVP",
+        "dmg": 25034,
+        "taken": 20288,
+        "cw": 0,
+        "wards": "7 / 2"
+       },
+       {
+        "n": "Blushes",
+        "h": "/lol/summoners/na/Blushes-Heart",
+        "t": "Diamond 1",
+        "op": 5.3,
+        "opr": "4th",
+        "dmg": 5104,
+        "taken": 12776,
+        "cw": 12,
+        "wards": "31 / 9"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "secsystem",
+        "h": "/lol/summoners/na/secsystem-NA1",
+        "t": "Master 370",
+        "op": 3.1,
+        "opr": "10th",
+        "dmg": 28910,
+        "taken": 29773,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 613",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 12128,
+        "taken": 21187,
+        "cw": 2,
+        "wards": "7 / 6"
+       },
+       {
+        "n": "Lunar",
+        "h": "/lol/summoners/na/Lunar-Monk3",
+        "t": "Master 160",
+        "op": 5.6,
+        "opr": "ACE",
+        "dmg": 31567,
+        "taken": 13512,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "MisterMiko",
+        "h": "/lol/summoners/na/MisterMiko-NA1",
+        "t": "Master 94",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 21329,
+        "taken": 24079,
+        "cw": 0,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "FlickingBeaver28",
+        "h": "/lol/summoners/na/FlickingBeaver28-BEAN",
+        "t": "Master 286",
+        "op": 3.6,
+        "opr": "9th",
+        "dmg": 5713,
+        "taken": 15786,
+        "cw": 9,
+        "wards": "25 / 3"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 9,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795146147472,
+   "shot": "g_cf937a75ae.jpg",
+   "lpCalc": true,
+   "roast": "A 2/7/12 loss on Jarvan IV. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"

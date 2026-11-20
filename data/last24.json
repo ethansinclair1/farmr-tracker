@@ -1,24 +1,24 @@
 {
- "sig": "bb1f330799",
+ "sig": "f06a4daf02",
  "report": {
-  "roast": "Inted a 4/7/3 Dr. Mundo. Embarrassing. 3W 1L, +56 LP.",
+  "roast": "3W 2L, +25 LP - and a 4/7/3 int in there. Uninstall.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (2.8 vs 1.8 drakes a game). Be there before they spawn.",
-   "Low kill participation (45%). Stop farming while your team fights.",
-   "Stop dying - 4.5 deaths a game. Ward before face-checking."
+   "Take objectives: losing dragons/grubs (2.4 vs 2.0 drakes a game). Be there before they spawn.",
+   "Low kill participation (51%). Stop farming while your team fights.",
+   "Stop dying - 5.0 deaths a game. Ward before face-checking."
   ],
   "ai": false,
   "wins": 3,
-  "losses": 1,
-  "k": 4.5,
-  "d": 4.5,
-  "a": 10,
-  "kda": 3.2222222222222223,
-  "csm": 7.65045342126958,
-  "kp": 44.5,
-  "lpNet": 56,
+  "losses": 2,
+  "k": 4,
+  "d": 5,
+  "a": 10.4,
+  "kda": 2.88,
+  "csm": 7.378815080789947,
+  "kp": 51.2,
+  "lpNet": 25,
   "ints": 1,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }
