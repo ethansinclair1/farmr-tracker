@@ -61551,8 +61551,157 @@
    "team": 1,
    "ts": 1795209840000,
    "detail": null,
-   "firstSeen": 1795210132748,
-   "shot": "g_8736fe8e5c.jpg"
+   "shot": "g_8736fe8e5c.jpg",
+   "firstSeen": 1795210132748
+  },
+  "Normal|11/20/2026, 5:03 PM|Kai'Sa|31m 34s": {
+   "id": "Normal|11/20/2026, 5:03 PM|Kai'Sa|31m 34s",
+   "queue": "Normal",
+   "date": "11/20/2026, 5:03 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Kai'Sa",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+   },
+   "level": 18,
+   "duration": "31m 34s",
+   "minutes": 31.566666666666666,
+   "k": 5,
+   "d": 9,
+   "a": 7,
+   "kda": "1.33",
+   "kp": 29,
+   "cs": 223,
+   "csm": 7.1,
+   "laning": [
+    37,
+    63
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1058.png"
+    },
+    {
+     "n": "Muramana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3042.png"
+    },
+    {
+     "n": "Sorcerer's Shoes",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3020.png"
+    },
+    {
+     "n": "Luden's Echo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6655.png"
+    },
+    {
+     "n": "Shadowflame",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/4645.png"
+    },
+    {
+     "n": "Needlessly Large Rod",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1058.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Top Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1221.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "First Strike",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8369.png"
+    },
+    {
+     "n": "Sorcery",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8200.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Olaf.png"
+    },
+    {
+     "n": "Heracross",
+     "h": "/lol/summoners/na/Heracross-NA2",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lissandra.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Ashe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ashe.png"
+    },
+    {
+     "n": "Rage Mode Activa",
+     "h": "/lol/summoners/na/Rage%20Mode%20Activa-Dave",
+     "c": "Ziggs",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ziggs.png"
+    },
+    {
+     "n": "SparkingRiver",
+     "h": "/lol/summoners/na/SparkingRiver-NA1",
+     "c": "Mordekaiser",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Mordekaiser.png"
+    },
+    {
+     "n": "Enuo",
+     "h": "/lol/summoners/na/Enuo-NA1",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "bbnumber2",
+     "h": "/lol/summoners/na/bbnumber2-5143",
+     "c": "Ekko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ekko.png"
+    },
+    {
+     "n": "lolsleepy",
+     "h": "/lol/summoners/na/lolsleepy-2656",
+     "c": "Vayne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vayne.png"
+    },
+    {
+     "n": "Tigerof2000",
+     "h": "/lol/summoners/na/Tigerof2000-NA1",
+     "c": "Pantheon",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Pantheon.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795212180000,
+   "detail": null,
+   "firstSeen": 1795212340613,
+   "shot": "g_a454afde27.jpg"
   }
  },
  "tz": "America/Toronto"
