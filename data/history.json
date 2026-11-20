@@ -60672,6 +60672,300 @@
    "roast": "A 2/7/12 loss on Jarvan IV. Useless. The LP doesn't care about effort and neither do we.",
    "shot": "g_cf937a75ae.jpg",
    "firstSeen": 1795146147472
+  },
+  "Ranked Solo/Duo|11/19/2026, 11:18 PM|Hecarim|33m 43s": {
+   "id": "Ranked Solo/Duo|11/19/2026, 11:18 PM|Hecarim|33m 43s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/19/2026, 11:18 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "33m 43s",
+   "minutes": 33.71666666666667,
+   "k": 21,
+   "d": 1,
+   "a": 13,
+   "kda": "34.00",
+   "kp": 85,
+   "cs": 294,
+   "csm": 8.7,
+   "laning": [
+    73,
+    27
+   ],
+   "avgTier": "Master 559",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3008.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3156.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Chempunk Chainsword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6609.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "MartialArtsForY",
+     "h": "/lol/summoners/na/MartialArtsForY-MA4Y",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zaahen.png"
+    },
+    {
+     "n": "Christianres",
+     "h": "/lol/summoners/na/Christianres-NA1",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Taliyah.png"
+    },
+    {
+     "n": "Fizzics",
+     "h": "/lol/summoners/na/Fizzics-NA2",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ahri.png"
+    },
+    {
+     "n": "ghelb",
+     "h": "/lol/summoners/na/ghelb-NA1",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/MissFortune.png"
+    },
+    {
+     "n": "Retrouvailles",
+     "h": "/lol/summoners/na/Retrouvailles-Nyph",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Janna.png"
+    },
+    {
+     "n": "Jreap6",
+     "h": "/lol/summoners/na/Jreap6-NA1",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Akali.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+    },
+    {
+     "n": "hungriest hippo",
+     "h": "/lol/summoners/na/hungriest%20hippo-WHOME",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Syndra.png"
+    },
+    {
+     "n": "trool",
+     "h": "/lol/summoners/na/trool-8161",
+     "c": "Xayah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Xayah.png"
+    },
+    {
+     "n": "CappuBean",
+     "h": "/lol/summoners/na/CappuBean-mewdy",
+     "c": "Rakan",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Rakan.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795148280000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "MartialArtsForY",
+        "h": "/lol/summoners/na/MartialArtsForY-MA4Y",
+        "t": "Master 538",
+        "op": 6.6,
+        "opr": "ACE",
+        "dmg": 50755,
+        "taken": 63439,
+        "cw": 1,
+        "wards": "17 / 1"
+       },
+       {
+        "n": "Christianres",
+        "h": "/lol/summoners/na/Christianres-NA1",
+        "t": "Master 358",
+        "op": 3.9,
+        "opr": "8th",
+        "dmg": 25556,
+        "taken": 21213,
+        "cw": 3,
+        "wards": "5 / 10"
+       },
+       {
+        "n": "Fizzics",
+        "h": "/lol/summoners/na/Fizzics-NA2",
+        "t": "Master 652",
+        "op": 4.5,
+        "opr": "7th",
+        "dmg": 21968,
+        "taken": 19019,
+        "cw": 1,
+        "wards": "4 / 3"
+       },
+       {
+        "n": "ghelb",
+        "h": "/lol/summoners/na/ghelb-NA1",
+        "t": "Master 1,019",
+        "op": 2.4,
+        "opr": "10th",
+        "dmg": 25114,
+        "taken": 23547,
+        "cw": 0,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "Retrouvailles",
+        "h": "/lol/summoners/na/Retrouvailles-Nyph",
+        "t": "Master 94",
+        "op": 2.5,
+        "opr": "9th",
+        "dmg": 5428,
+        "taken": 21759,
+        "cw": 16,
+        "wards": "51 / 7"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Jreap6",
+        "h": "/lol/summoners/na/Jreap6-NA1",
+        "t": "Master 640",
+        "op": 5,
+        "opr": "6th",
+        "dmg": 19375,
+        "taken": 28417,
+        "cw": 0,
+        "wards": "7 / 5"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 582",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 54629,
+        "taken": 59348,
+        "cw": 0,
+        "wards": "1 / 8"
+       },
+       {
+        "n": "hungriest hippo",
+        "h": "/lol/summoners/na/hungriest%20hippo-WHOME",
+        "t": "Master 585",
+        "op": 5,
+        "opr": "5th",
+        "dmg": 18410,
+        "taken": 20717,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "trool",
+        "h": "/lol/summoners/na/trool-8161",
+        "t": "Master 515",
+        "op": 7.1,
+        "opr": "3rd",
+        "dmg": 28184,
+        "taken": 23731,
+        "cw": 0,
+        "wards": "9 / 5"
+       },
+       {
+        "n": "CappuBean",
+        "h": "/lol/summoners/na/CappuBean-mewdy",
+        "t": "Master 605",
+        "op": 8.7,
+        "opr": "2nd",
+        "dmg": 4762,
+        "taken": 31182,
+        "cw": 6,
+        "wards": "46 / 11"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 4,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 2,
+      "Dragon": 4,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 7,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795148599928,
+   "shot": "g_8868dbeb66.jpg",
+   "lpCalc": true,
+   "roast": "21/1/13 on Hecarim, 85% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
