@@ -61255,6 +61255,155 @@
    "detail": null,
    "shot": "g_e3517bb7be.jpg",
    "firstSeen": 1795201408780
+  },
+  "Normal|11/20/2026, 2:45 PM|Ambessa|36m 37s": {
+   "id": "Normal|11/20/2026, 2:45 PM|Ambessa|36m 37s",
+   "queue": "Normal",
+   "date": "11/20/2026, 2:45 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Ambessa",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+   },
+   "level": 20,
+   "duration": "36m 37s",
+   "minutes": 36.61666666666667,
+   "k": 18,
+   "d": 9,
+   "a": 10,
+   "kda": "3.11",
+   "kp": 55,
+   "cs": 223,
+   "csm": 6.1,
+   "laning": [
+    68,
+    32
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Spirit Visage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3065.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Spear of Shojin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3161.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6695.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8437.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "lilbobo1203",
+     "h": "/lol/summoners/na/lilbobo1203-12345",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yone.png"
+    },
+    {
+     "n": "xxspw",
+     "h": "/lol/summoners/na/xxspw-Blue",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jayce.png"
+    },
+    {
+     "n": "gargamel v2",
+     "h": "/lol/summoners/na/gargamel%20v2-NA1",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zilean.png"
+    },
+    {
+     "n": "xepherin",
+     "h": "/lol/summoners/na/xepherin-A999",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ezreal.png"
+    },
+    {
+     "n": "immarun",
+     "h": "/lol/summoners/na/immarun-NA1",
+     "c": "Swain",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Swain.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Taliyah.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "ella gator ぺ",
+     "h": "/lol/summoners/na/ella%20gator%20%E3%81%BA-rip",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Tristana.png"
+    },
+    {
+     "n": "QuadraKingKal",
+     "h": "/lol/summoners/na/QuadraKingKal-Lord",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Thresh.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795203900000,
+   "detail": null,
+   "firstSeen": 1795204084698,
+   "shot": "g_4efc02d555.jpg"
   }
  },
  "tz": "America/Toronto"
