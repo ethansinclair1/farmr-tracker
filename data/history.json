@@ -60974,6 +60974,300 @@
    "roast": "23% kill participation. Was Dr. Mundo in this game or just watching it?",
    "shot": "g_61787e79e9.jpg",
    "firstSeen": 1795133552208
+  },
+  "Ranked Solo/Duo|11/19/2026, 7:44 PM|Hecarim|27m 19s": {
+   "id": "Ranked Solo/Duo|11/19/2026, 7:44 PM|Hecarim|27m 19s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/19/2026, 7:44 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+   },
+   "level": 16,
+   "duration": "27m 19s",
+   "minutes": 27.316666666666666,
+   "k": 4,
+   "d": 2,
+   "a": 16,
+   "kda": "10.00",
+   "kp": 65,
+   "cs": 214,
+   "csm": 7.8,
+   "laning": [
+    48,
+    52
+   ],
+   "avgTier": "Master 776",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3156.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1037.png"
+    },
+    {
+     "n": "Boots",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1001.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Lo Po Bia",
+     "h": "/lol/summoners/na/Lo%20Po%20Bia-NA11",
+     "c": "Quinn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Quinn.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+    },
+    {
+     "n": "sirspen",
+     "h": "/lol/summoners/na/sirspen-sir",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Chogath.png"
+    },
+    {
+     "n": "Prime",
+     "h": "/lol/summoners/na/Prime-0629",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ezreal.png"
+    },
+    {
+     "n": "hide on crown",
+     "h": "/lol/summoners/na/hide%20on%20crown-elias",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Seraphine.png"
+    },
+    {
+     "n": "Nirvanity",
+     "h": "/lol/summoners/na/Nirvanity-5918",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ornn.png"
+    },
+    {
+     "n": "쉬꺽뿡",
+     "h": "/lol/summoners/na/%EC%89%AC%EA%BA%BD%EB%BF%A1-pfft",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zyra.png"
+    },
+    {
+     "n": "liverpool",
+     "h": "/lol/summoners/na/liverpool-num1",
+     "c": "Irelia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Irelia.png"
+    },
+    {
+     "n": "itzz Wags 3",
+     "h": "/lol/summoners/na/itzz%20Wags%203-NA1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jhin.png"
+    },
+    {
+     "n": "pumpkinpieftw",
+     "h": "/lol/summoners/na/pumpkinpieftw-NA1",
+     "c": "Braum",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Braum.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795135440000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Lo Po Bia",
+        "h": "/lol/summoners/na/Lo%20Po%20Bia-NA11",
+        "t": "Master 529",
+        "op": 6.2,
+        "opr": "4th",
+        "dmg": 21270,
+        "taken": 17458,
+        "cw": 0,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 555",
+        "op": 9,
+        "opr": "3rd",
+        "dmg": 18012,
+        "taken": 32459,
+        "cw": 1,
+        "wards": "3 / 1"
+       },
+       {
+        "n": "sirspen",
+        "h": "/lol/summoners/na/sirspen-sir",
+        "t": "Master 842",
+        "op": 9.3,
+        "opr": "2nd",
+        "dmg": 32860,
+        "taken": 33216,
+        "cw": 0,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "Prime",
+        "h": "/lol/summoners/na/Prime-0629",
+        "t": "Master 1,314",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 21870,
+        "taken": 18050,
+        "cw": 0,
+        "wards": "8 / 4"
+       },
+       {
+        "n": "hide on crown",
+        "h": "/lol/summoners/na/hide%20on%20crown-elias",
+        "t": "Master 1,182",
+        "op": 9.7,
+        "opr": "MVP",
+        "dmg": 13072,
+        "taken": 14256,
+        "cw": 9,
+        "wards": "29 / 17"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Nirvanity",
+        "h": "/lol/summoners/na/Nirvanity-5918",
+        "t": "Master 879",
+        "op": 2.6,
+        "opr": "9th",
+        "dmg": 16210,
+        "taken": 32963,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "쉬꺽뿡",
+        "h": "/lol/summoners/na/%EC%89%AC%EA%BA%BD%EB%BF%A1-pfft",
+        "t": "Master 238",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 26345,
+        "taken": 20878,
+        "cw": 4,
+        "wards": "5 / 8"
+       },
+       {
+        "n": "liverpool",
+        "h": "/lol/summoners/na/liverpool-num1",
+        "t": "Master 595",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 25351,
+        "taken": 32908,
+        "cw": 2,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "itzz Wags 3",
+        "h": "/lol/summoners/na/itzz%20Wags%203-NA1",
+        "t": "Master 808",
+        "op": 4,
+        "opr": "7th",
+        "dmg": 13448,
+        "taken": 14874,
+        "cw": 0,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "pumpkinpieftw",
+        "h": "/lol/summoners/na/pumpkinpieftw-NA1",
+        "t": "Master 817",
+        "op": 1.8,
+        "opr": "10th",
+        "dmg": 4170,
+        "taken": 20726,
+        "cw": 14,
+        "wards": "34 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795135743577,
+   "shot": "g_831ac3955c.jpg",
+   "lpCalc": true,
+   "roast": "4/2/16 on Hecarim, 65% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
