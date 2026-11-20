@@ -61700,8 +61700,157 @@
    "team": 0,
    "ts": 1795212180000,
    "detail": null,
-   "firstSeen": 1795212340613,
-   "shot": "g_a454afde27.jpg"
+   "shot": "g_a454afde27.jpg",
+   "firstSeen": 1795212340613
+  },
+  "Normal|11/20/2026, 5:54 PM|Jax|28m 12s": {
+   "id": "Normal|11/20/2026, 5:54 PM|Jax|28m 12s",
+   "queue": "Normal",
+   "date": "11/20/2026, 5:54 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Jax",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jax.png"
+   },
+   "level": 17,
+   "duration": "28m 12s",
+   "minutes": 28.2,
+   "k": 12,
+   "d": 8,
+   "a": 7,
+   "kda": "2.38",
+   "kp": 54,
+   "cs": 206,
+   "csm": 7.3,
+   "laning": [
+    62,
+    38
+   ],
+   "avgTier": "Emerald 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Blade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1055.png"
+    },
+    {
+     "n": "Trinity Force",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3078.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Unleashed Teleport (Top Lane Quest Reward)",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1220.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Ignite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerDot.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8008.png"
+    },
+    {
+     "n": "Resolve",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8400.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Jax",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jax.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sion.png"
+    },
+    {
+     "n": "清華小學生习近乎",
+     "h": "/lol/summoners/na/%E6%B8%85%E8%8F%AF%E5%B0%8F%E5%AD%B8%E7%94%9F%E4%B9%A0%E8%BF%91%E4%B9%8E-9527",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jayce.png"
+    },
+    {
+     "n": "Student Athlete",
+     "h": "/lol/summoners/na/Student%20Athlete-Track",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jhin.png"
+    },
+    {
+     "n": "ValRy",
+     "h": "/lol/summoners/na/ValRy-0223",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Senna.png"
+    },
+    {
+     "n": "BISONburritos",
+     "h": "/lol/summoners/na/BISONburritos-NA1",
+     "c": "K'Sante",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/KSante.png"
+    },
+    {
+     "n": "Aruba Tuba",
+     "h": "/lol/summoners/na/Aruba%20Tuba-NA1",
+     "c": "Jarvan IV",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/JarvanIV.png"
+    },
+    {
+     "n": "TYLER21",
+     "h": "/lol/summoners/na/TYLER21-GGxd",
+     "c": "Aurora",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Aurora.png"
+    },
+    {
+     "n": "Shrimpkin Park",
+     "h": "/lol/summoners/na/Shrimpkin%20Park-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "DiDi",
+     "h": "/lol/summoners/na/DiDi-3704",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Soraka.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795215240000,
+   "detail": null,
+   "firstSeen": 1795215739586,
+   "shot": "g_42262e3732.jpg"
   }
  },
  "tz": "America/Toronto"
