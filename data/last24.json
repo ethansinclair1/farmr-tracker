@@ -1,24 +1,24 @@
 {
- "sig": "24e64015dc",
+ "sig": "3d026adb67",
  "report": {
-  "roast": "1W 0L, +29 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
+  "roast": "1W 1L, -2 LP - and a 4/7/3 int in there. Uninstall.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (3.0 vs 2.0 drakes a game). Be there before they spawn.",
-   "Low kill participation (42%). Stop farming while your team fights.",
-   "Stop dying - 6.0 deaths a game. Ward before face-checking."
+   "Take objectives: losing dragons/grubs (2.5 vs 2.5 drakes a game). Be there before they spawn.",
+   "Low kill participation (33%). Stop farming while your team fights.",
+   "Stop dying - 6.5 deaths a game. Ward before face-checking."
   ],
   "ai": false,
   "wins": 1,
-  "losses": 0,
-  "k": 3,
-  "d": 6,
-  "a": 13,
-  "kda": 2.6666666666666665,
-  "csm": 7.792607802874743,
-  "kp": 42,
-  "lpNet": 29,
-  "ints": 0,
-  "games": 1
+  "losses": 1,
+  "k": 3.5,
+  "d": 6.5,
+  "a": 8,
+  "kda": 1.7692307692307692,
+  "csm": 7.564385577630611,
+  "kp": 32.5,
+  "lpNet": -2,
+  "ints": 1,
+  "games": 2
  },
  "v": 3
 }

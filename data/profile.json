@@ -1,9 +1,9 @@
 {
  "solo": {
   "tier": "Master",
-  "lp": 586,
+  "lp": 555,
   "wins": 223,
-  "losses": 195
+  "losses": 196
  },
  "flex": {
   "tier": "Platinum 1",
@@ -11,9 +11,9 @@
   "wins": 32,
   "losses": 19
  },
- "ladderRank": "3,851",
- "ladderPct": "0.2307",
+ "ladderRank": "4,045",
+ "ladderPct": "0.2422",
  "icon": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon2076.jpg",
  "level": "87",
- "scrapedAt": "2026-11-19T18:44:57.088Z"
+ "scrapedAt": "2026-11-20T00:12:04.983Z"
 }
