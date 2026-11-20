@@ -61404,6 +61404,155 @@
    "detail": null,
    "shot": "g_4efc02d555.jpg",
    "firstSeen": 1795204084698
+  },
+  "Normal|11/20/2026, 4:24 PM|Dr. Mundo|23m 51s": {
+   "id": "Normal|11/20/2026, 4:24 PM|Dr. Mundo|23m 51s",
+   "queue": "Normal",
+   "date": "11/20/2026, 4:24 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+   },
+   "level": 17,
+   "duration": "23m 51s",
+   "minutes": 23.85,
+   "k": 9,
+   "d": 3,
+   "a": 7,
+   "kda": "5.33",
+   "kp": 46,
+   "cs": 205,
+   "csm": 8.6,
+   "laning": [
+    75,
+    25
+   ],
+   "avgTier": "Platinum 3",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Helm",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1120.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3748.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3084.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3009.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2501.png"
+    },
+    {
+     "n": "Warden's Mail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3082.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Top Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1221.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "M1A MALK0VA",
+     "h": "/lol/summoners/na/M1A%20MALK0VA-NA1",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/LeeSin.png"
+    },
+    {
+     "n": "ArcaneEnjoyer222",
+     "h": "/lol/summoners/na/ArcaneEnjoyer222-222",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "CJay34",
+     "h": "/lol/summoners/na/CJay34-NA1",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Orianna.png"
+    },
+    {
+     "n": "Ålcatraz",
+     "h": "/lol/summoners/na/%C3%85lcatraz-77776",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "clairmonster",
+     "h": "/lol/summoners/na/clairmonster-CMONT",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sona.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Olaf.png"
+    },
+    {
+     "n": "SickelSlayer",
+     "h": "/lol/summoners/na/SickelSlayer-NA1",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hwei.png"
+    },
+    {
+     "n": "DogathanProduct",
+     "h": "/lol/summoners/na/DogathanProduct-DP1",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jhin.png"
+    },
+    {
+     "n": "Mikeybolt 88",
+     "h": "/lol/summoners/na/Mikeybolt%2088-NA1",
+     "c": "Pyke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Pyke.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795209840000,
+   "detail": null,
+   "firstSeen": 1795210132748,
+   "shot": "g_8736fe8e5c.jpg"
   }
  },
  "tz": "America/Toronto"
