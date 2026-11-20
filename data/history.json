@@ -49713,8 +49713,8 @@
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Ekko.png"
     },
     {
-     "n": "saiyan ego",
-     "h": "/lol/summoners/na/saiyan%20ego-514",
+     "n": "scred",
+     "h": "/lol/summoners/na/scred-stl",
      "c": "Yone",
      "u": "https://opgg-static.akamaized.net/meta/images/lol/16.22.1/champion/Yone.png"
     },
@@ -61104,8 +61104,157 @@
    "team": 1,
    "ts": 1795198920000,
    "detail": null,
-   "firstSeen": 1795199252231,
-   "shot": "g_425c859929.jpg"
+   "shot": "g_425c859929.jpg",
+   "firstSeen": 1795199252231
+  },
+  "Normal|11/20/2026, 2:01 PM|Dr. Mundo|33m 48s": {
+   "id": "Normal|11/20/2026, 2:01 PM|Dr. Mundo|33m 48s",
+   "queue": "Normal",
+   "date": "11/20/2026, 2:01 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+   },
+   "level": 20,
+   "duration": "33m 48s",
+   "minutes": 33.8,
+   "k": 12,
+   "d": 5,
+   "a": 7,
+   "kda": "3.80",
+   "kp": 51,
+   "cs": 321,
+   "csm": 9.5,
+   "laning": [
+    61,
+    39
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3084.png"
+    },
+    {
+     "n": "Titanic Hydra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3748.png"
+    },
+    {
+     "n": "Randuin's Omen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3143.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3009.png"
+    },
+    {
+     "n": "Warmog's Armor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3083.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2501.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3363.png"
+    },
+    {
+     "n": "Top Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1221.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Fleet Footwork",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8021.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "BooooooooBz",
+     "h": "/lol/summoners/na/BooooooooBz-NA1",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Garen.png"
+    },
+    {
+     "n": "The Vulture",
+     "h": "/lol/summoners/na/The%20Vulture-The%201",
+     "c": "Shen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Shen.png"
+    },
+    {
+     "n": "Shizuhara",
+     "h": "/lol/summoners/na/Shizuhara-Yami",
+     "c": "Briar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Briar.png"
+    },
+    {
+     "n": "Teiko",
+     "h": "/lol/summoners/na/Teiko-NA1",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "PUNCAKES TOO OP",
+     "h": "/lol/summoners/na/PUNCAKES%20TOO%20OP-NA1",
+     "c": "Morgana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Morgana.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zed.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "EXXOD1A",
+     "h": "/lol/summoners/na/EXXOD1A-1V9",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yasuo.png"
+    },
+    {
+     "n": "musky34",
+     "h": "/lol/summoners/na/musky34-NA1",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Bard.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795201260000,
+   "detail": null,
+   "firstSeen": 1795201408780,
+   "shot": "g_e3517bb7be.jpg"
   }
  },
  "tz": "America/Toronto"
