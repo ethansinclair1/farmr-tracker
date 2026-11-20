@@ -13519,155 +13519,6 @@
    "shot": "g_48df3d5337.jpg",
    "firstSeen": 1793049288101
   },
-  "Normal|10/20/2026, 9:24 PM|Galio|29m 01s": {
-   "id": "Normal|10/20/2026, 9:24 PM|Galio|29m 01s",
-   "queue": "Normal",
-   "date": "10/20/2026, 9:24 PM",
-   "result": "Defeat",
-   "win": false,
-   "remake": false,
-   "champ": {
-    "n": "Galio",
-    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Galio.png"
-   },
-   "level": 14,
-   "duration": "29m 01s",
-   "minutes": 29.016666666666666,
-   "k": 2,
-   "d": 9,
-   "a": 5,
-   "kda": "0.78",
-   "kp": 33,
-   "cs": 187,
-   "csm": 6.4,
-   "laning": [
-    38,
-    62
-   ],
-   "avgTier": "Emerald 3",
-   "lp": null,
-   "items": [
-    {
-     "n": "Needlessly Large Rod",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1058.png"
-    },
-    {
-     "n": "Hextech Rocketbelt",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3152.png"
-    },
-    {
-     "n": "Hextech Alternator",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3145.png"
-    },
-    {
-     "n": "Spellslinger's Shoes",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3175.png"
-    },
-    {
-     "n": "Imperial Mandate",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/4005.png"
-    },
-    {
-     "n": "Dark Seal",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1082.png"
-    },
-    {
-     "n": "Stealth Ward",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/3340.png"
-    },
-    {
-     "n": "Mid Lane Quest Reward",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/item/1206.png"
-    }
-   ],
-   "spells": [
-    {
-     "n": "Teleport",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerTeleport.png"
-    },
-    {
-     "n": "Flash",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/spell/SummonerFlash.png"
-    }
-   ],
-   "runes": [
-    {
-     "n": "Stormraider's Surge",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perk/8230.png"
-    },
-    {
-     "n": "Resolve",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/perkStyle/8400.png"
-    }
-   ],
-   "players": [
-    {
-     "n": "dev",
-     "h": "/lol/summoners/na/dev-8163",
-     "c": "Fiora",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Fiora.png"
-    },
-    {
-     "n": "girl dinnerrrr",
-     "h": "/lol/summoners/na/girl%20dinnerrrr-slayy",
-     "c": "Evelynn",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Evelynn.png"
-    },
-    {
-     "n": "FullClearDeluxe",
-     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
-     "c": "Galio",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Galio.png"
-    },
-    {
-     "n": "wyatt",
-     "h": "/lol/summoners/na/wyatt-fendt",
-     "c": "Jhin",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Jhin.png"
-    },
-    {
-     "n": "bbronzebear",
-     "h": "/lol/summoners/na/bbronzebear-grr",
-     "c": "Alistar",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Alistar.png"
-    },
-    {
-     "n": "BobbyWeavMeister",
-     "h": "/lol/summoners/na/BobbyWeavMeister-Skrrt",
-     "c": "Yasuo",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Yasuo.png"
-    },
-    {
-     "n": "Kanin Davis",
-     "h": "/lol/summoners/na/Kanin%20Davis-cole",
-     "c": "Darius",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Darius.png"
-    },
-    {
-     "n": "Large Condom",
-     "h": "/lol/summoners/na/Large%20Condom-1738",
-     "c": "Twisted Fate",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/TwistedFate.png"
-    },
-    {
-     "n": "YoungJJCrossover",
-     "h": "/lol/summoners/na/YoungJJCrossover-NA1",
-     "c": "Lucian",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Lucian.png"
-    },
-    {
-     "n": "Tunzee",
-     "h": "/lol/summoners/na/Tunzee-NA1",
-     "c": "Thresh",
-     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.20.1/champion/Thresh.png"
-    }
-   ],
-   "team": 0,
-   "ts": 1792545840000,
-   "detail": null,
-   "shot": "g_6db82b90dd.jpg",
-   "firstSeen": 1793049288101
-  },
   "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s": {
    "id": "Ranked Solo/Duo|10/26/2026, 5:32 PM|Jarvan IV|26m 05s",
    "queue": "Ranked Solo/Duo",
@@ -61264,10 +61115,9 @@
      }
     ]
    },
-   "firstSeen": 1795135743577,
+   "roast": "4/2/16 on Hecarim, 65% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_831ac3955c.jpg",
-   "lpCalc": true,
-   "roast": "4/2/16 on Hecarim, 65% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "firstSeen": 1795135743577
   }
  },
  "tz": "America/Toronto"
