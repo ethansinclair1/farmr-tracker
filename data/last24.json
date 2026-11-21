@@ -1,24 +1,24 @@
 {
- "sig": "f429dd7044",
+ "sig": "b83bdb7a45",
  "report": {
-  "roast": "4W 2L, +54 LP - and a 4/7/3 int in there. Uninstall.",
+  "roast": "1W 0L, +29 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (2.7 vs 1.8 drakes a game). Be there before they spawn.",
-   "Stop dying - 4.3 deaths a game. Ward before face-checking.",
-   "Buy control wards - 1.2 a game is nothing."
+   "Low kill participation (31%). Stop farming while your team fights.",
+   "Buy control wards - 1.0 a game is nothing.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 4,
-  "losses": 2,
-  "k": 6.833333333333333,
-  "d": 4.333333333333333,
-  "a": 10.833333333333334,
-  "kda": 4.0769230769230775,
-  "csm": 7.626886145404664,
-  "kp": 56.833333333333336,
-  "lpNet": 54,
-  "ints": 1,
-  "games": 6
+  "wins": 1,
+  "losses": 0,
+  "k": 7,
+  "d": 1,
+  "a": 5,
+  "kda": 12,
+  "csm": 7.208480565371024,
+  "kp": 31,
+  "lpNet": 29,
+  "ints": 0,
+  "games": 1
  },
  "v": 3
 }
