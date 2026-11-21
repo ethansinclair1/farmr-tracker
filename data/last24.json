@@ -1,21 +1,21 @@
 {
- "sig": "b83bdb7a45",
+ "sig": "0a01ce486d",
  "report": {
   "roast": "1W 0L, +29 LP. Even a broken clock wins sometimes - don't get used to it.",
   "fixes": [
-   "Low kill participation (31%). Stop farming while your team fights.",
    "Buy control wards - 1.0 a game is nothing.",
+   "Losing the early game - plan the first clear and gank the winning lane.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 1,
   "losses": 0,
-  "k": 7,
-  "d": 1,
-  "a": 5,
-  "kda": 12,
-  "csm": 7.208480565371024,
-  "kp": 31,
+  "k": 5,
+  "d": 2,
+  "a": 13,
+  "kda": 9,
+  "csm": 8.576998050682262,
+  "kp": 58,
   "lpNet": 29,
   "ints": 0,
   "games": 1
