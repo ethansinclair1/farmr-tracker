@@ -59740,6 +59740,300 @@
    "roast": "1/11/14 on Alistar. That's not a KDA, that's a donation receipt.",
    "shot": "g_c996384379.jpg",
    "firstSeen": 1795373031045
+  },
+  "Ranked Flex|11/22/2026, 2:16 PM|Dr. Mundo|29m 47s": {
+   "id": "Ranked Flex|11/22/2026, 2:16 PM|Dr. Mundo|29m 47s",
+   "queue": "Ranked Flex",
+   "date": "11/22/2026, 2:16 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Dr. Mundo",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+   },
+   "level": 17,
+   "duration": "29m 47s",
+   "minutes": 29.783333333333335,
+   "k": 12,
+   "d": 3,
+   "a": 7,
+   "kda": "6.33",
+   "kp": 66,
+   "cs": 225,
+   "csm": 7.6,
+   "laning": [
+    63,
+    37
+   ],
+   "avgTier": "Emerald 2",
+   "lp": -10,
+   "items": [
+    {
+     "n": "Dead Man's Plate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3742.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3084.png"
+    },
+    {
+     "n": "Boots of Swiftness",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3009.png"
+    },
+    {
+     "n": "Spirit Visage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3065.png"
+    },
+    {
+     "n": "Overlord's Bloodmail",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2501.png"
+    },
+    {
+     "n": "Tunneler",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2021.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Fleet Footwork",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8021.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Hydro",
+     "h": "/lol/summoners/na/Hydro-6210",
+     "c": "Brand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Brand.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+    },
+    {
+     "n": "trapnest",
+     "h": "/lol/summoners/na/trapnest-wish",
+     "c": "Orianna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Orianna.png"
+    },
+    {
+     "n": "L1mit",
+     "h": "/lol/summoners/na/L1mit-Wolf",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kalista.png"
+    },
+    {
+     "n": "TheTimeSweeper",
+     "h": "/lol/summoners/na/TheTimeSweeper-NA1",
+     "c": "Renata Glasc",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Renata.png"
+    },
+    {
+     "n": "Roseven17",
+     "h": "/lol/summoners/na/Roseven17-NA1",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jayce.png"
+    },
+    {
+     "n": "The Drewster",
+     "h": "/lol/summoners/na/The%20Drewster-6767",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sion.png"
+    },
+    {
+     "n": "chrishandsome67",
+     "h": "/lol/summoners/na/chrishandsome67-swag",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "NightShard",
+     "h": "/lol/summoners/na/NightShard-7764",
+     "c": "Samira",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Samira.png"
+    },
+    {
+     "n": "Yogigman",
+     "h": "/lol/summoners/na/Yogigman-99999",
+     "c": "Tahm Kench",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TahmKench.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795374960000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Hydro",
+        "h": "/lol/summoners/na/Hydro-6210",
+        "t": "Emerald 1",
+        "op": 3.2,
+        "opr": "10th",
+        "dmg": 26660,
+        "taken": 23810,
+        "cw": 0,
+        "wards": "4 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Platinum 1",
+        "op": 6.7,
+        "opr": "ACE",
+        "dmg": 36067,
+        "taken": 64476,
+        "cw": 1,
+        "wards": "3 / 3"
+       },
+       {
+        "n": "trapnest",
+        "h": "/lol/summoners/na/trapnest-wish",
+        "t": "",
+        "op": 6.1,
+        "opr": "3rd",
+        "dmg": 29249,
+        "taken": 20257,
+        "cw": 3,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "L1mit",
+        "h": "/lol/summoners/na/L1mit-Wolf",
+        "t": "",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 30111,
+        "taken": 31751,
+        "cw": 0,
+        "wards": "9 / 6"
+       },
+       {
+        "n": "TheTimeSweeper",
+        "h": "/lol/summoners/na/TheTimeSweeper-NA1",
+        "t": "Emerald 2",
+        "op": 4,
+        "opr": "9th",
+        "dmg": 10839,
+        "taken": 25291,
+        "cw": 8,
+        "wards": "40 / 4"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Roseven17",
+        "h": "/lol/summoners/na/Roseven17-NA1",
+        "t": "Diamond 4",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 32656,
+        "taken": 23970,
+        "cw": 0,
+        "wards": "9 / 7"
+       },
+       {
+        "n": "The Drewster",
+        "h": "/lol/summoners/na/The%20Drewster-6767",
+        "t": "Emerald 1",
+        "op": 5.2,
+        "opr": "4th",
+        "dmg": 19423,
+        "taken": 37022,
+        "cw": 2,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "chrishandsome67",
+        "h": "/lol/summoners/na/chrishandsome67-swag",
+        "t": "Emerald 1",
+        "op": 4.6,
+        "opr": "7th",
+        "dmg": 17658,
+        "taken": 21065,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "NightShard",
+        "h": "/lol/summoners/na/NightShard-7764",
+        "t": "Diamond 4",
+        "op": 7,
+        "opr": "MVP",
+        "dmg": 53895,
+        "taken": 34885,
+        "cw": 1,
+        "wards": "11 / 3"
+       },
+       {
+        "n": "Yogigman",
+        "h": "/lol/summoners/na/Yogigman-99999",
+        "t": "Platinum 2",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 12651,
+        "taken": 33998,
+        "cw": 11,
+        "wards": "27 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 11,
+      "Inhibitor": 4
+     }
+    ]
+   },
+   "firstSeen": 1795375229347,
+   "shot": "g_80cd6398be.jpg",
+   "lpCalc": true,
+   "roast": "Lost on Dr. Mundo (12/3/7). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
