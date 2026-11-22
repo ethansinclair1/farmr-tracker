@@ -60033,6 +60033,300 @@
    "roast": "Lost on Dr. Mundo (12/3/7). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_80cd6398be.jpg",
    "firstSeen": 1795375229347
+  },
+  "Ranked Flex|11/22/2026, 2:57 PM|Qiyana|19m 23s": {
+   "id": "Ranked Flex|11/22/2026, 2:57 PM|Qiyana|19m 23s",
+   "queue": "Ranked Flex",
+   "date": "11/22/2026, 2:57 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Qiyana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Qiyana.png"
+   },
+   "level": 13,
+   "duration": "19m 23s",
+   "minutes": 19.383333333333333,
+   "k": 8,
+   "d": 1,
+   "a": 9,
+   "kda": "17.00",
+   "kp": 71,
+   "cs": 135,
+   "csm": 7,
+   "laning": [
+    74,
+    26
+   ],
+   "avgTier": "Platinum 2",
+   "lp": 30,
+   "items": [
+    {
+     "n": "Bastionbreaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2520.png"
+    },
+    {
+     "n": "Voltaic Cyclosword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6699.png"
+    },
+    {
+     "n": "Serrated Dirk",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3134.png"
+    },
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3158.png"
+    },
+    {
+     "n": "Ruby Crystal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1028.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "First Strike",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8369.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Turbo1nt3r",
+     "h": "/lol/summoners/na/Turbo1nt3r-NA1",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yone.png"
+    },
+    {
+     "n": "Spicy McNuggs",
+     "h": "/lol/summoners/na/Spicy%20McNuggs-Spicy",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Viego.png"
+    },
+    {
+     "n": "El Loco Grande",
+     "h": "/lol/summoners/na/El%20Loco%20Grande-TBC",
+     "c": "Zoe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zoe.png"
+    },
+    {
+     "n": "bruh diggin n me",
+     "h": "/lol/summoners/na/bruh%20diggin%20n%20me-MYBUT",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Smolder.png"
+    },
+    {
+     "n": "onyedika",
+     "h": "/lol/summoners/na/onyedika-PEEN",
+     "c": "Bard",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Bard.png"
+    },
+    {
+     "n": "Darth Farquaad",
+     "h": "/lol/summoners/na/Darth%20Farquaad-NA1",
+     "c": "Malphite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Malphite.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Qiyana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Qiyana.png"
+    },
+    {
+     "n": "trapnest",
+     "h": "/lol/summoners/na/trapnest-wish",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Syndra.png"
+    },
+    {
+     "n": "Darterwolf",
+     "h": "/lol/summoners/na/Darterwolf-TRV",
+     "c": "Nilah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nilah.png"
+    },
+    {
+     "n": "caCollin",
+     "h": "/lol/summoners/na/caCollin-LTK",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sona.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795377420000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Turbo1nt3r",
+        "h": "/lol/summoners/na/Turbo1nt3r-NA1",
+        "t": "Gold 2",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 8041,
+        "taken": 12443,
+        "cw": 0,
+        "wards": "6 / 0"
+       },
+       {
+        "n": "Spicy McNuggs",
+        "h": "/lol/summoners/na/Spicy%20McNuggs-Spicy",
+        "t": "Platinum 4",
+        "op": 0.8,
+        "opr": "9th",
+        "dmg": 3352,
+        "taken": 18239,
+        "cw": 5,
+        "wards": "4 / 3"
+       },
+       {
+        "n": "El Loco Grande",
+        "h": "/lol/summoners/na/El%20Loco%20Grande-TBC",
+        "t": "Emerald 2",
+        "op": 0.3,
+        "opr": "10th",
+        "dmg": 5336,
+        "taken": 15679,
+        "cw": 2,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "bruh diggin n me",
+        "h": "/lol/summoners/na/bruh%20diggin%20n%20me-MYBUT",
+        "t": "Emerald 2",
+        "op": 2.8,
+        "opr": "7th",
+        "dmg": 10835,
+        "taken": 14126,
+        "cw": 0,
+        "wards": "6 / 2"
+       },
+       {
+        "n": "onyedika",
+        "h": "/lol/summoners/na/onyedika-PEEN",
+        "t": "Platinum 1",
+        "op": 4.3,
+        "opr": "ACE",
+        "dmg": 6016,
+        "taken": 10060,
+        "cw": 3,
+        "wards": "13 / 8"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Darth Farquaad",
+        "h": "/lol/summoners/na/Darth%20Farquaad-NA1",
+        "t": "",
+        "op": 5.7,
+        "opr": "5th",
+        "dmg": 7044,
+        "taken": 9794,
+        "cw": 0,
+        "wards": "3 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Platinum 1",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 17803,
+        "taken": 13265,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "trapnest",
+        "h": "/lol/summoners/na/trapnest-wish",
+        "t": "",
+        "op": 9.8,
+        "opr": "2nd",
+        "dmg": 16792,
+        "taken": 6349,
+        "cw": 4,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Darterwolf",
+        "h": "/lol/summoners/na/Darterwolf-TRV",
+        "t": "Gold 2",
+        "op": 8.2,
+        "opr": "4th",
+        "dmg": 7545,
+        "taken": 11334,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "caCollin",
+        "h": "/lol/summoners/na/caCollin-LTK",
+        "t": "Emerald 3",
+        "op": 9.2,
+        "opr": "3rd",
+        "dmg": 9208,
+        "taken": 8144,
+        "cw": 8,
+        "wards": "19 / 6"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 0,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 2,
+      "Tower": 6,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1795377628984,
+   "shot": "g_cc1b58056c.jpg",
+   "lpCalc": true,
+   "roast": "8/1/9 win on Qiyana. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
