@@ -7,13 +7,13 @@
  },
  "flex": {
   "tier": "Platinum 1",
-  "lp": 87,
+  "lp": 77,
   "wins": 32,
-  "losses": 19
+  "losses": 20
  },
- "ladderRank": "3,340",
- "ladderPct": "0.1992",
+ "ladderRank": "3,332",
+ "ladderPct": "0.1987",
  "icon": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon2076.jpg",
  "level": "88",
- "scrapedAt": "2026-11-22T18:18:59.556Z"
+ "scrapedAt": "2026-11-22T18:43:29.650Z"
 }
