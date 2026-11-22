@@ -59588,6 +59588,155 @@
    "roast": "11/1/9 on Rengar, 56% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_1a9417a92b.jpg",
    "firstSeen": 1795306401726
+  },
+  "Normal|11/21/2026, 8:10 PM|Kayn|30m 26s": {
+   "id": "Normal|11/21/2026, 8:10 PM|Kayn|30m 26s",
+   "queue": "Normal",
+   "date": "11/21/2026, 8:10 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Kayn",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kayn.png"
+   },
+   "level": 16,
+   "duration": "30m 26s",
+   "minutes": 30.433333333333334,
+   "k": 4,
+   "d": 10,
+   "a": 4,
+   "kda": "0.80",
+   "kp": 53,
+   "cs": 226,
+   "csm": 7.4,
+   "laning": [
+    21,
+    79
+   ],
+   "avgTier": "Gold 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Hubris",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6697.png"
+    },
+    {
+     "n": "Youmuu's Ghostblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3142.png"
+    },
+    {
+     "n": "Slightly Magical Footwear",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2422.png"
+    },
+    {
+     "n": "Serylda's Grudge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6694.png"
+    },
+    {
+     "n": "Edge of Night",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3814.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1037.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Dark Harvest",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8128.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Darius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Darius.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kayn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kayn.png"
+    },
+    {
+     "n": "X Agenda",
+     "h": "/lol/summoners/na/X%20Agenda-NA1",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "toppyheader",
+     "h": "/lol/summoners/na/toppyheader-1854",
+     "c": "Miss Fortune",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/MissFortune.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Alistar.png"
+    },
+    {
+     "n": "Timewinder",
+     "h": "/lol/summoners/na/Timewinder-atepm",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zilean.png"
+    },
+    {
+     "n": "Shplop",
+     "h": "/lol/summoners/na/Shplop-404",
+     "c": "Viego",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Viego.png"
+    },
+    {
+     "n": "BunnyArt",
+     "h": "/lol/summoners/na/BunnyArt-NA1",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Naafiri.png"
+    },
+    {
+     "n": "Eliot Waugh",
+     "h": "/lol/summoners/na/Eliot%20Waugh-1Fan",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ezreal.png"
+    },
+    {
+     "n": "The Been",
+     "h": "/lol/summoners/na/The%20Been-NA1",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Thresh.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795309800000,
+   "detail": null,
+   "firstSeen": 1795310036801,
+   "shot": "g_3676ad992a.jpg"
   }
  },
  "tz": "America/Toronto"
