@@ -60908,6 +60908,300 @@
    "roast": "12/4/18 on Graves, 68% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_ca65ecdf92.jpg",
    "firstSeen": 1795381532389
+  },
+  "Ranked Solo/Duo|11/22/2026, 6:10 PM|Hecarim|32m 28s": {
+   "id": "Ranked Solo/Duo|11/22/2026, 6:10 PM|Hecarim|32m 28s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/22/2026, 6:10 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+   },
+   "level": 18,
+   "duration": "32m 28s",
+   "minutes": 32.46666666666667,
+   "k": 8,
+   "d": 2,
+   "a": 6,
+   "kda": "7.00",
+   "kp": 58,
+   "cs": 296,
+   "csm": 9.1,
+   "laning": [
+    53,
+    47
+   ],
+   "avgTier": "Master 193",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Serpent's Fang",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6695.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Pickaxe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1037.png"
+    },
+    {
+     "n": "Maw of Malmortius",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3156.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3008.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Llonel Messi",
+     "h": "/lol/summoners/na/Llonel%20Messi-NA1",
+     "c": "Heimerdinger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Heimerdinger.png"
+    },
+    {
+     "n": "BETTER THAN YOU",
+     "h": "/lol/summoners/na/BETTER%20THAN%20YOU-MAD",
+     "c": "Ivern",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ivern.png"
+    },
+    {
+     "n": "Sneki",
+     "h": "/lol/summoners/na/Sneki-Razer",
+     "c": "Locke",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Locke.png"
+    },
+    {
+     "n": "Krzy",
+     "h": "/lol/summoners/na/Krzy-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "puipuipuipui",
+     "h": "/lol/summoners/na/puipuipuipui-%E3%83%A2%E3%83%AB%E3%82%AB%E3%83%BC",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nami.png"
+    },
+    {
+     "n": "Flamingack",
+     "h": "/lol/summoners/na/Flamingack-5443",
+     "c": "Gwen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Gwen.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Mercy",
+     "h": "/lol/summoners/na/Mercy-Zoee",
+     "c": "Lissandra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lissandra.png"
+    },
+    {
+     "n": "nuIl",
+     "h": "/lol/summoners/na/nuIl-na2",
+     "c": "Jhin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jhin.png"
+    },
+    {
+     "n": "Naito",
+     "h": "/lol/summoners/na/Naito-666",
+     "c": "Blitzcrank",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Blitzcrank.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795389000000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Llonel Messi",
+        "h": "/lol/summoners/na/Llonel%20Messi-NA1",
+        "t": "Master 90",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 33484,
+        "taken": 18222,
+        "cw": 1,
+        "wards": "13 / 1"
+       },
+       {
+        "n": "BETTER THAN YOU",
+        "h": "/lol/summoners/na/BETTER%20THAN%20YOU-MAD",
+        "t": "Master 311",
+        "op": 5.3,
+        "opr": "5th",
+        "dmg": 8747,
+        "taken": 17550,
+        "cw": 6,
+        "wards": "7 / 5"
+       },
+       {
+        "n": "Sneki",
+        "h": "/lol/summoners/na/Sneki-Razer",
+        "t": "Master 404",
+        "op": 7,
+        "opr": "ACE",
+        "dmg": 35862,
+        "taken": 27477,
+        "cw": 0,
+        "wards": "4 / 5"
+       },
+       {
+        "n": "Krzy",
+        "h": "/lol/summoners/na/Krzy-NA1",
+        "t": "Diamond 1",
+        "op": 5.8,
+        "opr": "4th",
+        "dmg": 33705,
+        "taken": 26903,
+        "cw": 0,
+        "wards": "12 / 6"
+       },
+       {
+        "n": "puipuipuipui",
+        "h": "/lol/summoners/na/puipuipuipui-%E3%83%A2%E3%83%AB%E3%82%AB%E3%83%BC",
+        "t": "Diamond 1",
+        "op": 4.4,
+        "opr": "7th",
+        "dmg": 8602,
+        "taken": 21821,
+        "cw": 9,
+        "wards": "52 / 9"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Flamingack",
+        "h": "/lol/summoners/na/Flamingack-5443",
+        "t": "Master 316",
+        "op": 6.2,
+        "opr": "3rd",
+        "dmg": 28792,
+        "taken": 40469,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 669",
+        "op": 6.3,
+        "opr": "MVP",
+        "dmg": 19362,
+        "taken": 36951,
+        "cw": 1,
+        "wards": "14 / 5"
+       },
+       {
+        "n": "Mercy",
+        "h": "/lol/summoners/na/Mercy-Zoee",
+        "t": "Master 187",
+        "op": 1,
+        "opr": "10th",
+        "dmg": 16612,
+        "taken": 32992,
+        "cw": 0,
+        "wards": "12 / 3"
+       },
+       {
+        "n": "nuIl",
+        "h": "/lol/summoners/na/nuIl-na2",
+        "t": "Master 4",
+        "op": 3.5,
+        "opr": "9th",
+        "dmg": 22053,
+        "taken": 22016,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Naito",
+        "h": "/lol/summoners/na/Naito-666",
+        "t": "Master 89",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 6403,
+        "taken": 20026,
+        "cw": 10,
+        "wards": "49 / 8"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 4,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 11,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1795389274054,
+   "shot": "g_186642921b.jpg",
+   "lpCalc": true,
+   "roast": "Win on Hecarim (8/2/6). Got carried and the 9.1 CS/min proves it."
   }
  },
  "tz": "America/Toronto"

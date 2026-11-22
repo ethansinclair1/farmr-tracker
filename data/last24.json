@@ -1,20 +1,20 @@
 {
- "sig": "0a01ce486d",
+ "sig": "c078485c71",
  "report": {
-  "roast": "1W 0L, +29 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "1W 0L, +29 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
    "Buy control wards - 1.0 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane.",
+   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 1,
   "losses": 0,
-  "k": 5,
+  "k": 8,
   "d": 2,
-  "a": 13,
-  "kda": 9,
-  "csm": 8.576998050682262,
+  "a": 6,
+  "kda": 7,
+  "csm": 9.117043121149896,
   "kp": 58,
   "lpNet": 29,
   "ints": 0,
