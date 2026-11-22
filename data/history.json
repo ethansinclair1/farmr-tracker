@@ -60323,10 +60323,298 @@
      }
     ]
    },
-   "firstSeen": 1795377628984,
+   "roast": "8/1/9 win on Qiyana. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_cc1b58056c.jpg",
-   "lpCalc": true,
-   "roast": "8/1/9 win on Qiyana. Ugly, lucky, and he'll still call it a carry."
+   "firstSeen": 1795377628984
+  },
+  "Ranked Flex|11/22/2026, 3:29 PM|Lee Sin|27m 32s": {
+   "id": "Ranked Flex|11/22/2026, 3:29 PM|Lee Sin|27m 32s",
+   "queue": "Ranked Flex",
+   "date": "11/22/2026, 3:29 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Lee Sin",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/LeeSin.png"
+   },
+   "level": 15,
+   "duration": "27m 32s",
+   "minutes": 27.533333333333335,
+   "k": 5,
+   "d": 3,
+   "a": 14,
+   "kda": "6.33",
+   "kp": 58,
+   "cs": 158,
+   "csm": 5.7,
+   "laning": [
+    60,
+    40
+   ],
+   "avgTier": "Platinum 2",
+   "lp": null,
+   "items": [
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Eclipse",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6692.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1036.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Stealth Ward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3340.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "JMoney4Lyfe",
+     "h": "/lol/summoners/na/JMoney4Lyfe-NA1",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Olaf.png"
+    },
+    {
+     "n": "MissCorn",
+     "h": "/lol/summoners/na/MissCorn-cob",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Chogath.png"
+    },
+    {
+     "n": "Blng ChiIIing",
+     "h": "/lol/summoners/na/Blng%20ChiIIing-NA1",
+     "c": "Vladimir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vladimir.png"
+    },
+    {
+     "n": "ii walk alone",
+     "h": "/lol/summoners/na/ii%20walk%20alone%20-NA1",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yasuo.png"
+    },
+    {
+     "n": "ChocCreamSoldier",
+     "h": "/lol/summoners/na/ChocCreamSoldier-NA1",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Janna.png"
+    },
+    {
+     "n": "Darth Farquaad",
+     "h": "/lol/summoners/na/Darth%20Farquaad-NA1",
+     "c": "Ornn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ornn.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/LeeSin.png"
+    },
+    {
+     "n": "trapnest",
+     "h": "/lol/summoners/na/trapnest-wish",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Akali.png"
+    },
+    {
+     "n": "Darterwolf",
+     "h": "/lol/summoners/na/Darterwolf-TRV",
+     "c": "Sivir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sivir.png"
+    },
+    {
+     "n": "caCollin",
+     "h": "/lol/summoners/na/caCollin-LTK",
+     "c": "Tahm Kench",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TahmKench.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795379340000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "JMoney4Lyfe",
+        "h": "/lol/summoners/na/JMoney4Lyfe-NA1",
+        "t": "Diamond 4",
+        "op": 4.8,
+        "opr": "ACE",
+        "dmg": 32433,
+        "taken": 32791,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "MissCorn",
+        "h": "/lol/summoners/na/MissCorn-cob",
+        "t": "Silver 4",
+        "op": 2,
+        "opr": "9th",
+        "dmg": 13834,
+        "taken": 30467,
+        "cw": 1,
+        "wards": "2 / 3"
+       },
+       {
+        "n": "Blng ChiIIing",
+        "h": "/lol/summoners/na/Blng%20ChiIIing-NA1",
+        "t": "Gold 1",
+        "op": 2.8,
+        "opr": "7th",
+        "dmg": 32667,
+        "taken": 35010,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "ii walk alone",
+        "h": "/lol/summoners/na/ii%20walk%20alone%20-NA1",
+        "t": "Emerald 3",
+        "op": 1.9,
+        "opr": "10th",
+        "dmg": 15400,
+        "taken": 22340,
+        "cw": 1,
+        "wards": "12 / 6"
+       },
+       {
+        "n": "ChocCreamSoldier",
+        "h": "/lol/summoners/na/ChocCreamSoldier-NA1",
+        "t": "Diamond 2",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 10034,
+        "taken": 24474,
+        "cw": 6,
+        "wards": "30 / 5"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Darth Farquaad",
+        "h": "/lol/summoners/na/Darth%20Farquaad-NA1",
+        "t": "",
+        "op": 5.2,
+        "opr": "5th",
+        "dmg": 10544,
+        "taken": 24488,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Platinum 1",
+        "op": 7.6,
+        "opr": "4th",
+        "dmg": 21681,
+        "taken": 29371,
+        "cw": 1,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "trapnest",
+        "h": "/lol/summoners/na/trapnest-wish",
+        "t": "",
+        "op": 9,
+        "opr": "3rd",
+        "dmg": 25289,
+        "taken": 23734,
+        "cw": 2,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "Darterwolf",
+        "h": "/lol/summoners/na/Darterwolf-TRV",
+        "t": "Gold 2",
+        "op": 9.5,
+        "opr": "2nd",
+        "dmg": 29764,
+        "taken": 21617,
+        "cw": 0,
+        "wards": "9 / 3"
+       },
+       {
+        "n": "caCollin",
+        "h": "/lol/summoners/na/caCollin-LTK",
+        "t": "Emerald 3",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 32520,
+        "taken": 47377,
+        "cw": 5,
+        "wards": "19 / 4"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 4,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 10,
+      "Inhibitor": 2
+     }
+    ]
+   },
+   "firstSeen": 1795379582782,
+   "shot": "g_466281d96b.jpg",
+   "roast": "5/3/14 win on Lee Sin. Ugly, lucky, and he'll still call it a carry."
   }
  },
  "tz": "America/Toronto"
