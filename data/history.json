@@ -61779,6 +61779,299 @@
    "roast": "39% kill participation. Was Dr. Mundo in this game or just watching it?",
    "shot": "g_625dac3ab9.jpg",
    "firstSeen": 1795394613520
+  },
+  "Ranked 5s|11/22/2026, 8:37 PM|Lillia|23m 47s": {
+   "id": "Ranked 5s|11/22/2026, 8:37 PM|Lillia|23m 47s",
+   "queue": "Ranked 5s",
+   "date": "11/22/2026, 8:37 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Lillia",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lillia.png"
+   },
+   "level": 12,
+   "duration": "23m 47s",
+   "minutes": 23.783333333333335,
+   "k": 4,
+   "d": 8,
+   "a": 4,
+   "kda": "1.00",
+   "kp": 53,
+   "cs": 145,
+   "csm": 6.1,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Emerald 4",
+   "lp": null,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/4633.png"
+    },
+    {
+     "n": "Liandry's Torment",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6653.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1082.png"
+    },
+    {
+     "n": "Blasting Wand",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1026.png"
+    },
+    {
+     "n": "Giant's Belt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1011.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Choon",
+     "h": "/lol/summoners/na/Choon-1212",
+     "c": "Sion",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sion.png"
+    },
+    {
+     "n": "tiff",
+     "h": "/lol/summoners/na/tiff-ilyu",
+     "c": "Rengar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Rengar.png"
+    },
+    {
+     "n": "G2Z",
+     "h": "/lol/summoners/na/G2Z-NA1",
+     "c": "Yasuo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yasuo.png"
+    },
+    {
+     "n": "GvriTheGoat",
+     "h": "/lol/summoners/na/GvriTheGoat-Bomba",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "pizza",
+     "h": "/lol/summoners/na/pizza-dan",
+     "c": "Soraka",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Soraka.png"
+    },
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Tryndamere",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Tryndamere.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Lillia",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lillia.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "OnlyKaito",
+     "h": "/lol/summoners/na/OnlyKaito-0202",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lucian.png"
+    },
+    {
+     "n": "69PapiChulo",
+     "h": "/lol/summoners/na/69PapiChulo-4802",
+     "c": "Neeko",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Neeko.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795397820000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Choon",
+        "h": "/lol/summoners/na/Choon-1212",
+        "t": "Emerald 1",
+        "op": 6.7,
+        "opr": "4th",
+        "dmg": 18627,
+        "taken": 20632,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "tiff",
+        "h": "/lol/summoners/na/tiff-ilyu",
+        "t": "Diamond 4",
+        "op": 8.1,
+        "opr": "MVP",
+        "dmg": 20186,
+        "taken": 22745,
+        "cw": 0,
+        "wards": "3 / 5"
+       },
+       {
+        "n": "G2Z",
+        "h": "/lol/summoners/na/G2Z-NA1",
+        "t": "Gold 4",
+        "op": 5.9,
+        "opr": "5th",
+        "dmg": 10671,
+        "taken": 10621,
+        "cw": 1,
+        "wards": "9 / 1"
+       },
+       {
+        "n": "GvriTheGoat",
+        "h": "/lol/summoners/na/GvriTheGoat-Bomba",
+        "t": "Emerald 2",
+        "op": 7.7,
+        "opr": "2nd",
+        "dmg": 25906,
+        "taken": 25354,
+        "cw": 0,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "pizza",
+        "h": "/lol/summoners/na/pizza-dan",
+        "t": "Emerald 2",
+        "op": 7.2,
+        "opr": "3rd",
+        "dmg": 5682,
+        "taken": 12095,
+        "cw": 9,
+        "wards": "30 / 5"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Emerald 3",
+        "op": 3.8,
+        "opr": "8th",
+        "dmg": 15393,
+        "taken": 26483,
+        "cw": 0,
+        "wards": "4 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 698",
+        "op": 3.9,
+        "opr": "7th",
+        "dmg": 13343,
+        "taken": 24849,
+        "cw": 0,
+        "wards": "4 / 3"
+       },
+       {
+        "n": "EmeraldFinalBoss",
+        "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+        "t": "Emerald 4",
+        "op": 4.1,
+        "opr": "ACE",
+        "dmg": 15002,
+        "taken": 19296,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "OnlyKaito",
+        "h": "/lol/summoners/na/OnlyKaito-0202",
+        "t": "Platinum 4",
+        "op": 2.6,
+        "opr": "10th",
+        "dmg": 11850,
+        "taken": 13561,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "69PapiChulo",
+        "h": "/lol/summoners/na/69PapiChulo-4802",
+        "t": "Silver 4",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 10413,
+        "taken": 13593,
+        "cw": 5,
+        "wards": "26 / 7"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 7,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795398012040,
+   "shot": "g_4875715000.jpg",
+   "roast": "4/8/4 on Lillia. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
