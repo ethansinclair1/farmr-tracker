@@ -1,7 +1,7 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "40e8d8369a",
+ "sig": "edd520d61d",
  "rank": {
   "solo": {
    "tier": "Master",
@@ -11,13 +11,13 @@
   },
   "flex": {
    "tier": "Emerald 4",
-   "lp": 57,
+   "lp": 47,
    "wins": 35,
-   "losses": 21
+   "losses": 22
   }
  },
  "pendingLp": {
   "solo": null,
-  "flex": "Ranked Flex|11/22/2026, 7:00 PM|Sylas|34m 48s"
+  "flex": null
  }
 }

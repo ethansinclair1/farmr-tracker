@@ -61228,7 +61228,7 @@
     53
    ],
    "avgTier": "Master 80",
-   "lp": null,
+   "lp": -10,
    "items": [
     {
      "n": "Ionian Boots of Lucidity",
@@ -61491,9 +61491,10 @@
      }
     ]
    },
-   "firstSeen": 1795392182532,
+   "roast": "Lost on Sylas (2/5/6). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_dbb3145702.jpg",
-   "roast": "Lost on Sylas (2/5/6). He'll blame the team. The op.gg says otherwise."
+   "firstSeen": 1795392182532,
+   "lpCalc": true
   }
  },
  "tz": "America/Toronto"
