@@ -7,13 +7,13 @@
  },
  "flex": {
   "tier": "Emerald 4",
-  "lp": 37,
+  "lp": 27,
   "wins": 35,
-  "losses": 23
+  "losses": 24
  },
- "ladderRank": "3,166",
- "ladderPct": "0.1885",
+ "ladderRank": "3,168",
+ "ladderPct": "0.1886",
  "icon": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon2076.jpg",
  "level": "89",
- "scrapedAt": "2026-11-23T21:23:18.402Z"
+ "scrapedAt": "2026-11-23T23:08:15.969Z"
 }
