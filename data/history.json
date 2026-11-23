@@ -61201,6 +61201,299 @@
    "roast": "Win on Hecarim (8/2/6). Got carried and the 9.1 CS/min proves it.",
    "shot": "g_186642921b.jpg",
    "firstSeen": 1795389274054
+  },
+  "Ranked Flex|11/22/2026, 7:00 PM|Sylas|34m 48s": {
+   "id": "Ranked Flex|11/22/2026, 7:00 PM|Sylas|34m 48s",
+   "queue": "Ranked Flex",
+   "date": "11/22/2026, 7:00 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Sylas",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sylas.png"
+   },
+   "level": 17,
+   "duration": "34m 48s",
+   "minutes": 34.8,
+   "k": 2,
+   "d": 5,
+   "a": 6,
+   "kda": "1.60",
+   "kp": 80,
+   "cs": 242,
+   "csm": 7,
+   "laning": [
+    47,
+    53
+   ],
+   "avgTier": "Master 80",
+   "lp": null,
+   "items": [
+    {
+     "n": "Ionian Boots of Lucidity",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3158.png"
+    },
+    {
+     "n": "Hextech Rocketbelt",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3152.png"
+    },
+    {
+     "n": "Liandry's Torment",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6653.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1082.png"
+    },
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/4633.png"
+    },
+    {
+     "n": "Haunting Guise",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3147.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Summoner V",
+     "h": "/lol/summoners/na/Summoner%20V-NA1",
+     "c": "Illaoi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Illaoi.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sylas.png"
+    },
+    {
+     "n": "Sapphiris",
+     "h": "/lol/summoners/na/Sapphiris-Vex",
+     "c": "Xerath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Xerath.png"
+    },
+    {
+     "n": "Hatred",
+     "h": "/lol/summoners/na/Hatred-789",
+     "c": "Kindred",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kindred.png"
+    },
+    {
+     "n": "Nimits",
+     "h": "/lol/summoners/na/Nimits-NA1",
+     "c": "Taric",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Taric.png"
+    },
+    {
+     "n": "2018 Lebron goat",
+     "h": "/lol/summoners/na/2018%20Lebron%20goat-3030",
+     "c": "Shen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Shen.png"
+    },
+    {
+     "n": "k0nduit",
+     "h": "/lol/summoners/na/k0nduit-7511",
+     "c": "Cho'Gath",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Chogath.png"
+    },
+    {
+     "n": "Plan B Survivor",
+     "h": "/lol/summoners/na/Plan%20B%20Survivor-Lived",
+     "c": "Sejuani",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sejuani.png"
+    },
+    {
+     "n": "Ighenvex",
+     "h": "/lol/summoners/na/Ighenvex-NA1",
+     "c": "Corki",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Corki.png"
+    },
+    {
+     "n": "HighSteaks",
+     "h": "/lol/summoners/na/HighSteaks-12345",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yuumi.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795392000000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Summoner V",
+        "h": "/lol/summoners/na/Summoner%20V-NA1",
+        "t": "Diamond 1",
+        "op": 3.7,
+        "opr": "9th",
+        "dmg": 46339,
+        "taken": 48981,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Emerald 4",
+        "op": 4.2,
+        "opr": "ACE",
+        "dmg": 23402,
+        "taken": 44859,
+        "cw": 0,
+        "wards": "3 / 6"
+       },
+       {
+        "n": "Sapphiris",
+        "h": "/lol/summoners/na/Sapphiris-Vex",
+        "t": "Emerald 1",
+        "op": 3.9,
+        "opr": "8th",
+        "dmg": 31514,
+        "taken": 19605,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "Hatred",
+        "h": "/lol/summoners/na/Hatred-789",
+        "t": "Master 636",
+        "op": 3.9,
+        "opr": "7th",
+        "dmg": 15756,
+        "taken": 26951,
+        "cw": 1,
+        "wards": "13 / 4"
+       },
+       {
+        "n": "Nimits",
+        "h": "/lol/summoners/na/Nimits-NA1",
+        "t": "Emerald 1",
+        "op": 2.2,
+        "opr": "10th",
+        "dmg": 3547,
+        "taken": 30984,
+        "cw": 7,
+        "wards": "29 / 6"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "2018 Lebron goat",
+        "h": "/lol/summoners/na/2018%20Lebron%20goat-3030",
+        "t": "Master 483",
+        "op": 7.8,
+        "opr": "3rd",
+        "dmg": 24205,
+        "taken": 44033,
+        "cw": 0,
+        "wards": "11 / 1"
+       },
+       {
+        "n": "k0nduit",
+        "h": "/lol/summoners/na/k0nduit-7511",
+        "t": "Master 174",
+        "op": 6.2,
+        "opr": "4th",
+        "dmg": 19489,
+        "taken": 52273,
+        "cw": 0,
+        "wards": "2 / 7"
+       },
+       {
+        "n": "Plan B Survivor",
+        "h": "/lol/summoners/na/Plan%20B%20Survivor-Lived",
+        "t": "Grandmaster 702",
+        "op": 5.8,
+        "opr": "5th",
+        "dmg": 18129,
+        "taken": 34149,
+        "cw": 1,
+        "wards": "15 / 1"
+       },
+       {
+        "n": "Ighenvex",
+        "h": "/lol/summoners/na/Ighenvex-NA1",
+        "t": "Grandmaster 1,141",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 61331,
+        "taken": 30324,
+        "cw": 0,
+        "wards": "11 / 11"
+       },
+       {
+        "n": "HighSteaks",
+        "h": "/lol/summoners/na/HighSteaks-12345",
+        "t": "Emerald 3",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 13813,
+        "taken": 1140,
+        "cw": 2,
+        "wards": "20 / 2"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 4,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 9,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1795392182532,
+   "shot": "g_dbb3145702.jpg",
+   "roast": "Lost on Sylas (2/5/6). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
