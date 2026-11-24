@@ -1,24 +1,24 @@
 {
- "sig": "d96ffa39f0",
+ "sig": "7d89c8eac0",
  "report": {
-  "roast": "0W 2L, -62 LP. Log off and hand the account to someone who can play.",
+  "roast": "1W 2L, -33 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Take objectives: losing dragons/grubs (0.5 vs 3.0 drakes a game). Be there before they spawn.",
-   "Buy control wards - 0.5 a game is nothing.",
-   "Farm more: 6.2 CS/min. Clear camps between fights."
+   "Buy control wards - 0.7 a game is nothing.",
+   "Losing the early game - plan the first clear and gank the winning lane.",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 0,
+  "wins": 1,
   "losses": 2,
-  "k": 1.5,
-  "d": 4.5,
-  "a": 7,
-  "kda": 1.8888888888888888,
-  "csm": 6.197934021992669,
-  "kp": 80,
-  "lpNet": -62,
+  "k": 5.333333333333333,
+  "d": 3.6666666666666665,
+  "a": 5.666666666666667,
+  "kda": 3,
+  "csm": 7.193356047700171,
+  "kp": 64.33333333333333,
+  "lpNet": -33,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }
