@@ -1,24 +1,24 @@
 {
- "sig": "391ef47a35",
+ "sig": "dc4c7a3672",
  "report": {
-  "roast": "3W 4L, -66 LP. Bleeding LP like it's a hobby.",
+  "roast": "4W 4L, +21 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
   "fixes": [
    "Buy control wards - 0.9 a game is nothing.",
-   "Two losses in a row = log off, not \"one more\".",
+   "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 3,
+  "wins": 4,
   "losses": 4,
-  "k": 6,
-  "d": 3.5714285714285716,
-  "a": 6.285714285714286,
-  "kda": 3.4399999999999995,
-  "csm": 7.352136590887652,
-  "kp": 59.142857142857146,
-  "lpNet": -66,
+  "k": 6.75,
+  "d": 3.5,
+  "a": 6,
+  "kda": 3.642857142857143,
+  "csm": 7.481538069773364,
+  "kp": 60.5,
+  "lpNet": 21,
   "ints": 0,
-  "games": 7
+  "games": 8
  },
  "v": 3
 }
