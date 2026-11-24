@@ -1,24 +1,24 @@
 {
- "sig": "84bd6dcee2",
+ "sig": "391ef47a35",
  "report": {
-  "roast": "2W 4L, -66 LP. Not doing good today. Uninstall.",
+  "roast": "3W 4L, -66 LP. Bleeding LP like it's a hobby.",
   "fixes": [
-   "Buy control wards - 1.0 a game is nothing.",
-   "Losing the early game - plan the first clear and gank the winning lane.",
-   "Two losses in a row = log off, not \"one more\"."
+   "Buy control wards - 0.9 a game is nothing.",
+   "Two losses in a row = log off, not \"one more\".",
+   "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 2,
+  "wins": 3,
   "losses": 4,
   "k": 6,
-  "d": 4,
-  "a": 6,
-  "kda": 3,
-  "csm": 7.085860197893393,
-  "kp": 60.666666666666664,
+  "d": 3.5714285714285716,
+  "a": 6.285714285714286,
+  "kda": 3.4399999999999995,
+  "csm": 7.352136590887652,
+  "kp": 59.142857142857146,
   "lpNet": -66,
   "ints": 0,
-  "games": 6
+  "games": 7
  },
  "v": 3
 }
