@@ -1,24 +1,24 @@
 {
- "sig": "55d43d5b8c",
+ "sig": "7afd73ad50",
  "report": {
-  "roast": "2W 2L, -4 LP. Bleeding LP like it's a hobby.",
+  "roast": "2W 3L, -35 LP. Mid at best, and that's being generous. Uninstall energy.",
   "fixes": [
-   "Buy control wards - 0.5 a game is nothing.",
-   "4 champions in 4 games - pick 2-3 and stick to them.",
-   "Play with the team, not for the highlight reel."
+   "Buy control wards - 0.6 a game is nothing.",
+   "Losing the early game - plan the first clear and gank the winning lane.",
+   "Two losses in a row = log off, not \"one more\"."
   ],
   "ai": false,
   "wins": 2,
-  "losses": 2,
-  "k": 7,
-  "d": 3.25,
-  "a": 7.25,
-  "kda": 4.384615384615385,
-  "csm": 7.394019060138022,
-  "kp": 64.5,
-  "lpNet": -4,
+  "losses": 3,
+  "k": 6.8,
+  "d": 3.8,
+  "a": 6.6,
+  "kda": 3.526315789473684,
+  "csm": 7.148707448169951,
+  "kp": 62.8,
+  "lpNet": -35,
   "ints": 0,
-  "games": 4
+  "games": 5
  },
  "v": 3
 }

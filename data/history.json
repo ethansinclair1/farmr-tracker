@@ -56758,10 +56758,299 @@
      }
     ]
    },
-   "firstSeen": 1795555376658,
+   "roast": "12/2/12 on Vi, 65% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_e30bdcc290.jpg",
+   "firstSeen": 1795555376658
+  },
+  "Ranked Solo/Duo|11/24/2026, 4:56 PM|Vi|28m 48s": {
+   "id": "Ranked Solo/Duo|11/24/2026, 4:56 PM|Vi|28m 48s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/24/2026, 4:56 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Vi",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+   },
+   "level": 15,
+   "duration": "28m 48s",
+   "minutes": 28.8,
+   "k": 6,
+   "d": 6,
+   "a": 4,
+   "kda": "1.67",
+   "kp": 56,
+   "cs": 181,
+   "csm": 6.3,
+   "laning": [
+    35,
+    65
+   ],
+   "avgTier": "Master 400",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Trinity Force",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3078.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2019.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "北美倒一剑魔",
+     "h": "/lol/summoners/na/%E5%8C%97%E7%BE%8E%E5%80%92%E4%B8%80%E5%89%91%E9%AD%94-TOP1",
+     "c": "Dr. Mundo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/DrMundo.png"
+    },
+    {
+     "n": "tax",
+     "h": "/lol/summoners/na/tax-udyr",
+     "c": "Udyr",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Udyr.png"
+    },
+    {
+     "n": "Ace",
+     "h": "/lol/summoners/na/Ace-ZAQ4",
+     "c": "Yone",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yone.png"
+    },
+    {
+     "n": "iamLL",
+     "h": "/lol/summoners/na/iamLL-NA1",
+     "c": "Tristana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Tristana.png"
+    },
+    {
+     "n": "公主病",
+     "h": "/lol/summoners/na/%E5%85%AC%E4%B8%BB%E7%97%85-Cut3",
+     "c": "Yuumi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yuumi.png"
+    },
+    {
+     "n": "loverwolf",
+     "h": "/lol/summoners/na/loverwolf-4867",
+     "c": "Gnar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Gnar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "remembered",
+     "h": "/lol/summoners/na/remembered-karen",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Viktor.png"
+    },
+    {
+     "n": "CARCINOGEN",
+     "h": "/lol/summoners/na/CARCINOGEN-182",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Zeph",
+     "h": "/lol/summoners/na/Zeph-0826",
+     "c": "Zyra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zyra.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795557360000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "北美倒一剑魔",
+        "h": "/lol/summoners/na/%E5%8C%97%E7%BE%8E%E5%80%92%E4%B8%80%E5%89%91%E9%AD%94-TOP1",
+        "t": "Master 356",
+        "op": 4.6,
+        "opr": "6th",
+        "dmg": 32170,
+        "taken": 78199,
+        "cw": 0,
+        "wards": "10 / 1"
+       },
+       {
+        "n": "tax",
+        "h": "/lol/summoners/na/tax-udyr",
+        "t": "Master 476",
+        "op": 6.4,
+        "opr": "3rd",
+        "dmg": 14392,
+        "taken": 27921,
+        "cw": 0,
+        "wards": "2 / 6"
+       },
+       {
+        "n": "Ace",
+        "h": "/lol/summoners/na/Ace-ZAQ4",
+        "t": "Master 783",
+        "op": 5.4,
+        "opr": "5th",
+        "dmg": 22394,
+        "taken": 32164,
+        "cw": 2,
+        "wards": "2 / 4"
+       },
+       {
+        "n": "iamLL",
+        "h": "/lol/summoners/na/iamLL-NA1",
+        "t": "Master 0",
+        "op": 8.5,
+        "opr": "2nd",
+        "dmg": 37555,
+        "taken": 34227,
+        "cw": 2,
+        "wards": "13 / 4"
+       },
+       {
+        "n": "公主病",
+        "h": "/lol/summoners/na/%E5%85%AC%E4%B8%BB%E7%97%85-Cut3",
+        "t": "Master 31",
+        "op": 9.5,
+        "opr": "MVP",
+        "dmg": 18546,
+        "taken": 10404,
+        "cw": 14,
+        "wards": "28 / 1"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "loverwolf",
+        "h": "/lol/summoners/na/loverwolf-4867",
+        "t": "Master 570",
+        "op": 5.6,
+        "opr": "ACE",
+        "dmg": 46051,
+        "taken": 37434,
+        "cw": 0,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 694",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 23825,
+        "taken": 36655,
+        "cw": 1,
+        "wards": "3 / 2"
+       },
+       {
+        "n": "remembered",
+        "h": "/lol/summoners/na/remembered-karen",
+        "t": "Master 644",
+        "op": 3.9,
+        "opr": "8th",
+        "dmg": 36285,
+        "taken": 24730,
+        "cw": 2,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "CARCINOGEN",
+        "h": "/lol/summoners/na/CARCINOGEN-182",
+        "t": "Diamond 1",
+        "op": 0.8,
+        "opr": "10th",
+        "dmg": 15735,
+        "taken": 22980,
+        "cw": 0,
+        "wards": "2 / 2"
+       },
+       {
+        "n": "Zeph",
+        "h": "/lol/summoners/na/Zeph-0826",
+        "t": "Master 450",
+        "op": 2.9,
+        "opr": "9th",
+        "dmg": 19173,
+        "taken": 20918,
+        "cw": 1,
+        "wards": "28 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 2,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 11,
+      "Inhibitor": 3
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 1,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795557563150,
+   "shot": "g_b4b5e52efe.jpg",
    "lpCalc": true,
-   "roast": "12/2/12 on Vi, 65% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "roast": "Lost on Vi (6/6/4). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
