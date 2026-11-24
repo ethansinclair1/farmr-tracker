@@ -57047,6 +57047,296 @@
    "roast": "2/8/4 on Lee Sin. That's not a KDA, that's a donation receipt.",
    "shot": "g_836276a2ed.jpg",
    "firstSeen": 1795478950647
+  },
+  "Ranked Solo/Duo|11/24/2026, 12:04 AM|Hecarim|23m 39s": {
+   "id": "Ranked Solo/Duo|11/24/2026, 12:04 AM|Hecarim|23m 39s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/24/2026, 12:04 AM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Hecarim",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+   },
+   "level": 13,
+   "duration": "23m 39s",
+   "minutes": 23.65,
+   "k": 3,
+   "d": 5,
+   "a": 6,
+   "kda": "1.80",
+   "kp": 60,
+   "cs": 157,
+   "csm": 6.6,
+   "laning": [
+    44,
+    56
+   ],
+   "avgTier": "Master 433",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Endless Hunger",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2517.png"
+    },
+    {
+     "n": "Ruby Crystal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1028.png"
+    },
+    {
+     "n": "Executioner's Calling",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3123.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Ghost",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerHaste.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Stormraider's Surge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8230.png"
+    },
+    {
+     "n": "Precision",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8000.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "EMIR630",
+     "h": "/lol/summoners/na/EMIR630-630",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Hecarim",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hecarim.png"
+    },
+    {
+     "n": "Vanguards",
+     "h": "/lol/summoners/na/Vanguards-NA1",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ahri.png"
+    },
+    {
+     "n": "wittykit",
+     "h": "/lol/summoners/na/wittykit-OC",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lucian.png"
+    },
+    {
+     "n": "uking17",
+     "h": "/lol/summoners/na/uking17-NA1",
+     "c": "Milio",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Milio.png"
+    },
+    {
+     "n": "Zorlas",
+     "h": "/lol/summoners/na/Zorlas-Vieux",
+     "c": "Tryndamere",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Tryndamere.png"
+    },
+    {
+     "n": "worldwidetalent",
+     "h": "/lol/summoners/na/worldwidetalent-end",
+     "c": "Jayce",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jayce.png"
+    },
+    {
+     "n": "suo",
+     "h": "/lol/summoners/na/suo-sway",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sylas.png"
+    },
+    {
+     "n": "Low Elo Dog",
+     "h": "/lol/summoners/na/Low%20Elo%20Dog-Noob",
+     "c": "Ezreal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ezreal.png"
+    },
+    {
+     "n": "Low Elo Puppy",
+     "h": "/lol/summoners/na/Low%20Elo%20Puppy-noob",
+     "c": "Sona",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sona.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795496640000,
+   "detail": {
+    "teams": [
+     {
+      "win": false,
+      "side": "blue",
+      "players": [
+       {
+        "n": "EMIR630",
+        "h": "/lol/summoners/na/EMIR630-630",
+        "t": "Master 539",
+        "op": 5.3,
+        "opr": "ACE",
+        "dmg": 19522,
+        "taken": 20235,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 698",
+        "op": 4.7,
+        "opr": "6th",
+        "dmg": 12041,
+        "taken": 24625,
+        "cw": 1,
+        "wards": "3 / 1"
+       },
+       {
+        "n": "Vanguards",
+        "h": "/lol/summoners/na/Vanguards-NA1",
+        "t": "Master 725",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 17043,
+        "taken": 21708,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "wittykit",
+        "h": "/lol/summoners/na/wittykit-OC",
+        "t": "Master 361",
+        "op": 2.5,
+        "opr": "10th",
+        "dmg": 19931,
+        "taken": 21156,
+        "cw": 0,
+        "wards": "6 / 6"
+       },
+       {
+        "n": "uking17",
+        "h": "/lol/summoners/na/uking17-NA1",
+        "t": "Master 105",
+        "op": 3.4,
+        "opr": "8th",
+        "dmg": 3750,
+        "taken": 16006,
+        "cw": 10,
+        "wards": "24 / 6"
+       }
+      ]
+     },
+     {
+      "win": true,
+      "side": "red",
+      "players": [
+       {
+        "n": "Zorlas",
+        "h": "/lol/summoners/na/Zorlas-Vieux",
+        "t": "Master 511",
+        "op": 3.3,
+        "opr": "9th",
+        "dmg": 13258,
+        "taken": 31483,
+        "cw": 0,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "worldwidetalent",
+        "h": "/lol/summoners/na/worldwidetalent-end",
+        "t": "Master 94",
+        "op": 8.3,
+        "opr": "3rd",
+        "dmg": 17560,
+        "taken": 17253,
+        "cw": 0,
+        "wards": "2 / 2"
+       },
+       {
+        "n": "suo",
+        "h": "/lol/summoners/na/suo-sway",
+        "t": "Master 914",
+        "op": 9.7,
+        "opr": "MVP",
+        "dmg": 28890,
+        "taken": 29354,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "Low Elo Dog",
+        "h": "/lol/summoners/na/Low%20Elo%20Dog-Noob",
+        "t": "Master 334",
+        "op": 7.7,
+        "opr": "4th",
+        "dmg": 23975,
+        "taken": 16309,
+        "cw": 2,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "Low Elo Puppy",
+        "h": "/lol/summoners/na/Low%20Elo%20Puppy-noob",
+        "t": "Master 45",
+        "op": 8.6,
+        "opr": "2nd",
+        "dmg": 6190,
+        "taken": 10577,
+        "cw": 2,
+        "wards": "26 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 1,
+      "Void Grub": 2,
+      "Tower": 1,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 0,
+      "Void Grub": 1,
+      "Tower": 7,
+      "Inhibitor": 1
+     }
+    ]
+   },
+   "firstSeen": 1795496933640,
+   "shot": "g_c17a49354b.jpg",
+   "lpCalc": true,
+   "roast": "A 3/5/6 loss on Hecarim. Useless. The LP doesn't care about effort and neither do we."
   }
  },
  "tz": "America/Toronto"
