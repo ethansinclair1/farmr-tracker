@@ -57362,7 +57362,7 @@
     27
    ],
    "avgTier": "Master 272",
-   "lp": null,
+   "lp": 58,
    "items": [
     {
      "n": "Plated Steelcaps",
@@ -57621,9 +57621,10 @@
      }
     ]
    },
-   "firstSeen": 1795561450198,
+   "roast": "6/1/8 win on Diana. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_690fd74371.jpg",
-   "roast": "6/1/8 win on Diana. Ugly, lucky, and he'll still call it a carry."
+   "firstSeen": 1795561450198,
+   "lpCalc": true
   }
  },
  "tz": "America/Toronto"
