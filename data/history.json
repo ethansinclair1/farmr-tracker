@@ -57047,10 +57047,295 @@
      }
     ]
    },
-   "firstSeen": 1795557563150,
+   "roast": "Lost on Vi (6/6/4). He'll blame the team. The op.gg says otherwise.",
    "shot": "g_b4b5e52efe.jpg",
+   "firstSeen": 1795557563150
+  },
+  "Ranked Solo/Duo|11/24/2026, 5:37 PM|Vi|26m 25s": {
+   "id": "Ranked Solo/Duo|11/24/2026, 5:37 PM|Vi|26m 25s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/24/2026, 5:37 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Vi",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+   },
+   "level": 14,
+   "duration": "26m 25s",
+   "minutes": 26.416666666666668,
+   "k": 2,
+   "d": 5,
+   "a": 3,
+   "kda": "1.00",
+   "kp": 50,
+   "cs": 179,
+   "csm": 6.8,
+   "laning": [
+    39,
+    61
+   ],
+   "avgTier": "Master 613",
+   "lp": -31,
+   "items": [
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Trinity Force",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3078.png"
+    },
+    {
+     "n": "Steel Sigil",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2019.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "kosky",
+     "h": "/lol/summoners/na/kosky-fan",
+     "c": "Quinn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Quinn.png"
+    },
+    {
+     "n": "意志会带你杀出重围",
+     "h": "/lol/summoners/na/%E6%84%8F%E5%BF%97%E4%BC%9A%E5%B8%A6%E4%BD%A0%E6%9D%80%E5%87%BA%E9%87%8D%E5%9B%B4-%E9%9D%A2%E5%AF%B9%E5%B7%A8%E4%BA%BA",
+     "c": "Nocturne",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nocturne.png"
+    },
+    {
+     "n": "Divinity",
+     "h": "/lol/summoners/na/Divinity-bliss",
+     "c": "Akali",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Akali.png"
+    },
+    {
+     "n": "hope1",
+     "h": "/lol/summoners/na/hope1-1549",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "im gonna rat",
+     "h": "/lol/summoners/na/im%20gonna%20rat-king",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Janna.png"
+    },
+    {
+     "n": "AddictedToBacon",
+     "h": "/lol/summoners/na/AddictedToBacon-TTV",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Garen.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "Bloodia",
+     "h": "/lol/summoners/na/Bloodia-1234",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Viktor.png"
+    },
+    {
+     "n": "OmiBro",
+     "h": "/lol/summoners/na/OmiBro-NA1",
+     "c": "Aphelios",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Aphelios.png"
+    },
+    {
+     "n": "ARCHER",
+     "h": "/lol/summoners/na/ARCHER-NNICE",
+     "c": "Thresh",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Thresh.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795559820000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "kosky",
+        "h": "/lol/summoners/na/kosky-fan",
+        "t": "Master 75",
+        "op": 4.8,
+        "opr": "6th",
+        "dmg": 18304,
+        "taken": 17551,
+        "cw": 0,
+        "wards": "4 / 2"
+       },
+       {
+        "n": "意志会带你杀出重围",
+        "h": "/lol/summoners/na/%E6%84%8F%E5%BF%97%E4%BC%9A%E5%B8%A6%E4%BD%A0%E6%9D%80%E5%87%BA%E9%87%8D%E5%9B%B4-%E9%9D%A2%E5%AF%B9%E5%B7%A8%E4%BA%BA",
+        "t": "Master 987",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 21298,
+        "taken": 23573,
+        "cw": 3,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "Divinity",
+        "h": "/lol/summoners/na/Divinity-bliss",
+        "t": "Master 1,160",
+        "op": 8.8,
+        "opr": "3rd",
+        "dmg": 19836,
+        "taken": 16328,
+        "cw": 1,
+        "wards": "14 / 1"
+       },
+       {
+        "n": "hope1",
+        "h": "/lol/summoners/na/hope1-1549",
+        "t": "Master 677",
+        "op": 8.7,
+        "opr": "4th",
+        "dmg": 20620,
+        "taken": 12560,
+        "cw": 1,
+        "wards": "9 / 0"
+       },
+       {
+        "n": "im gonna rat",
+        "h": "/lol/summoners/na/im%20gonna%20rat-king",
+        "t": "Master 170",
+        "op": 10,
+        "opr": "2nd",
+        "dmg": 10678,
+        "taken": 12019,
+        "cw": 4,
+        "wards": "27 / 9"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "AddictedToBacon",
+        "h": "/lol/summoners/na/AddictedToBacon-TTV",
+        "t": "Master 1,008",
+        "op": 5.2,
+        "opr": "ACE",
+        "dmg": 14294,
+        "taken": 23902,
+        "cw": 0,
+        "wards": "10 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 663",
+        "op": 3.3,
+        "opr": "7th",
+        "dmg": 6101,
+        "taken": 18530,
+        "cw": 3,
+        "wards": "5 / 4"
+       },
+       {
+        "n": "Bloodia",
+        "h": "/lol/summoners/na/Bloodia-1234",
+        "t": "Master 1,152",
+        "op": 1.3,
+        "opr": "9th",
+        "dmg": 12766,
+        "taken": 19361,
+        "cw": 1,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "OmiBro",
+        "h": "/lol/summoners/na/OmiBro-NA1",
+        "t": "Master 42",
+        "op": 1.9,
+        "opr": "8th",
+        "dmg": 13120,
+        "taken": 20500,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "ARCHER",
+        "h": "/lol/summoners/na/ARCHER-NNICE",
+        "t": "Master 194",
+        "op": 0.4,
+        "opr": "10th",
+        "dmg": 4868,
+        "taken": 21321,
+        "cw": 3,
+        "wards": "16 / 12"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 2,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 4,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795560006438,
+   "shot": "g_bf52407217.jpg",
    "lpCalc": true,
-   "roast": "Lost on Vi (6/6/4). He'll blame the team. The op.gg says otherwise."
+   "roast": "Lost on Vi (2/5/3). He'll blame the team. The op.gg says otherwise."
   }
  },
  "tz": "America/Toronto"
