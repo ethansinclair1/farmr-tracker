@@ -56469,10 +56469,299 @@
      }
     ]
    },
-   "firstSeen": 1795553700067,
+   "roast": "Win on Diana (13/2/3). Got carried and the 9 CS/min proves it.",
    "shot": "g_20c734a704.jpg",
+   "firstSeen": 1795553700067
+  },
+  "Ranked Solo/Duo|11/24/2026, 4:20 PM|Vi|23m 10s": {
+   "id": "Ranked Solo/Duo|11/24/2026, 4:20 PM|Vi|23m 10s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/24/2026, 4:20 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Vi",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+   },
+   "level": 15,
+   "duration": "23m 10s",
+   "minutes": 23.166666666666668,
+   "k": 12,
+   "d": 2,
+   "a": 12,
+   "kda": "12.00",
+   "kp": 65,
+   "cs": 187,
+   "csm": 8.1,
+   "laning": [
+    71,
+    29
+   ],
+   "avgTier": "Master 474",
+   "lp": 29,
+   "items": [
+    {
+     "n": "Death's Dance",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6333.png"
+    },
+    {
+     "n": "Trinity Force",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3078.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Black Cleaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3071.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "BigLips",
+     "h": "/lol/summoners/na/BigLips-123",
+     "c": "Renekton",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Renekton.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Vi",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vi.png"
+    },
+    {
+     "n": "cosmicmelancholy",
+     "h": "/lol/summoners/na/cosmicmelancholy-chpin",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lux.png"
+    },
+    {
+     "n": "Blam",
+     "h": "/lol/summoners/na/Blam-100",
+     "c": "Kog'Maw",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/KogMaw.png"
+    },
+    {
+     "n": "Ronan",
+     "h": "/lol/summoners/na/Ronan-3910",
+     "c": "Alistar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Alistar.png"
+    },
+    {
+     "n": "Hunhe",
+     "h": "/lol/summoners/na/Hunhe-cam",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "clapmaster3000",
+     "h": "/lol/summoners/na/clapmaster3000-NA1",
+     "c": "Kindred",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kindred.png"
+    },
+    {
+     "n": "Ashμri",
+     "h": "/lol/summoners/na/Ash%CE%BCri-NA1",
+     "c": "Sylas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Sylas.png"
+    },
+    {
+     "n": "RonaIdiIdo",
+     "h": "/lol/summoners/na/RonaIdiIdo-HABS",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jinx.png"
+    },
+    {
+     "n": "Handholder",
+     "h": "/lol/summoners/na/Handholder-Sloot",
+     "c": "Lulu",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lulu.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795555200000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "BigLips",
+        "h": "/lol/summoners/na/BigLips-123",
+        "t": "Master 440",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 12583,
+        "taken": 19269,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 665",
+        "op": 10,
+        "opr": "MVP",
+        "dmg": 21587,
+        "taken": 22268,
+        "cw": 0,
+        "wards": "2 / 2"
+       },
+       {
+        "n": "cosmicmelancholy",
+        "h": "/lol/summoners/na/cosmicmelancholy-chpin",
+        "t": "Master 161",
+        "op": 8.3,
+        "opr": "3rd",
+        "dmg": 22771,
+        "taken": 12325,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Blam",
+        "h": "/lol/summoners/na/Blam-100",
+        "t": "Master 514",
+        "op": 9.1,
+        "opr": "2nd",
+        "dmg": 21365,
+        "taken": 15103,
+        "cw": 0,
+        "wards": "5 / 7"
+       },
+       {
+        "n": "Ronan",
+        "h": "/lol/summoners/na/Ronan-3910",
+        "t": "Master 115",
+        "op": 7.4,
+        "opr": "4th",
+        "dmg": 9573,
+        "taken": 18853,
+        "cw": 7,
+        "wards": "26 / 6"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Hunhe",
+        "h": "/lol/summoners/na/Hunhe-cam",
+        "t": "Master 764",
+        "op": 3.3,
+        "opr": "9th",
+        "dmg": 12885,
+        "taken": 18899,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "clapmaster3000",
+        "h": "/lol/summoners/na/clapmaster3000-NA1",
+        "t": "Master 882",
+        "op": 2.6,
+        "opr": "10th",
+        "dmg": 4238,
+        "taken": 20969,
+        "cw": 1,
+        "wards": "1 / 3"
+       },
+       {
+        "n": "Ashμri",
+        "h": "/lol/summoners/na/Ash%CE%BCri-NA1",
+        "t": "Master 300",
+        "op": 4.8,
+        "opr": "7th",
+        "dmg": 22125,
+        "taken": 28397,
+        "cw": 0,
+        "wards": "11 / 0"
+       },
+       {
+        "n": "RonaIdiIdo",
+        "h": "/lol/summoners/na/RonaIdiIdo-HABS",
+        "t": "Master 147",
+        "op": 4.9,
+        "opr": "ACE",
+        "dmg": 16641,
+        "taken": 18182,
+        "cw": 2,
+        "wards": "8 / 2"
+       },
+       {
+        "n": "Handholder",
+        "h": "/lol/summoners/na/Handholder-Sloot",
+        "t": "Master 750",
+        "op": 4,
+        "opr": "8th",
+        "dmg": 7582,
+        "taken": 19257,
+        "cw": 0,
+        "wards": "22 / 2"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 0,
+      "Tower": 6,
+      "Inhibitor": 0
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 3,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795555376658,
+   "shot": "g_e30bdcc290.jpg",
    "lpCalc": true,
-   "roast": "Win on Diana (13/2/3). Got carried and the 9 CS/min proves it."
+   "roast": "12/2/12 on Vi, 65% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
