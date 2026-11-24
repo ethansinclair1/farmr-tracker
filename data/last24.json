@@ -1,24 +1,24 @@
 {
- "sig": "1e158a8870",
+ "sig": "d96ffa39f0",
  "report": {
-  "roast": "0W 1L, -31 LP. Mid at best, and that's being generous. Uninstall energy.",
+  "roast": "0W 2L, -62 LP. Log off and hand the account to someone who can play.",
   "fixes": [
-   "Stop dying - 5.0 deaths a game. Ward before face-checking.",
-   "Buy control wards - 1.0 a game is nothing.",
-   "Farm more: 6.6 CS/min. Clear camps between fights."
+   "Take objectives: losing dragons/grubs (0.5 vs 3.0 drakes a game). Be there before they spawn.",
+   "Buy control wards - 0.5 a game is nothing.",
+   "Farm more: 6.2 CS/min. Clear camps between fights."
   ],
   "ai": false,
   "wins": 0,
-  "losses": 1,
-  "k": 3,
-  "d": 5,
-  "a": 6,
-  "kda": 1.8,
-  "csm": 6.6384778012684995,
-  "kp": 60,
-  "lpNet": -31,
+  "losses": 2,
+  "k": 1.5,
+  "d": 4.5,
+  "a": 7,
+  "kda": 1.8888888888888888,
+  "csm": 6.197934021992669,
+  "kp": 80,
+  "lpNet": -62,
   "ints": 0,
-  "games": 1
+  "games": 2
  },
  "v": 3
 }
