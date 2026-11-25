@@ -57908,10 +57908,158 @@
      }
     ]
    },
-   "firstSeen": 1795567509063,
+   "roast": "Win on Hecarim (6/1/4). Got carried and the 9.7 CS/min proves it.",
    "shot": "g_e44b839303.jpg",
-   "lpCalc": true,
-   "roast": "Win on Hecarim (6/1/4). Got carried and the 9.7 CS/min proves it."
+   "firstSeen": 1795567509063
+  },
+  "Normal|11/24/2026, 8:49 PM|Kalista|38m 02s": {
+   "id": "Normal|11/24/2026, 8:49 PM|Kalista|38m 02s",
+   "queue": "Normal",
+   "date": "11/24/2026, 8:49 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Kalista",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kalista.png"
+   },
+   "level": 18,
+   "duration": "38m 02s",
+   "minutes": 38.03333333333333,
+   "k": 7,
+   "d": 5,
+   "a": 5,
+   "kda": "2.40",
+   "kp": 44,
+   "cs": 346,
+   "csm": 9.1,
+   "laning": [
+    44,
+    56
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Jak'Sho, The Protean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6665.png"
+    },
+    {
+     "n": "Statikk Shiv",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3087.png"
+    },
+    {
+     "n": "Randuin's Omen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3143.png"
+    },
+    {
+     "n": "Guinsoo's Rageblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3124.png"
+    },
+    {
+     "n": "Terminus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3302.png"
+    },
+    {
+     "n": "Dark Seal",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1082.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3363.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3008.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Barrier",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerBarrier.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Lethal Tempo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8008.png"
+    },
+    {
+     "n": "Domination",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8100.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Ahri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ahri.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Malzahar",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Malzahar.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Kalista",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kalista.png"
+    },
+    {
+     "n": "Voidborn Prophet",
+     "h": "/lol/summoners/na/Voidborn%20Prophet-NA1",
+     "c": "Nami",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nami.png"
+    },
+    {
+     "n": "PeterPANXD",
+     "h": "/lol/summoners/na/PeterPANXD-NA1",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Olaf.png"
+    },
+    {
+     "n": "Encpai",
+     "h": "/lol/summoners/na/Encpai-NA1",
+     "c": "Lee Sin",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/LeeSin.png"
+    },
+    {
+     "n": "Dos Husquis",
+     "h": "/lol/summoners/na/Dos%20Husquis-NGG",
+     "c": "Zed",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zed.png"
+    },
+    {
+     "n": "batboy002",
+     "h": "/lol/summoners/na/batboy002-NA1",
+     "c": "Kai'Sa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kaisa.png"
+    },
+    {
+     "n": "Blaz3",
+     "h": "/lol/summoners/na/Blaz3-0420",
+     "c": "Janna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Janna.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795571340000,
+   "detail": null,
+   "firstSeen": 1795571647875,
+   "shot": "g_03638b7f9f.jpg"
   }
  },
  "tz": "America/Toronto"
