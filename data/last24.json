@@ -1,24 +1,24 @@
 {
- "sig": "dc4c7a3672",
+ "sig": "512309faf3",
  "report": {
-  "roast": "4W 4L, +21 LP. Hours of queueing to go absolutely nowhere. Painful to watch.",
+  "roast": "5W 4L, +50 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Buy control wards - 0.9 a game is nothing.",
+   "Buy control wards - 0.8 a game is nothing.",
    "Track objective timers and set up vision a minute early.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
-  "wins": 4,
+  "wins": 5,
   "losses": 4,
-  "k": 6.75,
-  "d": 3.5,
-  "a": 6,
-  "kda": 3.642857142857143,
-  "csm": 7.481538069773364,
-  "kp": 60.5,
-  "lpNet": 21,
+  "k": 6.777777777777778,
+  "d": 3.4444444444444446,
+  "a": 6.555555555555555,
+  "kda": 3.870967741935483,
+  "csm": 7.415730337078652,
+  "kp": 60,
+  "lpNet": 50,
   "ints": 0,
-  "games": 8
+  "games": 9
  },
  "v": 3
 }
