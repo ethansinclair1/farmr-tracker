@@ -58498,6 +58498,291 @@
    "roast": "7/0/2 deathless on Hecarim. Annoyingly clean. Screenshot it, it won't happen again.",
    "shot": "g_55cb0afcb0.jpg",
    "firstSeen": 1795577722977
+  },
+  "Ranked Solo/Duo|11/24/2026, 11:09 PM|Diana|28m 46s": {
+   "id": "Ranked Solo/Duo|11/24/2026, 11:09 PM|Diana|28m 46s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/24/2026, 11:09 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Diana",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Diana.png"
+   },
+   "level": 14,
+   "duration": "28m 46s",
+   "minutes": 28.766666666666666,
+   "k": 5,
+   "d": 9,
+   "a": 6,
+   "kda": "1.22",
+   "kp": 48,
+   "cs": 185,
+   "csm": 6.4,
+   "laning": [
+    57,
+    43
+   ],
+   "avgTier": "Master 665",
+   "lp": null,
+   "items": [
+    {
+     "n": "Riftmaker",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/4633.png"
+    },
+    {
+     "n": "Dusk and Dawn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2510.png"
+    },
+    {
+     "n": "Zhonya's Hourglass",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3157.png"
+    },
+    {
+     "n": "Plated Steelcaps",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3047.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Conqueror",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8010.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "GARUUUU",
+     "h": "/lol/summoners/na/GARUUUU-999",
+     "c": "Gragas",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Gragas.png"
+    },
+    {
+     "n": "Xoinsin",
+     "h": "/lol/summoners/na/Xoinsin-001",
+     "c": "Wukong",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/MonkeyKing.png"
+    },
+    {
+     "n": "beebeeb123",
+     "h": "/lol/summoners/na/beebeeb123-NA1",
+     "c": "Vel'Koz",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Velkoz.png"
+    },
+    {
+     "n": "Bijan Robinson",
+     "h": "/lol/summoners/na/Bijan%20Robinson-her",
+     "c": "Twitch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Twitch.png"
+    },
+    {
+     "n": "LordKitties",
+     "h": "/lol/summoners/na/LordKitties-NA1",
+     "c": "Senna",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Senna.png"
+    },
+    {
+     "n": "999lucas",
+     "h": "/lol/summoners/na/999lucas-NA1",
+     "c": "Poppy",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Poppy.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Diana",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Diana.png"
+    },
+    {
+     "n": "DashAttack",
+     "h": "/lol/summoners/na/DashAttack-NA1",
+     "c": "Azir",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Azir.png"
+    },
+    {
+     "n": "quintwdot",
+     "h": "/lol/summoners/na/quintwdot-NA1",
+     "c": "Ashe",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ashe.png"
+    },
+    {
+     "n": "Scuffed",
+     "h": "/lol/summoners/na/Scuffed-Nilo",
+     "c": "Rell",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Rell.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795579740000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "GARUUUU",
+        "h": "/lol/summoners/na/GARUUUU-999",
+        "t": "Master 855",
+        "op": 7.9,
+        "opr": "MVP",
+        "dmg": 30454,
+        "taken": 32853,
+        "cw": 1,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "Xoinsin",
+        "h": "/lol/summoners/na/Xoinsin-001",
+        "t": "Master 364",
+        "op": 6.5,
+        "opr": "4th",
+        "dmg": 15405,
+        "taken": 30841,
+        "cw": 4,
+        "wards": "8 / 3"
+       },
+       {
+        "n": "beebeeb123",
+        "h": "/lol/summoners/na/beebeeb123-NA1",
+        "t": "Master 724",
+        "op": 4.1,
+        "opr": "8th",
+        "dmg": 19439,
+        "taken": 21739,
+        "cw": 0,
+        "wards": "11 / 2"
+       },
+       {
+        "n": "Bijan Robinson",
+        "h": "/lol/summoners/na/Bijan%20Robinson-her",
+        "t": "Master 924",
+        "op": 7.2,
+        "opr": "3rd",
+        "dmg": 22351,
+        "taken": 16172,
+        "cw": 2,
+        "wards": "10 / 2"
+       },
+       {
+        "n": "LordKitties",
+        "h": "/lol/summoners/na/LordKitties-NA1",
+        "t": "Master 472",
+        "op": 7.8,
+        "opr": "2nd",
+        "dmg": 15551,
+        "taken": 14242,
+        "cw": 0,
+        "wards": "27 / 7"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "999lucas",
+        "h": "/lol/summoners/na/999lucas-NA1",
+        "t": "Master 161",
+        "op": 4.2,
+        "opr": "7th",
+        "dmg": 20400,
+        "taken": 36192,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 806",
+        "op": 3.8,
+        "opr": "9th",
+        "dmg": 22434,
+        "taken": 29260,
+        "cw": 2,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "DashAttack",
+        "h": "/lol/summoners/na/DashAttack-NA1",
+        "t": "Master 990",
+        "op": 5.7,
+        "opr": "ACE",
+        "dmg": 22841,
+        "taken": 20278,
+        "cw": 2,
+        "wards": "10 / 4"
+       },
+       {
+        "n": "quintwdot",
+        "h": "/lol/summoners/na/quintwdot-NA1",
+        "t": "Master 350",
+        "op": 3.6,
+        "opr": "10th",
+        "dmg": 15074,
+        "taken": 15586,
+        "cw": 0,
+        "wards": "7 / 3"
+       },
+       {
+        "n": "Scuffed",
+        "h": "/lol/summoners/na/Scuffed-Nilo",
+        "t": "Master 1,002",
+        "op": 4.3,
+        "opr": "6th",
+        "dmg": 4552,
+        "taken": 17529,
+        "cw": 10,
+        "wards": "34 / 9"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 1,
+      "Tower": 6,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 1,
+      "Rift Herald": 0,
+      "Void Grub": 2,
+      "Tower": 3,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795579887154,
+   "shot": "g_73f7034c14.jpg",
+   "roast": "5/9/6 on Diana. That's not a KDA, that's a donation receipt."
   }
  },
  "tz": "America/Toronto"
