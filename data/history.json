@@ -58060,6 +58060,155 @@
    "detail": null,
    "shot": "g_03638b7f9f.jpg",
    "firstSeen": 1795571647875
+  },
+  "Normal|11/24/2026, 9:25 PM|Lucian|31m 34s": {
+   "id": "Normal|11/24/2026, 9:25 PM|Lucian|31m 34s",
+   "queue": "Normal",
+   "date": "11/24/2026, 9:25 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Lucian",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lucian.png"
+   },
+   "level": 14,
+   "duration": "31m 34s",
+   "minutes": 31.566666666666666,
+   "k": 7,
+   "d": 16,
+   "a": 7,
+   "kda": "0.88",
+   "kp": 39,
+   "cs": 154,
+   "csm": 4.9,
+   "laning": [
+    32,
+    68
+   ],
+   "avgTier": "Gold 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Doran's Blade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1055.png"
+    },
+    {
+     "n": "Essence Reaver",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3508.png"
+    },
+    {
+     "n": "Navori Flickerblade",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6675.png"
+    },
+    {
+     "n": "Infinity Edge",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3031.png"
+    },
+    {
+     "n": "Last Whisper",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3035.png"
+    },
+    {
+     "n": "Long Sword",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1036.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Gluttonous Greaves",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3008.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Barrier",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerBarrier.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Press the Attack",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8005.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "AgarthaJeffstein",
+     "h": "/lol/summoners/na/AgarthaJeffstein-CPyes",
+     "c": "Fiddlesticks",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Fiddlesticks.png"
+    },
+    {
+     "n": "BooquefiusGurt",
+     "h": "/lol/summoners/na/BooquefiusGurt-8404",
+     "c": "Naafiri",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Naafiri.png"
+    },
+    {
+     "n": "Uhou",
+     "h": "/lol/summoners/na/Uhou-8858",
+     "c": "Smolder",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Smolder.png"
+    },
+    {
+     "n": "GoySupremacy",
+     "h": "/lol/summoners/na/GoySupremacy-BIBI",
+     "c": "Syndra",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Syndra.png"
+    },
+    {
+     "n": "ihaveaDUI739",
+     "h": "/lol/summoners/na/ihaveaDUI739-1920",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Teemo.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Kennen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Kennen.png"
+    },
+    {
+     "n": "bbronzebear",
+     "h": "/lol/summoners/na/bbronzebear-grr",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Olaf.png"
+    },
+    {
+     "n": "SilverStar01",
+     "h": "/lol/summoners/na/SilverStar01-NA1",
+     "c": "Hwei",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Hwei.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Lucian",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lucian.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nautilus.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795573500000,
+   "detail": null,
+   "firstSeen": 1795573810423,
+   "shot": "g_99fdf37015.jpg"
   }
  },
  "tz": "America/Toronto"
