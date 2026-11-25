@@ -1,7 +1,7 @@
 {
  "posted": [],
  "firstRun": true,
- "sig": "26b808bb68",
+ "sig": "c8ec86de6d",
  "rank": {
   "solo": {
    "tier": "Master",
@@ -17,7 +17,7 @@
   }
  },
  "pendingLp": {
-  "solo": "Ranked Solo/Duo|11/24/2026, 11:09 PM|Diana|28m 46s",
+  "solo": null,
   "flex": null
  }
 }
