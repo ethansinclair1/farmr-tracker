@@ -1,24 +1,24 @@
 {
- "sig": "b985507115",
+ "sig": "a39ace874c",
  "report": {
-  "roast": "2W 0L, +58 LP. Even a broken clock wins sometimes - don't get used to it.",
+  "roast": "2W 1L, +26 LP. Barely acceptable for a Master player. Still more deaths than a horror movie.",
   "fixes": [
-   "Buy control wards - 0.5 a game is nothing.",
-   "Track objective timers and set up vision a minute early.",
+   "Low kill participation (54%). Stop farming while your team fights.",
+   "Buy control wards - 0.7 a game is nothing.",
    "Play with the team, not for the highlight reel."
   ],
   "ai": false,
   "wins": 2,
-  "losses": 0,
-  "k": 12,
-  "d": 4,
-  "a": 6.5,
-  "kda": 4.625,
-  "csm": 8.275862068965518,
-  "kp": 64.5,
-  "lpNet": 58,
+  "losses": 1,
+  "k": 8,
+  "d": 4.666666666666667,
+  "a": 5.666666666666667,
+  "kda": 2.928571428571429,
+  "csm": 7.7168332883004584,
+  "kp": 54,
+  "lpNet": 26,
   "ints": 0,
-  "games": 2
+  "games": 3
  },
  "v": 3
 }

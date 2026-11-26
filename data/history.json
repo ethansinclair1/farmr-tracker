@@ -57503,6 +57503,296 @@
    "roast": "13/6/10 win on Hecarim. Ugly, lucky, and he'll still call it a carry.",
    "shot": "g_24eede76dd.jpg",
    "firstSeen": 1795650280162
+  },
+  "Ranked Solo/Duo|11/25/2026, 7:20 PM|Twisted Fate|21m 34s": {
+   "id": "Ranked Solo/Duo|11/25/2026, 7:20 PM|Twisted Fate|21m 34s",
+   "queue": "Ranked Solo/Duo",
+   "date": "11/25/2026, 7:20 PM",
+   "result": "Defeat",
+   "win": false,
+   "remake": false,
+   "champ": {
+    "n": "Twisted Fate",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TwistedFate.png"
+   },
+   "level": 13,
+   "duration": "21m 34s",
+   "minutes": 21.566666666666666,
+   "k": 0,
+   "d": 6,
+   "a": 4,
+   "kda": "0.67",
+   "kp": 33,
+   "cs": 144,
+   "csm": 6.7,
+   "laning": [
+    41,
+    59
+   ],
+   "avgTier": "Master 343",
+   "lp": -32,
+   "items": [
+    {
+     "n": "Doran's Ring",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1056.png"
+    },
+    {
+     "n": "Rod of Ages",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/6657.png"
+    },
+    {
+     "n": "Aether Wisp",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3113.png"
+    },
+    {
+     "n": "Swiftmarch",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3170.png"
+    },
+    {
+     "n": "Sheen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3057.png"
+    },
+    {
+     "n": "Farsight Alteration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3363.png"
+    },
+    {
+     "n": "Mid Lane Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1206.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Teleport",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerTeleport.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Arcane Comet",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8229.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "Phish",
+     "h": "/lol/summoners/na/Phish-lucy",
+     "c": "Camille",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Camille.png"
+    },
+    {
+     "n": "Cyanite",
+     "h": "/lol/summoners/na/Cyanite-HCN",
+     "c": "Taliyah",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Taliyah.png"
+    },
+    {
+     "n": "Reze",
+     "h": "/lol/summoners/na/Reze-Roxas",
+     "c": "Viktor",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Viktor.png"
+    },
+    {
+     "n": "GespacciTagliaci",
+     "h": "/lol/summoners/na/GespacciTagliaci-ITA1",
+     "c": "Jinx",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Jinx.png"
+    },
+    {
+     "n": "TonyBamboni",
+     "h": "/lol/summoners/na/TonyBamboni-5526",
+     "c": "Seraphine",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Seraphine.png"
+    },
+    {
+     "n": "BananaEater21",
+     "h": "/lol/summoners/na/BananaEater21-NA1",
+     "c": "Olaf",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Olaf.png"
+    },
+    {
+     "n": "Proxie",
+     "h": "/lol/summoners/na/Proxie-Cook",
+     "c": "Wukong",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/MonkeyKing.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "Rosicrucian",
+     "h": "/lol/summoners/na/Rosicrucian-INRI",
+     "c": "Caitlyn",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Caitlyn.png"
+    },
+    {
+     "n": "Sinnamonday",
+     "h": "/lol/summoners/na/Sinnamonday-7004",
+     "c": "Lux",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Lux.png"
+    }
+   ],
+   "team": 1,
+   "ts": 1795652400000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "Phish",
+        "h": "/lol/summoners/na/Phish-lucy",
+        "t": "Master 404",
+        "op": 7.4,
+        "opr": "2nd",
+        "dmg": 20194,
+        "taken": 17062,
+        "cw": 0,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "Cyanite",
+        "h": "/lol/summoners/na/Cyanite-HCN",
+        "t": "Master 235",
+        "op": 6.6,
+        "opr": "5th",
+        "dmg": 13283,
+        "taken": 12695,
+        "cw": 4,
+        "wards": "5 / 1"
+       },
+       {
+        "n": "Reze",
+        "h": "/lol/summoners/na/Reze-Roxas",
+        "t": "Master 184",
+        "op": 7,
+        "opr": "3rd",
+        "dmg": 19290,
+        "taken": 10928,
+        "cw": 1,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "GespacciTagliaci",
+        "h": "/lol/summoners/na/GespacciTagliaci-ITA1",
+        "t": "Diamond 1",
+        "op": 8.7,
+        "opr": "MVP",
+        "dmg": 15346,
+        "taken": 12579,
+        "cw": 3,
+        "wards": "10 / 3"
+       },
+       {
+        "n": "TonyBamboni",
+        "h": "/lol/summoners/na/TonyBamboni-5526",
+        "t": "Diamond 1",
+        "op": 6.9,
+        "opr": "4th",
+        "dmg": 12307,
+        "taken": 13483,
+        "cw": 2,
+        "wards": "17 / 4"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "BananaEater21",
+        "h": "/lol/summoners/na/BananaEater21-NA1",
+        "t": "Master 603",
+        "op": 2.7,
+        "opr": "8th",
+        "dmg": 13580,
+        "taken": 18792,
+        "cw": 1,
+        "wards": "8 / 1"
+       },
+       {
+        "n": "Proxie",
+        "h": "/lol/summoners/na/Proxie-Cook",
+        "t": "Master 391",
+        "op": 2.9,
+        "opr": "7th",
+        "dmg": 9250,
+        "taken": 24175,
+        "cw": 4,
+        "wards": "4 / 4"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 864",
+        "op": 2,
+        "opr": "9th",
+        "dmg": 5062,
+        "taken": 20662,
+        "cw": 1,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "Rosicrucian",
+        "h": "/lol/summoners/na/Rosicrucian-INRI",
+        "t": "Master 601",
+        "op": 1.7,
+        "opr": "10th",
+        "dmg": 6198,
+        "taken": 13412,
+        "cw": 0,
+        "wards": "6 / 1"
+       },
+       {
+        "n": "Sinnamonday",
+        "h": "/lol/summoners/na/Sinnamonday-7004",
+        "t": "Master 234",
+        "op": 3.4,
+        "opr": "ACE",
+        "dmg": 12823,
+        "taken": 13861,
+        "cw": 4,
+        "wards": "15 / 7"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 0,
+      "Dragon": 3,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 8,
+      "Inhibitor": 1
+     },
+     {
+      "Baron": 0,
+      "Dragon": 0,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 0,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795652678440,
+   "shot": "g_c1635eae2d.jpg",
+   "lpCalc": true,
+   "roast": "33% kill participation. Was Twisted Fate in this game or just watching it?"
   }
  },
  "tz": "America/Toronto"
