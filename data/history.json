@@ -54341,9 +54341,302 @@
      }
     ]
    },
-   "firstSeen": 1795830310728,
+   "roast": "15/5/12 on Naafiri, 75% KP. Decent, but the team did half the work. Don't let it go to your head.",
    "shot": "g_2f8703012b.jpg",
-   "roast": "15/5/12 on Naafiri, 75% KP. Decent, but the team did half the work. Don't let it go to your head."
+   "firstSeen": 1795830310728
+  },
+  "Ranked 5s|11/27/2026, 9:16 PM|Skarner|25m 30s": {
+   "id": "Ranked 5s|11/27/2026, 9:16 PM|Skarner|25m 30s",
+   "queue": "Ranked 5s",
+   "date": "11/27/2026, 9:16 PM",
+   "result": "Victory",
+   "win": true,
+   "remake": false,
+   "champ": {
+    "n": "Skarner",
+    "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Skarner.png"
+   },
+   "level": 17,
+   "duration": "25m 30s",
+   "minutes": 25.5,
+   "k": 13,
+   "d": 4,
+   "a": 14,
+   "kda": "6.75",
+   "kp": 61,
+   "cs": 185,
+   "csm": 7.3,
+   "laning": [
+    54,
+    46
+   ],
+   "avgTier": "Platinum 1",
+   "lp": null,
+   "items": [
+    {
+     "n": "Unending Despair",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/2502.png"
+    },
+    {
+     "n": "Heartsteel",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3084.png"
+    },
+    {
+     "n": "Mercury's Treads",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3111.png"
+    },
+    {
+     "n": "Sterak's Gage",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3053.png"
+    },
+    {
+     "n": "Spectre's Cowl",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3211.png"
+    },
+    {
+     "n": "Kindlegem",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3067.png"
+    },
+    {
+     "n": "Oracle Lens",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/3364.png"
+    },
+    {
+     "n": "Jungle Quest Reward",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/item/1209.png"
+    }
+   ],
+   "spells": [
+    {
+     "n": "Smite",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerSmite.png"
+    },
+    {
+     "n": "Flash",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/spell/SummonerFlash.png"
+    }
+   ],
+   "runes": [
+    {
+     "n": "Grasp of the Undying",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perk/8437.png"
+    },
+    {
+     "n": "Inspiration",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/perkStyle/8300.png"
+    }
+   ],
+   "players": [
+    {
+     "n": "wyatt",
+     "h": "/lol/summoners/na/wyatt-fendt",
+     "c": "Zaahen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zaahen.png"
+    },
+    {
+     "n": "FullClearDeluxe",
+     "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+     "c": "Skarner",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Skarner.png"
+    },
+    {
+     "n": "EmeraldFinalBoss",
+     "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+     "c": "Vex",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Vex.png"
+    },
+    {
+     "n": "Solo",
+     "h": "/lol/summoners/na/Solo-1678",
+     "c": "Yunara",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Yunara.png"
+    },
+    {
+     "n": "wyattskitten",
+     "h": "/lol/summoners/na/wyattskitten-uwu",
+     "c": "Nautilus",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Nautilus.png"
+    },
+    {
+     "n": "Jesus Loves You",
+     "h": "/lol/summoners/na/Jesus%20Loves%20You-1733",
+     "c": "Ambessa",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Ambessa.png"
+    },
+    {
+     "n": "Jagerooo",
+     "h": "/lol/summoners/na/Jagerooo-NA1",
+     "c": "Teemo",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Teemo.png"
+    },
+    {
+     "n": "MintyySpear",
+     "h": "/lol/summoners/na/MintyySpear-NA1",
+     "c": "Twisted Fate",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/TwistedFate.png"
+    },
+    {
+     "n": "TinoV2",
+     "h": "/lol/summoners/na/TinoV2-3747",
+     "c": "Garen",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Garen.png"
+    },
+    {
+     "n": "Lemon",
+     "h": "/lol/summoners/na/Lemon-Sus",
+     "c": "Zilean",
+     "u": "https://opgg-static.akamaized.net/meta/images/lol/16.23.1/champion/Zilean.png"
+    }
+   ],
+   "team": 0,
+   "ts": 1795832160000,
+   "detail": {
+    "teams": [
+     {
+      "win": true,
+      "side": "blue",
+      "players": [
+       {
+        "n": "wyatt",
+        "h": "/lol/summoners/na/wyatt-fendt",
+        "t": "Emerald 3",
+        "op": 4.9,
+        "opr": "6th",
+        "dmg": 26043,
+        "taken": 34223,
+        "cw": 0,
+        "wards": "4 / 1"
+       },
+       {
+        "n": "FullClearDeluxe",
+        "h": "/lol/summoners/na/FullClearDeluxe-FarmR",
+        "t": "Master 832",
+        "op": 8.6,
+        "opr": "MVP",
+        "dmg": 31467,
+        "taken": 38815,
+        "cw": 0,
+        "wards": "5 / 0"
+       },
+       {
+        "n": "EmeraldFinalBoss",
+        "h": "/lol/summoners/na/EmeraldFinalBoss-BpFan",
+        "t": "Emerald 4",
+        "op": 5.1,
+        "opr": "5th",
+        "dmg": 21509,
+        "taken": 19650,
+        "cw": 0,
+        "wards": "7 / 0"
+       },
+       {
+        "n": "Solo",
+        "h": "/lol/summoners/na/Solo-1678",
+        "t": "Emerald 4",
+        "op": 7,
+        "opr": "2nd",
+        "dmg": 34421,
+        "taken": 22854,
+        "cw": 0,
+        "wards": "8 / 0"
+       },
+       {
+        "n": "wyattskitten",
+        "h": "/lol/summoners/na/wyattskitten-uwu",
+        "t": "Iron 4",
+        "op": 2.7,
+        "opr": "10th",
+        "dmg": 7699,
+        "taken": 23176,
+        "cw": 0,
+        "wards": "27 / 1"
+       }
+      ]
+     },
+     {
+      "win": false,
+      "side": "red",
+      "players": [
+       {
+        "n": "Jesus Loves You",
+        "h": "/lol/summoners/na/Jesus%20Loves%20You-1733",
+        "t": "Platinum 4",
+        "op": 3.2,
+        "opr": "9th",
+        "dmg": 23345,
+        "taken": 33137,
+        "cw": 2,
+        "wards": "12 / 1"
+       },
+       {
+        "n": "Jagerooo",
+        "h": "/lol/summoners/na/Jagerooo-NA1",
+        "t": "Diamond 1",
+        "op": 5.9,
+        "opr": "ACE",
+        "dmg": 34162,
+        "taken": 25606,
+        "cw": 0,
+        "wards": "9 / 2"
+       },
+       {
+        "n": "MintyySpear",
+        "h": "/lol/summoners/na/MintyySpear-NA1",
+        "t": "Platinum 3",
+        "op": 4.3,
+        "opr": "7th",
+        "dmg": 19421,
+        "taken": 25988,
+        "cw": 1,
+        "wards": "7 / 1"
+       },
+       {
+        "n": "TinoV2",
+        "h": "/lol/summoners/na/TinoV2-3747",
+        "t": "Diamond 2",
+        "op": 5.6,
+        "opr": "4th",
+        "dmg": 21973,
+        "taken": 32906,
+        "cw": 0,
+        "wards": "2 / 0"
+       },
+       {
+        "n": "Lemon",
+        "h": "/lol/summoners/na/Lemon-Sus",
+        "t": "Silver 4",
+        "op": 3.7,
+        "opr": "8th",
+        "dmg": 14535,
+        "taken": 24481,
+        "cw": 0,
+        "wards": "11 / 5"
+       }
+      ]
+     }
+    ],
+    "obj": [
+     {
+      "Baron": 1,
+      "Dragon": 1,
+      "Rift Herald": 1,
+      "Void Grub": 3,
+      "Tower": 10,
+      "Inhibitor": 2
+     },
+     {
+      "Baron": 0,
+      "Dragon": 2,
+      "Rift Herald": 0,
+      "Void Grub": 0,
+      "Tower": 2,
+      "Inhibitor": 0
+     }
+    ]
+   },
+   "firstSeen": 1795832471315,
+   "shot": "g_7840142e95.jpg",
+   "roast": "13/4/14 on Skarner, 61% KP. Decent, but the team did half the work. Don't let it go to your head."
   }
  },
  "tz": "America/Toronto"
